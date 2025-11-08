@@ -1,7 +1,3 @@
-
-
-
-
 ________________________________________________________________________________
 Number 1                           UNIX NEWS                              Page 2
 ________________________________________________________________________________
@@ -60,5 +56,3 @@ documents.
      The MUNIX paper which starts on page 4 announces the availability of  their
 system.   I have a recent note from Professor Allen saying he expects to have it
 available in the very near future.
-
-
