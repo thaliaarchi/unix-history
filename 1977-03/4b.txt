@@ -1,0 +1,67 @@
+THE        UNIVERSITY        OF        NEW        SOUTH        WALES
+
+        P.O. BOX 1 • KENSINGTON • NEW SOUTH WALES • AUSTRALIA • 2033
+                                                  TELEPHONE 663 0351
+        SCHOOL OF ELECTRICAL ENGINEERING________________________________.               EXTN.
+
+                                                        PLEASE QUOTE JL:AM
+                                              11th. March, 1977.
+
+
+Professor Melvin Ferentz,
+Brooklyn College of CUNY,
+Brooklyn,  N.Y.
+U.S.A.______  11210
+
+Dear Professor Ferentz,
+
+     I wish to announce the existence of a detailed commentary on the UNIX
+operating system (i.e. the UNIX resident nucleus), which I have written and
+which should be of interest to many UNIX users.
+
+     The commentary was prepared originally to enable my students to use UNIX as
+an operating system case study, wherein the complete source of the resident code
+is investigated.   The first version of the commentary is now being revised and
+extended and the second version will be issued in book form.   The provisional
+publication date is May, 1977.
+
+     Details_______
+
+     There are two volumes of approximately 100 pages each.   They will be
+     produced by offset printing on size A4 paper after a 25% reduction from
+     11" x 14" originals printed on a computer terminal.
+
+     The first volume, "UNIX Operating System Source Code, Level Six" is an
+     edited version of the resident code appropriate to a PDP11/40 with RK05
+     disks, PC11 paper tape reader/punch, LP11 line printer and KL11/DL11
+     terminal interfaces.    A cross-reference is included.
+
+     The second volume, "Notes on the UNIX Operating System", contains a detailed
+     commentary on the contents of the first volume.   There are twenty-six
+     chapters, including a review of the PDP-11 architecture, a tutorial in
+     reading "C" programs, and some suggestions for student exercises.    Two
+     indices are included for reference purposes.
+                                                             11.00
+     The cost for a single set (two volumes) will be $A10.00, plus postage.
+Postage costs from Australia based on a packet weighing 650 grams are as follows:
+
+          Air-mail  (all countries) : $A7.70
+          Surface Air Lifted (two to three weeks delivery time, to U.S.A.
+                             UK, West Germany and Italy only) : $A3.40  3.74
+          Surface mail (not recommended)  $A2.15.                             _______
+                                                                             $ 14.75
+     I would invite anyone covered by a UNIX license who is interested in         US
+obtaining a copy, to write to me as soon as possible so that the size of the print
+order can be determined.   Prepayment is requested, with cheques made out to
+"School of Electrical Engineering, University of New South Wales".   Currently,
+$A1.00 = $US1.10.  A declaration that the recipient is covered by a UNIX license
+should be included.    Reduced prices for bulk orders should be possible if the
+total demand is large enough.
+
+
+                                 Yours sincerely,
+
+
+                                 John Lions.
+
+                                 John Lions__________.

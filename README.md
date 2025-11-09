@@ -4,9 +4,8 @@ Transcriptions of UNIX News from 1975 to 1977.
 
 This was the first newsletter for UNIX and it provides unique insight into the
 early community outside of Bell Labs. It announced news, showcased modifications
-sites made to their installations, coordinated meetups on the east and west
-coasts, listed the first licensees and mailing list subscribers, and distributed
-patches.
+sites made to their installations, coordinated meetups, listed the first
+licensees and mailing list subscribers, and distributed patches.
 
 - [July 30, 1975](https://archive.org/details/unix_news_july-30-1975) (6/11 pages)
 - [October 8, 1975](https://archive.org/details/unix_news_oct-8-1975) (2/2 pages)
@@ -20,7 +19,7 @@ patches.
 - [November 1976](https://archive.org/details/unix_news_november-1976) (0/5 pages)
 - [December 1976–January 1977](https://archive.org/details/unix_news_december-1976-january-1977) (0/6 pages)
 - [February 1977](https://archive.org/details/unix_news-february-1977) (0/2 pages)
-- [March 1977](https://archive.org/details/unix_news_march-1977) (1/4 pages)
+- [March 1977](https://archive.org/details/unix_news_march-1977) (4/4 pages)
 - [April 1977](https://archive.org/details/unix_news_april-1977) (0/2 pages)
 - [May–June 1977](https://archive.org/details/unix_news_may-june-1977) (0/6 pages)
 

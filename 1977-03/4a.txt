@@ -1,0 +1,60 @@
+THE        UNIVERSITY        OF        NEW        SOUTH        WALES
+
+        P.O. BOX 1 • KENSINGTON • NEW SOUTH WALES • AUSTRALIA • 2033
+                                                  TELEPHONE 663 0351
+                                                        EXTN.
+
+                                                        PLEASE QUOTE JL:AM
+
+                                                11th. March, 1977
+
+SCHOOL OF ELECTRICAL ENGINEERING________________________________.
+
+
+
+Professor Melvin Ferentz,
+Brooklyn College of CUNY,
+Brooklyn,  N.Y.
+U.S.A.  11210_____________
+
+
+
+Dear Professor Ferentz,
+
+    A second meeting of UNIX users in Australia was held on February 18th.
+at the University of New South Wales, with an attendance of about 30 people.
+
+    During the six months since the first meeting, progress in adapting UNIX
+to our needs has been steady but, for the most part, not spectacular.
+With most installations being used to capacity, future progress will be very
+much tied to further hardware acquisitions.   The news about UNIX is
+spreading and we know of several other University groups who are currently
+corresponding with Western Electric.
+
+    There was one item of business which will be of general interest.   The
+Department of Computing Science at the University of Wollongong which
+possesses an  Interdata 7/32 computer,has recently discovered the true path,
+and Richard Miller reported on his progress in adapting UNIX to run on their
+machine.
+
+    Stage One, to adapt the "C" compiler to produce Interdata object code
+has been successful, and apart from the compiler itself, the editor was
+the first program recompiled and put into service.    In stage two the
+normal UNIX environment for user programs was instituted on a "simulated
+machine" running under the Interdata OS/MT operating system.   Stage Three,
+which will eliminate the remaining vestiges of Interdata software, should be
+completed within about two months.    The one really significant problem
+remaining will be how to liberate all those programs still written in
+Assembler.      It therefore appears that UNIX may soon have a new claim
+to fame as a portable operating system.
+
+    By general agreement the meeting was successful and the third of the
+series will be held in July or August.
+
+                                 Yours sincerely,
+
+
+                                 John Lions.
+
+
+                                 John Lions.

@@ -1,0 +1,52 @@
+TELEPHONE: 691
+
+
+
+
+                       BASSER DEPARTMENT OF COMPUTER SCIENCE
+
+                         School of Physics (Building A28),
+                         University of Sydney, N.S.W. 2006
+
+                                                       22nd March, 1977
+
+        Professor Melvin Ferentz,
+        Physics Department,
+        Brooklyn College at CUNY,
+        Brooklyn,
+        NEW YORK________.    11210
+
+
+        Dear Professor Ferentz:
+
+
+                       We are in the process of evaluating a system to support
+        student terminal usage as the practical part of their computer science
+        course.
+
+                       Naturally enough we are concentrating our hopes on a UNIX
+        system running on a PDP 11/70.
+
+                       Our benchmark tests are somewhat restricted by the lack
+        of large 11/70 configuration in our area, and we are hoping that someone
+        somewhere has some pertinent information already available.
+
+                       We are thinking in the range of 32+ terminals, most of whose
+        users will be running the same program at any one time.
+
+                       Has anybody any figures for this type of load - response time,
+        disk traffic, memory size?  What sort of line printers are suitable -
+        with/without DMA controllers?  How many disk controllers/drives - RP06,
+        RP04, or of other manufacture?  What are the bottlenecks, if any?  Have
+        there been problems with reliability?
+
+                       We would very much appreciate details of real experience.
+
+                       Help us get free of KRONOS:
+
+                                                       Yours sincerely,
+
+                                                       Piers Dick-Lauder
+        P.S.  We are hoping you can include
+              this plea for information in             Piers Dick-Lauder
+              the next issue of UNIX News.
