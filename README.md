@@ -18,7 +18,7 @@ licensees and mailing list subscribers, and distributed patches.
 - [October 1976](https://archive.org/details/unix_news_october-1976) (0/7 pages)
 - [November 1976](https://archive.org/details/unix_news_november-1976) (0/5 pages)
 - [December 1976–January 1977](https://archive.org/details/unix_news_december-1976-january-1977) (0/6 pages)
-- [February 1977](https://archive.org/details/unix_news-february-1977) (0/2 pages)
+- [February 1977](https://archive.org/details/unix_news-february-1977) (2/2 pages)
 - [March 1977](https://archive.org/details/unix_news_march-1977) (4/4 pages)
 - [April 1977](https://archive.org/details/unix_news_april-1977) (2/2 pages)
 - [May–June 1977](https://archive.org/details/unix_news_may-june-1977) (1/6 pages)

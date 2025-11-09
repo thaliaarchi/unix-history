@@ -1,0 +1,85 @@
+          *   *   *   *   *****   *   *           *   *   *****   *   *    ****
+          *   *   **  *     *      * *            **  *   *       *   *   *
+          *   *   * * *     *       *             * * *   ***     * * *    ***
+          *   *   *  **     *      * *            *  **   *       ** **       *
+           ***    *   *   *****   *   *           *   *   *****   *   *   ****
+__________________________________________________________________________________________
+Volume 2 Number 2                     February 1977                                 Page 1
+__________________________________________________________________________________________
+
+
+               ***********************************************************
+               *                                                         *
+               *                         NOTICE                          *
+               *                                                         *
+               *      This document may contain information covered      *
+               *      by  one  or  more  licenses,  copyrights, and      *
+               *      non-disclosure  agreements.   Circulation  of      *
+               *      this  document  is restricted to holders of a      *
+               *      license for the  UNIX  software  system  from      *
+               *      Western  Electric.   Such license holders may      *
+               *      reproduce this document for uses in conformi-      *
+               *      ty with the Unix license.                          *
+               *                                                         *
+               *      All  other  circulation  or  reproduction  is      *
+               *      prohibited.                                        *
+               *                                                         *
+               ***********************************************************
+
+
+                                      SUMMER MEETING
+
+     The Users' Group meeting in Urbana, Illinois will be held Thursday May 19 through Sa-
+turday May 21.  Details on program, transportation and housing will appear in the next is-
+sue.
+
+
+                                  SOFTWARE DISTRIBUTION
+
+     Conversations with various people indicate that "stp"  runs  successfully  using  the
+TU16  driver contained in the second software distribution.  The bootstrap procedure is to
+use your current driver and "tp" to get the new TU16 driver and install it to your  system
+before attempting an stp.
+
+
+                                        CORRECTION
+
+     The telephone number for Mel Ferentz in the last issue was  incorrect.   The  correct
+number is 212-977-5751.  Messages may be left at 212-977-8000.
+
+
+                                           BUG
+
+     The following note was received on the hotline.
+
+We have found a bug in ttyn(III).  Equality of inodes  is  determined  strictly  by  inode
+number,  ignoring  the  fact that they may be on devices with different major and/or minor
+device numbers.  This can cause strange results in some programs, e.g. goto(I).   Although
+the fix appears obvious, has anybody already done it?
+
+         Brian Lucas
+         (301)-921-3491
+         National Bureau of Standards
+         Washington, DC 20234
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+__________________________________________________________________________________________
+                                    UNIX NEWS ADDRESS
+Prof. Melvin Ferentz             Brooklyn College of CUNY              Brooklyn, NY  11210
+__________________________________________________________________________________________

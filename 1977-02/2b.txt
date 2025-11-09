@@ -1,0 +1,57 @@
+                                                    Department of Defense
+                                                    9800 Savage Road
+                                                    Ft. Meade, Maryland 20755
+
+        18 February 1977
+
+
+
+        Professor Melvin Ferentz
+        Physics Department
+        Brooklyn, College of CUNY
+        Brooklyn, New York 11210
+
+        Dear Professor Ferentz:
+
+             I hope you have already received my request to join the UNIX Users
+        Group.  If not, our purchasing people have it in their queue and if
+        their scheduler has no bugs you should receive it shortly.
+
+             We are currently running UNIX on a number of systems and have been
+        pleased with the results.  However, one particular group we support has
+        been using the Harvard MACRO Assembler with many frustrations.  They are
+        attempting to assemble large programs heavily loaded with macro calls
+        which are often embedded in other macros.  In addition to being unable
+        to obtain cross-references most of the time, they also obtain seemingly
+        inconsistent errors that are related to the placement of NCALL statements.
+        The errors are identifiable with older versions of DEC's MACRO which
+        have since been corrected.  I would certainly appreciate it if you could
+        ask the users group if anyone has encountered similar results and fixed
+        the probelms or if another implementation of MACRO is available.  I have
+        spoken to both Harvard and Johns Hopkins people, but still have not been
+        able to resolve the problem.
+
+             Thank you for your time and effort.
+
+                                         Sincerely,
+
+
+                                         Richard C. Bozenski
+                                         RICHARD C. BOZENSKI
+                                   Chief, Small Computer Systems
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+�-2

@@ -1,0 +1,61 @@
+                        THE MITRE CORPORATION
+
+                     REDFORD, MASSACHUSETTS 01730
+
+                           24 February 1977               D75-040
+
+
+
+
+
+
+
+
+
+
+
+
+
+Professor Melvin Ferentz
+Physics Dept.
+Brooklyn College of CUNY
+Brooklyn, New York  11210
+
+Dear Professor Ferentz:
+
+     We are interested in locating a cross-assembler for Texas
+Instruments' 990 microprocessor.  Could you please add this
+request to the next UNIX newsletter.
+
+     Your efforts towards better communication between UNIX
+users are appreciated.
+
+                                  Sincerely,
+
+
+                                  Barbara N. Wagner
+
+                                  Barbara N. Wagner
+                                  Networking Systems
+                                  TEL:  617 271-3207
+
+BNW:pda
+
+cc: A. G. Malis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                �-2
