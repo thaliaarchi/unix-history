@@ -197,4 +197,5 @@ of issues July 16, 1975 to September 1978 [[TUHS mirror](https://www.tuhs.org/Ar
 
 UNIX News was distributed in 1975–1977 to holders of a [UNIX license](LICENSE-UNIX)
 from Western Electric. In 2002, Caldera granted a free [BSD-4-Clause](LICENSE-CALDERA)
-license to UNIX Versions 1–7 and 32V, which would include UNIX News.
+license to UNIX Versions 1–7 and 32V, which would include UNIX News. The scans
+in the USENIX Archives are released under [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/).
