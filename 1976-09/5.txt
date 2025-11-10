@@ -1,0 +1,65 @@
+-4-
+
+
+David M. Phillips                       Prof. Jeffrey Kulick                    Prof. T. A. Marsland
+Computation Center                      Dept. Of Comp. And Info. Sci.           Dept. Of Computing Science
+University of Texas                     Queen's University                      Univ. Of Alberta
+Austin, Texas 78712                     Kingston, CANADA                        Edmonton, Alberta
+512-471-3242                            K7L 3N6                                 CANADA        T6G 2E1
+                                        613-547-6148/2711                       403-432-3971
+Glenn Gibson
+University of Texas El Paso             Mr. Rick Macfarlane                     Stephen W. Borden
+E. E. Dept.                             Floor 32                                Inst. of Animal Resource Ecology
+El Paso, Texas  79968                   2 Bloor Street West                     University of British Columbia
+                                        Toronto, Ontario                        2075 Westbrook Place
+Mr. Martin E. Newell                    CANADA M4W 3E2                          Vancouver, B.C.
+Computer Science Dept.                  416-967-4570                            CANADA V6T 1W5
+Univ. of Utah                                                                   604-228-2731
+Salt Lake City, Utah 84112              Mr. K. C. Patnaik
+801-581-8224                            Univ. of Toronto                        Ian Jackson
+                                        Computer Research Facility              Dept. of Computer Science
+Harold A. Solow                         10 King's College Road.  SF214          School of Physics (BLDG A28)
+RLG Assoc. Inc.                         Toronto, CANADA MSS 1A1                 University of Sydney, N.S.W.
+Suite 16                                416-928-4800                            2006  AUSTRALIA
+11250 Roger Bacon Drive                                                         692-1122
+Reston, VA  22090                       Prof. R. W. Peebles
+703-471-1106                            Dept. Of Computer Science               John Lions
+                                        University Of Waterloo                  Dept. Of Computer Science
+Science Appiications, Inc.              Waterloo, Ontario,                      University Of New South Wales
+1911 North Ft. Meyer Drive              CANADA         N2l 3G1                  Kensington 2033
+Suite 1200                              519-885-1211x2810                       AUSTRALIA
+Arlington, Va. 22209                                                            663-0351
+703-527-7571                            Dr. Ernest Chang
+                                        Computer Science Dept.                  The Manager
+Steve Walker                            University Of Waterloo                  Computing Services Unit
+ARPA                                    Waterloo, Ontario                       University of New South Wales
+1400 Wilson Blvd.                       CANADA         N21 3G1                  P.O. Box 1
+Arlington Va.                           519-885-1211x3400k3293                  Kensington. 2033.  AUSTRALIA
+   694-5037                                                                     662-3239
+                                        Dr. J.M. Wells
+Mr. Richard Becker                      Computer Science Dept.                  J.A. Lambert, Director
+Vermoni Lung Center                     University of Manitoba                  Computing Centre
+Univ. of Vermont                        Winnipeg, Manitoba                      The University Of Newcastle
+Burlington, VT  05401                   CANADA  R8T 2N2                         New South Wales, 2308
+802-864-6559                                                                    AUSTRALIA
+                                        Dr. R. Collens
+Prof. E. J. Desautels                   Computer Science Dept.                  Jim Curry
+Computer Science Dept.                  University Of Manitoba                  Computing Services
+University Of Wisconsin                 Winnipeg, Manitoba                      Int. Inst. Of App. Systems Anal.
+1210 W Dayton St                        CANADA R3T 2N2                          2361 Laxenburg, AUSTRIA
+Madison, Wis. 53706                     204-474-8165                            02236-7485
+608-262-1204
+                                        Peter Hardie                            Prof. E. Milgrom
+W. D. Richardson                        Dept. Of Computational Science          Unite D'Informatique
+Computing Devices Company               University Of Saskatchewan              Universite Catholique De Louvain
+P.O. Box 8508                           Saskatoon, Saskatchewan                 Chemin Du Cyclotron 2
+Ottawa, Ontario                         CANADA        S7N OWO                   1348 Louvain-La-Neuve, BELGIUM
+CANADA          K1G 3M9                 306-343-5801                            010-417231
+613-596-3081
+                                        Prof. Lawrence O. Sinkey                Technische Universitat Berlin
+Prof. D. A. Jardine                     The University of Calgary               Ernst Reuter Platz 7
+Dept. Of Comp. And Info. Sci.           Faculty of Environmental Design         1 Berlin 10
+Queen's University                      2920 24 Ave. N.W.                       GERMANY
+Kingston, Ontario CANADA                Calgary, CANADA T2N 1N4
+K7L 3N6                                 403-284-6601
+613-547-2844

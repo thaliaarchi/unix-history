@@ -1,0 +1,68 @@
+-3-
+
+
+Mr. Ken Thompson                        Dick Shore                              David H. Bessel, Manager
+2C-523                                  Commercial Union Leasing                Program Of Computer Graphics
+Bell Telephone Labs.                    645 Madison Avenue                      Cornell University
+Murray Hill, N.J. 07974                 New York, NY  10022                     120 Rand Hall
+201-582-2394                            212-644-0920                            Ithaca, N.Y.  14853
+                                                                                607-256-4880
+Mr. Dennis M. Ritchie                   Mr. Reidar Bornholdt
+Room 2C514                              Dept. Of Biological Sciences            DIRECTOR Computer Center
+Bell Telephone Laboratories             653 Schermerhorn Hail                   Denison University
+Murray Hill, NJ  07974                  Columbia University                     Granville, Ohio 43023
+201-582-3770                            New York, N. Y. 10027
+                                        212-280-5517                            Computer Services
+Prof Peter Bloomfield                                                           The University Of Toledo
+Department Of Statistics                Mr. Dustin H. Heuston                   2801 W. Bancroft St.
+Princeton University                    The Spence School                       Toledo, Ohio  43606
+Princeton, NJ  08540                    22 East 91st Street                     419-537-2511
+609-452-4195                            New York, N. Y. 10028
+                                        212-289-5940                            Mr. Gary M. Goins
+Prof. Bruce W. Arden                                                            University Hospitals
+Dept. Of Electrical Engineering         Dr. Lou Katz                            Wearn Research Building
+Princeton University                    Columbia University                     CWRU / Biometry
+Princeton, N.J, 08540                   College Of Physicians & Surgeons        Cleveland, Ohio  44106
+609-452-4640                            630 West 168 Street                     216-791-7300x2900
+                                        New York, NY 10032
+Mr. Seymour Grodstein                   212-694-3501                            Prof. Frederick G. Werner
+East Brunswick High School                                                      Physics Dept.
+Cranbury Road                           P.J. Plauger                            Xavier University
+East Brunswick, N.J.08816               Yourdon, Inc.                           Victory Parkway
+201-257-8300x250                        1133 Avenue of The Americas             Cincinnati, Ohio 45207
+                                        New York, N.Y. 10036                    513-745-3407
+R.C. Haight
+Bell Laboratories                       Dr. Leon Landovitz                      Oregon Mus. Of Science & Industry
+6 Corporate Place PY 1A-105             CUNY Graduate Center                    Computer Center
+Piscataway, N.J. 08854                  Computer Center                         c/o Mr. Barry Smith
+                                        33 West 42nd Street                     4015 S.W. Canyon Rd.
+John R. Mashey                          New York, N.Y. 10036                    Portland, Ore. 97221
+Bell Laboratories                       212-790-4263                            503-248-5923
+6 Corporate Place PY IB-101
+Piscataway, N.J. 08854                  Prof. Melvin Ferentz                    Rance De Long
+201-981-7909                            Physics Dept.                           Moravian College
+                                        Brooklyn College Of CUNY                Colonial Hall
+C. J. Fisk                              Brooklyn, New York 11210                Main & Elizabeth Sts.
+Div. 2648                               212-780-5569                            Bethlehem, PA 18018
+Sandia Laboratories                                                             215-865-0741x253
+Albuquerque, New Mexico 87115           Edwin Catmull
+                                        New York Institute Of Technology        Mr. Scott M. Eleff
+R.P. Kruger                             Computer Graphics Lab                   Univ. Of Penn
+University Of California                P.O. Box 170                            School Of Medicine
+Los Alamos Scientific Laboratory        Old Westbury, N.Y. 11568                Dept. of Bio Phys & Phys Biochem
+P.O. Box 1663                           516-686-7715                            Phila, Pa 19104
+Los Alamos, New Mexico 87545
+                                        Mr. George Kull                         H. K. Eisenstein
+Robert P. Hopkins                       Polytechnic Institute Of New York       University Of South Carolina
+Manager Computer Center                 Long Island Center                      Columbia, S.C.  29208
+The Cooper Union                        Route 110
+Cooper Square                           Farmingdale, N.Y. 11735                 D. W. Canham, Jr., Asst. Director
+New York, N.Y.  10003                   516-694-5500                            Center For Advanced Studies
+212-254-6300x238                                                                Univ. Of Texas at Dallas
+                                        Stuart Kern                             P.O. Box 688
+Mr. Ira Fuchs, Director                 Physical Review                         Richardson, Texas 75080
+CUNY University Computing Center        Building 510E                           214-690-2211
+555 West 57th Street                    Brookhaven National Laboratory
+New York, N.Y. 10019                    Upton, N.Y. 11973                       Baylor College Of Medicine
+212-977-8008                            516-924-5533                            Texas MedicalCenter
+                                                                                Houston, Texas  77025

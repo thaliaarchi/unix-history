@@ -15,6 +15,9 @@
   - Pages 3b-4a: new-style ar.c and ld.c, and arc.v to convert old to new from
     Bell Labs
   - Page 2: Sixth Edition manual printing, Seventh Edition discussion
+- 1976-09:
+  - Page 4: Ed Catmull, OMSI
+  - Page 5: Martin Newell, TU Berlin
 - 1976-11:
   - Page 1: Second Software Distribution, tp rewrite from assembly to C,
     super-tp (stp), v6 changes

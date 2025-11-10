@@ -30,7 +30,7 @@ Beer-sheva  84 120, ISRAEL
 
 
 02-30211x605
-Prof. Ammon Barak
+Prof. Amnon Barak
 Computer Science Department
 Hebrew University Of Jerusalem
 Jerusalem, ISRAEL
@@ -52,6 +52,6 @@ Nijmegen      NETHERLANDS
 
 ***No Phone Number
 Hernan Suarez-Flamerich
-Cea. De Information I Computacion
+Cea. De Information Y Computacion
 Universidad Simon Bolivar
 Caracas, VENEZUELA

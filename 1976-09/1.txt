@@ -1,0 +1,72 @@
+          *   *   *   *   *****   *   *           *   *   *****   *   *    ****
+          *   *   **  *     *      * *            **  *   *       *   *   *
+          *   *   * * *     *       *             * * *   ***     * * *    ***
+          *   *   *  **     *      * *            *  **   *       ** **       *
+           ***    *   *   *****   *   *           *   *   *****   *   *   ****
+__________________________________________________________________________________________
+Number 9                              September 1976                                Page 1
+__________________________________________________________________________________________
+
+
+                                     MEMBERSHIP LIST
+
+     As previously announced, this issue of UNIX  NEWS  contains  the  Unix  Users'  Group
+Membership list as of October 4, 1976.
+                                           = 138 members
+     The list is ordered as follows:
+
+          1. United States sorted on two character state abbreviation
+             and by zip-code within state.
+
+          2. Canada sorted by postal code.
+
+          3. Other Countries sorted on name of country.
+
+     The list, in machine readable form, is on its way to Chicago Circle for inclusion  in
+the next software disribution.
+
+
+                                         HOTLINE
+
+     Examination of the contents of the hotline revealed very little that has not appeared
+subsequently  in  Unix News.  The following items, some of which may be obsolete, have not
+been printed here before.
+
+
+......From Hike O'Brien at Chicago Circle
+......March 25, 1976
+
+There is a bug in "ac".
+When mapping the last character of the teletype name the code says
+          if (i >= 'a')  i =- 'a' - '9';                               Installed
+This maps ttya onto tty.  The fix is to replace '9'
+by ':'.                                                                11-NOV-76
+
+
+......From John Lowery at Rand Corp. (John is no longer there)
+......April 30, 1976
+
+We are looking for drivers for
+          Wangco disk with IMS controller
+          DJ11 multiplexer.
+
+
+
+......From Lucas at NBS
+......May 17, 1976
+
+Is it possible to distribute the "inode locking bug" fixes?
+We have had several file system scrambles of unknown cause.
+Perhaps this is our problem.
+
+Also, has anyone experienced problems with an 11/45
+due to radiated or conducted noise from such things as
+vacuum cleaners, floor buffers, ete.  We would be interested in
+fixes in this arena.
+
+
+
+......From Allan Wylie at AFDSC/SFA
+......July 27, 1976
+
+Docs anyone have a driver for the TA11 DEC cassette controller?

@@ -1,0 +1,68 @@
+-2-
+
+
+Michael O'Brien                         Mr. Lewis A. Law                        Prof. G. Michael Schneider
+Dept. Of Information Engineering        Director Of Technical Services          University of Minnesota
+University Of Illinois                  Science Center - Harvard Univ.          Dept. of Computer Science
+P.O. Box 4348                           1 Oxford Street                         114 Lind Hall
+Chicago, Ill.  60680                    Cambridge, Mass. 02138                  Minneapolis, Minn. 55455
+312-996-3408                            617-495-2627                            612-373-0132
+
+Mr. Wm. C. Ripperger                    Peter Neilson                           Kenneth L. Ripley
+Computer Center Director                MIT Lincoln Laboratory                  Biomedical Computer Laboratory
+Knox College                            Applied Seismology Group                Washington University
+Galesburg, Illinois  61401              42 Carleton Street                      700 South Euclid Ave
+309-343-0112x414                        Cambridge, Mass. 02142                  St. Louis, Missouri 63110
+                                        617-253-7851                            314-454-3364
+Steve Holmgren
+210 ACB                                 H. Bellmar                              Richard G. Shahpazian
+University Of Illinois                  Minuteman Regional Vocational           Patent License Manager
+Urbana, Illinois  61801                 High School District                    Western Electric
+217-333-8469                            758 Merrett Road                        P.O. Box 25000
+                                        Lexington, Mass.  02173                 Greensboro, N.C. 27420
+Dr. A.M. Mark                                                                   919-697-2861
+Dept. of Computer Science               Alan G, Nemeth
+Southern Illinois Univ.                 Lincoln Laboratory                      Prof. James D. Foley
+Faner 2126                              MIT                                     Dept. Of Computer Science
+Carbondale, IL 62901                    Lexington, Mass. 02173                  Univ. Of North Carolina
+                                        617-862-5500                            Chapel Hill, N. C. 27514
+James J. Besemer                                                                919-933-7339
+School Of Electrical Engineering        Mr. Dennis L. Mumaugh, R253
+Purdue University                       Dept. of Defense                        Prof. Susan Gerhart
+West Lafayette, Ind.  47907             9800 Savage Road                        Computer Science Dept.
+317-493-8826                            Ft. G. G. Meade                         Duke University I
+                                        Maryland  20755                         Durham, N.C.  27706
+Stephen J. Mahler                       301-688-6781/7483
+Dept. Of Agricultural Engineering                                               Prof. Emil C.Neu
+Purdue University                       J. Gary Donnelly                        Dept. of Electrical Engineering
+West Lafayette, Indiana  47907          Department of Defense, R53              Stevens Institute of Technology
+317-749-2971                            9800 Savage Road                        Castle Point Station
+                                        Ft. Meade. Md. 20755                    Hoboken, N.J. 07030
+Ken Biba                                301-688-8147
+Mitre Corp.                                                                     Mr. J.J. Molinelli
+B019                                    Prof. W. H. Huggins                     1F-412
+P. O. Box 208                           Dept. Of Electrical Engineering         Bell Telephone Labs
+Bedford, Mass.  01730                   The Johns Hopkins University            Holmdel, N.J. 07733
+                                        Baltimore, Md. 21218                    201-949-3490
+Dr. John C. C. White                    301-338-7024
+Mitre Corp.                                                                     Mr. Clyde P. Imagna
+Room 0B-404                             Timothy W. Hoal, Director               Room #1C-406A
+P.O. Box 208                            Academic Computer Center                Bell Telephone Laboratories
+Bedford, Mass.  01730                   St. Olaf College                        Crawford Corners Rd.
+617-271-2384                            Northfield, MN55057                     Holmdel, NJ 07733
+                                                                                201-949-6948
+Hq ESD/MCIT (Stop 36)                   Carl Henry
+Attention: Capt Paul Karger             Computer Center                         Irma B. Biren
+L.G. Hanscom AFB, Mass 01731            Carleton College                        Bell Laboratories
+                                        Northfield, Minn.  55057                MH 2C-548
+Shao-Sun Chien                          507-645-4431x504                        600 Mountain Ave.
+Harvard School of Public Health                                                 Murray Hill, NJ. 07974
+Computing Facility                      Prof. W.R. Franta
+665 Huntington Ave.                     Interactive Computation Lab.            Mr. Joseph F, Maranzano
+Boston, Mass. 02115                     University of Minnesota                 2C401
+                                        143 Space Science Center                Bell Telephone Laboratories
+Mr. Bill Mayhew                         Minneapolis, Minn. 55455                Murray Hill, NJ  07974
+The Childrens Museum
+The Jamaicaway
+Boston, Mass. 02130
+617-522-4800

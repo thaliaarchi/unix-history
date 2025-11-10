@@ -3,7 +3,7 @@ Mar 19 20:29 1976  UNIX NEWS Mailing List Page 2
 
 507-645-4431x504                        301-582-3770                            212-280-5517
 Carl Henry                              Mr. Dennis M. Ritchie                   Mr. Reidar Bornholdt
-Computer Center                         Room 2e514                              Dept. Of Biological Sciences
+Computer Center                         Room 2c514                              Dept. Of Biological Sciences
 Carleton College                        Bell Telephone Laboratories             653 Schermerhorn Hall
 Northfield, Minn.  55057                Murray Hill, NJ  07974                  Columbia University
                                                                                 New York, N. Y. 10027
@@ -52,7 +52,7 @@ Durham, N.C. 27710                      New York, New York 10019                
 
 201-949-6948                            212-644-6920                            516-686-7644
 Mr. Clyde P. Imagna                     Mr. Richard Shore                       Prof. Ed Catmull
-Room 21C-406A                           Commercial Union Leasing                Computer Graphics Lab
+Room #1C-406A                           Commercial Union Leasing                Computer Graphics Lab
 Bell Telephone Laboratories             645 Madison Avenue                      New York Inst. of Technology
 Crawford Corners Rd.                    New York, NY  10022                     P. O. Box 170
 Holmdel, NJ 07744                                                               Old Westbury, NY  11568
