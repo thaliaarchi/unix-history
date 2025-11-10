@@ -1,11 +1,15 @@
 # Notes from UNIX News
 
+- 1975-07-30:
+  - Page 9: OMSI
+  - Page 10: Martin Newell
 - 1976-03-19:
   - Page 1: Mini-UNIX and LSI-UNIX
   - Page 2: a UNIXed version of MACRO (PDP-11 assembler) from JHU
     Electrical Engineering.
   - Page 6: MERT, the Bell Labs Multi-Environment Real Time System
   - Page 12: Ed Catmull
+  - Page 13: OMSI, Martin Newell, John Lions
 - 1976-06:
   - Page 1: `mktemp` for new archiver
   - Pages 3b-4a: new-style ar.c and ld.c, and arc.v to convert old to new from
