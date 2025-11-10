@@ -1,0 +1,41 @@
+                       FIRST ANNUAL UNIX POLL AND SURVEY
+
+
+
+1.  General Information
+
+    Name:
+
+    Organization:
+
+    Mailing Address:
+
+    Phone Number:
+
+    Installation Location:
+
+    Contact Person(s):
+
+    Phone Number(s):
+
+
+
+
+
+2.  Applications:
+
+
+
+    Major Application:
+
+
+
+
+
+    Major Subprojects:
+
+
+
+
+
+    Future Projects:

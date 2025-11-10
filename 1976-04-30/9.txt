@@ -1,0 +1,50 @@
+3.  Hardware
+
+    CPU                               MEMORY                      DISK
+
+     Type:                              Type:                      Type:
+
+     Manufacturer:                      Size:                      Manu.:
+
+     Options (f.p., etc):               Manu:                      No.
+
+                                        Type:                      Type:
+
+                                        Size:                      Manu.:
+
+                                        Manu.:                     No.
+
+                                                                   Type:
+
+                                                                   Manu.:
+
+                                                                   No.
+
+    How old is your system?
+
+
+
+    Terminal Interfaces                 Magtapes
+
+      Type:                               Type:
+
+      No.:                                No.:
+
+      Manufacturer:                       Manufacturer:
+
+      Type:
+
+      No.:                              Do you have?
+
+      Manu:                               High-speed paper tape?
+
+      Type:                               DEC tape?
+
+      No.:                                Special Interfaces?  (Describe)
+
+      Manu:
+
+
+      Have you connected other machines to UNIX?
+
+      If so, how?

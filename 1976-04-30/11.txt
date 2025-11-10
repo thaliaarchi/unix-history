@@ -1,0 +1,40 @@
+    Have you made major modifications to any of the distributed Compilers:
+
+
+
+    Other programs:
+
+
+
+
+
+
+
+Have you written any major packages of general interest?
+
+
+
+
+
+
+
+
+Do you need any packages or drivers which others may have written?
+
+
+
+
+
+
+
+
+Specify six characters to be used as the installation code  __ __ __ __ __ __
+
+
+
+
+
+Return completed form to:     Prof. Melvin Ferentz
+                              Physics Dept.
+                              Brooklyn College of CUNY
+                              Brooklyn, New York 11210
