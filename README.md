@@ -15,13 +15,34 @@ least February 1980. When it renamed to ;login:, the cover page became typeset
 with troff and, ideally, that formatting could be reconstructed, but I have no
 experience with troff. I do not currently plan to transcribe later issues,
 unless it can be almost entirely automated, but that should be more tractable as
-it is more readable and proportional. Contributions welcome.
+they are more readable. The last twenty years were released as a print magazine
+and a digital version, and the text could be extracted. Contributions welcome.
 
-These scans are primarily sourced from the [USENIX archives](https://archive.org/details/usenix-login?sort=-date).
-Missing issues are supplemented by [John Gilmore's scans](http://www.toad.com/early-usenix-newsletters/)
+## Sources
+
+These issues are primarily sourced the USENIX Archives on the [Internet Archive](https://archive.org/details/usenix-login?sort=-date)
+and [usenix.org](https://www.usenix.org/publications/login/). Their Internet
+Archive collection has scans of July 30, 1975 to December 2000 and usenix.org
+has the digital versions of August 2000 to Winter 2020. (usenix.org links to the
+Internet Archive scans for October 1997 to July 2000.) Starting in February
+2012, issues are available in PDF, EPUB, and MOBI formats. When both scanned and
+digital versions are available, the scan is the primary link below.
+
+Two issues are sourced from elsewhere: Before the first normal issue, three
+special issues were mailed, the third of which is sourced from
+[Hendrik-Jan Thomassen's copy](https://www.tuhs.org/pipermail/tuhs/2023-October/029087.html)
+sent to KU Nijmegen. The July 1976 issue is sourced from [John Gilmore's scans](http://www.toad.com/early-usenix-newsletters/)
 of issues July 16, 1975 to September 1978 [[TUHS mirror](https://www.tuhs.org/Archive/Documentation/Usenix/Early_Newsletters/)].
-Later issues are available on [usenix.org](https://www.usenix.org/publications/login/)
-and have not yet been incorporated in the list below.
+
+## License
+
+UNIX News was distributed in 1975–1977 to holders of a [UNIX license](LICENSE-UNIX)
+from Western Electric. In 2002, Caldera granted a free [BSD-4-Clause](LICENSE-CALDERA)
+license to UNIX Versions 1–7 and 32V, which would include UNIX News. The scans
+in the USENIX Archives on the Internet Archive are released under
+[Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/).
+
+## Issues
 
 - Volume 1:
   - Special. UNIX News [July 16, 1975](https://www.tuhs.org/pipermail/tuhs/2023-October/029087.html) (1/1 page)
@@ -175,6 +196,7 @@ and have not yet been incorporated in the list below.
 - Volume 23:
   - 1\. ;login: [February 1998](https://archive.org/details/login_feb98) (92 pages)
   - 2\. ;login: [April 1998](https://archive.org/details/login_apr98) (100 pages)
+  - Special. ;login: May 1998, Security Special Issue
   - 3\. ;login: [June 1998](https://archive.org/details/login_june98) (92 pages)
   - 4\. ;login: [August 1998](https://archive.org/details/login_aug98) (100 pages)
   - 5\. ;login: [October 1009](https://archive.org/details/login_oct98) (100 pages)
@@ -194,14 +216,145 @@ and have not yet been incorporated in the list below.
   - 2\. ;login: [April 2000](https://archive.org/details/login_apr00) (92 pages)
   - 3\. ;login: [June 2000](https://archive.org/details/login_jun00) (84 pages)
   - 4\. ;login: [July 2000](https://archive.org/details/login_jul00) (84 pages)
-  - 5\. ;login: [August 2000](https://archive.org/details/login_aug00) (84 pages)
-  - 6\. ;login: [October 2000](https://archive.org/details/login_oct00) (100 pages)
-  - 7\. ;login: [November 2000](https://archive.org/details/login_nov00) (68 pages)
-  - 8\. ;login: [December 2000](https://archive.org/details/login_dec00) (84 pages)
-
-## License
-
-UNIX News was distributed in 1975–1977 to holders of a [UNIX license](LICENSE-UNIX)
-from Western Electric. In 2002, Caldera granted a free [BSD-4-Clause](LICENSE-CALDERA)
-license to UNIX Versions 1–7 and 32V, which would include UNIX News. The scans
-in the USENIX Archives are released under [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/).
+  - 5\. ;login: [August 2000](https://archive.org/details/login_aug00) (84 pages) [[digital](https://www.usenix.org/system/files/login/issues/login_aug00.pdf)]
+  - 6\. ;login: [October 2000](https://archive.org/details/login_oct00) (100 pages) [[digital](https://www.usenix.org/system/files/login/issues/login_oct00.pdf)]
+  - 7\. ;login: [November 2000](https://archive.org/details/login_nov00) (68 pages) [[digital](https://www.usenix.org/system/files/login/issues/login_nov00.pdf)]
+  - 8\. ;login: [December 2000](https://archive.org/details/login_dec00) (84 pages) [[digital](https://www.usenix.org/system/files/login/issues/login_dec00.pdf)]
+- Volume 26:
+  - 1\. ;login: [February 2001](https://www.usenix.org/system/files/login/issues/login_feb_2001_0.pdf) (90 pages)
+  - 2\. ;login: [April 2001](https://www.usenix.org/system/files/login/issues/login_april_2001.pdf) (95 pages)
+  - 3\. ;login: [June 2001](https://www.usenix.org/system/files/login/issues/login_june_2001.pdf) (100 pages)
+  - 4\. ;login: [July 2001](https://www.usenix.org/system/files/login/issues/login_july_2001.pdf) (84 pages)
+  - 5\. ;login: [August 2001](https://www.usenix.org/system/files/login/issues/login_aug_2001.pdf) (100 pages)
+  - 6\. ;login: [October 2001](https://www.usenix.org/system/files/login/issues/login_oct_2001.pdf) (100 pages)
+  - 7\. ;login: [November 2001](https://www.usenix.org/system/files/login/issues/login_nov_2001.pdf) (100 pages)
+  - 8\. ;login: [December 2001](https://www.usenix.org/system/files/login/issues/login_dec_2001.pdf) (100 pages)
+- Volume 27:
+  - 1\. ;login: [February 2002](https://www.usenix.org/system/files/login/issues/login_february-2002.pdf) (98 pages)
+  - 2\. ;login: [April 2002](https://www.usenix.org/system/files/login/issues/login_april_2002.pdf) (68 pages)
+  - 3\. ;login: [June 2002](https://www.usenix.org/system/files/login/issues/login_june_2002.pdf) (81 pages)
+  - 4\. ;login: [August 2002](https://www.usenix.org/system/files/login/issues/login_august-2002.pdf) (98 pages)
+  - 5\. ;login: [October 2002](https://www.usenix.org/system/files/login/issues/login_october_2002.pdf) (96 pages)
+  - 6\. ;login: [December 2002](https://www.usenix.org/system/files/login/issues/login_december_2002.pdf) (89 pages)
+- Volume 28:
+  - 1\. ;login: [February 2003](https://www.usenix.org/system/files/login/issues/login_february_2003.pdf) (85 pages)
+  - 2\. ;login: [April 2003](https://www.usenix.org/system/files/login/issues/login_april_2003.pdf) (99 pages)
+  - 3\. ;login: [June 2003](https://www.usenix.org/system/files/login/issues/login_june_2003.pdf) (91 pages)
+  - 4\. ;login: [August 2003](https://www.usenix.org/system/files/login/issues/login_august_2003.pdf) (90 pages)
+  - 5\. ;login: [October 2003](https://www.usenix.org/system/files/login/issues/login_october-2003.pdf) (76 pages)
+  - 6\. ;login: [December 2003](https://www.usenix.org/system/files/login/issues/login_december_2003.pdf) (95 pages)
+- Volume 29:
+  - 1\. ;login: [February 2004](https://www.usenix.org/system/files/login/issues/login_february_2004.pdf) (92 pages)
+  - 2\. ;login: [April 2004](https://www.usenix.org/system/files/login/issues/login_april_2004.pdf) (68 pages)
+  - 3\. ;login: [June 2004](https://www.usenix.org/system/files/login/issues/login_june_2004.pdf) (95 pages)
+  - 4\. ;login: [August 2004](https://www.usenix.org/system/files/login/issues/login_august_2004.pdf) (75 pages)
+  - 5\. ;login: [October 2004](https://www.usenix.org/system/files/login/issues/login_october_2004.pdf) (78 pages)
+  - 6\. ;login: [December 2004](https://www.usenix.org/system/files/login/issues/login_december_2004.pdf) (86 pages)
+- Volume 30:
+  - 1\. ;login: [February 2005](https://www.usenix.org/system/files/login/issues/login_february_2005.pdf) (100 pages)
+  - 2\. ;login: [April 2005](https://www.usenix.org/system/files/login/issues/login_april_2005.pdf) (74 pages)
+  - 3\. ;login: [June 2005](https://www.usenix.org/system/files/login/issues/login_june_2005.pdf) (81 pages)
+  - 4\. ;login: [August 2005](https://www.usenix.org/system/files/login/issues/login_august_2005.pdf) (100 pages)
+  - 5\. ;login: [October 2005](https://www.usenix.org/system/files/login/issues/login_october_2005.pdf) (104 pages)
+  - 6\. ;login: [December 2005](https://www.usenix.org/system/files/login/issues/login_december_2005.pdf) (100 pages)
+- Volume 31:
+  - 1\. ;login: [February 2006](https://www.usenix.org/system/files/login/issues/login_feb_2006_0.pdf) (100 pages)
+  - 2\. ;login: [April 2006](https://www.usenix.org/system/files/login/issues/login_april_2006.pdf) (124 pages)
+  - 3\. ;login: [June 2006](https://www.usenix.org/system/files/login/issues/login_june_2006.pdf) (80 pages)
+  - 4\. ;login: [August 2006](https://www.usenix.org/system/files/login/issues/login_aug_2006.pdf) (112 pages)
+  - 5\. ;login: [October 2006](https://www.usenix.org/system/files/login/issues/login_oct_2006.pdf) (120 pages)
+  - 6\. ;login: [December 2006](https://www.usenix.org/system/files/login/issues/login_dec_2006.pdf) (128 pages)
+- Volume 32:
+  - 1\. ;login: [February 2007](https://www.usenix.org/system/files/login/issues/login_february2007_2.pdf) (126 pages)
+  - 2\. ;login: [April 2007](https://www.usenix.org/system/files/login/issues/login_april_2007.pdf) (112 pages)
+  - 3\. ;login: [June 2007](https://www.usenix.org/system/files/login/issues/login_june_2007.pdf) (100 pages)
+  - 4\. ;login: [August 2007](https://www.usenix.org/system/files/login/issues/login_aug_2007.pdf) (116 pages)
+  - 5\. ;login: [October 2007](https://www.usenix.org/system/files/login/issues/login_oct_2007.pdf) (104 pages)
+  - 6\. ;login: [December 2007](https://www.usenix.org/system/files/login/issues/login_dec_2007.pdf) (128 pages)
+- Volume 33:
+  - 1\. ;login: [February 2008](https://www.usenix.org/system/files/login/issues/login_feb_2008.pdf) (124 pages)
+  - 2\. ;login: [April 2008](https://www.usenix.org/system/files/login/issues/login_april_2008.pdf) (104 pages)
+  - 3\. ;login: [June 2008](https://www.usenix.org/system/files/login/issues/login_june_2008.pdf) (124 pages)
+  - 4\. ;login: [August 2008](https://www.usenix.org/system/files/login/issues/login_aug_2008.pdf) (124 pages)
+  - 5\. ;login: [October 2008](https://www.usenix.org/system/files/login/issues/login_oct_2008.pdf) (124 pages)
+  - 6\. ;login: [December 2008](https://www.usenix.org/system/files/login/issues/login_dec_2008.pdf) (124 pages)
+- Volume 34:
+  - 1\. ;login: [February 2009](https://www.usenix.org/system/files/login/issues/login_feb_2009.pdf) (96 pages)
+  - 2\. ;login: [April 2009](https://www.usenix.org/system/files/login/issues/login_april_2009.pdf) (124 pages)
+  - 3\. ;login: [June 2009](https://www.usenix.org/system/files/login/issues/login_june_2009.pdf) (100 pages)
+  - 4\. ;login: [August 2009](https://www.usenix.org/system/files/login/issues/login_aug_2009.pdf) (124 pages)
+  - 5\. ;login: [October 2009](https://www.usenix.org/system/files/login/issues/login_oct_2009.pdf) (116 pages)
+  - 6\. ;login: [December 2009](https://www.usenix.org/system/files/login/issues/login_dec_2009.pdf) (120 pages)
+- Volume 35:
+  - 1\. ;login: [February 2010](https://www.usenix.org/system/files/login/issues/login_feb_2010.pdf) (124 pages)
+  - 2\. ;login: [April 2010](https://www.usenix.org/system/files/login/issues/login_april_2010.pdf) (84 pages)
+  - 3\. ;login: [June 2010](https://www.usenix.org/system/files/login/issues/login_june_2010.pdf) (104 pages)
+  - 4\. ;login: [August 2010](https://www.usenix.org/system/files/login/issues/login_aug_2010.pdf) (116 pages)
+  - 5\. ;login: [October 2010](https://www.usenix.org/system/files/login/issues/login_oct_2010.pdf) (120 pages)
+  - 6\. ;login: [December 2010](https://www.usenix.org/system/files/login/issues/login_dec_2010.pdf) (128 pages)
+- Volume 36:
+  - 1\. ;login: [February 2011](https://www.usenix.org/system/files/login/issues/login_feb_2011.pdf) (124 pages)
+  - 2\. ;login: [April 2011](https://www.usenix.org/system/files/login/issues/login_april_2011.pdf) (96 pages)
+  - 3\. ;login: [June 2011](https://www.usenix.org/system/files/login/issues/login_june_2011.pdf) (120 pages)
+  - 4\. ;login: [August 2011](https://www.usenix.org/system/files/login/issues/login_aug_2011.pdf) (96 pages)
+  - 5\. ;login: [October 2011](https://www.usenix.org/system/files/login/issues/login_oct_2011.pdf) (124 pages)
+  - 6\. ;login: [December 2011](https://www.usenix.org/system/files/login/issues/usenix_dec11_login.pdf) (128 pages)
+- Volume 37:
+  - 1\. ;login: [February 2012](https://www.usenix.org/publications/login/february-2012) (96 pages)
+  - 2\. ;login: [April 2012](https://www.usenix.org/publications/login/april-2012) (128 pages)
+  - 3\. ;login: [June 2012](https://www.usenix.org/publications/login/june-2012-volume-37-number-3) (112 pages)
+  - 4\. ;login: [August 2012](https://www.usenix.org/publications/login/august-2012-volume-37-number-4) (124 pages)
+  - 5\. ;login: [October 2012](https://www.usenix.org/publications/login/october-2012-volume-37-number-5) (100 pages)
+  - 6\. ;login: [December 2012](https://www.usenix.org/publications/login/december-2012-volume-37-number-6) (100 pages)
+- Volume 38:
+  - 1\. ;login: [February 2013](https://www.usenix.org/publications/login/february-2013-volume-38-number-1) (100 pages)
+  - 2\. ;login: [April 2013](https://www.usenix.org/publications/login/april-2013-volume-38-number-2) (84 pages)
+  - Special\. ;login: *logout* [May 2013](https://www.usenix.org/system/files/login-logout_1305_issue_0.pdf), Exclusive Electronic Edition (9 pages)
+  - 3\. ;login: [June 2013](https://www.usenix.org/publications/login/june-2013-volume-38-number-3) (92 pages)
+  - Special\. ;login: *logout* [July 2013](https://www.usenix.org/system/files/login-logout_issue_1307.pdf), Exclusive Electronic Edition (8 pages)
+  - 4\. ;login: [August 2013](https://www.usenix.org/publications/login/august-2013-volume-38-number-4) (100 pages)
+  - Special\. ;login: *logout* [September 2013](https://www.usenix.org/system/files/login-logout-issue_1309.pdf), Exclusive Electronic Edition (18 pages)
+  - 5\. ;login: [October 2013](https://www.usenix.org/publications/login/october-2013-volume-38-number-5) (100 pages)
+  - Special\. ;login: *logout* [November 2013](https://www.usenix.org/system/files/login-logout-issue_1309.pdf), Exclusive Electronic Edition (12 pages)
+  - 6\. ;login: [December 2013](https://www.usenix.org/publications/login/december-2013-volume-38-number-6) (100 pages)
+- Volume 39:
+  - Special\. ;login: *logout* [January 2014](https://www.usenix.org/system/files/login-logout-issue_1401.pdf), Exclusive Electronic Edition (13 pages)
+  - 1\. ;login: [February 2014](https://www.usenix.org/publications/login/feb14) (100 pages)
+  - Special\. ;login: *logout* [March 2014](https://www.usenix.org/system/files/login-logout-issue_1403.pdf), Exclusive Electronic Edition (16 pages)
+  - 2\. ;login: [April 2014](https://www.usenix.org/publications/login/apr14) (68 pages)
+  - 3\. ;login: [June 2014](https://www.usenix.org/publications/login/june14) (84 pages)
+  - 4\. ;login: [August 2014](https://www.usenix.org/publications/login/august14) (100 pages)
+  - 5\. ;login: [October 2014](https://www.usenix.org/publications/login/october-2014-vol-39-no-5) (100 pages)
+  - 6\. ;login: [December 2014](https://www.usenix.org/publications/login/dec14) (100 pages)
+- Volume 40:
+  - 1\. ;login: [February 2015](https://www.usenix.org/publications/login/feb15) (100 pages)
+  - 2\. ;login: [April 2015](https://www.usenix.org/publications/login/apr15) (84 pages)
+  - 3\. ;login: [June 2015](https://www.usenix.org/publications/login/june15) (100 pages)
+  - 4\. ;login: [August 2015](https://www.usenix.org/publications/login/aug15) (87 pages)
+  - 5\. ;login: [October 2015](https://www.usenix.org/publications/login/oct15) (84 pages)
+  - 6\. ;login: [December 2015](https://www.usenix.org/publications/login/dec15) (84 pages)
+- Volume 41:
+  - 1\. ;login: [Spring 2016](https://www.usenix.org/publications/login/spring2016) (84 pages)
+  - 2\. ;login: [Summer 2016](https://www.usenix.org/publications/login/summer2016) (100 pages)
+  - 3\. ;login: [Fall 2016](https://www.usenix.org/publications/login/fall2016) (100 pages)
+  - 4\. ;login: [Winter 2016](https://www.usenix.org/publications/login/winter2016) (100 pages)
+- Volume 42:
+  - 1\. ;login: [Spring 2017](https://www.usenix.org/publications/login/spring2017) (84 pages)
+  - 2\. ;login: [Summer 2017](https://www.usenix.org/publications/login/summer2017) (100 pages)
+  - 3\. ;login: [Fall 2017](https://www.usenix.org/publications/login/fall2017) (84 pages)
+  - 4\. ;login: [Winter 2017](https://www.usenix.org/publications/login/winter2017) (100 pages)
+- Volume 43:
+  - 1\. ;login: [Spring 2018](https://www.usenix.org/publications/login/spring2018) (84 pages)
+  - 2\. ;login: [Summer 2018](https://www.usenix.org/publications/login/summer2018) (68 pages)
+  - 3\. ;login: [Fall 2018](https://www.usenix.org/publications/login/fall2018) (68 pages)
+  - 4\. ;login: [Winter 2018](https://www.usenix.org/publications/login/winter2018) (68 pages)
+- Volume 44:
+  - 1\. ;login: [Spring 2019](https://www.usenix.org/publications/login/spring2019) (68 pages)
+  - 2\. ;login: [Summer 2019](https://www.usenix.org/publications/login/summer2019) (68 pages)
+  - 3\. ;login: [Fall 2019](https://www.usenix.org/publications/login/fall2019) (68 pages)
+  - 4\. ;login: [Winter 2019](https://www.usenix.org/publications/login/winter2019) (76 pages)
+- Volume 45:
+  - 1\. ;login: [Spring 2020](https://www.usenix.org/publications/login/spring2020) (76 pages)
+  - 2\. ;login: [Summer 2020](https://www.usenix.org/publications/login/summer2020) (60 pages)
+  - 3\. ;login: [Fall 2020](https://www.usenix.org/publications/login/fall2020) (84 pages)
+  - 4\. ;login: [Winter 2020](https://www.usenix.org/publications/login/winter2020) (108 pages)
