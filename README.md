@@ -5,19 +5,23 @@ Transcriptions of UNIX News from 1975 to 1977.
 This was the first newsletter for UNIX and it provides unique insight into the
 early community outside of Bell Labs. It announced news, showcased modifications
 sites made to their installations, coordinated meetups, listed the first
-licensees and mailing list subscribers, and distributed patches. For a good
-history of this period, see ["Unix at 25"](https://landley.net/history/mirror/unix/art3.htm)
+licensees and mailing list subscribers, and distributed patches. In July 1977,
+UNIX News was renamed to ;login: and in June/July 1978, USENIX was
+officially formed. For a good history of this period, see ["Unix at 25"](https://landley.net/history/mirror/unix/art3.htm)
 by Peter H. Salus.
 
-In July 1977, UNIX News was renamed to ;login: and switched to typesetting with
-troff. I do not currently plan to transcribe those issues, unless it can be
-almost entirely automated. However, that should be more tractable as it is more
-readable and proportional. Ideally, troff formatting could be reconstructed.
-Contributions welcome.
+I aim to transcribe all of UNIX News and early issues of ;login: through at
+least February 1980. When it renamed to ;login:, the cover page became typeset
+with troff and, ideally, that formatting could be reconstructed, but I have no
+experience with troff. I do not currently plan to transcribe later issues,
+unless it can be almost entirely automated, but that should be more tractable as
+it is more readable and proportional. Contributions welcome.
 
 These scans are primarily sourced from the [USENIX archives](https://archive.org/details/usenix-login?sort=-date).
 Missing issues are supplemented by [John Gilmore's scans](http://www.toad.com/early-usenix-newsletters/)
 of issues July 16, 1975 to September 1978 [[TUHS mirror](https://www.tuhs.org/Archive/Documentation/Usenix/Early_Newsletters/)].
+Later issues are available on [usenix.org](https://www.usenix.org/publications/login/)
+and have not yet been incorporated in the list below.
 
 - Volume 1:
   - Special. UNIX News [July 16, 1975](http://www.toad.com/early-usenix-newsletters/19750716-unix-news-special-issue-darker.pdf) (1/1 page) [[alt](http://www.toad.com/early-usenix-newsletters/19750716-unix-news-special-issue.pdf)]
