@@ -1,4 +1,4 @@
-# Lists of UNIX users
+# Lists of early UNIX users
 
 - Ken's list from Dennis_Tapes, June 27, 1975:
   51 UNIX licensees listed and 55 installations listed
@@ -123,3 +123,143 @@
   > In general, there is rapid growth in the size of both these users groups;
   > there were 450 attendees at the USENIX meeting, which is the largest
   > attendance yet. [page 3a]
+
+- *A Statistical Examination of The Evolution of the UNIX System* \
+  Shamim Sharifuddin Pirzada \
+  Imperial College of Science, Technology and Medicine, University of London \
+  Doctor of Philosophy thesis, September 1988
+
+  TODO: Pages 64–182.
+
+  - Summer 1971: the patent office was successfully preparing their patent
+    applications on UNIX [page 31]
+  - V2 in June 1972: 10 installations [page 33]
+  - c.1972/1973: SCCS-C forked from V2/V3 [page 32, my interpretation]
+  - V3 in February 1973: 16 installations [page 33]
+  - Ken had a list of the first 25 licensees (later licensing was handled by
+    AT&T and they have records) [page 64]
+  - c.1973: PWB forked from V2/V3 [page 32, my interpretation]
+  - October 1973: license to Columbia University (first educational license)
+    [page 47]
+  - October 1973: license to The Children's Museum in Boston (first
+    non-educational recipient) [page 47]
+  - c.1974: USG/1.0 forked from V3 [page 32, my interpretation]
+  - February 1974: license to The Hebrew University of Jerusalem (first
+    organization outside the US) [page 47]
+  - May 1974: Queen Mary College in London [page 47]
+  - July 1974: the Rand Corporation (first commercial license) [page 47]
+
+  > *Sources*
+  >
+  > The lack of proper record keeping by all the UNIX groups has resulted in a
+  > large amount of valuable "hard" information being lost, so this study (and,
+  > to a greater extent, others before it) has had to rely on informal records
+  > and recollections of pertinent staff.
+  >
+  > This section has been pieced together from almost complete collections of
+  > the *UNIX Newsletter* (first published by the USG, see below), *;login:*
+  > (the newsletter of USENIX, see below), licensing records, System Release
+  > Descriptions, Manuals and even (for organization charts) old Bell Labs
+  > telephone books! [page 29]
+
+  > By the summer of 1971, the text processing had been implemented and patent
+  > office was successfully preparing their patent applications on UNIX, hence
+  > fulfilling their charter. [page 31]
+
+  Graphic (my interpretation): SCCS-C forked from v2/v3 (c.1972/1973), PWB
+  forked from v2/v3 (c.1973), USG/1.0 forked from v3 (c.1974) [page 32]
+
+  > Ken Thompson and Dennis Ritchie published the first UNIX Programmers Manual
+  > in November 1971 describing the system as it was at the end of the Origins
+  > section described above. With the C compiler working, more people were
+  > attracted to the UNIX programming environment. The system improved steadily
+  > until, by June 1972, there were enough changes to warrant a republication of
+  > the manual. The assembler and the loader had undergone some reorganisation
+  > but the most important change in v2 was the introduction of the interprocess
+  > communication mechanism: pipe. Pipes were to become one the distinguishing
+  > features of UNIX. By this time the number of UNIX installations had grown to
+  > ten.
+  >
+  > In the early days people who wanted UNIX systems just went along to the
+  > Research Center and took a magnetic snapshot of what was on Thompson's
+  > system at the time, there wasn't an official release or a distribution tape
+  > as such. The version of UNIX on the Research Center was known after the
+  > edition number of the current manual. So, for example, between the
+  > publication of the first edition of the manual and before the second, the
+  > system was known as version 1 or v1.
+  >
+  > The third edition of the manual was published in February 1973, to bring it
+  > in line with the software changes to accommodate the upgrade to the
+  > PDP-11/45. A number of applications programs were re-written in C as the
+  > UNIX programmer population grew slightly. As the popularity of UNIX
+  > increased (the number of installations increasing to 16), more attention was
+  > paid to help the inexperienced users. [page 33]
+
+  > The licensing agreements with educational institutions and other non-profit
+  > organisations were very different to the commercial ones. Initially, the
+  > Research Center was so keen to get it out of the door, that they were
+  > against charging even a service fee but as the volume grew, they gave in.
+  > The first educational licence was granted, in October 1973, to Columbia
+  > University and Ken Thompson personally installed the system. Educational
+  > licences for the latest Research versions are still offered for nominal
+  > charges but Thompson no longer goes out to install them!
+  >
+  > The Children's Museum in Boston was the first non educational recipient of
+  > UNIX in October 1973 and The Hebrew University of Jerusalem was the first
+  > organization outside the US to obtain a licence, in February 1974. Queen
+  > Mary College in London was granted a licence in May 1974 and the Rand
+  > Corporation became the first commercial licensee, in July 1974. [page 47]
+
+  > The system was initially distributed by dumping the contents of the CSRC
+  > machine onto tape and sending the tape out with a covering letter and
+  > minimal documentation (installation guide and manual) but a list of
+  > installation was kept. New editions of the manual were prepared when it was
+  > apparent to staff at CSRC that the manual no longer reflected the state of
+  > the CSRC system, this was usually done informally and no official release
+  > documents as such, were prepared. This strategy still exists today but the
+  > distribution was handed over to the Computing Library at Bell Labs, which
+  > set up slightly more formal arrangements based on distribution tapes
+  > supplied by the CSRC, for the releases v6 - v8. [page 60]
+
+  > *Research*
+  >
+  > UNIX gurus are commonly portrayed, for example in USENIX or EUUG
+  > conferences, as unruly, casual and disorganised. This is somewhat borne out
+  > by their record keeping record. The researchers were so concerned with
+  > pushing at the frontiers of operating system technology (in writing UNIX)
+  > that they did not bother to keep the 'old stuff'.
+  >
+  > Hence in the CSRC archives,<sup>2</sup> Getting hold of UNIX systems
+  > representing each of the five versions before v6 has turned out to be a
+  > major challenge since no dumps from that era survived in the CSRC archives.
+  > The author was able to locate only one UNIX system corresponding to the v5
+  > era, 3 and none before that. Since Research UNIX did get outside the CSRC,
+  > from v3 onwards, there was a chance that someone might have preserved it but
+  > there was no positive response to several requests in electronic newsgroups,
+  > conferences etc. However, some old paper tapes and DECtapes of unknown
+  > content were discovered underneath the floor-boards in the UNIX room.
+  >
+  > With a track record of poor record keeping, it came as a surprise when the
+  > first six editions of the manual were found neatly bound in the UNIX room.
+  > The seventh edition is generally available and the author has obtained
+  > copies of eighth and ninth editions as well, making a complete set.
+  >
+  > Getting hold of other information on Research UNIX has been less fruitful.
+  > Private records of changes made to the system were kept (e.g. `ken` kept
+  > records of changes made to the kernel when UNIX was identifiably 'his baby',
+  > in the early days) but got truncated every time the file got too big
+  > (supposedly fairly often) and deleted at machine changes. So, changes
+  > information is irrecoverably lost. Similarly system logs containing records
+  > of system crashes etc. have also been lost over the years. However, a list
+  > of the first 25 licensees was obtained from Thompson (who was handling the
+  > distribution himself at that stage). Subsequently licensing was handled by a
+  > Western Electric division and then AT&T Technologies (AT&T-T). AT&T-T have
+  > detailed records but were not able to send them to the investigator in time
+  > for inclusion in this study.
+  >
+  > 2\. In reality, their 'archive' is simply a room adjoining the UNIX room
+  > where the dump tapes and other precious material are kept. There is
+  > virtually no security, indeed, there isn't even a list of what is stored in
+  > the room! [pages 63–64]
+
+  Are these DECtapes under the floorboards the Dennis_Tapes?
