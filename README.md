@@ -80,7 +80,7 @@ in the USENIX Archives on the Internet Archive are released under
 - Volume 4?
 - Volume 5:
   - 1\. ;login: [January 1980](https://archive.org/details/login_january-1980) (19 pages)
-  - 2\. ;login: [February 1980](https://archive.org/details/login_february-1980) (22 pages)
+  - 2\. ;login: [February 1980](https://archive.org/details/login_february-1980) (1/22 pages)
   - 6\. ;login: [August 1980](https://archive.org/details/login_august-1980) (13 pages)
   - 7\. ;login: [September 1980](https://archive.org/details/login_september-1980) (21 pages)
   - 8\. ;login: [October 1980](https://archive.org/details/login_october-1980) (22 pages)

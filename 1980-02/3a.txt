@@ -1,0 +1,60 @@
+                        THE BOULDER SOFTWARE TOOLS AND USENIX MEETINGS IN SUMMARY
+
+
+
+                                    SOFTWARE TOOLS and USENIX Meetings
+                                            Boulder, Colorado
+                                      January 28 -- February 2, 1980
+
+
+                    This report is a summary of two winter meetings held in Boulder.
+It is based on notes and memories of the attendees listed below, and as such reflects our personal biases
+and knowledge.  Extensive detail has been deliberately avoided, in the hopes of keeping these notes
+down to a reasonable size.
+
+In general, there is rapid growth in the size of both these users groups; there were 450 attendees at
+the USENIX meeting, which is the largest attendance yet.  For the Software tools group this is apparent
+in sheer numbers, as well as in the formation of SIG's to deal with issues in specific subject matter
+areas and geographic regions.  There is a strong cooperative attitude within this community, which will
+soon result in two new software distributions, and an informal UNIX network for mail and news.  We
+have also noted a trend towards more formal reporting of technical information.  The next USENIX
+meeting will publish a proceedings, and individuals are encouraged to send in short articles for
+publication in the newsletters.  It is important that reviews of bug fixes, performance considerations,
+and available software be produced periodically, to help fill the growing gap between experienced hacks
+and new users.
+
+We cannot guarantee that what is reported here was actually said.  If you want to be SURE, or need
+more information, check with the speaker in question.  Our apologies to anyone who has been
+misquoted.
+
+Our thanks to many persons who made informative presentations at the meetings.  Further thanks
+to David Sherman, whose notes and macros from last June's conference made easy the production of
+these notes.
+
+
+February 5, 1980
+
+Martin Tuori
+Defence and Civil Institute of Environmental Medicine
+(DCIEM)
+Downsview, Canada MJM 3M9
+(416) 633-4240 Ext 204
+
+Gregory Hill
+University of Toronto Computer Services, SF105
+University of Toronto
+Toronto, Canada M55 1A1
+(416) 978-8855
+
+Ian Johnstone     Formerly University of New South Wales
+Bell Laboratories
+600 Mountain Ave
+Rm 7E-307
+Murray Hill NJ 07974
+(201) 582-5767
+
+
+
+
+
+                                              - 1 -
