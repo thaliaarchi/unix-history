@@ -263,3 +263,14 @@
   > the room! [pages 63–64]
 
   Are these DECtapes under the floorboards the Dennis_Tapes?
+
+- ["Hidden Early History of Unix"](https://papers.freebsd.org/2020/FOSDEM/losh-Hidden_early_history_of_Unix.files/slides.pdf) \
+  Warner Losh \
+  FOSDEM '20
+
+  > **PDP-7 Unix**
+  > - […]
+  > - Ported to PDP-7, PDP-9 and PDP-15
+  >   - Total install base was 4 (1 pdp-7, 2 pdp-9 and 1 pdp-15)
+
+  Sources mentioned: PDP-7 UNIX manual
