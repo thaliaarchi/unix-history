@@ -1,309 +1,357 @@
-				  DRAFT
+                        DRAFT
 
-			The UNIX Time-Sharing System
+            The UNIX Time-Sharing System
+                    D. M. Ritchie
 
-				D. M. Ritchie
 
-1. Introduction 
+1_.  Introduction____________
 
-UNIX is a general-purpose, multi-user time sharing system implemented
-on several Digital Equipment Corporation PDP series machines.
+UNIX  is  a  general-purpose,  multi-user time sharing system im-
+plemented on several Digital  Equipment  Corporation  PDP  series
+machines.
 
-UNIX was written by K. L. Thompson, who also wrote many of the
-command programs. The author of this memorandum contributed
-several of the major commands, including the assembler and the
-debugger. The file system was originally designed by Thompson,
+UNIX was written by K. L. Thompson, who also wrote  many  of  the
+command  programs.  The  author  of  this  memorandum contributed
+several of the major commands, including the  assembler  and  the
+debugger.  The  file  system was originally designed by Thompson,
 the author, and R. H. Canaday.
 
-There are two versions of UNIX. The first, which has been in existence
-about a year, runs on the PDP-7 and -9 computers; a more
-modern version, a few months old, uses the PDP-11. This document
-describes UNIX-11, since it is more modern and many of the differences
-between it and UNIX-7 result from redesign of features
+There  are two versions of UNIX. The first, which has been in ex-
+istence about a year, runs on the PDP-7 and -9 computers; a  more
+modern  version, a few months old, uses the PDP-11. This document
+describes UNIX-11, since it is more modern and many of  the  dif-
+ferences  between  it and UNIX-7 result from redesign of features
 found to be deficient or lacking in the earlier system.
-Although the PDP-7 and PDP-11 are both small computers, the
-design of UNIX is amenable to expansion for use on more powerful
-machines. Indeed, UNIX contains a number of features very seldom
+
+Although  the  PDP-7  and  PDP-11  are  both small computers, the
+design of UNIX is amenable to expansion for use on more  powerful
+machines.  Indeed, UNIX contains a number of features very seldom
 offered even by larger systems, including
 
-   1. A versatile, convenient file system with complete integration
-      between disk files and I/O devices;
+   1. A  versatile, convenient file system with complete integra-
+      tion between disk files and I/O devices;
+
+
+                              - 2 -
 
    2. The ability to initiate asynchrously running processes.
 
-It must be said, however, that the most important features of
+It must be said, however, that the  most  important  features  of
 UNIX are its simplicity, elegance, and ease of use.
 
-Besides the system proper, the major programs available under
-UNIX are an assembler, a text editor based on QED, a symbolic
-debugger for examining and patching faulty programs, and "B", a
-higher level language resembling BCPL. UNIX-7 also has a version
-of the compiler writing language TMGL contributed by M. D.
-McIlroy, and besides its own assembler, there is a PDP-11
+Besides the system proper, the  major  programs  available  under
+UNIX  are  an  assembler,  a text editor based on QED, a symbolic
+debugger for examining and patching faulty programs, and  "B",  a
+higher  level language resembling BCPL. UNIX-7 also has a version
+of the compiler  writing  language  TMGL  contributed  by  M.  D.
+McIlroy,  and  besides its own assembler, there there is a PDP-11
 assembler which was used to write UNIX-11. On the PDP-11 there is
-a version of BASIC [reference] adapted from the one supplied by
-DEC [reference]. All but the last of these programs were written
+a  version  of BASIC [reference] adapted from the one supplied by
+DEC [reference]. All but the last of these programs were  written
 locally, and except for the very first versions of the editor and
 assembler, using UNIX itself.
 
-2. Hardware
+
+2_. Hardware________
 
 The PDP-11 on which UNIX is implemented is a 16-bit 12K computer,
-and UNIX occupies 8K words. More than half of this space,
-however, is utilized for a variable number of disk buffers; with
-some loss of speed the number of buffers could be cut significantly.
+and  UNIX  occupies  8K  words.  More  than  half  of this space,
+however, is utilized for a variable number of disk buffers;  with
+some   loss   of  speed  the  number  of  buffers  could  be  cut
+significantly.
 
-The PDP-11 has a 256K word disk, almost all of which is used for
-file system storage. It is equipped with DECTAPE, a variety of
-magnetic tape facility in which individual records may be addressed
-and rewritten at will. Also available are a high-speed paper
-tape reader and punch. Besides the standard Teletype, there are
+The  PDP-11 has a 256K word disk, almost all of which is used for
+file system storage. It is equipped with DECTAPE,  a  variety  of
+magnetic tape facility in which individual records may be addres-
+sed and rewritten at will. Also available are a high-speed  paper
+tape  reader  and punch. Besides the standard Teletype, there are
 several variable-speed communications interfaces.
 
-3. The File System
+
+3_. The___ File____ System______
 
 The most important role of UNIX is to provide a file system. From
-the point of view of the user, there are three kinds of files:
+the  point  of  view of the user, there are three kinds of files:
 ordinary disk files, directories, and special files.
 
-3.1 Ordinary Files
 
-A file contains whatever information the user places there, for
-example symbolic or binary (object) programs. No particular
-structuring is expected by the system. Files of text ordinarily
-consist simply of a string of characters, with lines demarcated
+3_.1_ Ordinary________ Files_____
+
+A file contains whatever information the user places  there,  for
+example  symbolic  or  binary  (object)  programs.  No particular
+structuring is expected by the system. Files of  text  ordinarily
+consist  simply  of a string of characters, with lines demarcated
 by the new-line character. Binary programs are sequences of words
-as they will appear in core memory when the program starts
-executing. A few user programs generate and expect files with
-more structure; for example, the assembler generates, and the
-debugger expects, a name list file in a particular format;
-however, the structure of files is controlled solely by the
+as  they  will  appear  in  core  memory  when the program starts
+executing. A few user programs generate  and  expect  files  with
+more  structure;  for  example,  the assembler generates, and the
+debugger expects, a  name  list  file  in  a  particular  format;
+however,  the  structure  of  files  is  controlled solely by the
 programs which use them, not by the system.
 
-3.2 Directories
 
-Directories (sometimes, "catalogs"), provide the mapping between
-the names of files and the files themselves, and thus induce a
-structure on the file system as a whole. Each user has a directory
-of his own files; he may also create subdirectories to contain groups
-of files conveniently treated together.
+3_.2_ Directories___________
 
-A directory is exactly like an ordinary file except that it cannot
-be written on by user programs, so that the system controls
-the contents of directories. However, anyone with appropriate
+Directories (sometimes, "catalogs"), provide the mapping  between
+the  names  of  files and the files themselves, and thus induce a
+structure on the file system as a whole. Each user has  a  direc-
+tory  of his own files; he may also create subdirectories to con-
+tain groups of files conveniently treated together.
+
+
+                              - 4 -
+
+A  directory is exactly like an ordinary file except that it can-
+not be written on by user programs, so that the  system  controls
+the  contents  of  directories.  However, anyone with appropriate
 permission may read a directory just like any other file.
 
-The system maintains several directories for its own use. One of
-these is the root directory. All files in the system can be found
-by tracing a path through a chain of directories until the
-desired file is reached. The starting point for such searches is
-often the root, which contains an entry for each user's master
-directory. Another system directory contains all the programs
-provided as part of the system; that is, all the commands
-(elsewhere, "subsystems"). As will be seen, however, it is by no
+The  system maintains several directories for its own use. One of
+these is the root____ directory. All files in the system can be found
+by  tracing  a  path  through  a  chain  of directories until the
+desired file is reached. The starting point for such searches  is
+often  the  root,  which contains an entry for each user's master
+directory. Another system directory  contains  all  the  programs
+provided  as  part  of  the  system;  that  is,  all the commands
+(elsewhere, "subsystems"). As will be seen, however, it is by  no
 means necessary that a program reside in this directory for it to
 be used as a command.
 
-Files and directories are named by sequences of eight or fewer
-characters. When the name of a file is specified to the system,
-it may be in the form of a path name, which is a sequence of
-directory names separated by slashes and ending in a file name.
-If the sequence begins with a slash, the search begins in the
+Files  and  directories  are named by sequences of eight or fewer
+characters. When the name of a file is specified to  the  system,
+it  may  be  in  the  form of a path____ name____, which is a sequence of
+directory names separated by slashes and ending in a  file  name.
+If  the  sequence  begins  with a slash, the search begins in the
 root directory. The name "/a/b/c" causes the system to search the
-root for directory "a"; then to search "a" for "b", and then to
-find "c" in "b". "c" may be an ordinary file, a directory, or a
+root  for  directory "a"; then to search "a" for "b", and then to
+find "c" in "b". "c" may be an ordinary file, a directory,  or  a
 special file. As a limiting case, the name "/" refers to the root
 itself.
 
-The same non-directory file may appear in several directories under
-possibly different names. This feature is called "linking"; a
-directory entry for a file is sometimes called a link. UNIX differs
-from other systems in which linking is permitted in that all
-links to a file have equal status. That is, a file does not exist
-within a particular directory; the directory entry for a file
-consists merely of its name and a pointer to the information actually
-describing the file. Thus a file exists independently of
-any directory entry, although in practice a file is made to
+The same non-directory file may appear in several directories un-
+der possibly different names. This feature is called "linking"; a
+directory  entry for a file is sometimes called a link. UNIX dif-
+
+
+                              - 5 -
+
+fers from other systems in which linking is permitted in that all
+links  to a file have equal status.  That is, a file does not ex-
+ist within a particular directory; the directory entry for a file
+consists  merely of its name and a pointer to the information ac-
+tually describing the file. Thus a file exists  independently  of
+any  directory  entry,  although  in  practice  a file is made to
 disappear along with the last link to it.
 
-When a user logs into UNIX, he is assigned a default current
-directory, but he may change to any directory readable by him. A
-path name not starting with "/" causes the system to begin the
-search in the user’s current directory. Thus, the name "a/b"
-specifies the file named "b" in directory "a", which is found in
-the current working directory. The simplest kind of name, for example
-"a", refers to a file which itself is found in the working directory.
+When  a  user  logs  into  UNIX, he is assigned a default current
+directory, but he may change to any directory readable by him.  A
+path  name  not  starting with "/" causes the system to begin the
+search in the user's current  directory.  Thus,  the  name  "a/b"
+specifies  the file named "b" in directory "a", which is found in
+the current working directory. The simplest kind of name, for ex-
+ample  "a", refers to a file which itself is found in the working
+directory.
 
-Each directory always has at least two entries. The name "." in
+Each  directory  always has at least two entries. The name "." in
 each directory refers to the directory itself. Thus a program may
 read the current directory under the name "." without knowing its
-actual path name. The name ".." by convention refers to the
-parent of the directory in which it appears; that is, the directory
-in which it was first created.
+actual path name. The name  ".."  by  convention  refers  to  the
+parent  of the directory in which it appears; that is, the direc-
+tory in which it was first created.
 
-The directory structure is constrained to have the form of a
-rooted tree. Except for the special entries "." and "..", each
-directory must appear as an entry in exactly one other, which is
+The  directory  structure  is  constrained  to have the form of a
+rooted tree. Except for the special entries "."  and  "..",  each
+directory  must appear as an entry in exactly one other, which is
 its parent. The reason for this is to simplify the writing of
-programs which visit subtrees of the directory structure, and
-more important, to avoid the separation of portions of the
-hierarchy. If arbitrary links to directories were permitted, it
-would be quite difficult to detect when the last connection from
+programs  which  visit  subtrees  of the directory structure, and
+more important, to  avoid  the  separation  of  portions  of  the
+
+
+                              - 6 -
+
+hierarchy.  If  arbitrary links to directories were permitted, it
+would be quite difficult to detect when the last connection  from
 the root to a directory was severed.
 
-3.3 Special Files
 
-Special files constitute the most unusual feature of the UNIX
+3_.3_ Special_______ Files_____
+
+Special  files  constitute  the  most unusual feature of the UNIX
 file system. Each I/O device supported by UNIX is associated with
-at least one special file. Special files are read and written
-just like ordinary disk files, but the result is activation of
-the associated device. Entries for all special files reside in
-the root directory, so they may all be referred to by "/" followed
-by the appropriate name.
+at  least  one  special  file. Special files are read and written
+just like ordinary disk files, but the result  is  activation  of
+the  associated  device.  Entries for all special files reside in
+the root directory, so they may all be referred to  by  "/"  fol-
+lowed by the appropriate name.
 
 The special files are discussed further in section 6 below.
 
-3.4 Protection
 
-The protection scheme in UNIX is quite simple. Each user of the
-system is assigned a unique user number. When a file-is created,
-it is marked with the number of its creator. Also given for new
-files is a set of protection bits. Four of these specify independently
-permission to read or write for the owner of the file and
-for all other users. A fifth bit indicates permission to execute
-the file as a program. If the sixth bit is on, the system will
+3_.4_ Protection__________
+
+The protection scheme in UNIX is quite simple. Each user  of  the
+system  is assigned a unique user number. When a file-is created,
+it is marked with the number of its creator. Also given  for  new
+files is a set of protection bits. Four of these specify indepen-
+dently permission to read or write for the owner of the file  and
+for  all other users. A fifth bit indicates permission to execute
+the file as a program. If the sixth bit is on,  the  system  will
 temporarily change the user identification of the current user to
-that of the creator of the file whenever the file is executed as
-a program. This feature provides for privileged programs which
-may use files which should neither be read nor changed by other
-users. If the set-user-identification bit is on for a program,
-the accounting file may be accessed during the program’s execution
-but not otherwise.
+that of the creator of the file whenever the file is executed  as
+a  program.  This  feature provides for privileged programs which
+may use files which should neither be read nor changed  by  other
+users.  If  the  set-user-identification bit is on for a program,
 
-3.5 System I/O Calls
 
-The system calls to do I/O are designed to eliminate the differences
-between the various devices and styles of access. There
+                              - 7 -
+
+the accounting file may be accessed during the  program's  execu-
+tion but not otherwise.
+
+
+3_.5_ System______ I/O___ Calls_____
+
+The  system  calls  to  do I/O are designed to eliminate the dif-
+ferences between the various devices and styles of access.  There
 is no distinction between "random" and sequential I/O, nor is any
-logical or physical record size imposed by the system. The size
-of a file on the disk is determined by the location of the last
-piece of information written on it; no predetermination of the
-size of a file is necessary. In UNIX-11, the unit of information
+logical or physical record size imposed by the system.  The  size
+of  a  file on the disk is determined by the location of the last
+piece of information written on it; no  predetermination  of  the
+size  of a file is necessary. In UNIX-11, the unit of information
 is the 8-bit byte, since the PDP-11 is a byte-oriented machine.
 
-To illustrate the essentials of I/O in UNIX, the basic calls are
+To  illustrate the essentials of I/O in UNIX, the basic calls are
 summarized below in an anonymous higher level language which will
-indicate the needed parameters without getting into the complexities
-of machine language programming. (All system calls are also
-described in Appendix 1 in their actual form.) Each call to the
-system may potentially result in an error return, which for simplicity
-is not represented in the calling sequence.
-
-3.5.1 Open
-
-To read or write a file assumed to exist already, it must be
-Opened by the following call:
-
-      filep = open(name, flag)
+indicate  the needed parameters without getting into the complex-
+ities of machine language programming. (All system calls are also
+described  in  Appendix 1 in their actual form.) Each call to the
+system may potentially result in an error return, which for  sim-
+plicity is not represented in the calling sequence.
 
 
-Name indicates the name of the file. An arbitrary path name may
-be given. The flag argument indicates whether the file is to be
+3_.5_.1_ Open____
+
+To  read  or  write  a  file assumed to exist already, it must be
+opened by the following call:
+
+    filep = open(name, flag)
+
+Name____ indicates the name of the file. An arbitrary path  name  may
+be  given.  The flag____ argument indicates whether the file is to be
+
+
+                              - 8 -
+
 read or written. If the file is to be "updated", that is read and
-written simultaneously, it may be opened twice, once for reading
+written  simultaneously, it may be opened twice, once for reading
 and once for writing.
 
-The returned argument filep is called a file descriptor. It is
-used to identify the file in subsequent calls to read, write or
+The  returned  argument  filep_____ is called a file____ descriptor__________. It is
+used to identify the file in subsequent calls to read,  write  or
 otherwise manipulate the file.
 
-There are no locks in the file system, nor is there any restriction
-on the number of users who may have a file open for reading
-or writing. Although one may imagine situations in which this
+There are no locks in the file system, nor is there any  restric-
+tion  on the number of users who may have a file open for reading
+or writing. Although one may imagine  situations  in  which  this
 fact is unfortunate, in practice difficulties are quite rare.
 
-3.5.2 Create
+
+3_.5_.2_ Create______
 
 To create a new file, the following call is used.
 
      filep = create(name, mode)
 
-Here filep and name are as before. If the file already existed,
-it is truncated to zero length. Creation of a file implies
-opening for writing as well. The mode argument indicates the permissions
-which are to be placed on the file by the protection
-mechanism. To create a file, the user must have write permission
+Here  filep_____  and name____ are as before. If the file already existed,
+it is truncated to  zero  length.  Creation  of  a  file  implies
+opening for writing as well. The mode____ argument indicates the per-
+missions which are to be placed on the  file  by  the  protection
+mechanism.  To create a file, the user must have write permission
 in the directory in which the file is being created.
 
-3.5.3 Write
 
-Except as indicated below, reading and writing are sequential.
-This means that if a particular byte in the file was the last
-byte written (or read), the next I/O call implicitly refers to
-the first following byte. For each Open file there is a pointer,
+3_.5_.3_ Write_____
+
+Except as indicated below, reading and  writing  are  sequential.
+This  means  that  if  a particular byte in the file was the last
+byte written (or read), the next I/O call  implicitly  refers  to
+
+
+                              - 9 -
+
+the  first following byte. For each Open file there is a pointer,
 maintained by the system, which always indicates the next byte to
-be read or written. If n bytes are read, the pointer advances by
-n bytes.
+be  read or written. If n_ bytes are read, the pointer advances by
+n_ bytes.
 
 Once a file is open for writing, the following call may be used.
 
-      nwritten = write(filep, buffer, count)
+     nwritten = write(filep, buffer, count)
 
-Buffer is the address of count sequentially stored bytes (words
-in UNIX-7) which will be written onto the file. nwritten is the
-number of bytes actually written; except in rare cases it is the
-same as count. Occasionally, an error may be indicated; for example
-if paper tape is being written, an error occurs if the tape
+Buffer  is  the address of count sequentially stored bytes (words
+in UNIX-7) which will be written onto the file. nwritten  is  the
+number  of bytes actually written; except in rare cases it is the
+same as count. Occasionally, an error may be indicated; for exam-
+ple  if  paper tape is being written, an error occurs if the tape
 runs out.
 
-For disk files which already existed (that is, were opened by
-open, not create) the bytes written affect only those implied by
-the position of the write pointer and the number of bytes
+For  disk  files  which  already existed (that is, were opened by
+open, not create) the bytes written affect only those implied  by
+the  position  of  the  write  pointer  and  the  number of bytes
 written; no other part of the file is changed.
 
-3.5.4 Read
+3_.5_.4_ Read____
 
 To read, the call is
 
-      nread = read(filep, buffer, count)
+     nread = read(filep, buffer, count)
 
-Up to count bytes are read from the file into buffer. The number
-actually read is returned as nread. Every program must be
-prepared for the possibility that nread is less than count. If
-the read pointer is so near the end of the file that reading
-count characters would cause reading beyond the end, only sufficient
-bytes are transmitted to reach the end of the file.
+Up to count_____ bytes are read from the file into buffer______. The  number
+actually  read  is  returned  as  nread_____.  Every  program  must be
+prepared for the possibility that nread_____ is less  than  count_____.  If
+the  read  pointer  is  so  near the end of the file that reading
+count_____ characters would cause reading beyond the  end,  only  suf-
+
+
+                             - 10 -
+
+ficient  bytes  are  transmitted  to  reach  the end of the file.
 Furthermore, devices like the typewriters work in units of lines.
-Suppose, for example, that before anything has been typed a
-program tries to read 128 characters from the console. This forces
-the program to wait, since nothing has been typed. The user
-now types a line consisting, say, of 10 characters and hits the
-"new line" key. At this point the read call would return indicating
-11 characters read (including the new line). On the
-other hand, it is permissible to read fewer characters than were
+Suppose,  for  example,  that  before  anything  has been typed a
+program tries to read 128 characters from the console. This  for-
+ces  the  program to wait, since nothing has been typed. The user
+now types a line consisting, say, of 10 characters and  hits  the
+"new  line"  key.  At  this  point the read call would return in-
+dicating 11 characters read (including  the  new  line).  On  the
+other  hand, it is permissible to read fewer characters than were
 typed without losing information; for example bytes may be picked
 up one at a time.
 
-When the read call returns with nread equal to zero, it indicates
-the end of the file. For disk files this occurs when the read
-pointer becomes equal to the current size of the file. It is possible
-to generate an end-of-file from a typewriter by use of an
+When the read call returns with nread_____ equal to zero, it indicates
+the  end  of  the  file. For disk files this occurs when the read
+pointer becomes equal to the current size of the file. It is pos-
+sible  to  generate an end-of-file from a typewriter by use of an
 escape sequence which depends on the device used.
 
-3.5.5 Seek
 
-To do "random", that is, direct access I/O it is only necessary
-to move the read or write pointer to the appropriate location in
+3_.5_.5_ Seek____
+
+To do "random", that is, direct access I/O it is  only  necessary
+to  move the read or write pointer to the appropriate location in
 the file.
 
-      seek(filep, base, offset)
+     seek(filep, base, offset)
 
-The read pointer (respectively write pointer) associated with
-filep is moved to a position offset words from the beginning,
-from the current position of the pointer, or from the end of the
-file, depending on whether base is O, 1, or 2. Offset may he
-negative to move the pointer backwards. For some devices (e.g.
-paper tape and typewriters) seek calls are meaningless and are
+The read pointer (respectively  write  pointer)  associated  with
+filep_____  is  moved  to  a position offset______ words from the beginning,
+from the current position of the pointer, or from the end of  the
+file,  depending  on  whether  base____  is 0, 1, or 2. Offset______ may be
+
+
+                             - 11 -
+
+negative to move the pointer backwards. For  some  devices  (e.g.
+paper  tape  and  typewriters) seek calls are meaningless and are
 ignored.
 
 3.5.6 Tell
@@ -420,7 +468,7 @@ program without an explicit "open" or "create"; they have file
 descriptors O and 1. As a program begins execution, file 1 is
 Open for writing, and is best understood as the standard output
 file. Except under circumstances indicated below, this file is
-the user’s typewriter. Thus programs which wish to write informative
+the user's typewriter. Thus programs which wish to write informative
 or diagnostic information ordinarily use file descriptor 1.
 Conversely, file 0 starts off open for reading, and programs
 which wish to read messages typed by the user usually read this file.
@@ -524,7 +572,7 @@ the existence of a process is a core image. While the processor
 is executing on behalf of a process, the core image, quite
 naturally, resides in the core memory of the computer; during the
 execution of other processes, a core image is kept on the disk.
-In order to provide fast response to user’s requests, UNIX, like
+In order to provide fast response to user's requests, UNIX, like
 most time-sharing systems, swaps the core images of processes
 between core and the disk.
 
@@ -643,7 +691,7 @@ At the outset, no one is logged in, so each process simply hangs.
 Finally someone types his name or other identification. The appropriate
 instance of init wakes up, receives the log-in line,
 and reads a password file. If the user is found, and if he is
-able to supply the correct password, init changes to the user’s
+able to supply the correct password, init changes to the user's
 default current directory, sets the user number to that of the
 person logging in, and performs an execute of the Shell. At this
 point the Shell is ready to receive commands and the logging-in
@@ -780,7 +828,7 @@ Clearly this situation leaves much to be desired, for several reasons:
          a long printout;
       3. it is often useful to send an asynchronous signal to a
          process without stopping it (for example by causing a trap
-         to an agreed-upon location within the process’s core
+         to an agreed-upon location within the process's core
          image).
 
 Doubtless, therefore, the interrupt facility will be reworked in
@@ -851,7 +899,7 @@ To change the current directory, use
 This command is the only one that does not reside in directory
 "/bin"; instead it is part of the Shell. The reason is
 interesting. Recall that each ordinary command is executed as a
-separate process created by the Shell. If the system’s chdir
+separate process created by the Shell. If the system's chdir
 primitive were executed in such a process, it would have essentially
 no effect, since the process would terminate instantly
 without affecting the current directory of the Shell process and
@@ -1016,7 +1064,7 @@ prompt character "@". See section 5 above. The Shell has several
 features besides those mentioned in section 5.
 
       1. Arguments or parts of arguments to commands enclosed in
-         single (’) or double (") quotes are taken literally, so that
+         single (') or double (") quotes are taken literally, so that
          arbitrary character strings can be passed (including spaces,
          "<" or ">" etc.).
 
@@ -1336,7 +1384,7 @@ when exchanging core images. The locations swapped are those from
 the beginning of the core image to the initial program break, and
 from the top of user core down to the stack pointer. The initial
 program break is determined by the size of the file containing
-the program. The system’s idea of how much to swap may be altered
+the program. The system's idea of how much to swap may be altered
 by using this call:
 
       sys break
@@ -1608,7 +1656,7 @@ sequential words or bytes specified by the expression is printed.
 There are two commands to interpret the value of expressions.
 
       = When preceded by an expression, the value of the expression
-		<< page A7 is missing here >>
+                << page A7 is missing here >>
         typewriter (EOT character).
 
 A2.4 ed
