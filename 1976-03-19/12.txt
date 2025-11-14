@@ -1,7 +1,7 @@
 Mar 19 20:29 1976  UNIX NEWS Mailing List Page 2
 
 
-507-645-4431x504                        301-582-3770                            212-280-5517
+507-645-4431x504                        201-582-3770                            212-280-5517
 Carl Henry                              Mr. Dennis M. Ritchie                   Mr. Reidar Bornholdt
 Computer Center                         Room 2c514                              Dept. Of Biological Sciences
 Carleton College                        Bell Telephone Laboratories             653 Schermerhorn Hall
@@ -10,7 +10,7 @@ Northfield, Minn.  55057                Murray Hill, NJ  07974                  
 
 507-663-3096                            ***No Phone Number                      212-289-5940
 Prof. Ralph H. Bjork                    Mr. Joseph F. Maranzano                 Mr. Dustin H. Heuston
-Science Building                        2e401                                   The Spence School
+Science Building                        2c401                                   The Spence School
 St. Olaf College                        Bell Telephone Laboratories             22 East 91st Street
 Northfield, Minn. 55057                 Murray Hill, NJ  07974                  New York, N. Y. 10028
 
@@ -36,7 +36,7 @@ High School District                    Cranbury Road                           
 758 Merrett Road                        East Brunswick, N. J.  08816            New York, NY  10038
 Lexington, Mass.  02173
 
-919-933-7339                            212-254-6800x238                        212-725-7173
+919-933-7339                            212-254-6300x238                        212-725-7173
 Prof. James D. Foley                    Robert P. Hopkins                       Mr. Meyer Shopko
 Dept. Of Computer Science               Manager Computer Center                 Computing Center
 University Of North Carolina            The Cooper Union                        Bronx Community College
@@ -50,7 +50,7 @@ Duke Medical Center                     555 West 57 Street                      
 Durham, N.C. 27710                      New York, New York 10019                Brooklyn, New York 11210
 
 
-201-949-6948                            212-644-6920                            516-686-7644
+201-949-6948                            212-644-0920                            516-686-7644
 Mr. Clyde P. Imagna                     Mr. Richard Shore                       Prof. Ed Catmull
 Room #1C-406A                           Commercial Union Leasing                Computer Graphics Lab
 Bell Telephone Laboratories             645 Madison Avenue                      New York Inst. of Technology

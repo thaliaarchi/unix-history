@@ -46,10 +46,10 @@ Bedford, Mass.  01730                   The Johns Hopkins University            
                                         Baltimore, Md. 21218                    201-949-3490
 Dr. John C. C. White                    301-338-7024
 Mitre Corp.                                                                     Mr. Clyde P. Imagna
-Room 0B-404                             Timothy W. Hoal, Director               Room #1C-406A
+Room 0B-404                             Timothy W. Hoel, Director               Room #1C-406A
 P.O. Box 208                            Academic Computer Center                Bell Telephone Laboratories
 Bedford, Mass.  01730                   St. Olaf College                        Crawford Corners Rd.
-617-271-2384                            Northfield, MN55057                     Holmdel, NJ 07733
+617-271-2384                            Northfield, MN 55057                    Holmdel, NJ 07733
                                                                                 201-949-6948
 Hq ESD/MCIT (Stop 36)                   Carl Henry
 Attention: Capt Paul Karger             Computer Center                         Irma B. Biren
@@ -58,7 +58,7 @@ L.G. Hanscom AFB, Mass 01731            Carleton College                        
 Shao-Sun Chien                          507-645-4431x504                        600 Mountain Ave.
 Harvard School of Public Health                                                 Murray Hill, NJ. 07974
 Computing Facility                      Prof. W.R. Franta
-665 Huntington Ave.                     Interactive Computation Lab.            Mr. Joseph F, Maranzano
+665 Huntington Ave.                     Interactive Computation Lab.            Mr. Joseph F. Maranzano
 Boston, Mass. 02115                     University of Minnesota                 2C401
                                         143 Space Science Center                Bell Telephone Laboratories
 Mr. Bill Mayhew                         Minneapolis, Minn. 55455                Murray Hill, NJ  07974

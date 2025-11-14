@@ -12,7 +12,7 @@ Edinburgh Eh1 2ht SCOTLAND
 Mr. Jeffrey Tansley
 Dept. Of Computer Science
 Univ. Of Edinbourgh
-King's Buildings, Hayfield Road
+King's Buildings, Mayfield Road
 Edinburgh Eh9 3jz, SCOTLAND
 
 66822
@@ -52,6 +52,6 @@ Nijmegen      NETHERLANDS
 
 ***No Phone Number
 Hernan Suarez-Flamerich
-Cea. De Information Y Computacion
+Cen. De Informacion Y Computacion
 Universidad Simon Bolivar
 Caracas, VENEZUELA

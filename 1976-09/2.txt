@@ -29,7 +29,7 @@ La Jolla, Ca. 92093                     300 Pasteur Drive                       
                                         Stanford, California  94305             AF DSC/SFA
 Glen M. Brechlin                        415-497-7228                            Room 1D 144
 NELC                                                                            The Pentagon
-271 Catalina Blvd.                      Prof. R. S. Fabry                       Washington, D.C.  20330
+271 Catalina Blvd.                      Prof. R. S. Fabry                       Washington, D. C.  20330
 San Diego, Ca. 92152                    Computer Science                        202-697-3577
                                         531 Evans Hall
 L.H. Brock                              University Of California                James Lucas
@@ -52,9 +52,9 @@ San Luis Obispo, Ca.  93407                                                     
 Mr. John Bass                           Psychology Dept.                        404-894-3152
 Computer Center                         Yale University
 Calif. Polytechnic State U.             Box 11A, Yale Station                   Laurens V. Ackerman, M.D.
-San Luis Obispo, CA  93407              New Haven, Ct  06520                    Department Of Medicine
+San Luis Obispo, CA  93407              New Haven, Ct   06520                   Department Of Medicine
                                         203-432-4893                            Rush Medical Center
-Prof. Geraid L. Barksdale, Jr.                                                  1753 Congress Parkway
+Prof. Gerald L. Barksdale, Jr.                                                  1753 Congress Parkway
 Code 52BA                               Roger Deshaies                          Chicago, Illinois  60612
 Computer Science Department             Yale Lung Research Center               312-942-5276
 Naval Postgraduate School               105 LCI

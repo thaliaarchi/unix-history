@@ -54,7 +54,7 @@ Computer Center
 Calif. Polytechnic State U.
 San Luis Obispo, CA  93407
 
-Prof. Geraid L. Barksdale, Jr.
+Prof. Gerald L. Barksdale, Jr.
 Code 52BA
 Computer Science Department
 Naval Postgraduate School
@@ -115,7 +115,7 @@ Dr. Michael Kubovy
 Psychology Dept.
 Yale University
 Box 11A, Yale Station
-New Haven, Ct  06520
+New Haven, Ct   06520
 203-432-4893
 
 Roger Deshaies
@@ -156,7 +156,7 @@ Major Allan R. Wylie
 AF DSC/SFA
 Room 1D 144
 The Pentagon
-Washington, D.C.  20330
+Washington, D. C.  20330
 202-697-3577
 
 James Lucas
@@ -296,10 +296,10 @@ The Johns Hopkins University
 Baltimore, Md. 21218
 301-338-7024
 
-Timothy W. Hoal, Director
+Timothy W. Hoel, Director
 Academic Computer Center
 St. Olaf College
-Northfield, MN55057
+Northfield, MN 55057
 
 Carl Henry
 Computer Center
@@ -370,7 +370,7 @@ MH 2C-548
 600 Mountain Ave.
 Murray Hill, NJ. 07974
 
-Mr. Joseph F, Maranzano
+Mr. Joseph F. Maranzano
 2C401
 Bell Telephone Laboratories
 Murray Hill, NJ  07974
@@ -396,13 +396,13 @@ Princeton, NJ  08540
 Prof. Bruce W. Arden
 Dept. Of Electrical Engineering
 Princeton University
-Princeton, N.J, 08540
+Princeton, N.J. 08540
 609-452-4640
 
 Mr. Seymour Grodstein
 East Brunswick High School
 Cranbury Road
-East Brunswick, N.J.08816
+East Brunswick, N. J.  08816
 201-257-8300x250
 
 R.C. Haight
@@ -448,7 +448,7 @@ New York, NY  10022
 
 Mr. Reidar Bornholdt
 Dept. Of Biological Sciences
-653 Schermerhorn Hail
+653 Schermerhorn Hall
 Columbia University
 New York, N. Y. 10027
 212-280-5517
@@ -558,12 +558,12 @@ Phila, Pa 19104
 
 H. K. Eisenstein
 University Of South Carolina
-Columbia, S.C.  29208
+Columbia, S. C.   29208
 
 D. W. Canham, Jr., Asst. Director
 Center For Advanced Studies
 Univ. Of Texas at Dallas
-P.O. Box 688
+P. O. Box 688
 Richardson, Texas 75080
 214-690-2211
 
@@ -667,7 +667,7 @@ Computer Science Dept.
 University Of Waterloo
 Waterloo, Ontario
 CANADA         N21 3G1
-519-885-1211x3400k3293
+519-885-1211x34001x3293
 
 Dr. J.M. Wells
 Computer Science Dept.
@@ -686,7 +686,7 @@ Peter Hardie
 Dept. Of Computational Science
 University Of Saskatchewan
 Saskatoon, Saskatchewan
-CANADA        S7N OWO
+CANADA        S7N 0W0
 306-343-5801
 
 Prof. Lawrence O. Sinkey
@@ -700,7 +700,7 @@ Prof. T. A. Marsland
 Dept. Of Computing Science
 Univ. Of Alberta
 Edmonton, Alberta
-CANADA        T6G 2E1
+CANADA          T6G 2E1
 403-432-3971
 
 Stephen W. Borden

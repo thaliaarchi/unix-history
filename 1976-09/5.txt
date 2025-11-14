@@ -5,7 +5,7 @@ David M. Phillips                       Prof. Jeffrey Kulick                    
 Computation Center                      Dept. Of Comp. And Info. Sci.           Dept. Of Computing Science
 University of Texas                     Queen's University                      Univ. Of Alberta
 Austin, Texas 78712                     Kingston, CANADA                        Edmonton, Alberta
-512-471-3242                            K7L 3N6                                 CANADA        T6G 2E1
+512-471-3242                            K7L 3N6                                 CANADA          T6G 2E1
                                         613-547-6148/2711                       403-432-3971
 Glenn Gibson
 University of Texas El Paso             Mr. Rick Macfarlane                     Stephen W. Borden
@@ -34,7 +34,7 @@ Arlington, Va. 22209                                                            
 Steve Walker                            University Of Waterloo                  Computing Services Unit
 ARPA                                    Waterloo, Ontario                       University of New South Wales
 1400 Wilson Blvd.                       CANADA         N21 3G1                  P.O. Box 1
-Arlington Va.                           519-885-1211x3400k3293                  Kensington. 2033.  AUSTRALIA
+Arlington Va.                           519-885-1211x34001x3293                 Kensington. 2033.  AUSTRALIA
    694-5037                                                                     662-3239
                                         Dr. J.M. Wells
 Mr. Richard Becker                      Computer Science Dept.                  J.A. Lambert, Director
@@ -53,7 +53,7 @@ Madison, Wis. 53706                     204-474-8165                            
 W. D. Richardson                        Dept. Of Computational Science          Unite D'Informatique
 Computing Devices Company               University Of Saskatchewan              Universite Catholique De Louvain
 P.O. Box 8508                           Saskatoon, Saskatchewan                 Chemin Du Cyclotron 2
-Ottawa, Ontario                         CANADA        S7N OWO                   1348 Louvain-La-Neuve, BELGIUM
+Ottawa, Ontario                         CANADA        S7N 0W0                   1348 Louvain-La-Neuve, BELGIUM
 CANADA          K1G 3M9                 306-343-5801                            010-417231
 613-596-3081
                                         Prof. Lawrence O. Sinkey                Technische Universitat Berlin

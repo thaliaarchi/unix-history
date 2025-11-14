@@ -1,9 +1,9 @@
 Mar 19 20:29 1976  UNIX NEWS Mailing List
 
 
-205-984-8820
+205-934-3320
 Mr. Travis Wood
-IMO, Spain, UAB
+B40, Spain, UAB
 University Station
 Birmingham, Alabama  35294
 
@@ -26,7 +26,7 @@ La Jolla, Cal.  92093
 Dr. James L. Beug
 Dept. Of Comp. Sci. And Stat.
 California Polytechnic State U.
-San Luis Obispo, CA  98407
+San Luis Obispo, CA  93407
 
 
 408-646-2449
@@ -71,7 +71,7 @@ University Of California
 Berkeley, Cal. 94720
 
 
-208-436-8160
+203-436-8160
 Robert W. Tuttle
 Dept. Of Computer Science
 Yale University
@@ -85,7 +85,7 @@ Yale University
 307c Sss
 New Haven, Ct   06520
 
-801-921-8491
+301-921-3491
 Brian Lucas
 National Bureau Of Standards
 Building 225 Room A265
@@ -124,7 +124,7 @@ Chicago, Illinois  60612
 Mr. Michael T. O'Brien
 Dept. Of Information Engineering
 University Of Illinois
-Po Box 4848
+Po Box 4348
 Chicago, Ill.  60680
 
 309-343-0112x414
@@ -225,7 +225,7 @@ Bell Telephone Laboratories
 Crawford Corners Rd.
 Holmdel, NJ 07733
 
-301-582-3770
+201-582-3770
 Mr. Dennis M. Ritchie
 Room 2c514
 Bell Telephone Laboratories
@@ -234,7 +234,7 @@ Murray Hill, NJ  07974
 
 ***No Phone Number
 Mr. Joseph F. Maranzano
-2e401
+2c401
 Bell Telephone Laboratories
 Murray Hill, NJ  07974
 
@@ -260,7 +260,7 @@ Cranbury Road
 East Brunswick, N. J.  08816
 
 
-212-254-6800x238
+212-254-6300x238
 Robert P. Hopkins
 Manager Computer Center
 The Cooper Union
@@ -274,7 +274,7 @@ Cuny University Computing Center
 New York, New York 10019
 
 
-212-644-6920
+212-644-0920
 Mr. Richard Shore
 Commercial Union Leasing
 645 Madison Avenue
@@ -344,7 +344,7 @@ Long Island Center
 Route 110
 Farmingdale, NY 11735
 
-607-256-4830
+607-256-4880
 David H. Bessel, Manager
 Program Of Computer Graphics
 Cornell University
@@ -433,13 +433,13 @@ Prof. Jeffrey Kulick
 Dept. Of Comp. And Info. Sci.
 Queen's University
 Kingston, CANADA
-K71 3n6
+K7l 3n6
 
 618-596-3831
 W. D. Richardson
 Computing Devices Company
 Po Box 8508
-Ottowa, Ontario, CANADA
+Ottawa, Ontario, CANADA
 K1g 3m9
 
 416-928-3707
@@ -470,14 +470,14 @@ Room 431a
 200 Bouchard Blvd.
 Dorval, Quebec, CANADA  H9S 1A8
 
-306-343-5301
+306-343-5801
 Peter Hardie
 Dept. Of Computational Science
 University Of Saskatchewan
 Saskatoon, Saskatchewan
 CANADA          S7n 0w0
 
-664-0351
+663-0351
 Dr. John Lions
 Dept. Of Computer Science
 University Of New South Wales
@@ -487,7 +487,7 @@ AUSTRALIA
 02236-7485
 Jim Curry
 Computing Services
-Int. Inst. Of App. Systems. Anal.
+Int. Inst. Of App. Systems Anal.
 2361 Laxenburg, AUSTRIA
 
 
@@ -516,7 +516,7 @@ Edinburgh Eh1 2ht SCOTLAND
 Mr. Jeffrey Tansley
 Dept. Of Computer Science
 Univ. Of Edinbourgh
-King's Buildings, Hayfield Road
+King's Buildings, Mayfield Road
 Edinburgh Eh9 3jz, SCOTLAND
 
 66822
@@ -556,6 +556,6 @@ Nijmegen      NETHERLANDS
 
 ***No Phone Number
 Hernan Suarez-Flamerich
-Cea. De Information Y Computacion
+Cen. De Informacion Y Computacion
 Universidad Simon Bolivar
 Caracas, VENEZUELA
