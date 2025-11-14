@@ -85,6 +85,7 @@
     - "there were 450 attendees at the USENIX meeting, which is the largest
       attendance yet"
   - 19a-22b: Boulder Usenix conference registrants
+    - 19a: "Bruce L. Carneal / Brigham Young University"
     - 19b: "Bob Ellrig / Oregon State University"
     - 19b: "Randy Frank / University of Utah"
     - 19b: "Michael J. Frelling / Oregon State University"
