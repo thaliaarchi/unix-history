@@ -1,0 +1,59 @@
+Software Tools & USENIX Meetings in Boulder                            Jan 28--Feb 1, 1980
+
+
+
+
+
+                                       Table of Contents
+
+Number                                          Topic                              Speaker
+
+Software Tools Meeting
+
+1                     Opening Remarks                                      Debbie Scherrer
+2                     Enhanced Tools                                            Allen Able
+3                     Heterogeneous Networking                                 Joe Svenisk
+4                     Standardized Primitives                                  Skip Egdorf
+5                     Naval Ocean Systems Center                               Bob Calland
+6                     Portal Crystallography Software                          Jim Stewart
+7                     Maintaining TELCO Software                           Dick McLaughlin
+8                     S -- Stats System                                        Rick Becker
+9                     ALDS -- Statistics Package                                 Jon Lewis
+10                    Publication of Algorithms                                Webb Miller
+12                    Special Interest Groups                              Debbie Scherrer
+
+USENIX Meeting
+
+1                     Opening Comments                                       John Donnelly
+2                     Converting to UNIX                                          Brad Cox
+3                     New Products from Yourdon                               Mark Pearson
+4                     News from Intermetrics                                  Morris Kranc
+5                     UNIX at Fujitsu                                  Yoshitaka Hirsisuka
+6                     News from BBN                                            Ben Wosnick
+7                     News from DEC                                            Bill Munson
+8                     Distributed Ring Network                                Bruce Walker
+9                     News from Western Electric                                   Al Arms
+10                    UNIX on the Harris /6 mini                              Bill Shannon
+11                    UNIX on an IBM Series/1                                  Paul Jalics
+12                    News from ISC                                         Heinz Lycklama
+13                    UNIX Performance Considerations                         David Mosher
+14                    IDRIS -- UNIX V6 lookalike                              Mark Krieger
+15                    Contiguous Files in UNIX                               Mitchell Gart
+16                    Performance Improvement: Large Buffers               Jeff Schriebman
+17                    Better Signal Management for IPC                          Paul Rubin
+18                    C and Pascal from Whitesmiths                           Mark Krieger
+19                    UNIX on an Amdahl 470                                    Gordon Kass
+20                    Optimized Disc Freelist Layouts                          Walt Lazear
+21                    Interactive Process Control                                 Jim Kulp
+22                    USENIX Announcements                                        Lou Katz
+23                    Porting C to a Word Addressable Machine                  Sam Leffler
+24                    Software Testing                                          Bob Varney
+25                    ANSI BASIC for UNIX                                   Chris Sturgess
+26                    New CULC FORTRAN IV PLUS                             Robert Bradbury
+27                    Running V7 on small PDP-11's                             Bill Jolitz
+28                    SEED Database System                                  Herb Edelstein
+29                    Simplified DB Access YACC and INGRES                Neil Groundwater
+30                    Geolab Interactive Environment                         James Herriot
+31                    Berkeley Virtual Memory UNIX V32                            Bill Joy
+
+                                              - 2 -

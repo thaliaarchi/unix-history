@@ -80,6 +80,7 @@
   - 18b: "49 / QED, or The Little Ed That GREW / Robert Pike, David Tilbrook":
     University of Toronto's qed, which extends ed
 - 1980-02:
+  - Has italic
   - 3a-18a: Boulder Software Tools and USENIX meetings in summary
     (28 January - 2 February 1980)
     - "there were 450 attendees at the USENIX meeting, which is the largest

@@ -1,0 +1,58 @@
+Software Tools & USENIX Meetings in Boulder                            Jan 27--Feb 1, 1980
+
+
+
+32              A Moderate Office DB Management System                      David Tilbrook
+33              Key'ed I/O Mechanism for UNIX                                  Bob Lunimis
+34              An Enhanced Spell Checker                                      David James
+35              Image Processing                                                  Bob Gray
+36              3D Image Processing for Biology                                 Noel Kroff
+37              Status of UNIX V7                                           Dennis Ritchie
+38              West Coast Users Group                                           John Bass
+39              Interactive Image Processing                                     Ren Tracy
+40              Interactive Graphics in Pharmacology                            Tom Ferrin
+41              Speaking Terminal for Blind Programmers                  Ronald A. Murford
+42              Summary of Tuesday Software Tools Meeting                  Debbie Scherrer
+43              TTY Handling                                                  Dan Franklin
+44              Putting up UNIX when you don't know much                  Robert A. Morris
+45              STDPLT: A Device-Independent Plotting Package                John Nickolls
+46              Two LSI Layout Tools                                        Robert Mathews
+47              SCANARGS: A Command-line Argument Scanner                      Gary Newman
+48              Black Holes in UNIX Filesystems                                    Joe Yao
+49              Invitation to Join an Informal International UNIX Network      James Ellis
+50              Disc Scheduling AND V7 on a 28000                                John Bass
+51              C on the M68000                                           Charles Forsberg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      - 3 -
