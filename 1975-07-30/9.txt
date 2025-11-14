@@ -2,7 +2,7 @@ JUL 30 18:53 1975  PHONE.NAMES PAGE 1
 
 
 201-503-2374                   0.1      301-366-3300X251                 8
-MR. KEN THOMPSON                        PROF/ W.M. HUGGINS
+MR. KEN THOMPSON                        PROF. W.H. HUGGINS
 ROOM 20523                              DEPT OF ELECTRICAL ENGINEERING
 BELL TELEPHONE LABORATORIES             THE JOHNS HOPKINS UNIVERSITY
 MURRAY HILL, N.J.  07974                BALTIMORE, MD. 21218
@@ -30,7 +30,7 @@ EDMONTON, ALBERTA                       NEW YORK, NEW YORK 10019
 CANADA          T6G 2E1
 
 617-522-4800                     3      212-579-3501                    12
-MR BILL MAYHEW                          DR. LOU KATZ
+MR. BILL MAYHEW                         DR. LOU KATZ
 THE CHILDRENS MUSEUM                    COLUMBIA UNIVERSITY
 THE JAMAICAWAY                          COLLEGE OF PHYSICIANS AND SURGEONS
 BOSTON, MASS, 02130                     630 WEST 168 STREET

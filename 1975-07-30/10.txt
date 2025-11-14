@@ -2,14 +2,14 @@ JUL 30 18:53 1975  PHONE.NAMES PAGE 2
 
 
 519-885-1211X2810             18.1      010-417231                      29
-PROF. R.W. PEEBLES                      PROF. E. NILSRON
+PROF. R.W. PEEBLES                      PROF. E. MILGROM
 COMPUTER COMM. NETWORK GROUP            UNITE D'INFORMATIQUE
 UNIVERSITY OF WATERLOO                  UNIVERSITE CATHOLIQUE DE LOUVAIN
 WATERLOO, ONTARIO,                      CHEMIN DU CYCLOTRON 2
 CANADA          N2L 3G1                 1348 LOUVAIN-LA-NEUVE, BELGIUM
 
 519-835-1211X3400\!X3293              18.2      415-497-7228                    30
-ERNEST CHANG                            PROF. C. J. KARSMARK
+ERNEST CHANG                            PROF. C. J. KARZMARK
 COMPUTER SCIENCE DEPT.                  DEPT. OF RADIOLOGY
 UNIVERSITY OF WATERLOO                  STANFORD UNIV. SCHOOL OF MEDICINE
 WATERLOO, ONTARIO                       300 PASTEUR DRIVE
@@ -44,13 +44,13 @@ BERKELEY, CAL. 94720                    UNIV OF NORTH CAROLINA
                                         CHAPEL HILL, N.C. 27514
 
 213-393-0411X240                26      212-289-5940                    36
-MR. JOWN LOWRY                          MR. DUSTIN H. HEUSTON
+MR. JOHN LOWRY                          MR. DUSTIN H. HEUSTON
 INFORMATION SCIENCES DEPT.              THE SPENCE SCHOOL
 THE RAND CORPORATION                    22 EAST 91ST STREET
 1700 MAIN STREET                        NEW YORK, N. Y. 10028
 SANTA MONICA, CALIF.  90406
                                         416-978-4800
-214-690-2211                    29      416-928-4800                    37
+214-690-2211                    28      416-928-4800                    37
 D. W. CANHAM, JR., ASST. DIRECTOR       MR. DENNIS SMITH
 CENTER FOR ADVANCED STUDIES             MANAGER
 UNIV. OF TEXAS AT DALLAS                COMPUTER RESEARCH FACILITY
