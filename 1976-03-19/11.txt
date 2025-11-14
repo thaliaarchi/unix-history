@@ -8,14 +8,14 @@ University Station                      University Of California                
 Birmingham, Alabama  35294              Berkeley, Cal. 94720                    1753 Congress Parkway
                                                                                 Chicago, Illinois  60612
 
-213-893-0411x240                        415-642-4871                            312-996-3408
+213-393-0411x240                        415-642-4871                            312-996-3408
 Mr. John Lowry                          Prof. Michael Stonebraker               Mr. Michael T. O'Brien
 The Rand Corporation                    EECS Department                         Dept. Of Information Engineering
 1700 Main Street                        University Of California                University Of Illinois
 Santa Monica, Calif.  90406             Berkeley, Cal. 94720                    Po Box 4848
                                                                                 Chicago, Ill.  60680
 
-***No Phone Number                      208-436-8160                            309-348-0112x414
+***No Phone Number                      208-436-8160                            309-343-0112x414
 John Cornelius                          Robert W. Tuttle                        Mr. Wm. C. Ripperger
 Chemistry Dept. Comp. Fac B-014         Dept. Of Computer Science               Computer Center Director
 Univ. Of Calif. At San Diego            Yale University                         Knox College
@@ -34,7 +34,7 @@ Prof. Belton E. Allen                   Brian Lucas                             
 Code 72an                               National Bureau Of Standards            School Of Electrical Engineering
 Computer Science Group                  Building 225 Room A265                  Purdue University
 Naval Postgraduate School               Washington, DC  20234                   West Lafayette, Ind.  47907
-Monterey, California 98940
+Monterey, California 93940
 
 ***No Phone Number                      202-697-3577                            **No Phone Number
 Eric Sultan                             Major Allan R. Wylie                    Stephen J. Mahler
@@ -47,10 +47,10 @@ Sunnyvale, Calif.   94086               The Pentagon                            
 Prof. C. J. Karzmark                    John J. Falcone, Director               Director N. S. A..
 Dept. Of Radiology                      Computing Center                        Fort G. G. Meade
 Stanford Univ. School Of Medicine       Univ. of Delaware                       Maryland  20755
-360 Pasteur Drive                       Smith Hall
-Stanford, California  94005             Newark, Delaware  19711                 Attn:  Dennis L. Mumaugh, R253
+300 Pasteur Drive                       Smith Hall
+Stanford, California  94305             Newark, Delaware  19711                 Attn:  Dennis L. Mumaugh, R253
 
-415-642-2714                            404-894-3152                            301-366-3800x251
+415-642-2714                            404-894-3152                            301-366-3300x251
 Prof. R. S. Fabry                       Carl Bedingfield                        Prof. W. H. Huggins
 Computer Science                        ICS Laboratory                          Dept. Of Electrical Engineering
 University Of California                School Of Info. And Comp. Sci.          The Johns Hopkins University

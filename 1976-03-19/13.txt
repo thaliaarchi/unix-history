@@ -20,7 +20,7 @@ M. L. Conts, Jr.                        Prof. E. J. Desautels                   
 Purchasing                              Computer Science Dept.                  Bell Canada
 Denison University                      University Of Wisconsin                 Room 431a
 Po Box 119                              1210 W Dayton St                        200 Bouchard Blvd.
-Granville, Ohop  43023                  Madison, Wis. 53706                     Dorval, Quebec, CANADA  H9S 1A8
+Granville, Ohio  43023                  Madison, Wis. 53706                     Dorval, Quebec, CANADA  H9S 1A8
 
 216-791-7300x2900                       403-432-3971                            306-343-5301
 Mr. Gary M. Goins                       Prof. T. A. Marsland                    Peter Hardie
@@ -44,7 +44,7 @@ Main & Elizabeth Streets                Kingston, CANADA                        
 Bethlehem, Pa.   18018                  K71 3n6
 
 ***No Phone Number                      618-596-3831                            010-417231
-H. S. Eisenstein                        W. D. Richardson                        Prof. E. Milgron
+H. S. Eisenstein                        W. D. Richardson                        Prof. E. Milgrom
 University Of South Carolina            Computing Devices Company               Unite D'Informatique
 Columbia, S. C.   29208                 Po Box 8508                             Universite Catholique De Louvain
                                         Ottowa, Ontario, CANADA                 Chemin Du Cyclotron 2

@@ -8,7 +8,7 @@ University Station
 Birmingham, Alabama  35294
 
 
-213-893-0411x240
+213-393-0411x240
 Mr. John Lowry
 The Rand Corporation
 1700 Main Street
@@ -34,7 +34,7 @@ Prof. Belton E. Allen
 Code 72an
 Computer Science Group
 Naval Postgraduate School
-Monterey, California 98940
+Monterey, California 93940
 
 ***No Phone Number
 Eric Sultan
@@ -47,8 +47,8 @@ Sunnyvale, Calif.   94086
 Prof. C. J. Karzmark
 Dept. Of Radiology
 Stanford Univ. School Of Medicine
-360 Pasteur Drive
-Stanford, California  94005
+300 Pasteur Drive
+Stanford, California  94305
 
 415-642-2714
 Prof. R. S. Fabry
@@ -127,7 +127,7 @@ University Of Illinois
 Po Box 4848
 Chicago, Ill.  60680
 
-309-348-0112x414
+309-343-0112x414
 Mr. Wm. C. Ripperger
 Computer Center Director
 Knox College
@@ -162,7 +162,7 @@ Maryland  20755
 
 Attn:  Dennis L. Mumaugh, R253
 
-301-366-3800x251
+301-366-3300x251
 Prof. W. H. Huggins
 Dept. Of Electrical Engineering
 The Johns Hopkins University
@@ -177,13 +177,13 @@ Northfield, Minn.  55057
 
 
 507-663-3096
-Prof. Ralph M. Bjork
+Prof. Ralph H. Bjork
 Science Building
 St. Olaf College
 Northfield, Minn. 55057
 
 
-717-522-4800
+617-522-4800
 Mr. Bill Mayhew
 The Childrens Museum
 The Jamaicaway
@@ -204,7 +204,7 @@ High School District
 758 Merrett Road
 Lexington, Mass.  02173
 
-919-933-7389
+919-933-7339
 Prof. James D. Foley
 Dept. Of Computer Science
 University Of North Carolina
@@ -223,7 +223,7 @@ Mr. Clyde P. Imagna
 Room #1C-406A
 Bell Telephone Laboratories
 Crawford Corners Rd.
-Holmdel, NJ 07744
+Holmdel, NJ 07733
 
 301-582-3770
 Mr. Dennis M. Ritchie
@@ -267,7 +267,7 @@ The Cooper Union
 Cooper Square
 New York, NY  10003
 
-212-977-3008
+212-977-8008
 Mr. Ira Fuchs, Director
 Cuny University Computing Center
 555 West 57 Street
@@ -299,7 +299,7 @@ New York, N. Y. 10028
 Dr. Lou Katz
 Columbia University
 College Of Physicians & Surgeons
-650 West 168 Street
+630 West 168 Street
 New York, NY 10032
 
 212-790-4401
@@ -356,7 +356,7 @@ M. L. Conts, Jr.
 Purchasing
 Denison University
 Po Box 119
-Granville, Ohop  43023
+Granville, Ohio  43023
 
 216-791-7300x2900
 Mr. Gary M. Goins
@@ -492,7 +492,7 @@ Int. Inst. Of App. Systems. Anal.
 
 
 010-417231
-Prof. E. Milgron
+Prof. E. Milgrom
 Unite D'Informatique
 Universite Catholique De Louvain
 Chemin Du Cyclotron 2
