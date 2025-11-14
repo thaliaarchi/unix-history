@@ -1,2 +1,2 @@
-# Include plain text in GitHub language stats
 *.txt linguist-detectable
+*.md linguist-detectable
