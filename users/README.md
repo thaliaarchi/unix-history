@@ -30,6 +30,10 @@ List sources:
 3. UNIX News March 19, 1976
 4. UNIX News September 1976
 
+[^pirzada]: *A Statistical Examination of The Evolution of the UNIX System* \
+  Shamim Sharifuddin Pirzada \
+  Imperial College of Science, Technology and Medicine, University of London \
+  Doctor of Philosophy thesis, September 1988
 [^mckusick]: *Open Sources: Voices from the Open Source Revolution* \
   Twenty Years of Berkeley Unix: From AT&T-Owned to Freely Redistributable \
   Marshall Kirk McKusick, January 1999
@@ -46,10 +50,10 @@ List sources:
 |           |                           | Bell Telephone Laboratories                           | Piscataway, NJ               |                                  | John R. Mashey                 |       4 |
 |           |                           | Western Electric                                      | New York, NY                 | Patent License Manager           | Richard G. Shahpazian, Esq.    |     3   |
 |           |                           | Western Electric                                      | Greensboro, NC               | Patent License Manager           | Richard G. Shahpazian, Esq.    |       4 |
-| 1         |                           | Columbia University                                   | New York, NY                 | Biological Sciences              | Prof. Cyrus Levinthal          | 1       |
+| 1         | Oct 1973 [^pirzada]       | Columbia University                                   | New York, NY                 | Biological Sciences              | Prof. Cyrus Levinthal          | 1       |
 | 1a, 1     |                           | Columbia University                                   | New York, NY                 | Biological Sciences              | Mr. Reidar Bornholdt           | 1 2 3 4 |
 | 2         |                           | University of Alberta                                 | Edmonton, AB, Canada         | Computing Science                | Prof. T. A. Marsland           | 1 2 3 4 |
-| 3         |                           | The Children's Museum                                 | Boston, MA                   |                                  | Mr. Bill Mayhew                | 1 2 3 4 |
+| 3         | Oct 1973 [^pirzada]       | The Children's Museum                                 | Boston, MA                   |                                  | Mr. Bill Mayhew                | 1 2 3 4 |
 | 4         |                           | Princeton University                                  | Princeton, NJ                | Electrical Engineering           | Prof. Bruce W. Arden           | 1 2 3 4 |
 |           |                           | Princeton University                                  | Princeton, NJ                | Statistics                       | Prof. Peter Bloomfield         |     3 4 |
 | 5         |                           | University of Wisconsin                               | Madison, WI                  | Computer Science                 | Prof. E. J. Desautels          | 1 2 3 4 |
@@ -71,7 +75,7 @@ List sources:
 | 12        |                           | Columbia University                                   | New York, NY                 | Physicians and Surgeons          | Dr. Lou Katz                   |   2 3 4 |
 | 13        |                           | Oregon Museum of Science and Industry                 | Portland, OR                 | Computing                        | Mr. Rusty Whitney              | 1       |
 | 13        |                           | Oregon Museum of Science and Industry                 | Portland, OR                 | Computer Center                  | Mr. Barry Smith                |   2 3 4 |
-| 14        |                           | Hebrew University of Jerusalem                        | Jerusalem, Israel            | Computer Science                 | Mr. Gideon Yuval               | 1 2     |
+| 14        | Feb 1974 [^pirzada]       | Hebrew University of Jerusalem                        | Jerusalem, Israel            | Computer Science                 | Mr. Gideon Yuval               | 1 2     |
 |           |                           | Hebrew University of Jerusalem                        | Jerusalem, Israel            | Computer Science                 | Prof. Amnon Barak              |     3 4 |
 | 15        |                           | University of California, San Francisco               | San Francisco, CA            | Contracts and Grants             | Mr. Stanley C. Bateman         | 1       |
 |           |                           | University of California, San Francisco               | San Francisco, CA            | Pharmacy                         | Thomas E. Ferrin               |       4 |
@@ -92,7 +96,7 @@ List sources:
 | 23        | Jan 1974 (V4) [^mckusick] | University of California, Berkeley                    | Berkeley, CA                 | Computer Science                 | Prof. Bob Fabry                | 1 2 3 4 |
 |           |                           | University of California, Berkeley                    | Berkeley, CA                 | Computer Science                 | Prof. Mike O'Malley            |     3   |
 |           |                           | University of California, Berkeley                    | Berkeley, CA                 | EECS                             | Prof. Michael Stonebraker      |     3   |
-| 24        |                           | Queen Mary University of London                       | London, England              | Computer Science                 | Dr. M. S. Cole                 | 1   3   |
+| 24        | May 1974 [^pirzada]       | Queen Mary University of London                       | London, England              | Computer Science                 | Dr. M. S. Cole                 | 1   3   |
 |           |                           | Queen Mary University of London                       | London, England              | Computer Science                 | Jon Rowson                     |       4 |
 | 25        |                           | Yale University                                       | New Haven, CT                |                                  | Mr. John E. Ecklund            | 1       |
 |           |                           | Yale University                                       | New Haven, CT                | Computer Science                 | Robert W. Tuttle               |     3 4 |
@@ -101,7 +105,7 @@ List sources:
 |           |                           | Yale University                                       | New Haven, CT                | Computer Center                  | Greydon C. Freeman             |       4 |
 |           |                           | Yale University                                       | New Haven, CT                | Lung Research Center             | Roger Deshaies                 |       4 |
 |           |                           | Yale University                                       | New Haven, CT                | PDP-11 Computer Room             | Registrar's Office             |       4 |
-| 26        |                           | The Rand Corporation                                  | Santa Monica, CA             | Information Sciences             | Dr. P. Weiner                  | 1       |
+| 26        | Jul 1974 [^pirzada]       | The Rand Corporation                                  | Santa Monica, CA             | Information Sciences             | Dr. P. Weiner                  | 1       |
 | 26        |                           | The Rand Corporation                                  | Santa Monica, CA             | Information Sciences             | Mr. John Lowry                 |   2 3   |
 | 26a       |                           | The Rand Corporation                                  | Santa Monica, CA             | Information Sciences             | Ms. Lois H. Heiser             | 1       |
 |           |                           | The Rand Corporation                                  | Santa Monica, CA             |                                  | Lauren Weinstein               |       4 |
