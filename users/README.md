@@ -37,6 +37,10 @@ List sources:
   Steve Holmgren \
   Center for Advanced Computation, University of Illinois Urbana-Champaign \
   18 March 1975
+[^munix]: *MUNIX, A Multiprocessing Version of UNIX* \
+  John Alfred Hawley, III and Walter de Brito Meyer \
+  Naval Postgraduate School \
+  Master's thesis, June 1975
 [^news7507]: UNIX News July 30, 1975
 [^pirzada]: *A Statistical Examination of The Evolution of the UNIX System* \
   Shamim Sharifuddin Pirzada \
@@ -132,7 +136,7 @@ List sources:
 | 32        |                           | Knox College                                          | Galesburg, IL                | Computer Center                  | Mr. William C. Ripperger       | 1 2 3 4 |
 | 33        |                           | University of Edinburgh Medical School                | Edinburgh, Scotland          | Medical Computing                | Mr. Jeffrey Tansley            | 1 2     |
 |           |                           | University of Edinburgh                               | Edinburgh, Scotland          | Computer Science                 | Mr. Jeffrey Tansley            |     3 4 |
-| 34        |                           | Naval Postgraduate School                             | Monterey, CA                 | Computer Science                 | Prof. Belton E. Allen          | 1 2 3   |
+| 34        | Fall 1974 [^munix]        | Naval Postgraduate School                             | Monterey, CA                 | Computer Science                 | Prof. Belton E. Allen          | 1 2 3   |
 |           |                           | Naval Postgraduate School                             | Monterey, CA                 | Computer Science                 | Prof. Gerald L. Barksdale, Jr. |       4 |
 | 35        |                           | University of North Carolina at Chapel Hill           | Chapel Hill, NC              | Computer Science                 | Prof. James D. Foley           | 1 2 3 4 |
 | 36        |                           | The Spence School                                     | New York, NY                 |                                  | Mr. Dustin H. Heuston          | 1 2 3 4 |
@@ -330,6 +334,32 @@ List sources:
   > Bell's policy in the past has been to license the system to universities for
   > a nominal fee, $150.00, and unfortunately for a cost of $20,000.00 to
   > "non-university" institutions. [page 5]
+
+- [*MUNIX, A Multiprocessing Version of UNIX*](https://calhoun.nps.edu/entities/publication/a21d30db-8224-434c-bd58-04ae96d68965) \
+  John Alfred Hawley, III and Walter de Brito Meyer \
+  Naval Postgraduate School \
+  Master's thesis, June 1975
+
+  UNIX acquired in fall 1974:
+
+  > For the purpose of student and faculty research at the Naval Postgraduate
+  > School in the Computer Science and Signal Processing disciplines, computer
+  > hardware and software was purchased in the fall of 1974. The purchase
+  > consisted of two PDP 11/50 processors manufactured by Digital Equipment
+  > Corporation, a CSP 30 processor made by Computer Signal Processors
+  > Incorporated, discs, terminals, graphics display devices, various types of
+  > primary memory, and other peripherals (See Fig 1).
+  >
+  > The ultimate goal of this relatively large system was to integrate all the
+  > components specifically to support signal processing research. When the
+  > entire system is not devoted to the real time realm of signal processing, it
+  > will be used as a tool by students and faculty involved in computer science
+  > related activities such as software engineering research. An agreement with
+  > Bell Laboratories provided the software to operate this hardware, in the
+  > form of UNIX, a monoprocessing/multiprogramming/time-shared operating
+  > system. [page 7]
+
+  TODO: Read from page 8
 
 - Ken's list from Dennis_Tapes, June 27, 1975:
   51 UNIX licensees listed and 55 installations listed
