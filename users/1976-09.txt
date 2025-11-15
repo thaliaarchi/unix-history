@@ -78,7 +78,7 @@ Univ. of California
 San Francisco, CA 94143
 415-666-1208
 
-Jon. F, Claerbout
+Jon. F. Claerbout
 Stanford University
 Dept. of Geophysics
 School of Earth Science
@@ -271,7 +271,7 @@ High School District
 758 Merrett Road
 Lexington, Mass.  02173
 
-Alan G, Nemeth
+Alan G. Nemeth
 Lincoln Laboratory
 MIT
 Lexington, Mass. 02173
@@ -342,10 +342,10 @@ Chapel Hill, N. C. 27514
 
 Prof. Susan Gerhart
 Computer Science Dept.
-Duke University I
+Duke University
 Durham, N.C.  27706
 
-Prof. Emil C.Neu
+Prof. Emil C. Neu
 Dept. of Electrical Engineering
 Stevens Institute of Technology
 Castle Point Station
@@ -595,7 +595,7 @@ Suite 16
 Reston, VA  22090
 703-471-1106
 
-Science Appiications, Inc.
+Science Applications, Inc.
 1911 North Ft. Meyer Drive
 Suite 1200
 Arlington, Va. 22209
@@ -608,7 +608,7 @@ Arlington Va.
    694-5037
 
 Mr. Richard Becker
-Vermoni Lung Center
+Vermont Lung Center
 Univ. of Vermont
 Burlington, VT  05401
 802-864-6559

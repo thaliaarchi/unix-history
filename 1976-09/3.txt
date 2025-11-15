@@ -21,7 +21,7 @@ Urbana, Illinois  61801                 High School District                    
 217-333-8469                            758 Merrett Road                        P.O. Box 25000
                                         Lexington, Mass.  02173                 Greensboro, N.C. 27420
 Dr. A.M. Mark                                                                   919-697-2861
-Dept. of Computer Science               Alan G, Nemeth
+Dept. of Computer Science               Alan G. Nemeth
 Southern Illinois Univ.                 Lincoln Laboratory                      Prof. James D. Foley
 Faner 2126                              MIT                                     Dept. Of Computer Science
 Carbondale, IL 62901                    Lexington, Mass. 02173                  Univ. Of North Carolina
@@ -30,10 +30,10 @@ James J. Besemer                                                                
 School Of Electrical Engineering        Mr. Dennis L. Mumaugh, R253
 Purdue University                       Dept. of Defense                        Prof. Susan Gerhart
 West Lafayette, Ind.  47907             9800 Savage Road                        Computer Science Dept.
-317-493-8826                            Ft. G. G. Meade                         Duke University I
+317-493-8826                            Ft. G. G. Meade                         Duke University
                                         Maryland  20755                         Durham, N.C.  27706
 Stephen J. Mahler                       301-688-6781/7483
-Dept. Of Agricultural Engineering                                               Prof. Emil C.Neu
+Dept. Of Agricultural Engineering                                               Prof. Emil C. Neu
 Purdue University                       J. Gary Donnelly                        Dept. of Electrical Engineering
 West Lafayette, Indiana  47907          Department of Defense, R53              Stevens Institute of Technology
 317-749-2971                            9800 Savage Road                        Castle Point Station
