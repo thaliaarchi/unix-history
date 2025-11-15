@@ -30,192 +30,196 @@ List sources:
 3. UNIX News March 19, 1976
 4. UNIX News September 1976
 
-| Ken #     | Institution                                           | City                         | Department                       | Contact                        | Lists   |
-| --------- | ----------------------------------------------------- | ---------------------------- | -------------------------------- | ------------------------------ | ------- |
-| 0.1       | Bell Telephone Laboratories                           | Murray Hill, NJ              |                                  | Mr. Ken Thompson               |   2   4 |
-|           | Bell Telephone Laboratories                           | Murray Hill, NJ              |                                  | Mr. Dennis M. Ritchie          |     3 4 |
-|           | Bell Telephone Laboratories                           | Murray Hill, NJ              |                                  | Mr. Joseph F. Maranzano        |     3 4 |
-|           | Bell Telephone Laboratories                           | Murray Hill, NJ              |                                  | Irma B. Biren                  |       4 |
-| 0.2       | Bell Telephone Laboratories                           | Holmdel, NJ                  |                                  | Mr. Clyde P. Imagna            |   2 3 4 |
-|           | Bell Telephone Laboratories                           | Holmdel, NJ                  |                                  | Mr. J.J. Molinelli             |       4 |
-|           | Bell Telephone Laboratories                           | Piscataway, NJ               |                                  | R.C. Haight                    |       4 |
-|           | Bell Telephone Laboratories                           | Piscataway, NJ               |                                  | John R. Mashey                 |       4 |
-|           | Western Electric                                      | New York, NY                 | Patent License Manager           | Richard G. Shahpazian, Esq.    |     3   |
-|           | Western Electric                                      | Greensboro, NC               | Patent License Manager           | Richard G. Shahpazian, Esq.    |       4 |
-| 1         | Columbia University                                   | New York, NY                 | Biological Sciences              | Prof. Cyrus Levinthal          | 1       |
-| 1a, 1     | Columbia University                                   | New York, NY                 | Biological Sciences              | Mr. Reidar Bornholdt           | 1 2 3 4 |
-| 2         | University of Alberta                                 | Edmonton, AB, Canada         | Computing Science                | Prof. T. A. Marsland           | 1 2 3 4 |
-| 3         | The Children's Museum                                 | Boston, MA                   |                                  | Mr. Bill Mayhew                | 1 2 3 4 |
-| 4         | Princeton University                                  | Princeton, NJ                | Electrical Engineering           | Prof. Bruce W. Arden           | 1 2 3 4 |
-|           | Princeton University                                  | Princeton, NJ                | Statistics                       | Prof. Peter Bloomfield         |     3 4 |
-| 5         | University of Wisconsin                               | Madison, WI                  | Computer Science                 | Prof. E. J. Desautels          | 1 2 3 4 |
-| 6         | California Institute of Technology                    | Pasadena, CA                 |                                  | Mr. A. J. Lindstrom            | 1       |
-| 7         | Case Western Reserve University                       | Cleveland, OH                | Biometry                         | Mr. Gary M. Goins              | 1 2 3 4 |
-| 8         | Johns Hopkins University                              | Baltimore, MD                | Electrical Engineering           | Prof. W. H. Huggins            | 1 2 3 4 |
-| 9         | Harvard University                                    | Cambridge, MA                | Computation                      | Mr. Brent Byer                 | 1       |
-| 9         | Harvard University                                    | Cambridge, MA                | Science Center                   | Mr. Lewis A. Law               |   2 3 4 |
-|           | Harvard University                                    | Boston, MA                   | Public Health                    | Shao-Sun Chien                 |       4 |
-| 10        | Georgia Institute of Technology                       | Atlanta, GA                  | Information and Computer Science | Dr. Vladimir Slamecka          | 1       |
-|           | Georgia Institute of Technology                       | Atlanta, GA                  | Information and Computer Science | Carl Bedingfield               |     3   |
-|           | Georgia Institute of Technology                       | Atlanta, GA                  | Information and Computer Science | Henry N. Camp                  |       4 |
-| 11        | Brooklyn College of CUNY                              | New York, NY                 | Computer Systems                 | Dr. Kenneth King               | 1       |
-| 11a, 11.1 | Brooklyn College of CUNY                              | Brooklyn, NY                 | Physics                          | Prof. Melvin Ferentz           | 1 2 3 4 |
-| 11.2      | Brooklyn College of CUNY                              | Brooklyn, NY                 | Computing Center                 | Mr. Ira Fuchs                  |   2 3 4 |
-|           | CUNY Graduate Center                                  | New York, NY                 |                                  | Mr. Sol Congola                |     3   |
-|           | CUNY Graduate Center                                  | New York, NY                 | Computer Center                  | Dr. Leon Landovitz             |       4 |
-| 12        | Columbia University                                   | New York, NY                 | Physicians and Surgeons          | James P. Lewis                 | 1       |
-| 12        | Columbia University                                   | New York, NY                 | Physicians and Surgeons          | Dr. Lou Katz                   |   2 3 4 |
-| 13        | Oregon Museum of Science and Industry                 | Portland, OR                 | Computing                        | Mr. Rusty Whitney              | 1       |
-| 13        | Oregon Museum of Science and Industry                 | Portland, OR                 | Computer Center                  | Mr. Barry Smith                |   2 3 4 |
-| 14        | Hebrew University of Jerusalem                        | Jerusalem, Israel            | Computer Science                 | Mr. Gideon Yuval               | 1 2     |
-|           | Hebrew University of Jerusalem                        | Jerusalem, Israel            | Computer Science                 | Prof. Amnon Barak              |     3 4 |
-| 15        | University of California, San Francisco               | San Francisco, CA            | Contracts and Grants             | Mr. Stanley C. Bateman         | 1       |
-|           | University of California, San Francisco               | San Francisco, CA            | Pharmacy                         | Thomas E. Ferrin               |       4 |
-|           | University of California, San Francisco               | San Francisco, CA            | Radiology                        | Vernon Smith                   |       4 |
-| 16        | California State University                           | Fullerton, CA                | Quantitative Methods             | Prof. D. A. Michalopoulos      | 1       |
-| 17        | Polytechnic Institute of New York, Long Island Center | Farmingdale, NY              |                                  | Prof. N. Marcuvitz             | 1       |
-|           | Polytechnic Institute of New York, Long Island Center | Farmingdale, NY              |                                  | Mr. George Kull                |   2 3 4 |
-| 18, 18.1  | University of Waterloo                                | Waterloo, ON, Canada         | Computer Science                 | Prof. R. W. Peebles            | 1 2 3 4 |
-| 18.2      | University of Waterloo                                | Waterloo, ON, Canada         | Computer Science                 | Dr. Ernest Chang               |   2 3 4 |
-| 19        | University of Utah                                    | Salt Lake City, UT           | Computer Science                 | Mr. Martin E. Newell           | 1 2 3 4 |
-| 20        | Queen's University at Kingston                        | Kingston, ON, Canada         | Computing Science                | Prof. D. A. Jardine            | 1       |
-|           | Queen's University at Kingston                        | Kingston, ON, Canada         | Comp. and Info. Sci.             | Prof. Jeffrey Kulick           |     3 4 |
-|           | Queen's University at Kingston                        | Kingston, ON, Canada         | Comp. and Info. Sci.             | Prof. D. A. Jardine            |       4 |
-| 21        | Saint Olaf College                                    | Northfield, MN               | Science Building                 | Prof. Ralph H. Bjork           | 1 2 3   |
-|           | Saint Olaf College                                    | Northfield, MN               | Academic Computer Center         | Timothy W. Hoel                |       4 |
-| 22        | Duke University                                       | Durham, NC                   | Medical Center                   | Prof. C. Frank Starmer         | 1 2 3   |
-|           | Duke University                                       | Durham, NC                   | Computer Science                 | Prof. Susan Gerhart            |       4 |
-| 23        | University of California, Berkeley                    | Berkeley, CA                 | Computer Science                 | Prof. Bob Fabry                | 1 2 3 4 |
-|           | University of California, Berkeley                    | Berkeley, CA                 | Computer Science                 | Prof. Mike O'Malley            |     3   |
-|           | University of California, Berkeley                    | Berkeley, CA                 | EECS                             | Prof. Michael Stonebraker      |     3   |
-| 24        | Queen Mary University of London                       | London, England              | Computer Science                 | Dr. M. S. Cole                 | 1   3   |
-|           | Queen Mary University of London                       | London, England              | Computer Science                 | Jon Rowson                     |       4 |
-| 25        | Yale University                                       | New Haven, CT                |                                  | Mr. John E. Ecklund            | 1       |
-|           | Yale University                                       | New Haven, CT                | Computer Science                 | Robert W. Tuttle               |     3 4 |
-|           | Yale University                                       | New Haven, CT                | Psychology                       | Dr. Michael Kubovy             |     3 4 |
-|           | Yale University                                       | New Haven, CT                | Chemistry                        | Prof. Kenneth Wiberg           |       4 |
-|           | Yale University                                       | New Haven, CT                | Computer Center                  | Greydon C. Freeman             |       4 |
-|           | Yale University                                       | New Haven, CT                | Lung Research Center             | Roger Deshaies                 |       4 |
-|           | Yale University                                       | New Haven, CT                | PDP-11 Computer Room             | Registrar's Office             |       4 |
-| 26        | The Rand Corporation                                  | Santa Monica, CA             | Information Sciences             | Dr. P. Weiner                  | 1       |
-| 26        | The Rand Corporation                                  | Santa Monica, CA             | Information Sciences             | Mr. John Lowry                 |   2 3   |
-| 26a       | The Rand Corporation                                  | Santa Monica, CA             | Information Sciences             | Ms. Lois H. Heiser             | 1       |
-|           | The Rand Corporation                                  | Santa Monica, CA             |                                  | Lauren Weinstein               |       4 |
-| 27        | University of Illinois                                | Urbana, IL                   | Computer Science                 | Prof. D. B. Gillies            | 1       |
-| 27a       | University of Illinois                                | Urbana, IL                   | Computer Science                 | Greg Chesson                   | 1       |
-|           | University of Illinois                                | Urbana, IL                   |                                  | Steve Holmgren                 |     3 4 |
-| 28        | University of Texas at Dallas                         | Richardson, Texas            | Physical Sciences                | Mr John Vanderford             | 1       |
-| 28        | University of Texas at Dallas                         | Richardson, Texas            | Advanced Studies                 | D. W. Canham, Jr.              |   2 3 4 |
-| 29        | Université catholique de Louvain                      | Louvain-La-Neuve, Belgium    | Informatique                     | Prof. E. Milgrom               | 1 2 3 4 |
-| 30        | Stanford University School of Medicine                | Stanford, CA                 | Radiology                        | Prof. C. J. Karzmark           | 1 2 3 4 |
-| 31        | University of Alabama in Birmingham                   | Birmingham, AL               |                                  | Mr. Travis Wood                | 1   3 4 |
-| 32        | Knox College                                          | Galesburg, IL                | Computer Center                  | Mr. William C. Ripperger       | 1 2 3 4 |
-| 33        | University of Edinburgh Medical School                | Edinburgh, Scotland          | Medical Computing                | Mr. Jeffrey Tansley            | 1 2     |
-|           | University of Edinburgh                               | Edinburgh, Scotland          | Computer Science                 | Mr. Jeffrey Tansley            |     3 4 |
-| 34        | Naval Postgraduate School                             | Monterey, CA                 | Computer Science                 | Prof. Belton E. Allen          | 1 2 3   |
-|           | Naval Postgraduate School                             | Monterey, CA                 | Computer Science                 | Prof. Gerald L. Barksdale, Jr. |       4 |
-| 35        | University of North Carolina at Chapel Hill           | Chapel Hill, NC              | Computer Science                 | Prof. James D. Foley           | 1 2 3 4 |
-| 36        | The Spence School                                     | New York, NY                 |                                  | Mr. Dustin H. Heuston          | 1 2 3 4 |
-| 37        | University of Toronto                                 | Toronto, ON, Canada          | Computer Research                | Mr. T. C. Stevens              | 1       |
-| 37        | University of Toronto                                 | Toronto, ON, Canada          | Computer Research                | Mr. Dennis Smith               |   2     |
-|           | University of Toronto                                 | Toronto, ON, Canada          | Computer Systems Research        | Mr. Tom Horsley                |     3   |
-|           | University of Toronto                                 | Toronto, ON, Canada          | Computer Research                | Mr. K. C. Patnaik              |       4 |
-| 38        | University of Saskatchewan                            | Saskatoon, SK, Canada        | Computational Science            | R. M. Kavanaugh                | 1       |
-| 38        | University of Saskatchewan                            | Saskatoon, SK, Canada        | Computational Science            | Peter Hardie                   |   2 3 4 |
-| 39        | Princeton University                                  | Princeton, NJ                | Statistical Computing            | D. R. McNeil                   | 1       |
-| 40        | Denison University                                    | Granville, OH                | Purchasing                       | H. L. Conts, Jr.               | 1   3   |
-|           | Denison University                                    | Granville, OH                | Computer Center                  | Director                       |       4 |
-| 41        | Minuteman Regional Vocational High School             | Lexington, MA                |                                  | H. Bellmar                     | 1   3 4 |
-| 42        | International Institute for Applied Systems Analysis  | Laxenburg, Austria           | Computing Services               | Jim Curry                      | 1   3 4 |
-| 43        | Carleton College                                      | Northfield, MN               | Computer Center                  | Carl Henry                     | 1 2 3 4 |
-| 44        | Foundation Mathematisch Centrum                       | Amsterdam, Netherlands       | Computer Science                 | D. W. de Bakker                | 1   3 4 |
-| 45        | East Brunswick High School                            | East Brunswick, NJ           |                                  | Mr. Seymour Grodstein          | 1 2 3 4 |
-| 46        | The Cooper Union                                      | New York, NY                 | Engineering                      | C. W. Tan                      | 1       |
-|           | The Cooper Union                                      | New York, NY                 | Computer Center                  | Robert P. Hopkins              |     3 4 |
-| 47        | University of South Carolina                          | Columbia, SC                 |                                  | H. S. Eisenstein               | 1   3   |
-|           | University of South Carolina                          | Columbia, SC                 |                                  | H. K. Eisenstein               |       4 |
-| 48        | University of New South Wales                         | Kensington, NSW, Australia   |                                  | R. Whitfeld                    | 1       |
-|           | University of New South Wales                         | Kensington, NSW, Australia   | Computer Science                 | Dr. John Lions                 |     3 4 |
-|           | University of New South Wales                         | Kensington, NSW, Australia   | Computing Services               | Manager                        |       4 |
-| 49        | Katholieke Universiteit, Toernooiveld                 | Nijmegen, Netherlands        |                                  | J. van den Bas                 | 1       |
-|           | Katholieke Universiteit, Toernooiveld                 | Nijmegen, Netherlands        | Science                          | Hendrik-Jan Thomassen          |     3 4 |
-| 50        | Heriot-Watt University                                | Edinburgh, Scotland          | Electrical Engineering           | P. L. De Souza                 | 1       |
-| 50        | Heriot-Watt University                                | Edinburgh, Scotland          | Electrical Engineering           | Prof. F. G. Heath              |   2 3 4 |
-| 51        | University of Manitoba                                | Winnipeg, MB, Canada         | Computer Science                 | Dr. R. J. Collens              | 1 2 3 4 |
-|           | University of Manitoba                                | Winnipeg, MB, Canada         | Computer Science                 | Dr. J.M. Wells                 |       4 |
-|           | University of California, San Diego                   | La Jolla, CA                 | Chemistry                        | John Cornelius                 |     3 4 |
-|           | University of California, San Diego                   | La Jolla, CA                 | Physics                          | Lawrence McDaniel              |       4 |
-|           | California Polytechnic State University               | San Luis Obispo, CA          | Comp. Sci. and Stat.             | Dr. James L. Beug              |     3   |
-|           | California Polytechnic State University               | San Luis Obispo, CA          | Computer Center                  | Marc Lewis                     |       4 |
-|           | California Polytechnic State University               | San Luis Obispo, CA          | Computer Center                  | Mr. John Bass                  |       4 |
-|           | Data Disc Inc.                                        | Sunnyvale, CA                |                                  | Eric Sultan                    |     3   |
-|           | National Bureau of Standards                          | Washington, DC               |                                  | Brian Lucas                    |     3 4 |
-|           | The Pentagon                                          | Washington, DC               |                                  | Major Allan R. Wylie           |     3 4 |
-|           | The Pentagon                                          | Washington, DC               | Defense Comm. Agency             | Charles F. Anderson            |       4 |
-|           | University of Delaware                                | Newark, DE                   | Computing Center                 | John J. Falcone                |     3   |
-|           | University of Delaware                                | Newark, DE                   | Computer Science Laboratory      | Michael B. Raffel              |       4 |
-|           | Rush Medical Center                                   | Chicago, IL                  | Medicine                         | Laurens V. Ackerman, M.D.      |     3 4 |
-|           | University of Illinois Chicago                        | Chicago, IL                  | Information Engineering          | Mr. Michael T. O'Brien         |     3 4 |
-|           | Purdue University                                     | West Lafayette, IN           | Electrical Engineering           | James J. Besemer               |     3 4 |
-|           | Purdue University                                     | West Lafayette, IN           | Agricultural Engineering         | Stephen J. Mahler              |     3 4 |
-|           | National Security Agency                              | Fort G. G. Meade, MD         |                                  | Dennis L. Mumaugh              |     3 4 |
-|           | Commercial Union Leasing                              | New York, NY                 |                                  | Mr. Dick Shore                 |     3 4 |
-|           | Bronx Community College                               | Bronx, NY                    | Computing Center                 | Mr. Meyer Shopko               |     3   |
-|           | New York Institute of Technology                      | Old Westbury, NY             | Computer Graphics                | Prof. Ed Catmull               |     3 4 |
-|           | Cornell University                                    | Ithaca, NY                   | Computer Graphics                | David H. Bessel                |     3 4 |
-|           | Moravian College                                      | Bethlehem, PA                | Computer Center                  | Mr. Rance De Long              |     3 4 |
-|           | RLG Associates, Inc.                                  | Reston, VA                   |                                  | Harold A. Solow                |     3 4 |
-|           | Computing Devices Company                             | Ottawa, ON, Canada           |                                  | W. D. Richardson               |     3 4 |
-|           | Bell Canada                                           | Dorval, QC, Canada           |                                  | Michael R. Collins             |     3   |
-|           | University of Kent at Canterbury                      | Canterbury, Kent, England    | Computing Laboratory             | Stephen Binns                  |     3   |
-|           | University of Kent at Canterbury                      | Canterbury, Kent, England    | Computing Laboratory             | Dr. R.P.A. Collinson           |       4 |
-|           | Digital Laboratory                                    | Beer-sheva, Israel           |                                  | Ralph Pesso                    |     3 4 |
-|           | Universidad Simon Bolivar                             | Caracas, Venezuela           | Informacion Y Computacion        | Hernán Suárez-Flamerich        |     3 4 |
-|           | University of California, Los Angeles                 | Los Angeles, CA              | Computer Science                 | Prof. Gerald J. Popek          |       4 |
-|           | Naval Electronics Laboratory Center                   | San Diego, CA                |                                  | Glen M. Brechlin               |       4 |
-|           | Naval Personnel R & D Center                          | San Diego, CA                |                                  | L.H. Brock                     |       4 |
-|           | University of California, Santa Barbara               | Santa Barbara, CA            | Computer Center                  | Steve Smith                    |       4 |
-|           | Amcomp                                                | Sunnyvale, CA                |                                  | Bob Marsh                      |       4 |
-|           | Stanford University                                   | Stanford, CA                 | Geophysics                       | Jon. F. Claerbout              |       4 |
-|           | Naval Research Lab.                                   | Washington, DC               |                                  | James Lucas                    |       4 |
-|           | Southern Illinois University                          | Carbondale, IL               | Computer Science                 | Dr. A.M. Mark                  |       4 |
-|           | Mitre Corp.                                           | Bedford, MA                  |                                  | Ken Biba                       |       4 |
-|           | Mitre Corp.                                           | Bedford, MA                  |                                  | Dr. John C. C. White           |       4 |
-|           | L.G. Hanscom AFB                                      | L.G. Hanscom AFB, MA         | ESD/MCIT                         | Capt Paul Karger               |       4 |
-|           | MIT Lincoln Laboratory                                | Cambridge, MA                | Applied Seismology               | Peter Neilson                  |       4 |
-|           | MIT Lincoln Laboratory                                | Lexington, MA                |                                  | Alan G. Nemeth                 |       4 |
-|           | Department of Defense                                 | Ft. Meade, MD                |                                  | J. Gary Donnelly               |       4 |
-|           | University of Minnesota                               | Minneapolis, MN              | Interactive Computation Lab.     | Prof. W.R. Franta              |       4 |
-|           | University of Minnesota                               | Minneapolis, MN              | Computer Science                 | Prof. G. Michael Schneider     |       4 |
-|           | Washington University                                 | St. Louis, MI                | Biomedical Computer Laboratory   | Kenneth L. Ripley              |       4 |
-|           | Stevens Institute of Technology                       | Hoboken, NJ                  | Electrical Engineering           | Prof. Emil C. Neu              |       4 |
-|           | Sandia Laboratories                                   | Albuquerque, NM              |                                  | C. J. Fisk                     |       4 |
-|           | Los Alamos Scientific Laboratory                      | Los Alamos, NM               |                                  | R.P. Kruger                    |       4 |
-|           | Yourdon, Inc.                                         | New York, NY                 |                                  | P.J. Plauger                   |       4 |
-|           | Brookhaven National Laboratory                        | Upton, NY                    | Physical Review                  | Stuart Kern                    |       4 |
-|           | University of Toledo                                  | Toledo, OH                   |                                  | Computer Services              |       4 |
-|           | Xavier University                                     | Cincinnati, OH               | Physics                          | Prof. Frederick G. Werner      |       4 |
-|           | University of Pennsylvania                            | Philadelphia, PA             | Bio Phys and Phys Biochem        | Mr. Scott M. Eleff             |       4 |
-|           | Texas Medical Center                                  | Houston, TX                  | Baylor College of Medicine       |                                |       4 |
-|           | University of Texas at Austin                         | Austin, TX                   | Computation Center               | David M. Phillips              |       4 |
-|           | University of Texas at El Paso                        | El Paso, TX                  | E. E.                            | Glenn Gibson                   |       4 |
-|           | Science Applications, Inc.                            | Arlington, VA                |                                  |                                |       4 |
-|           | ARPA                                                  | Arlington, VA                |                                  | Steve Walker                   |       4 |
-|           | University of Vermont                                 | Burlington, VT               | Lung Center                      | Mr. Richard Becker             |       4 |
-|           |                                                       | Toronto, ON, Canada          |                                  | Mr. Rick Macfarlane            |       4 |
-|           | University of Calgary                                 | Calgary, AB, Canada          | Environmental Design             | Prof. Lawrence O. Sinkey       |       4 |
-|           | University of British Columbia                        | Vancouver, BC, Canada        | Animal Resource Ecology          | Stephen W. Borden              |       4 |
-|           | University of Sydney                                  | Sydney, NSW, Australia       | Computer Science                 | Ian Jackson                    |       4 |
-|           | University of Newcastle                               | Newcastle, NSW, Australia    | Computing Centre                 | J.A. Lambert                   |       4 |
-|           | Technische Universität Berlin                         | Berlin, Germany              |                                  |                                |       4 |
-|           | University of Sussex                                  | Brighton, England            | Cognitive Studies                | Dr. Steven Hardy               |       4 |
-|           | University of Essex                                   | Colchester, England          |                                  |                                |       4 |
-|           | University of Glasgow                                 | Glasgow, Scotland            | Computing Science                | William Findlay                |       4 |
-|           | Loughborough University of Technology                 | Loughborough, England        | Computer Studies                 | D.W. Taylor                    |       4 |
-|           | University of Newcastle upon Tyne                     | Newcastle upon Tyne, England |                                  |                                |       4 |
-|           | University of London, Westfield College               | London, England              |                                  | Colin Taylor                   |       4 |
-|           | Technion - Israel Institute of Technology             | Haifa, Israel                |                                  |                                |       4 |
-|           | Vrije Universiteit                                    | Amsterdam, Netherlands       | Mathematics                      | Dr. Andrew Tanenbaum           |       4 |
+[^mckusick]: *Open Sources: Voices from the Open Source Revolution* \
+  Twenty Years of Berkeley Unix: From AT&T-Owned to Freely Redistributable \
+  Marshall Kirk McKusick, January 1999
+
+| Ken #     | Installation              | Institution                                           | City                         | Department                       | Contact                        | Lists   |
+| --------- | ------------------------- | ----------------------------------------------------- | ---------------------------- | -------------------------------- | ------------------------------ | ------- |
+| 0.1       |                           | Bell Telephone Laboratories                           | Murray Hill, NJ              |                                  | Mr. Ken Thompson               |   2   4 |
+|           |                           | Bell Telephone Laboratories                           | Murray Hill, NJ              |                                  | Mr. Dennis M. Ritchie          |     3 4 |
+|           |                           | Bell Telephone Laboratories                           | Murray Hill, NJ              |                                  | Mr. Joseph F. Maranzano        |     3 4 |
+|           |                           | Bell Telephone Laboratories                           | Murray Hill, NJ              |                                  | Irma B. Biren                  |       4 |
+| 0.2       |                           | Bell Telephone Laboratories                           | Holmdel, NJ                  |                                  | Mr. Clyde P. Imagna            |   2 3 4 |
+|           |                           | Bell Telephone Laboratories                           | Holmdel, NJ                  |                                  | Mr. J.J. Molinelli             |       4 |
+|           |                           | Bell Telephone Laboratories                           | Piscataway, NJ               |                                  | R.C. Haight                    |       4 |
+|           |                           | Bell Telephone Laboratories                           | Piscataway, NJ               |                                  | John R. Mashey                 |       4 |
+|           |                           | Western Electric                                      | New York, NY                 | Patent License Manager           | Richard G. Shahpazian, Esq.    |     3   |
+|           |                           | Western Electric                                      | Greensboro, NC               | Patent License Manager           | Richard G. Shahpazian, Esq.    |       4 |
+| 1         |                           | Columbia University                                   | New York, NY                 | Biological Sciences              | Prof. Cyrus Levinthal          | 1       |
+| 1a, 1     |                           | Columbia University                                   | New York, NY                 | Biological Sciences              | Mr. Reidar Bornholdt           | 1 2 3 4 |
+| 2         |                           | University of Alberta                                 | Edmonton, AB, Canada         | Computing Science                | Prof. T. A. Marsland           | 1 2 3 4 |
+| 3         |                           | The Children's Museum                                 | Boston, MA                   |                                  | Mr. Bill Mayhew                | 1 2 3 4 |
+| 4         |                           | Princeton University                                  | Princeton, NJ                | Electrical Engineering           | Prof. Bruce W. Arden           | 1 2 3 4 |
+|           |                           | Princeton University                                  | Princeton, NJ                | Statistics                       | Prof. Peter Bloomfield         |     3 4 |
+| 5         |                           | University of Wisconsin                               | Madison, WI                  | Computer Science                 | Prof. E. J. Desautels          | 1 2 3 4 |
+| 6         |                           | California Institute of Technology                    | Pasadena, CA                 |                                  | Mr. A. J. Lindstrom            | 1       |
+| 7         |                           | Case Western Reserve University                       | Cleveland, OH                | Biometry                         | Mr. Gary M. Goins              | 1 2 3 4 |
+| 8         |                           | Johns Hopkins University                              | Baltimore, MD                | Electrical Engineering           | Prof. W. H. Huggins            | 1 2 3 4 |
+| 9         |                           | Harvard University                                    | Cambridge, MA                | Computation                      | Mr. Brent Byer                 | 1       |
+| 9         |                           | Harvard University                                    | Cambridge, MA                | Science Center                   | Mr. Lewis A. Law               |   2 3 4 |
+|           |                           | Harvard University                                    | Boston, MA                   | Public Health                    | Shao-Sun Chien                 |       4 |
+| 10        |                           | Georgia Institute of Technology                       | Atlanta, GA                  | Information and Computer Science | Dr. Vladimir Slamecka          | 1       |
+|           |                           | Georgia Institute of Technology                       | Atlanta, GA                  | Information and Computer Science | Carl Bedingfield               |     3   |
+|           |                           | Georgia Institute of Technology                       | Atlanta, GA                  | Information and Computer Science | Henry N. Camp                  |       4 |
+| 11        |                           | Brooklyn College of CUNY                              | New York, NY                 | Computer Systems                 | Dr. Kenneth King               | 1       |
+| 11a, 11.1 |                           | Brooklyn College of CUNY                              | Brooklyn, NY                 | Physics                          | Prof. Melvin Ferentz           | 1 2 3 4 |
+| 11.2      |                           | Brooklyn College of CUNY                              | Brooklyn, NY                 | Computing Center                 | Mr. Ira Fuchs                  |   2 3 4 |
+|           |                           | CUNY Graduate Center                                  | New York, NY                 |                                  | Mr. Sol Congola                |     3   |
+|           |                           | CUNY Graduate Center                                  | New York, NY                 | Computer Center                  | Dr. Leon Landovitz             |       4 |
+| 12        |                           | Columbia University                                   | New York, NY                 | Physicians and Surgeons          | James P. Lewis                 | 1       |
+| 12        |                           | Columbia University                                   | New York, NY                 | Physicians and Surgeons          | Dr. Lou Katz                   |   2 3 4 |
+| 13        |                           | Oregon Museum of Science and Industry                 | Portland, OR                 | Computing                        | Mr. Rusty Whitney              | 1       |
+| 13        |                           | Oregon Museum of Science and Industry                 | Portland, OR                 | Computer Center                  | Mr. Barry Smith                |   2 3 4 |
+| 14        |                           | Hebrew University of Jerusalem                        | Jerusalem, Israel            | Computer Science                 | Mr. Gideon Yuval               | 1 2     |
+|           |                           | Hebrew University of Jerusalem                        | Jerusalem, Israel            | Computer Science                 | Prof. Amnon Barak              |     3 4 |
+| 15        |                           | University of California, San Francisco               | San Francisco, CA            | Contracts and Grants             | Mr. Stanley C. Bateman         | 1       |
+|           |                           | University of California, San Francisco               | San Francisco, CA            | Pharmacy                         | Thomas E. Ferrin               |       4 |
+|           |                           | University of California, San Francisco               | San Francisco, CA            | Radiology                        | Vernon Smith                   |       4 |
+| 16        |                           | California State University                           | Fullerton, CA                | Quantitative Methods             | Prof. D. A. Michalopoulos      | 1       |
+| 17        |                           | Polytechnic Institute of New York, Long Island Center | Farmingdale, NY              |                                  | Prof. N. Marcuvitz             | 1       |
+|           |                           | Polytechnic Institute of New York, Long Island Center | Farmingdale, NY              |                                  | Mr. George Kull                |   2 3 4 |
+| 18, 18.1  |                           | University of Waterloo                                | Waterloo, ON, Canada         | Computer Science                 | Prof. R. W. Peebles            | 1 2 3 4 |
+| 18.2      |                           | University of Waterloo                                | Waterloo, ON, Canada         | Computer Science                 | Dr. Ernest Chang               |   2 3 4 |
+| 19        |                           | University of Utah                                    | Salt Lake City, UT           | Computer Science                 | Mr. Martin E. Newell           | 1 2 3 4 |
+| 20        |                           | Queen's University at Kingston                        | Kingston, ON, Canada         | Computing Science                | Prof. D. A. Jardine            | 1       |
+|           |                           | Queen's University at Kingston                        | Kingston, ON, Canada         | Comp. and Info. Sci.             | Prof. Jeffrey Kulick           |     3 4 |
+|           |                           | Queen's University at Kingston                        | Kingston, ON, Canada         | Comp. and Info. Sci.             | Prof. D. A. Jardine            |       4 |
+| 21        |                           | Saint Olaf College                                    | Northfield, MN               | Science Building                 | Prof. Ralph H. Bjork           | 1 2 3   |
+|           |                           | Saint Olaf College                                    | Northfield, MN               | Academic Computer Center         | Timothy W. Hoel                |       4 |
+| 22        |                           | Duke University                                       | Durham, NC                   | Medical Center                   | Prof. C. Frank Starmer         | 1 2 3   |
+|           |                           | Duke University                                       | Durham, NC                   | Computer Science                 | Prof. Susan Gerhart            |       4 |
+| 23        | Jan 1974 (V4) [^mckusick] | University of California, Berkeley                    | Berkeley, CA                 | Computer Science                 | Prof. Bob Fabry                | 1 2 3 4 |
+|           |                           | University of California, Berkeley                    | Berkeley, CA                 | Computer Science                 | Prof. Mike O'Malley            |     3   |
+|           |                           | University of California, Berkeley                    | Berkeley, CA                 | EECS                             | Prof. Michael Stonebraker      |     3   |
+| 24        |                           | Queen Mary University of London                       | London, England              | Computer Science                 | Dr. M. S. Cole                 | 1   3   |
+|           |                           | Queen Mary University of London                       | London, England              | Computer Science                 | Jon Rowson                     |       4 |
+| 25        |                           | Yale University                                       | New Haven, CT                |                                  | Mr. John E. Ecklund            | 1       |
+|           |                           | Yale University                                       | New Haven, CT                | Computer Science                 | Robert W. Tuttle               |     3 4 |
+|           |                           | Yale University                                       | New Haven, CT                | Psychology                       | Dr. Michael Kubovy             |     3 4 |
+|           |                           | Yale University                                       | New Haven, CT                | Chemistry                        | Prof. Kenneth Wiberg           |       4 |
+|           |                           | Yale University                                       | New Haven, CT                | Computer Center                  | Greydon C. Freeman             |       4 |
+|           |                           | Yale University                                       | New Haven, CT                | Lung Research Center             | Roger Deshaies                 |       4 |
+|           |                           | Yale University                                       | New Haven, CT                | PDP-11 Computer Room             | Registrar's Office             |       4 |
+| 26        |                           | The Rand Corporation                                  | Santa Monica, CA             | Information Sciences             | Dr. P. Weiner                  | 1       |
+| 26        |                           | The Rand Corporation                                  | Santa Monica, CA             | Information Sciences             | Mr. John Lowry                 |   2 3   |
+| 26a       |                           | The Rand Corporation                                  | Santa Monica, CA             | Information Sciences             | Ms. Lois H. Heiser             | 1       |
+|           |                           | The Rand Corporation                                  | Santa Monica, CA             |                                  | Lauren Weinstein               |       4 |
+| 27        |                           | University of Illinois                                | Urbana, IL                   | Computer Science                 | Prof. D. B. Gillies            | 1       |
+| 27a       |                           | University of Illinois                                | Urbana, IL                   | Computer Science                 | Greg Chesson                   | 1       |
+|           |                           | University of Illinois                                | Urbana, IL                   |                                  | Steve Holmgren                 |     3 4 |
+| 28        |                           | University of Texas at Dallas                         | Richardson, Texas            | Physical Sciences                | Mr John Vanderford             | 1       |
+| 28        |                           | University of Texas at Dallas                         | Richardson, Texas            | Advanced Studies                 | D. W. Canham, Jr.              |   2 3 4 |
+| 29        |                           | Université catholique de Louvain                      | Louvain-La-Neuve, Belgium    | Informatique                     | Prof. E. Milgrom               | 1 2 3 4 |
+| 30        |                           | Stanford University School of Medicine                | Stanford, CA                 | Radiology                        | Prof. C. J. Karzmark           | 1 2 3 4 |
+| 31        |                           | University of Alabama in Birmingham                   | Birmingham, AL               |                                  | Mr. Travis Wood                | 1   3 4 |
+| 32        |                           | Knox College                                          | Galesburg, IL                | Computer Center                  | Mr. William C. Ripperger       | 1 2 3 4 |
+| 33        |                           | University of Edinburgh Medical School                | Edinburgh, Scotland          | Medical Computing                | Mr. Jeffrey Tansley            | 1 2     |
+|           |                           | University of Edinburgh                               | Edinburgh, Scotland          | Computer Science                 | Mr. Jeffrey Tansley            |     3 4 |
+| 34        |                           | Naval Postgraduate School                             | Monterey, CA                 | Computer Science                 | Prof. Belton E. Allen          | 1 2 3   |
+|           |                           | Naval Postgraduate School                             | Monterey, CA                 | Computer Science                 | Prof. Gerald L. Barksdale, Jr. |       4 |
+| 35        |                           | University of North Carolina at Chapel Hill           | Chapel Hill, NC              | Computer Science                 | Prof. James D. Foley           | 1 2 3 4 |
+| 36        |                           | The Spence School                                     | New York, NY                 |                                  | Mr. Dustin H. Heuston          | 1 2 3 4 |
+| 37        |                           | University of Toronto                                 | Toronto, ON, Canada          | Computer Research                | Mr. T. C. Stevens              | 1       |
+| 37        |                           | University of Toronto                                 | Toronto, ON, Canada          | Computer Research                | Mr. Dennis Smith               |   2     |
+|           |                           | University of Toronto                                 | Toronto, ON, Canada          | Computer Systems Research        | Mr. Tom Horsley                |     3   |
+|           |                           | University of Toronto                                 | Toronto, ON, Canada          | Computer Research                | Mr. K. C. Patnaik              |       4 |
+| 38        |                           | University of Saskatchewan                            | Saskatoon, SK, Canada        | Computational Science            | R. M. Kavanaugh                | 1       |
+| 38        |                           | University of Saskatchewan                            | Saskatoon, SK, Canada        | Computational Science            | Peter Hardie                   |   2 3 4 |
+| 39        |                           | Princeton University                                  | Princeton, NJ                | Statistical Computing            | D. R. McNeil                   | 1       |
+| 40        |                           | Denison University                                    | Granville, OH                | Purchasing                       | H. L. Conts, Jr.               | 1   3   |
+|           |                           | Denison University                                    | Granville, OH                | Computer Center                  | Director                       |       4 |
+| 41        |                           | Minuteman Regional Vocational High School             | Lexington, MA                |                                  | H. Bellmar                     | 1   3 4 |
+| 42        |                           | International Institute for Applied Systems Analysis  | Laxenburg, Austria           | Computing Services               | Jim Curry                      | 1   3 4 |
+| 43        |                           | Carleton College                                      | Northfield, MN               | Computer Center                  | Carl Henry                     | 1 2 3 4 |
+| 44        |                           | Foundation Mathematisch Centrum                       | Amsterdam, Netherlands       | Computer Science                 | D. W. de Bakker                | 1   3 4 |
+| 45        |                           | East Brunswick High School                            | East Brunswick, NJ           |                                  | Mr. Seymour Grodstein          | 1 2 3 4 |
+| 46        |                           | The Cooper Union                                      | New York, NY                 | Engineering                      | C. W. Tan                      | 1       |
+|           |                           | The Cooper Union                                      | New York, NY                 | Computer Center                  | Robert P. Hopkins              |     3 4 |
+| 47        |                           | University of South Carolina                          | Columbia, SC                 |                                  | H. S. Eisenstein               | 1   3   |
+|           |                           | University of South Carolina                          | Columbia, SC                 |                                  | H. K. Eisenstein               |       4 |
+| 48        |                           | University of New South Wales                         | Kensington, NSW, Australia   |                                  | R. Whitfeld                    | 1       |
+|           |                           | University of New South Wales                         | Kensington, NSW, Australia   | Computer Science                 | Dr. John Lions                 |     3 4 |
+|           |                           | University of New South Wales                         | Kensington, NSW, Australia   | Computing Services               | Manager                        |       4 |
+| 49        |                           | Katholieke Universiteit, Toernooiveld                 | Nijmegen, Netherlands        |                                  | J. van den Bas                 | 1       |
+|           |                           | Katholieke Universiteit, Toernooiveld                 | Nijmegen, Netherlands        | Science                          | Hendrik-Jan Thomassen          |     3 4 |
+| 50        |                           | Heriot-Watt University                                | Edinburgh, Scotland          | Electrical Engineering           | P. L. De Souza                 | 1       |
+| 50        |                           | Heriot-Watt University                                | Edinburgh, Scotland          | Electrical Engineering           | Prof. F. G. Heath              |   2 3 4 |
+| 51        |                           | University of Manitoba                                | Winnipeg, MB, Canada         | Computer Science                 | Dr. R. J. Collens              | 1 2 3 4 |
+|           |                           | University of Manitoba                                | Winnipeg, MB, Canada         | Computer Science                 | Dr. J.M. Wells                 |       4 |
+|           |                           | University of California, San Diego                   | La Jolla, CA                 | Chemistry                        | John Cornelius                 |     3 4 |
+|           |                           | University of California, San Diego                   | La Jolla, CA                 | Physics                          | Lawrence McDaniel              |       4 |
+|           |                           | California Polytechnic State University               | San Luis Obispo, CA          | Comp. Sci. and Stat.             | Dr. James L. Beug              |     3   |
+|           |                           | California Polytechnic State University               | San Luis Obispo, CA          | Computer Center                  | Marc Lewis                     |       4 |
+|           |                           | California Polytechnic State University               | San Luis Obispo, CA          | Computer Center                  | Mr. John Bass                  |       4 |
+|           |                           | Data Disc Inc.                                        | Sunnyvale, CA                |                                  | Eric Sultan                    |     3   |
+|           |                           | National Bureau of Standards                          | Washington, DC               |                                  | Brian Lucas                    |     3 4 |
+|           |                           | The Pentagon                                          | Washington, DC               |                                  | Major Allan R. Wylie           |     3 4 |
+|           |                           | The Pentagon                                          | Washington, DC               | Defense Comm. Agency             | Charles F. Anderson            |       4 |
+|           |                           | University of Delaware                                | Newark, DE                   | Computing Center                 | John J. Falcone                |     3   |
+|           |                           | University of Delaware                                | Newark, DE                   | Computer Science Laboratory      | Michael B. Raffel              |       4 |
+|           |                           | Rush Medical Center                                   | Chicago, IL                  | Medicine                         | Laurens V. Ackerman, M.D.      |     3 4 |
+|           |                           | University of Illinois Chicago                        | Chicago, IL                  | Information Engineering          | Mr. Michael T. O'Brien         |     3 4 |
+|           |                           | Purdue University                                     | West Lafayette, IN           | Electrical Engineering           | James J. Besemer               |     3 4 |
+|           |                           | Purdue University                                     | West Lafayette, IN           | Agricultural Engineering         | Stephen J. Mahler              |     3 4 |
+|           |                           | National Security Agency                              | Fort G. G. Meade, MD         |                                  | Dennis L. Mumaugh              |     3 4 |
+|           |                           | Commercial Union Leasing                              | New York, NY                 |                                  | Mr. Dick Shore                 |     3 4 |
+|           |                           | Bronx Community College                               | Bronx, NY                    | Computing Center                 | Mr. Meyer Shopko               |     3   |
+|           |                           | New York Institute of Technology                      | Old Westbury, NY             | Computer Graphics                | Prof. Ed Catmull               |     3 4 |
+|           |                           | Cornell University                                    | Ithaca, NY                   | Computer Graphics                | David H. Bessel                |     3 4 |
+|           |                           | Moravian College                                      | Bethlehem, PA                | Computer Center                  | Mr. Rance De Long              |     3 4 |
+|           |                           | RLG Associates, Inc.                                  | Reston, VA                   |                                  | Harold A. Solow                |     3 4 |
+|           |                           | Computing Devices Company                             | Ottawa, ON, Canada           |                                  | W. D. Richardson               |     3 4 |
+|           |                           | Bell Canada                                           | Dorval, QC, Canada           |                                  | Michael R. Collins             |     3   |
+|           |                           | University of Kent at Canterbury                      | Canterbury, Kent, England    | Computing Laboratory             | Stephen Binns                  |     3   |
+|           |                           | University of Kent at Canterbury                      | Canterbury, Kent, England    | Computing Laboratory             | Dr. R.P.A. Collinson           |       4 |
+|           |                           | Digital Laboratory                                    | Beer-sheva, Israel           |                                  | Ralph Pesso                    |     3 4 |
+|           |                           | Universidad Simon Bolivar                             | Caracas, Venezuela           | Informacion Y Computacion        | Hernán Suárez-Flamerich        |     3 4 |
+|           |                           | University of California, Los Angeles                 | Los Angeles, CA              | Computer Science                 | Prof. Gerald J. Popek          |       4 |
+|           |                           | Naval Electronics Laboratory Center                   | San Diego, CA                |                                  | Glen M. Brechlin               |       4 |
+|           |                           | Naval Personnel R & D Center                          | San Diego, CA                |                                  | L.H. Brock                     |       4 |
+|           |                           | University of California, Santa Barbara               | Santa Barbara, CA            | Computer Center                  | Steve Smith                    |       4 |
+|           |                           | Amcomp                                                | Sunnyvale, CA                |                                  | Bob Marsh                      |       4 |
+|           |                           | Stanford University                                   | Stanford, CA                 | Geophysics                       | Jon. F. Claerbout              |       4 |
+|           |                           | Naval Research Lab.                                   | Washington, DC               |                                  | James Lucas                    |       4 |
+|           |                           | Southern Illinois University                          | Carbondale, IL               | Computer Science                 | Dr. A.M. Mark                  |       4 |
+|           |                           | Mitre Corp.                                           | Bedford, MA                  |                                  | Ken Biba                       |       4 |
+|           |                           | Mitre Corp.                                           | Bedford, MA                  |                                  | Dr. John C. C. White           |       4 |
+|           |                           | L.G. Hanscom AFB                                      | L.G. Hanscom AFB, MA         | ESD/MCIT                         | Capt Paul Karger               |       4 |
+|           |                           | MIT Lincoln Laboratory                                | Cambridge, MA                | Applied Seismology               | Peter Neilson                  |       4 |
+|           |                           | MIT Lincoln Laboratory                                | Lexington, MA                |                                  | Alan G. Nemeth                 |       4 |
+|           |                           | Department of Defense                                 | Ft. Meade, MD                |                                  | J. Gary Donnelly               |       4 |
+|           |                           | University of Minnesota                               | Minneapolis, MN              | Interactive Computation Lab.     | Prof. W.R. Franta              |       4 |
+|           |                           | University of Minnesota                               | Minneapolis, MN              | Computer Science                 | Prof. G. Michael Schneider     |       4 |
+|           |                           | Washington University                                 | St. Louis, MI                | Biomedical Computer Laboratory   | Kenneth L. Ripley              |       4 |
+|           |                           | Stevens Institute of Technology                       | Hoboken, NJ                  | Electrical Engineering           | Prof. Emil C. Neu              |       4 |
+|           |                           | Sandia Laboratories                                   | Albuquerque, NM              |                                  | C. J. Fisk                     |       4 |
+|           |                           | Los Alamos Scientific Laboratory                      | Los Alamos, NM               |                                  | R.P. Kruger                    |       4 |
+|           |                           | Yourdon, Inc.                                         | New York, NY                 |                                  | P.J. Plauger                   |       4 |
+|           |                           | Brookhaven National Laboratory                        | Upton, NY                    | Physical Review                  | Stuart Kern                    |       4 |
+|           |                           | University of Toledo                                  | Toledo, OH                   |                                  | Computer Services              |       4 |
+|           |                           | Xavier University                                     | Cincinnati, OH               | Physics                          | Prof. Frederick G. Werner      |       4 |
+|           |                           | University of Pennsylvania                            | Philadelphia, PA             | Bio Phys and Phys Biochem        | Mr. Scott M. Eleff             |       4 |
+|           |                           | Texas Medical Center                                  | Houston, TX                  | Baylor College of Medicine       |                                |       4 |
+|           |                           | University of Texas at Austin                         | Austin, TX                   | Computation Center               | David M. Phillips              |       4 |
+|           |                           | University of Texas at El Paso                        | El Paso, TX                  | E. E.                            | Glenn Gibson                   |       4 |
+|           |                           | Science Applications, Inc.                            | Arlington, VA                |                                  |                                |       4 |
+|           |                           | ARPA                                                  | Arlington, VA                |                                  | Steve Walker                   |       4 |
+|           |                           | University of Vermont                                 | Burlington, VT               | Lung Center                      | Mr. Richard Becker             |       4 |
+|           |                           |                                                       | Toronto, ON, Canada          |                                  | Mr. Rick Macfarlane            |       4 |
+|           |                           | University of Calgary                                 | Calgary, AB, Canada          | Environmental Design             | Prof. Lawrence O. Sinkey       |       4 |
+|           |                           | University of British Columbia                        | Vancouver, BC, Canada        | Animal Resource Ecology          | Stephen W. Borden              |       4 |
+|           |                           | University of Sydney                                  | Sydney, NSW, Australia       | Computer Science                 | Ian Jackson                    |       4 |
+|           |                           | University of Newcastle                               | Newcastle, NSW, Australia    | Computing Centre                 | J.A. Lambert                   |       4 |
+|           |                           | Technische Universität Berlin                         | Berlin, Germany              |                                  |                                |       4 |
+|           |                           | University of Sussex                                  | Brighton, England            | Cognitive Studies                | Dr. Steven Hardy               |       4 |
+|           |                           | University of Essex                                   | Colchester, England          |                                  |                                |       4 |
+|           |                           | University of Glasgow                                 | Glasgow, Scotland            | Computing Science                | William Findlay                |       4 |
+|           |                           | Loughborough University of Technology                 | Loughborough, England        | Computer Studies                 | D.W. Taylor                    |       4 |
+|           |                           | University of Newcastle upon Tyne                     | Newcastle upon Tyne, England |                                  |                                |       4 |
+|           |                           | University of London, Westfield College               | London, England              |                                  | Colin Taylor                   |       4 |
+|           |                           | Technion - Israel Institute of Technology             | Haifa, Israel                |                                  |                                |       4 |
+|           |                           | Vrije Universiteit                                    | Amsterdam, Netherlands       | Mathematics                      | Dr. Andrew Tanenbaum           |       4 |
 
 ## Sources
 
@@ -386,7 +390,7 @@ List sources:
   > and an even larger number in universities, secondary schools, and commercial
   > and government institutions. [page 1948]
 
-- *A Statistical Examination of The Evolution of the UNIX System* \
+- [*A Statistical Examination of The Evolution of the UNIX System*](http://jsg.id.au/misc/Shamim_Sharfuddin_Pirzada-1988-PhD-Thesis.pdf) \
   Shamim Sharifuddin Pirzada \
   Imperial College of Science, Technology and Medicine, University of London \
   Doctor of Philosophy thesis, September 1988
@@ -525,6 +529,86 @@ List sources:
   > the room! [pages 63–64]
 
   Are these DECtapes under the floorboards the Dennis_Tapes?
+
+- [*Open Sources: Voices from the Open Source Revolution*](https://www.oreilly.com/openbook/opensources/book/kirkmck.html) \ \
+  Twenty Years of Berkeley Unix: From AT&T-Owned to Freely Redistributable \
+  Marshall Kirk McKusick, January 1999
+
+  - January 1974: Computer Science, Mathematics, and Statistics Departments
+    jointly acquired V4 after Fabry attended SOSP'73.
+  - Spring 1974: Profs. Eugene Wong and Michael Stonebraker purchased a
+    PDP-11/40 running V5.
+  - Fall 1975: Ken Thompson, Jeff Schriebman, and Bob Kridle brought up V6 on a
+    newly arrived PDP-11/70.
+  - Early 1978: Prof. Richard Fateman acquired a VAX-11/780 and UNIX/32V.
+
+  > Ken Thompson and Dennis Ritchie presented the first Unix paper at the
+  > Symposium on Operating Systems Principles at Purdue University in November
+  > 1973. Professor Bob Fabry, of the University of California at Berkeley, was
+  > in attendance and immediately became interested in obtaining a copy of the
+  > system to experiment with at Berkeley.
+  >
+  > At the time, Berkeley had only large mainframe computer systems doing batch
+  > processing, so the first order of business was to get a PDP-11/45 suitable
+  > for running with the then-current Version 4 of Unix. The Computer Science
+  > Department at Berkeley, together with the Mathematics Department and the
+  > Statistics Department, were able to jointly purchase a PDP-11/45. In January
+  > 1974, a Version 4 tape was delivered and Unix was installed by graduate
+  > student Keith Standiford.
+  >
+  > Although Ken Thompson at Purdue was not involved in the installation at
+  > Berkeley as he had been for most systems up to that time, his expertise was
+  > soon needed to determine the cause of several strange system crashes. […]
+  >
+  > Though Unix was soon reliably up and running, the coalition of Computer
+  > Science, Mathematics, and Statistics began to run into problems; Math and
+  > Statistics wanted to run DEC's RSTS system. After much debate, a compromise
+  > was reached in which each department would get an eight-hour shift; Unix
+  > would run for eight hours followed by sixteen hours of RSTS. To promote
+  > fairness, the time slices were rotated each day. Thus, Unix ran 8 a.m. to 4
+  > p.m. one day, 4 p.m. to midnight the next day, and midnight to 8 a.m. the
+  > third day. Despite the bizarre schedule, students taking the Operating
+  > Systems course preferred to do their projects on Unix rather than on the
+  > batch machine.
+  >
+  > Professors Eugene Wong and Michael Stonebraker were both stymied by the
+  > confinements of the batch environment, so their INGRES database project was
+  > among the first groups to move from the batch machines to the interactive
+  > environment provided by Unix. They quickly found the shortage of machine
+  > time and the odd hours on the 11/45 intolerable, so in the spring of 1974,
+  > they purchased an 11/40 running the newly available Version 5. With their
+  > first distribution of INGRES in the fall of 1974, the INGRES project became
+  > the first group in the Computer Science department to distribute their
+  > software. Several hundred INGRES tapes were shipped over the next six years,
+  > helping to establish Berkeley's reputation for designing and building real
+  > systems.
+  >
+  > Even with the departure of the INGRES project from the 11/45, there was
+  > still insufficient time available for the remaining students. To alleviate
+  > the shortage, Professors Michael Stonebraker and Bob Fabry set out in June
+  > 1974, to get two instructional 11/45's for the Computer Science department's
+  > own use. Early in 1975, the money was obtained. At nearly the same time, DEC
+  > announced the 11/70, a machine that appeared to be much superior to the
+  > 11/45. Money for the two 11/45s was pooled to buy a single 11/70 that
+  > arrived in the fall of 1975. Coincident with the arrival of the 11/70, Ken
+  > Thompson decided to take a one-year sabbatical as a visiting professor at
+  > the University of California at Berkeley, his alma mater. Thompson, together
+  > with Jeff Schriebman and Bob Kridle, brought up the latest Unix, Version 6,
+  > on the newly installed 11/70.
+  >
+  > […]
+  >
+  > Early in 1978, Professor Richard Fateman began looking for a machine with a
+  > larger address space on which he could continue his work on Macsyma
+  > (originally started on a PDP-10). The newly announced VAX-11/780 fulfilled
+  > the requirements and was available within budget. Fateman and thirteen other
+  > faculty members put together an NSF proposal that they combined with some
+  > departmental funds to purchase a VAX.
+  >
+  > Initially the VAX ran DEC's operating system VMS, but the department had
+  > gotten used to the Unix environment and wanted to continue using it. So,
+  > shortly after the arrival of the VAX, Fateman obtained a copy of the 32/V
+  > port of Unix to the VAX by John Reiser and Tom London of Bell Labs.
 
 - ["Hidden Early History of Unix"](https://papers.freebsd.org/2020/fosdem/losh-hidden_early_history_of_unix/) \
   Warner Losh \
