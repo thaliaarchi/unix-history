@@ -33,6 +33,7 @@ List sources:
 
 [^nijmegen]: "SOFTWARE AGREEMENT between WESTERN ELECTRIC COMPANY, INCORPORATED
   and KATHOLIEKE UNIVERSITEIT Effective as of December 1, 1974"
+[^news7507]: UNIX News July 30, 1975
 [^pirzada]: *A Statistical Examination of The Evolution of the UNIX System* \
   Shamim Sharifuddin Pirzada \
   Imperial College of Science, Technology and Medicine, University of London \
@@ -67,7 +68,7 @@ List sources:
 | 6         |                           | California Institute of Technology                    | Pasadena, CA                 |                                  | Mr. A. J. Lindstrom            | 1       |
 | 7         |                           | Case Western Reserve University                       | Cleveland, OH                | Biometry                         | Mr. Gary M. Goins              | 1 2 3 4 |
 | 8         |                           | Johns Hopkins University                              | Baltimore, MD                | Electrical Engineering           | Prof. W. H. Huggins            | 1 2 3 4 |
-| 9         |                           | Harvard University                                    | Cambridge, MA                | Computation                      | Mr. Brent Byer                 | 1       |
+| 9         | ≤Winter 1973/1974 [^news7507] | Harvard University                                | Cambridge, MA                | Computation                      | Mr. Brent Byer                 | 1       |
 | 9         |                           | Harvard University                                    | Cambridge, MA                | Science Center                   | Mr. Lewis A. Law               |   2 3 4 |
 |           |                           | Harvard University                                    | Boston, MA                   | Public Health                    | Shao-Sun Chien                 |       4 |
 | 10        |                           | Georgia Institute of Technology                       | Atlanta, GA                  | Information and Computer Science | Dr. Vladimir Slamecka          | 1       |
@@ -356,6 +357,10 @@ List sources:
   list, creating the gaps in the Ken's sequence numbers. The highest number in
   the sequence is 51, which matches Ken's list from a month prior, so it is
   unlikely there were any new licensees since then.
+
+  > UNIX at the Children's Museum has been fully operational since August, 1974.
+  > Development work jointly with Harvard University began the previous winter,
+  > making us one of the first non-Bell users. [page 8]
 
 - UNIX News [March 19, 1976](https://archive.org/details/unix_news_march-19-1976),
   pages 11–14a: 80 members listed
@@ -806,7 +811,7 @@ List sources:
   > | 1987-     | MIPS M/1000              | 66022    |
   > | 1989-     | MIPS M/120               | 55000    |
   >
-  > * Purchase price
+  > \* Purchase price
   >
   > [page 86]
 
