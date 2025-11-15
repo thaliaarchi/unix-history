@@ -34,7 +34,7 @@ E Oliver, Economic and Financial Studies, Macquarie University, 88 9073
 G Cox, Computer Centre, Australian Atomic Energy Commission, 531 3650
 G Peady, Computer Centre, Australian Atomic Energy Commission, 531 3085
 D Richardson, Computer Centre, Australian Atomic Energy Commission, 531 3085
-H McKenzie, Computing Research, CSIR0, (062) 43 3259
+H McKenzie, Computing Research, CSIRO, (062) 43 3259
 D Ryan, Computing Research, CSIRO, (062) 43 3261
 J Smith, Computing Research, CSIRO, (062) 43 3260
 D Blatt, Computer Science, University of Newcastle, (02) 68

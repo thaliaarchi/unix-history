@@ -29,6 +29,7 @@ List sources:
 2. UNIX News July 30, 1975
 3. UNIX News March 19, 1976
 4. UNIX News September 1976
+5. AUUGN October 1978, trimmed to only new institutions
 
 [^pirzada]: *A Statistical Examination of The Evolution of the UNIX System* \
   Shamim Sharifuddin Pirzada \
@@ -224,6 +225,15 @@ List sources:
 |           |                           | University of London, Westfield College               | London, England              |                                  | Colin Taylor                   |       4 |
 |           |                           | Technion - Israel Institute of Technology             | Haifa, Israel                |                                  |                                |       4 |
 |           |                           | Vrije Universiteit                                    | Amsterdam, Netherlands       | Mathematics                      | Dr. Andrew Tanenbaum           |       4 |
+|           |                           | Royal Military College                                | Campbell, ACT, Australia     |                                  |                                |       5 |
+|           |                           | University of Melbourne                               | Melbourne, VIC, Australia    |                                  |                                |       5 |
+|           |                           | University of Queensland                              | Brisbane, QLD, Australia     |                                  |                                |       5 |
+|           |                           | Macquarie University                                  | Sydney, NSW, Australia       |                                  |                                |       5 |
+|           |                           | Australian Atomic Energy Commission                   | Sydney, NSW, Australia       |                                  |                                |       5 |
+|           |                           | CSIRO                                                 | Canberra, ACT, Australia     |                                  |                                |       5 |
+|           |                           | University of Wollongong                              | Wollongong, NSW, Australia   |                                  |                                |       5 |
+|           |                           | NSW Institute of Technology                           | Sydney, NSW, Australia       |                                  |                                |       5 |
+|           |                           | University of Adelaide                                | Adelaide, SA, Australia      |                                  |                                |       5 |
 
 ## Sources
 
