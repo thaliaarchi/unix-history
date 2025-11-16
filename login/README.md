@@ -34,12 +34,6 @@ special issues were mailed, the third of which is sourced from
 sent to KU Nijmegen. The July 1976 issue is sourced from [John Gilmore's scans](http://www.toad.com/early-usenix-newsletters/)
 of issues July 16, 1975 to September 1978 [[TUHS mirror](https://www.tuhs.org/Archive/Documentation/Usenix/Early_Newsletters/)].
 
-Other documents to do:
-- [The Bell System Technical Journal](https://archive.org/details/bstj-archives?query=unix)
-- "UNIX Time-Sharing System: A Retrospective". Dennis Ritchie. Tenth Hawaii
-  International Conference on the System Sciences, Honolulu, January 1977
-- [Australian UNIX Users Group Newsletter](https://archive.org/details/auugnewsletter)
-
 ## License
 
 UNIX News was distributed in 1975–1977 to holders of a [UNIX license](LICENSE-UNIX)
