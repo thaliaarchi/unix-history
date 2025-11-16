@@ -1,14 +1,42 @@
 # UNIX license agreements
 
 - ["SOFTWARE AGREEMENT between WESTERN ELECTRIC COMPANY, INCORPORATED and
+  THE REGENTS OF THE UNIVERSITY OF CALIFORNIA Effective as of December 1, 1973"](https://web.archive.org/web/20130904230950/http://www.groklaw.net/pdf2/WElectricRegentsLicenseDec1st1973.pdf)
+
+  Effective on 1 December 1973, signed by Western on 16 January 1974 and by
+  Berkeley on 7 February 1974. No cost.
+
+  The provided components are:
+
+  > UNIX time sharing operating system computer program and supporting programs
+  > and documentation consisting of the following:
+  >
+  > 1. a first reel of 9 track 800 bpi magnetic tape supplied by LICENSEE in
+  >    required length on which the following will be recorded:
+  >    1. Binary object code of the UNIX core resident operating system;
+  >    2. Source program code;
+  >    3. User's manual.
+  > 2. a second reel of 9 track 800 bpi magnetic tape supplied by LICENSEE in
+  >    required length on which the binary object code of the supporting
+  >    programs will be recorded.
+  > 3. printed documentation:
+  >    1. UNIX programmer's manual;
+  >    2. Bell Telephone Laboratories, Inc. technical memorandum entitled NROFF
+  >       User's Manual;
+  >    3. C reference manual;
+  >    4. UNIX assembler reference manual.
+  >
+  > [page 5]
+
+- ["SOFTWARE AGREEMENT between WESTERN ELECTRIC COMPANY, INCORPORATED and
   KATHOLIEKE UNIVERSITEIT Effective as of December 1, 1974"](https://www.nokia.com/bell-labs/about/dennis-m-ritchie/licenses/6thEdlicence.pdf)
 
   Signed by Dick Shahpazian, Director of Patent Licensing, and Dr. C.J.M. Aarts.
 
   Described on [Dennis Ritchie's site](https://www.nokia.com/bell-labs/about/dennis-m-ritchie/licenses.html):
 
-  Effective on 1 December 1974, signed by AT&T on 26 February 1975 and by
-  Nijmegen on 6 February 1975.
+  Effective on 1 December 1974, signed by Western on 26 February 1975 and by
+  Nijmegen on 6 February 1975. The cost was $150.
 
   > Prof. Karl Kleine at Fachhochschule Jena in Germany found and scanned some
   > documents relating to the distribution of early versions of Unix, and kindly
@@ -38,27 +66,7 @@
   >
   > This license was royalty-free, but there was a $150 administrative fee.
 
-  The provided components are:
-
-  > UNIX time sharing operating system computer program and supporting programs
-  > and documentation consisting of the following:
-  >
-  > 1. a first reel of 9 track 800 bpi magnetic tape supplied by LICENSEE in
-  >    required length on which the following will be recorded:
-  >    1. Binary object code of the UNIX core resident operating system;
-  >    2. Source program code;
-  >    3. User's manual.
-  > 2. a second reel of 9 track 800 bpi magnetic tape supplied by LICENSEE in
-  >    required length on which the binary object code of the supporting
-  >    programs will be recorded.
-  > 3. printed documentation:
-  >    1. UNIX programmer's manual;
-  >    2. Bell Telephone Laboratories, Inc. technical memorandum entitled NROFF
-  >       User's Manual;
-  >    3. C reference manual;
-  >    4. UNIX assembler reference manual.
-  >
-  > [page 6]
+  The provided components are the same as Berkeley's license.
 
 - "SOFTWARE AGREEMENT between WESTERN ELECTRIC COMPANY, INCORPORATED and
   KATHOLIEKE UNIVERSITEIT LEUVEN Effective as of September 1, 1977"
@@ -67,8 +75,8 @@
   Katholieke Universiteit Leuven, Departement Computerwetenschappen \
   Revised 23 May 2015
 
-  Effective from 1 September 1977, signed by AT&T on 1 September 1977 and by
-  Leuven on 15 September 1977.
+  Effective from 1 September 1977, signed by Western on 1 September 1977 and by
+  Leuven on 15 September 1977. The cost was $190.
 
   > This is the Unix licence signed by K.U.Leuven in September 1977. It allows
   > the K.U.Leuven to run Unix V6 (version 6) on the PDP 11/45 of the Unité

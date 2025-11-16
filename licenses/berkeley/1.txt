@@ -1,0 +1,55 @@
+Software-Univ.—020173—1
+
+
+
+
+                        SOFTWARE AGREEMENT
+
+
+  Effective as of December 1, 1973
+WESTERN ELECTRIC COMPANY, INCORPORATED, a New York
+corporation ("WESTERN"), having an office at 222 Broadway, New York,
+New York 10038, and  THE UNIVERSITY OF CALIFORNIAXXXXXXXXXXXXXXXXXXXXXXXXXXXX  THE REGENTS OF
+THE UNIVERSITY OF CALIFORNIA         [Signature]  1/25/74
+                                                          [Signature] 2/11/74
+("LICENSEE"), having an office at  2200 University Avenue,
+  Berkeley, California 94720
+
+agree as follows:
+
+
+                            ARTICLE I
+
+                           DEFINITIONS
+
+  1.01  Terms in this agreement (other than names of parties and Article
+headings) which are in capital letters shall have the meanings specified in the
+Definitions Appendix.
+
+                            ARTICLE II
+
+            GRANTS OF RIGHTS TO USE LICENSED SOFTWARE
+
+  2.01  WESTERN grants royalty-free to LICENSEE, a personal,
+nontransferable and nonexclusive right to use the LICENSED SOFTWARE,
+solely for academic and educational purposes and solely at the following
+location of the licensee:
+
+
+            Computer Science▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅  [Signature]  1/25/74  [Signature] 2/11/74
+            School of Medicine
+            Department of Clinical Pathology
+              and Laboratory Medicine
+            The University of California, San Francisco
+            1378 Third Avenue
+            San Francisco, California   94143
+
+
+
+
+  2.02  The form of the LICENSED SOFTWARE shall be determined by
+WESTERN, and delivery of the LICENSED SOFTWARE to LICENSEE shall
+be within a reasonable time after execution of this agreement by LICENSEE.
+
+
+                         1

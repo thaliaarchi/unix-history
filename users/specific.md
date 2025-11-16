@@ -7,8 +7,8 @@ Berkeley.
 Licensees with more than one source are in separate files:
 [University of Alberta](alberta.md).
 
-License agreements are in licenses/: Katholieke Universiteit Nijmegen and
-Katholieke Universiteit Leuven.
+License agreements are in licenses/: University of California, Berkeley;
+Katholieke Universiteit Nijmegen; and Katholieke Universiteit Leuven.
 
 - ["The Network UNIX System"](https://archive.org/details/networkunixsyste155holm) \
   Steve Holmgren \

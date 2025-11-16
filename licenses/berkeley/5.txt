@@ -1,0 +1,56 @@
+
+
+
+
+                      DEFINITIONS APPENDIX
+
+
+  ASSOCIATED COMPANIES of WESTERN means SUBSIDIARIES of
+WESTERN, companies presently having WESTERN as a SUBSIDIARY and
+other SUBSIDIARIES of such companies and their SUBSIDIARIES. The term
+also means and includes Cincinnati Bell Inc., an Ohio corporation, and The
+Southern New England Telephone Company, a Connecticut corporation, and
+their SUBSIDIARIES.
+
+  SUBSIDIARY means a company the majority of whose stock entitled to
+vote for election of directors is now or hereafter controlled by the parent
+company either directly or indirectly, but any such company shall be deemed
+to be a SUBSIDIARY only so long as such control exists.
+
+  LICENSED SOFTWARE means the computer programs or any portions
+thereof, and the associated documentation therefor, listed below:
+
+    UNIX time sharing operating system computer program and sup-
+porting programs and documentation consisting of the following:
+
+      (a) a first reel of 9 track 800 bpi magnetic tape supplied
+          by LICENSEE in required length on which the following
+          will be recorded:
+
+          (1) Binary object code of the UNIX core resident
+              operating system;
+
+          (2) Source program code;
+
+          (3) User's manual.
+
+      (b) a second reel of 9 track 800 bpi magnetic tape
+          supplied by LICENSEE in required length on which
+          the binary object code of the supporting programs
+          will be recorded.
+
+      (c) printed documentation:
+
+          (1)  UNIX programmer's manual;
+
+          (2)  Bell Telephone Laboratories, Inc. technical memorandum
+               entitled NROFF User's Manual;
+
+          (3)  C reference manual;
+
+          (4)  UNIX assembler reference manual.
+
+
+
+
+                                  5                       (151)
