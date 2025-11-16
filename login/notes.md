@@ -1,6 +1,4 @@
-# Notes
-
-## UNIX News and ;login:
+# UNIX News and ;login: highlights
 
 - 1975-07-16:
   - Hendrik-Jan Thomassen at 41:34: C. W. Christ, Jr. was the librarian at
@@ -108,9 +106,3 @@
     and Steven Pemberton presents a language with strong types and indentation
     for nesting (evidently not Thompson's B)
   - 17: "Objective-C: Object-oriented Programming in C language" by Brad J. Cox
-
-## AUUGN
-
-- 1978-10:
-  - 3: UNIX in The Bell System Technical Journal
-  - 4: AUUGN mailing list

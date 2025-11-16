@@ -1,4 +1,4 @@
-# UNIX News
+# UNIX News / ;login:
 
 Transcriptions of UNIX News from 1975 to 1977.
 
