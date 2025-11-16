@@ -1,14 +1,20 @@
 # Sources for specific early UNIX licensees
 
-Covers early UNIX licensees with only one source: University of Illinois
-Urbana-Champaign; Naval Postgraduate School; and University of California,
-Berkeley.
+Covers early UNIX licensees with only one source: University of Waterloo;
+University of Illinois Urbana-Champaign; Naval Postgraduate School; and
+University of California, Berkeley.
 
 Licensees with more than one source are in separate files:
 [University of Alberta](alberta.md).
 
 License agreements are in licenses/: University of California, Berkeley;
 Katholieke Universiteit Nijmegen; and Katholieke Universiteit Leuven.
+
+- University of Waterloo Archives \
+  [Fonds SCA160 - J. Wesley Graham fonds](https://archives.uwaterloo.ca/j-wesley-graham-fonds)
+  - Accession GA133 - J. Wesley Graham fonds, 1946-1999
+    - File 1529 UNIX - 1974-1977 \
+      Contents: correspondence, memoranda, background information.
 
 - ["The Network UNIX System"](https://archive.org/details/networkunixsyste155holm) \
   Steve Holmgren \

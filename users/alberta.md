@@ -1,5 +1,15 @@
 # Sources for the University of Alberta and UNIX
 
+- University of Alberta Archives \
+  [Records of Dr. Marsland](https://discoverarchives.library.ualberta.ca/tony-marsland-fonds),
+  Accession Number 2004-58
+  - Box 6, File 61: ICCA Correspondence - Thompson, Ken \
+    Correspondence between Ken Thompson and Tony Marsland, 1973-1984
+  - Box 10, File 181: Computer Chess Correspondence \
+    Correspondence with Ken Thompson, 1984-1991
+
+  ICCA is the International Computer Chess Association
+
 - [*The Department of Computing Science: The First Twenty-Five Years*](https://archive.org/details/P009056) \
   Keith Smillie \
   Department of Computing Science Technical Report TR-91-01, February 1991 \
