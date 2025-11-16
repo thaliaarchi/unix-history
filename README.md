@@ -3,9 +3,9 @@
 A project to transcribe and organize documents relating to early UNIX history,
 focusing on the first users before V7, from 1969 to around 1976.
 
-- [UNIX News and ;login:](login/README.md) (1975–2020):
+- [*UNIX News* and *;login:*](login/README.md) (1975–2020):
   the USENIX newsletter/magazine, the first newsletter for UNIX
-- [Australian UNIX Users Group Newsletter](auugn/README.md) (1978–2004):
+- [*Australian UNIX Users Group Newsletter*](auugn/README.md) (1978–2004):
   the first Australian newsletter for UNIX
 - Many documents relating to [early UNIX users](users/README.md)
 - [UNIX license agreements](licenses/README.md)
@@ -14,9 +14,12 @@ focusing on the first users before V7, from 1969 to around 1976.
   and formatting
 
 Other documents to do:
-- [The Bell System Technical Journal](https://archive.org/details/bstj-archives?query=unix)
+- [*The Bell System Technical Journal*](https://archive.org/details/bstj-archives?query=unix)
 - "UNIX Time-Sharing System: A Retrospective". Dennis Ritchie. Tenth Hawaii
   International Conference on the System Sciences, Honolulu, January 1977
+- [*$ echo*](https://web.archive.org/web/20231201162438/http://www.groklaw.net/article.php?story=20040211153230800)
+  newsletter, published by AT&T Software Sales and Licensing for licensees of
+  System V
 
 Many thanks to Jonathan Gray for his assistance tracking down sources on early
 UNIX users. This project inspired his [unix-licensees](https://github.com/jonathangray/unix-licensees)

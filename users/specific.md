@@ -7,8 +7,7 @@ University of California, Berkeley.
 Licensees with more than one source are in separate files:
 [University of Alberta](alberta.md) and [University of Utah](utah/README.md).
 
-License agreements are in licenses/: University of California, Berkeley;
-Katholieke Universiteit Nijmegen; and Katholieke Universiteit Leuven.
+License agreements are in licenses/.
 
 - University of Waterloo Archives \
   [Fonds SCA160 - J. Wesley Graham fonds](https://archives.uwaterloo.ca/j-wesley-graham-fonds)
