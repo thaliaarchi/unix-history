@@ -8,6 +8,7 @@ focusing on the first users before V7, from 1969 to around 1976.
 - [Australian UNIX Users Group Newsletter](auugn/README.md) (1978–2004):
   the first Australian newsletter for UNIX
 - Many documents relating to [early UNIX users](users/README.md)
+- [UNIX license agreements](licenses/README.md)
 - [UNIX manuals](manuals/README.md):
   currently only a manual before V1, re-transcribed with the original whitespace
   and formatting

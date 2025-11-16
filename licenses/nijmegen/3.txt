@@ -1,0 +1,58 @@
+Software-Univ.—020173-122073—2
+
+
+
+
+                            ARTICLE III
+
+                            TERMINATION
+
+  3.01  If LICENSEE shall fail to fulfill one or more of its obligations under
+this agreement, WESTERN may, upon its election and in addition to any other
+remedies that it may have, terminate the rights granted hereunder at any time;
+upon such termination LICENSEE shall within thirty (30) days deliver to
+WESTERN all documentation containing the LICENSED SOFTWARE, and
+shall render unusable all LICENSED SOFTWARE placed in any storage
+apparatus.
+
+                            ARTICLE IV
+
+                     MISCELLANEOUS PROVISIONS
+
+  4.01  Nothing contained herein shall be construed as conferring by
+implication, estoppel or otherwise any license or right under any patent or
+trademark, whether or not the exercise of any right herein granted necessarily
+employs an invention of any existing or later issued patent.
+
+  4.02  This agreement shall prevail notwithstanding any conflicting terms or
+legends which may appear in the LICENSED SOFTWARE.
+
+  4.03  WESTERN and its ASSOCIATED COMPANIES make no
+representations or warranties, expressly or implicitly. By way of example but
+not of limitation, WESTERN and its ASSOCIATED COMPANIES make no
+representations or warranties of merchantability or fitness for any particular
+purpose, or that the use of the LICENSED SOFTWARE, will not infringe any
+patent, copyright or trademark of any third person. WESTERN and its
+ASSOCIATED COMPANIES shall not be held to any liability with respect to
+any claim by LICENSEE or a third party on account of, or arising from, the
+use of such LICENSED SOFTWARE.
+
+  4.04  Neither the execution of this agreement nor anything in it or in the
+LICENSED SOFTWARE shall be construed as an obligation upon WESTERN
+or any of its ASSOCIATED COMPANIES to furnish any person, including the
+LICENSEE, any assistance of any kind whatsoever, or any information or
+documentation other than the LICENSED SOFTWARE.
+
+  4.05  LICENSEE agrees that it shall hold the LICENSED SOFTWARE in
+confidence for WESTERN and its ASSOCIATED COMPANIES. LICENSEE
+further agrees that it shall not make any disclosure of the LICENSED
+SOFTWARE or any portion thereof (including methods or concepts utilized
+therein) to anyone, except to employees or students of the LICENSEE to
+whom such disclosure is necessary to the use for which rights are granted
+hereunder. LICENSEE shall appropriately notify each employee and student to
+whom any such disclosure is made that such disclosure is made in confidence
+and shall be kept in confidence by him.
+
+
+
+                            3

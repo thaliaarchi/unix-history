@@ -75,7 +75,7 @@ TODO: What versions are Network UNIX and MUNIX derived from?
 | 26  | July 1974                   | ?                 | The Rand Corporation                    | License granted, first commercial licensee                             | [^pirzada]             |
 | 27  | before Feb 1975[1], 1975[2] | V5[2]             | University of Illinois Urbana-Champaign | Network UNIX running full time[1], first source license for V5 sold[2] | 1[^holmgren] 2[^venam] |
 | 34  | Fall 1974                   | ?                 | Naval Postgraduate School               | Purchased (to be used for MUNIX)                                       | [^munix]               |
-| 49  | December 1, 1974            | ?                 | Katholieke Universiteit, Toernooiveld   | License effective date                                                 | [^nijmegen]            |
+| 49  | December 1, 1974            | ?                 | Katholieke Universiteit Nijmegen        | License effective date                                                 | [^nijmegen]            |
 | \-  | May 1975                    | **V6**            | -                                       | -                                                                      | [^releases]            |
 |     | Fall 1975                   | V6                | University of California, Berkeley      | Thompson brought up V6 over one-year sabbatical                        | [^mckusick]            |
 | \-  | around May 1977             | **Mini-UNIX**     | -                                       | -                                                                      | [^releases]            |
@@ -215,8 +215,8 @@ List sources:
 | 48        |                           | University of New South Wales                         | Kensington, NSW, Australia   |                                  | R. Whitfeld                    | 1       |
 |           |                           | University of New South Wales                         | Kensington, NSW, Australia   | Computer Science                 | Dr. John Lions                 |     3 4 |
 |           |                           | University of New South Wales                         | Kensington, NSW, Australia   | Computing Services               | Manager                        |       4 |
-| 49        | Dec 1 1974 [^nijmegen]    | Katholieke Universiteit, Toernooiveld                 | Nijmegen, Netherlands        |                                  | J. van den Bas                 | 1       |
-|           |                           | Katholieke Universiteit, Toernooiveld                 | Nijmegen, Netherlands        | Science                          | Hendrik-Jan Thomassen          |     3 4 |
+| 49        | Dec 1 1974 [^nijmegen]    | Katholieke Universiteit Nijmegen                      | Nijmegen, Netherlands        |                                  | J. van den Bas                 | 1       |
+|           |                           | Katholieke Universiteit Nijmegen                      | Nijmegen, Netherlands        | Science                          | Hendrik-Jan Thomassen          |     3 4 |
 | 50        |                           | Heriot-Watt University                                | Edinburgh, Scotland          | Electrical Engineering           | P. L. De Souza                 | 1       |
 | 50        |                           | Heriot-Watt University                                | Edinburgh, Scotland          | Electrical Engineering           | Prof. F. G. Heath              |   2 3 4 |
 | 51        |                           | University of Manitoba                                | Winnipeg, MB, Canada         | Computer Science                 | Dr. R. J. Collens              | 1 2 3 4 |

@@ -1,0 +1,54 @@
+(SC)
+Software-Univ.—020173-060574—1, Alt.
+
+
+
+
+                        SOFTWARE AGREEMENT
+
+
+  Effective as of December 1, 1974
+WESTERN ELECTRIC COMPANY, INCORPORATED, a New York
+corporation ("WESTERN"), having an office at 222 Broadway, New York,
+New York 10038, and  KATHOLIEKE UNIVERSITEIT
+
+("LICENSEE"), having an office at  Nijmegen, The Netherlands,
+
+
+agree as follows:
+
+
+                            ARTICLE I
+
+                           DEFINITIONS
+
+  1.01  Terms in this agreement (other than names of parties and Article
+headings) which are in capital letters shall have the meanings specified in the
+Definitions Appendix.
+
+                            ARTICLE II
+
+            GRANTS OF RIGHTS TO USE LICENSED SOFTWARE
+
+  2.01  WESTERN grants royalty-free to LICENSEE, a personal,
+nontransferable and nonexclusive right to use the LICENSED SOFTWARE,
+solely for academic and educational purposes and solely at the following
+location of the licensee:
+
+            Computer Graphics Group
+            Faculteit der Wiskunde en Natuurwetenschappen
+            Toernooiveld
+            Nijmegen
+            The Netherlands
+
+
+  2.02  LICENSEE shall pay to WESTERN, upon execution of this agreement
+by LICENSEE, a service charge in the amount of
+One Hundred Fifty ------------------- United States dollars
+($150.00--------) for the cost of furnishing the LICENSED SOFTWARE.
+Delivery of the LICENSED SOFTWARE to LICENSEE shall be within a
+reasonable time after payment of such service charge.
+
+
+
+                         1

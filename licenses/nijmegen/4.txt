@@ -1,0 +1,52 @@
+Software-Univ.—020173-122073—3
+
+
+
+
+  4.06  The obligation of the LICENSEE and of its employees and students
+under Section 4.95 shall survive and continue after any termination of rights
+under this agreement; however, such obligations shall not extend to any
+information or technical data relating to the LICENSED SOFTWARE which is
+now available to the general public or which later becomes available to the
+general public by acts not attributable to LICENSEE, its employees or
+students.
+
+  4.07  LICENSEE agrees that it will not make or have made, or permit to be
+made, any copies of the LICENSED SOFTWARE or portions thereof, except
+those copies which are necessary to the use, by the LICENSEE, for which
+rights are granted hereunder, that each such necessary copy shall contain the
+same proprietary notices or legends which appear on the LICENSED
+SOFTWARE or which are applicable to such portions thereof, and that no
+rights are granted under this agreement expressly or implied with respect to
+any copyrights except as provided for in this Section 4.07.
+
+  4.08  Neither this agreement nor any rights hereunder, in whole or in part,
+shall be assignable or otherwise transferable.
+
+  4.09  Nothing in this agreement grants to LICENSEE the right to sell, lease
+or otherwise transfer or dispose of the LICENSED SOFTWARE in whole or in
+part.
+
+  4.10  Any notice hereunder shall be deemed to be sufficiently given and any
+delivery hereunder deemed made when sent by registered mail addressed to the
+addressee at the office above specified or at such changed address as the
+addressee shall have specified by written notice.
+
+  4.11  This agreement sets forth the entire agreement and understanding
+between the parties as to the subject matter hereof and merges all prior
+discussions between them, and neither of the parties shall be bound by any
+conditions, definitions, warranties, understandings or representations with
+respect to such subject matter other than as expressly provided herein, or in
+any prior existing written agreement between the parties, or as duly set forth
+on or subsequent to the effect date hereof in writing and signed by a proper
+and duly authorized representative of the party to be bound thereby.
+
+  4.12  The construction and performance of this agreement shall be governed
+by the law of the State of New York.
+
+
+
+
+
+
+                            4
