@@ -1,0 +1,136 @@
+Sys. V-Ed.-040183-2
+
+                           Appendix A
+
+                    TERMS AND CONDITIONS FOR
+                 EDUCATIONAL SOFTWARE AGREEMENT
+
+                    USE OF LICENSED SOFTWARE
+
+  1.01  (a) Uses for "academic and educational purposes" means uses
+directly related to teaching and degree-granting programs
+and uses in noncommercial research by students and faculty
+members, including any uses made in connection with the
+development of enhancements or modifications to the
+LICENSED SOFTWARE, provided that (i) neither the results of
+such research nor any enhancement or modification so developed
+is intended primarily for the benefit of a third party; (ii) such
+results, enhancements and modifications (all to the extent that
+they do not include any portion of LICENSED SOFTWARE)
+are made available to anyone including AT&T and its associated
+companies without restrictions on use, copying or further
+distribution, notwithstanding any proprietary right (such as a
+copyright or patent right) that could be asserted by LICENSEE,
+its students or faculty members and (iii) any copy of any such
+result enhancement or modification furnished by LICENSEE is
+furnished for no more than the cost of reproduction and shipping.
+Any such copy that includes any portion of LICENSED
+SOFTWARE may be furnished to others than AT&T and its
+associate companies only pursuant to the provisions of Section
+4.08(c).
+
+  (b)  Commercial use by LICENSEE of the LICENSED
+SOFTWARE or of any such result enhancement or modification
+is not permitted under this agreement. Such commercial use is
+permissible only pursuant to the terms of an appropriate
+commercial software agreement between AT&T and
+LICENSEE. Any such result, enhancement or modification may
+be developed further by LICENSEE for commercial use such as
+by developing software for license or for a third party only on
+CPUs covered by such a commercial software agreement and
+only provided that the result enhancement or modification in the
+form in which it exists when such a commercial software agreement
+is executed by LICENSEE, remains available to anyone as
+specified in Section 1.01(a).
+
+  1.02  At any time at AT&T'S request, LICENSEE will
+furnish in writing to AT&T a description of the use of
+LICENSED SOFTWARE sufficient to enable AT&T to verify
+that such a use is solely for academic and educational purposes.
+
+  1.03  A single back-up CPU may be used as a substitute for
+a DESIGNATED CPU without notice to AT&T during any
+time when such a DESIGNATED CPU is inoperative because it
+is malfunctioning or undergoing repair, maintenance or other
+modifications.
+
+  1.04  No right is granted for the use of LICENSED
+SOFTWARE, directly for any third person, or for any use by
+any third person of the LICENSED SOFTWARE.
+
+                  ADDITIONAL OR REPLACING CPUs
+
+  2.01  LICENSEE may at any time request in writing that
+an additional CPU be made a DESIGNATED CPU or that a
+replacing CPU be substituted for a current DESIGNATED
+CPU. Any such request must include an identification of each
+such CPU by location, type and serial number and a
+description of the proposed use of the LICENSED
+SOFTWARE on each additional or replacing CPU sufficient
+to show that such use will be solely for academic and
+educational purposes. Any such requests shall become effective
+on agreement thereto in writing by AT&T and receipt by
+AT&T of the appropriate service charge.
+
+  2.02  LICENSEE may obtain additional copies of
+LICENSED SOFTWARE for use on additional
+DESIGNATED CPUs on payment of a distribution charge to
+AT&T for each copy. AT&T will quote the amount of
+such distribution charge on request.
+
+  2.03  There are different versions of LICENSED
+SOFTWARE for different types of CPUs. The Schedule(s)
+attached hereto and the version(s) of LICENSED
+SOFTWARE to be furnished hereunder are determined
+by the type(s) of CPU(s) specified in this agreement. If an
+additional CPU of a different type becomes a
+DESIGNATED CPU pursuant to Section 2.01 and a
+version of LICENSED SOFTWARE for such type is
+available from AT&T, AT&T will forward to LICENSEE
+an additional Schedule for such version. Within a
+reasonable time after such designation becomes effective
+and payment for the distribution charges is received,
+AT&T or one of its associated companies will furnish to
+LICENSEE a copy of such version in the form identified in
+such additional Schedule.
+
+                            TERMINATION
+
+  3.01  If LICENSEE shall fail to fulfill one or more of
+its obligations under this agreement AT&T may, upon its
+election and in addition to any other remedies that it may
+have, at any time terminate all the rights granted by it
+hereunder by not less than two (2) months written notice
+to LICENSEE specifying any such breech, unless within
+the period of such notice all breaches specified therein
+shall have been remedied; upon such termination
+LICENSEE shall within thirty (30) days deliver to AT&T
+all documentation containing the LICENSED
+SOFTWARE and, shall render unusable all LICENSED
+SOFTWARE placed in any storage apparatus.
+
+                     MISCELLANEOUS PROVISIONS
+
+  4.01  LICENSEE assures AT&T that it does not intend to
+and will not knowingly, without the prior written consent, if
+required, of the Office of Export Administration of the U.S.
+Department of Commerce, Washington D.C. 20230, transmit
+directly or indirectly:
+
+  (i) the LICENSED SOFTWARE; or
+
+ (ii) any immediate product (including processes and services)
+      produced directly by the use of the LICENSED SOFTWARE; or
+
+(iii) any commodity produced by such immediate product if
+      the immediate product of the LICENSED SOFTWARE
+      is a plant capable of producing a commodity or is a major
+      component of such plant;
+
+to Afghanistan or to any Group P, Q, S, W, Y or Z country
+specified in supplement No. 1 to section 320 of the Export
+Administration Regulation issued by the U.S.
+Department of Commerce. LICENSEE agrees that its
+obligations under this section 4.01 shall survive and
+continue after any termination of rights under this
+agreement.

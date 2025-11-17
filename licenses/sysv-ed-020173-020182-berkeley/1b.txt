@@ -1,0 +1,59 @@
+  Attachment:
+
+        Location                 Type               Serial Number
+
+
+University of California - San Diego
+  1426 Applied Physics and Math Building
+  La Jolla, California 92093     VAX 11/780         79029421K
+
+  Computer Science Department
+  5438 Applied Physics & Math
+  Building, Muir Campus          VAX 11/780         28680
+
+  Biology Department
+  2309 Bonner Hall               PDP 11/45          141
+
+  Institute for Cognitive Science
+  1550 Psychology and Linguistics
+    Prime Building               VAX 11/750         SM82F28302K
+                                 PDP 11/45          422
+
+  Department of Chemistry
+  3120 Urey Hall, Revelle Campus VAX 11/780         7808219N
+                                 VAX 11/750         82C27975K
+                                 PDP 11/32          AG33573
+                                 PDP 11/34          AG28361
+                                 CAL Data 135       DE001019
+                                 CAL Data 135       DS00044
+                                 CAL Data 135       DS00171
+
+  Department of Music
+  Center for Music Experiment
+  Building 408, Warren Campus    VAX 11/780         N180028766K
+                                 PDP 11/55          NM81C28461K
+
+  Computer Center
+  1426 Applied Physics &
+        Math Building            VAX 11/780         79029421K
+                                 VAX 11/780         82F28392K
+                                 VAX 11/780         82F28438K
+
+University of California - Livermore (Davis)
+  Department of Applied Sciences
+  College of Engineering
+  Hertz Hall, Room 8             PDP 11/60          WM00273
+
+University of California - Santa Cruz
+  Computer Center
+  34 Communications Building     PDP 11/34          AG10962
+                                 PDP 11/70          WM80027024K
+                                 PDP 11/70          10586
+                                 PDP 11/780         N179013841K
+                                 PDP 11/780         81C1G568K
+  415 Kerr Hall                  PDP 11/34          AG29220
+  68 Kerr Hall                   PDP 11/34          AG25851
+  125 Thinmann                   PDP 11/34          WM7702SPG10
+  298 Applied Sciences Building  PDP 11/34          24180
+  168 Natural Sciences 2         PSP 11/780         81014469K
+  250 Applied Sciences Building  PDP 11/780         81016455K

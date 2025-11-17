@@ -10,6 +10,7 @@
 | Software-Customer CPU—020176-090180 | Western  | [*partial copy (page 4)*](cpu-052776-090180-specimen/)           | -          | -          |
 | Software-Customer CPU—052776-090180 | Western  | [*specimen copy*](cpu-052776-090180-specimen/)                   | -          | -          |
 | Software-Corp.—020173-020182        | AT&T     | [*specimen copy*](corp-020173-020182-specimen/)                  | -          | -          |
+| Sys. V-Ed.-040183                   | AT&T     | [University of California](sysv-ed-020173-020182-berkeley/)      | 1983-07-01 | 1984-08-15 |
 
 The second date component in the license revision is the date it was last
 revised, the effective date is written on the title page, and the signed date is
@@ -20,7 +21,6 @@ TODO: Replace ASCII quotes with typographic quotes, where appropriate.
 TODO:
 - [Various 1979–1999: University of California, Berkeley](https://web.archive.org/web/20240701112852/http://www.groklaw.net/article.php?story=20110410231937980)
 - [1983: License specimens](https://archive.org/details/att_unix_licenses_1982)
-- [July 1, 1983: University of California, Berkeley](https://web.archive.org/web/20240804110857/http://www.groklaw.net/article.php?story=20041107011008363)
 - [February 1, 1985: IBM](https://web.archive.org/web/20230325163759/http://www.groklaw.net/article.php?story=20040731064724850)
 - [January 24, 1986: Silicon Graphics](https://web.archive.org/web/20230325100602/http://www.groklaw.net/article.php?story=20040730014202633)
   [[HTML](https://web.archive.org/web/20230325163759/http://www.groklaw.net/article.php?story=20040731064724850)]
@@ -153,3 +153,11 @@ Source: ["AT&T UNIX License Specimens (1982)"](https://archive.org/details/att_u
 segaloco, Internet Archive, 2024
 
 TODO: Transcribe other licenses in this item
+
+## Berkeley 1983
+
+Source: ["AT&T-Regents of the U. of California -- The 1983 Educational License -
+PDF and text"](https://web.archive.org/web/20240804110857/http://www.groklaw.net/article.php?story=20041107011008363) \
+Groklaw, 7 November 2004
+
+TODO: Finish transcribing

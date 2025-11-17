@@ -1,0 +1,68 @@
+Sys. V-Ed.-040183-1
+
+
+                 EDUCATIONAL SOFTWARE AGREEMENT
+
+  Effective as of  July 1, 1983       , AMERICAN TELEPHONE AND
+TELEGRAPH COMPANY (“AT&T”), having an office at 195 Broadway, New York, New
+York 10007, and  THE REGENTS OF THE UNIVERSITY OF CALIFORNIA
+
+(“LICENSEE”), having an office at  Berkeley, California 94720,
+
+agree as follows:
+
+  AT&T grants fee-free to LICENSEE a personal, nontransferable and nonexclusive right
+to use LICENSED SOFTWARE subject to the terms and conditions in Appendix A
+attached hereto and made a part hereof and subject to receipt of the service charge specified
+below. Such right to use includes the right to modify LICENSED SOFTWARE and to
+prepare derivative works based on LICENSED SOFTWARE, and shall be limited solely to
+uses for academic and educational purposes and solely on or in connection with the use of
+DESIGNATED CPUs. LICENSED SOFTWARE means all or any portion of the computer
+programs, other information and documentation: (i) listed in the attached Schedule for
+UNIX# System V, VAX Version and any additional Schedule forwarded
+pursuant to Section 2.03 of Appendix A, (ii) furnished to LICENSEE by AT&T or any of its
+associated companies in conjunction with any provision of support services for UNIX
+System V, or (iii) prepared by LICENSEE as a modification or a derivative work based on
+any of the materials so listed or furnished. DESIGNATED CPUs means any central
+processing unit ("CPU") identified by location, type and serial number as follows:
+
+          (See Attached List)
+
+
+
+
+
+
+
+
+
+
+and any additional or replacing CPU subsequently approved by AT&T.
+
+  LICENSEE shall not include in its curriculum any course of instruction in which the
+  source code or other representation of the internal operation of the LICENSED
+  SOFTWARE is disclosed or discussed, or prepare or publish any documentation disclosing
+  or describing such code or representation.
+
+  LICENSEE shall pay to AT&T, within sixty (60) days after execution of this agreement
+by it and AT&T, a nonrefundable service charge of $800.00 for the CPUs listed in this
+agreement. AT&T or one of its associated companies will deliver one copy of the
+LICENSED SOFTWARE listed in the attached Schedule within a reasonable time after
+receipt of such payment. For each additional CPU approved by AT&T, LICENSEE shall
+pay to AT&T an additional service charge of $400.00. All amounts are in U.S. funds.
+LICENSEE agrees not to transmit the LICENSED SOFTWARE, directly or indirectly,
+outside the United States.
+
+
+                                          THE REGENTS OF THE
+                                          UNIVERSITY OF CALIFORNIA
+     AMERICAN TELEPHONE AND               .................................
+       TELEGRAPH COMPANY
+                                               Katherine R. DeLucchi
+        O. L. Wilson                      By ..............................
+By ..............................
+Director of Technology Licensing                 Material Manager
+                                          Title............................
+
+         AUG 15 1984                                 7-27-84
+Date ............................         Date ............................

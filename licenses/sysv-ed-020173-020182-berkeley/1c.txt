@@ -1,0 +1,40 @@
+Attachment - page 2
+
+
+          Location                  Type            Serial Number
+
+
+University of California - Los Angeles
+  Computer Science Department
+  3292 Boelter Hall
+  405 Hilgerd Avenue             VAX 11/780         SV02917
+
+  Office of Academic Computing
+  4328 Math Sciences Addition
+  405 Hilgerd Avenue
+  Los Angeles, California 90024  VAX 11/750         82F23024K
+                                 VAX 11/750         82F23025K
+                                 VAX 11/750         82F23026K
+                                 VAX 11/750         82F23027K
+                                 VAX 11/750         82F23028K
+
+  Computer Science Department
+  3286 Boelter Hall              VAX 11/750         82F23019K
+                                 VAX 11/750         82F23020K
+                                 VAX 11/750         82F23021K
+                                 VAX 11/750         82F23022K
+                                 VAX 11/750         82F23023K
+                                 VAX 11/750         82F23029K
+                                 VAX 11/750         82F23030K
+                                 VAX 11/750         82F23031K
+                                 VAX 11/750         82F23032K
+                                 VAX 11/750         82F23033K
+  Computer Science Department    VAX 11/750         82C25198K
+  3420 Boelter Hall              VAX 11/750         82C22109K
+                                 VAX 11/750         82C22238K
+                                 VAX 11/750         82C22263K
+                                 VAX 11/750         82C22264K
+                                 VAX 11/750         82C22265K
+                                 VAX 11/750         82C22266K
+  Office of Academic Computing   VAX 11/750         81C24818K
+  4328 MSA
