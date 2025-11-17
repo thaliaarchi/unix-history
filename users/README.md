@@ -43,6 +43,8 @@ members, and USENIX conference registrants.
   Keith Smillie \
   Department of Computing Science Technical Report TR-91-01, February 1991 \
   University of Alberta
+[^spencer]: "oldest surviving Unix machine?", Henry Spencer, net.unix-wizards, 19 March 1985 \
+  "oldest Unix machine(s)", Henry Spencer, net.unix-wizards, 10 May 1985
 [^releases]: "TUHS Distribution Release Dates",
   modified 3 March 1998
 [^mckusick]: *Open Sources: Voices from the Open Source Revolution* \
