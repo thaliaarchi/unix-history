@@ -1,19 +1,25 @@
 # UNIX license agreements
 
-| License revision             | Licensor         | Licensee                                                         | Effective  | Signed     |
-| ---------------------------- | ---------------- | ---------------------------------------------------------------- | ---------- | ---------- |
-| Software-Univ.—020173        | Western Electric | [University of California, Berkeley](univ-020173-berkeley/)      | 1973-12-01 | 1974-02-11 |
-| Software-Univ.—020173-122073 | Western Electric | [*Partial copy (pages 2–6)*](univ-020173-060574-nijmegen/)       |            |            |
-| Software-Univ.—020173-060574 | Western Electric | [Katholieke Universiteit Nijmegen](univ-020173-060574-nijmegen/) | 1974-12-01 | 1975-02-26 |
-| Software-Univ.—020173-020176 | Western Electric | [Katholieke Universiteit Leuven](univ-020173-020176-leuven/)     | 1977-09-01 | 1977-09-15 |
-| Software-Corp.-020173-020182 | AT&T             | [*Specimen copy*](corp-020173-020182-specimen/)                  |            |            |
+| License revision                    | Licensor | Licensee                                                         | Effective  | Signed     |
+| ----------------------------------- | -------- | ---------------------------------------------------------------- | ---------- | ---------- |
+| Software-Univ.—020173               | Western  | [University of California, Berkeley](univ-020173-berkeley/)      | 1973-12-01 | 1974-02-11 |
+| Software-Univ.—020173-122073        | Western  | [*partial copy (pages 2–6)*](univ-020173-060574-nijmegen/)       | -          | -          |
+| Software-Univ.—020173-060574        | Western  | [Katholieke Universiteit Nijmegen](univ-020173-060574-nijmegen/) | 1974-12-01 | 1975-02-26 |
+| Software-Univ.—020173-020176        | Western  | [Katholieke Universiteit Leuven](univ-020173-020176-leuven/)     | 1977-09-01 | 1977-09-15 |
+| Software-Customer CPU—020176-010180 | Western  | [*partial copy (pages 1,3,5,6)*](cpu-052776-090180-specimen/)    | -          | -          |
+| Software-Customer CPU—020176-090180 | Western  | [*partial copy (page 4)*](cpu-052776-090180-specimen/)           | -          | -          |
+| Software-Customer CPU—052776-090180 | Western  | [*specimen copy*](cpu-052776-090180-specimen/)                   | -          | -          |
+| Software-Corp.—020173-020182        | AT&T     | [*specimen copy*](corp-020173-020182-specimen/)                  | -          | -          |
 
 The second date component in the license revision is the date it was last
 revised, the effective date is written on the title page, and the signed date is
 the date of the last signature.
 
+TODO: Replace ASCII quotes with typographic quotes, where appropriate.
+
 TODO:
 - [Various 1979–1999: University of California, Berkeley](https://web.archive.org/web/20240701112852/http://www.groklaw.net/article.php?story=20110410231937980)
+- [1983: License specimens](https://archive.org/details/att_unix_licenses_1982)
 - [July 1, 1983: University of California, Berkeley](https://web.archive.org/web/20240804110857/http://www.groklaw.net/article.php?story=20041107011008363)
 - [February 1, 1985: IBM](https://web.archive.org/web/20230325163759/http://www.groklaw.net/article.php?story=20040731064724850)
 - [January 24, 1986: Silicon Graphics](https://web.archive.org/web/20230325100602/http://www.groklaw.net/article.php?story=20040730014202633)
@@ -140,8 +146,10 @@ Only some pages are available.
 
 ## Specimen 1982
 
-["SOFTWARE AGREEMENT between AMERICAN TELEPHONE AND TELEGRAPH COMPANY and
-(blank)"](https://archive.org/details/att_unix_licenses_1982/software_corp_020173_020182)
+- cpu-052776-090180-specimen/: [software_customer_cpu_052776_090180.pdf](https://archive.org/details/att_unix_licenses_1982/software_customer_cpu_052776_090180/)
+- corp-020173-020182-specimen/: [software_corp_020173_020182.pdf](https://archive.org/details/att_unix_licenses_1982/software_corp_020173_020182)
 
 Source: ["AT&T UNIX License Specimens (1982)"](https://archive.org/details/att_unix_licenses_1982) \
 segaloco, Internet Archive, 2024
+
+TODO: Transcribe other licenses in this item

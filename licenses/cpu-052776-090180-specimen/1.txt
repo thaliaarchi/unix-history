@@ -1,0 +1,56 @@
+SOFTWARE-CUSTOMER CPU-020176-010180-1
+
+
+
+
+                     CUSTOMER CPU AGREEMENT
+
+
+  AGREEMENT, effective as of
+between
+
+(“WESTERN’S LICENSEE”), having an office at
+
+
+and
+
+(“the CUSTOMER”), having an office at
+
+
+  WHEREAS WESTERN ELECTRIC COMPANY, INCORPORATED, a New
+York corporation (“WESTERN”) has, by an Agreement, effective
+                               , enabled WESTERN'S LICENSEE to grant
+to its customers and SUBSIDIARIES of such customers a limited right to use
+certain software furnished by WESTERN;
+
+  WHEREAS the CUSTOMER wishes to obtain the right to use OBJECT CODE
+SOFTWARE which includes or is derived from such certain software;
+
+  NOW THEREFORE WESTERN’S LICENSEE and the CUSTOMER, for the
+benefit of themselves and of WESTERN, hereby agree as follows:
+
+                            ARTICLE I
+
+                           DEFINITIONS
+
+  1.01  Terms in this agreement hereinafter (other than names of parties
+and Article headings) which are in capital letters shall have the meanings specified in
+the Definitions Appendix.
+
+                            ARTICLE II
+
+            GRANTS OF RIGHTS TO USE OBJECT CODE SOFTWARE
+
+  2.01  WESTERN’S LICENSEE, at the request of the CUSTOMER, grants to
+the CUSTOMER, for itself and its SUBSIDIARIES, a personal, nontransferable
+and nonexclusive right to use the OBJECT CODE SOFTWARE, solely for its own
+or its SUBSIDIARIES’ internal business purposes and solely on DESIGNATED
+CPUs.
+
+  No right is granted for the use of the OBJECT CODE SOFTWARE on or in
+connection with the operation of any CPU other than a DESIGNATED CPU;
+provided however, that the right to use the OBJECT CODE SOFTWARE granted
+hereunder shall extend to the temporary use of the OBJECT CODE SOFTWARE
+on a single back-up or substitute CPU during any time when a DESIGNATED
+CPU is inoperative due to malfunction or the performance of hardware repair,
+maintenance or other hardware modifications.

@@ -1,0 +1,49 @@
+SOFTWARE-CUSTOMER CPU-020176-090180-4
+
+
+
+
+
+  5.05  Neither the execution of this agreement nor anything in it or in the
+OBJECT CODE SOFTWARE shall be construed as (i) an obligation upon
+WESTERN or any of its ASSOCIATED COMPANIES, to furnish any person,
+including the CUSTOMER and its SUBSIDIARIES, any assistance of any kind
+whatsoever, or any information or documentation; or (ii) providing or implying any
+arrangement or understanding that WESTERN or any of its ASSOCIATED
+COMPANIES will make any purchase or lease.
+
+  5.06  The CUSTOMER agrees that it and its SUBSIDIARIES shall hold the
+OBJECT CODE SOFTWARE in confidence. The CUSTOMER further agrees
+that it and its SUBSIDIARIES shall not make any disclosure of the OBJECT
+CODE SOFTWARE (including methods or concepts utilized therein) to anyone,
+except to employees of the CUSTOMER and its SUBSIDIARIES to whom such
+disclosure is necessary to the use for which rights are granted hereunder. The
+CUSTOMER and its SUBSIDIARIES shall appropriately notify each employee to
+whom any such disclosure is made that such disclosure is made in confidence and
+shall be kept in confidence by him.
+
+  5.07  The obligations of the CUSTOMER, its SUBSIDIARIES and their
+respective employees under Section 5.06 shall survive and continue after any
+termination of rights under this agreement or cessation of a SUBSIDIARY’S status
+as a SUBSIDIARY; however, such obligations shall not extend to any information
+relating to the OBJECT CODE SOFTWARE which is now available to the general
+public or which later becomes available to the general public by acts not
+attributable to the CUSTOMER, its SUBSIDIARIES or their respective
+employees.
+
+  5.08  The CUSTOMER agrees that it and its SUBSIDIARIES will not use the
+OBJECT CODE SOFTWARE except as authorized herein, that it and its
+SUBSIDIARIES will not make or have made, or permit to be made, any copies of
+the OBJECT CODE SOFTWARE, except those copies which are necessary to the
+use, by the CUSTOMER and its SUBSIDIARIES, for which rights are granted
+hereunder, that each such necessary copy shall contain the same proprietary notices
+or legends which appear on the OBJECT CODE SOFTWARE, and that no rights
+are granted under this agreement expressly or impliedly with respect to any
+copyrights except as provided for in this Section 5.08.
+
+  5.09  Neither this agreement nor any rights hereunder, in whole or in part, shall
+be assignable or otherwise transferable.
+
+  5.10  Nothing in this agreement grants to the CUSTOMER or to its
+SUBSIDIARIES the right to sell, lease or otherwise transfer or dispose of the
+OBJECT CODE SOFTWARE in whole or in part.

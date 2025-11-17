@@ -1,0 +1,57 @@
+SOFTWARE-CUSTOMER CPU-052776-090180-2
+
+
+
+
+  The CUSTOMER may at any time notify LICENSEE in writing of its
+designation by location, type and serial number of replacing or additional CPUs
+upon which the OBJECT CODE SOFTWARE is to be used and CPUs to be
+replaced. Such notice shall be effective as an amendment to this agreement adding
+such replacing or additional CPUs and deleting such replaced CPUs as
+DESIGNATED CPUs upon agreement thereto in writing by WESTERN’S
+LICENSEE and, in the case of additional CPUs, receipt by WESTERN’S
+LICENSEE of payment as specified hereunder.
+
+  No right is granted for the use of the OBJECT CODE SOFTWARE directly
+for any third person, or for any use by any third person of the OBJECT CODE
+SOFTWARE.
+
+  2.02  Within a reasonable time after execution of this agreement by the
+CUSTOMER, WESTERN’S LICENSEE shall furnish to the CUSTOMER the
+OBJECT CODE SOFTWARE in the form identified in the Schedule attached
+hereto and made a part hereof.
+
+  2.03  (a) The CUSTOMER hereby assures WESTERN’S LICENSEE that it
+and its SUBSIDIARIES do not intend to and will not knowingly, without the prior
+written consent of the Office of Export Administration of the U.S. Department of
+Commerce, Washington, D.C. 20230, transmit directly or indirectly:
+
+    (i) the OBJECT CODE SOFTWARE; or
+
+   (ii) any immediate product (including processes and services) produced
+        directly by the use of the OBJECT CODE SOFTWARE; or
+
+  (iii) any commodity produced by such immediate product if the immediate
+        product of the OBJECT CODE SOFTWARE is a plant capable of
+        producing a commodity or is a major component of such plant;
+
+to Afghanistan or to any Group P, Q, W, Y or Z country specified in Supplement
+No. 1 to Section 370 of the Export Administration Regulations issued by the U.S.
+Department of Commerce. The CUSTOMER agrees to promptly inform
+WESTERN’S LICENSEE in writing of any such written consent issued by the
+Office of Export Administration.
+
+  (b) The CUSTOMER further agrees that, even if such a consent has been issued,
+neither it nor its SUBSIDIARIES will, without the prior written approval of
+WESTERN’S LICENSEE, transmit, directly or indirectly, the OBJECT CODE
+SOFTWARE to any country outside of
+
+
+
+  (c) The CUSTOMER agrees that its and its SUBSIDIARIES’ obligations under
+this Section 2.03 shall survive and continue after any termination of rights under
+this agreement.
+
+                           ARTICLE III
+
+                              FEES

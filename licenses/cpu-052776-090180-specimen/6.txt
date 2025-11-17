@@ -1,0 +1,36 @@
+SOFTWARE-CUSTOMER CPU-020176-010180-6
+
+
+
+
+                      DEFINITIONS APPENDIX
+
+  ASSOCIATED COMPANIES of WESTERN means SUBSIDIARIES of
+WESTERN, companies presently having WESTERN as a SUBSIDIARY and
+SUBSIDIARIES of such companies other than WESTERN and its
+SUBSIDIARIES. The term also means and includes Cincinnati Bell Inc., an Ohio
+corporation, and The Southern New England Telephone Company, a Connecticut
+corporation, and their SUBSIDIARIES.
+
+  CPU means central processing unit.
+
+  COMPUTER PROGRAM means any instruction or plurality of instructions for
+controlling the operation of a CPU.
+
+  DESIGNATED CPU means a CPU designated below by location, type and
+serial number, as well as any CPU designated pursuant to Section 2.01:
+
+
+
+
+
+
+  SUBSIDIARY means a company the majority of whose stock entitled to vote for
+election of directors is now or hereafter controlled by the parent company either
+directly or indirectly, but any such company shall be deemed to be a
+SUBSIDIARY only so long as such control exists.
+
+  OBJECT CODE SOFTWARE means the COMPUTER PROGRAMS, in
+machine language directly executable by a CPU, and the documentation, or any
+portions thereof, generally identified below and specifically listed in the attached
+Schedule.

@@ -1,0 +1,54 @@
+SOFTWARE-CUSTOMER CPU-020176-010180-3
+
+
+
+
+                            ARTICLE IV
+
+                            TERMINATION
+
+  4.01  If the CUSTOMER or any of its SUBSIDIARIES shall fail to fulfill one or
+more of its obligations under this agreement, WESTERN'S LICENSEE may, upon
+its election and in addition to any other remedies that it may have, at any time
+terminate all the rights granted by it hereunder by nat less than two (2) months’
+written notice to the CUSTOMER specifying any such breach, unless within the
+period of such notice all breaches specified therein shall have been remedied; upon
+such termination the CUSTOMER shall within thirty (30) days deliver to
+WESTERN'S LICENSEE all documentation containing the OBJECT CODE
+SOFTWARE, and shall render unusable all OBJECT CODE SOFTWARE placed
+in any storage apparatus.
+
+                            ARTICLE V
+
+                     MISCELLANEOUS PROVISIONS
+
+  5.01  Nothing contained herein shall be construed as conferring by implication,
+estoppel or otherwise any license or right under any patent or trademark, whether
+or not the exercise of any right herein granted necessarily employs an invention of
+any existing or later issued patent.
+
+  5.02  This agreement shall prevail notwithstanding any conflicting terms or
+legends which may appear in the OBJECT CODE SOFTWARE.
+
+  5.03  WESTERN and its ASSOCIATED COMPANIES make no
+representations or warranties, expressly or impliedly. By way of
+example but not of limitation, WESTERN and its ASSOCIATED
+COMPANIES make no representations or warranties of
+merchantability or fitness for any particular purpose, or that the use
+of the OBJECT CODE SOFTWARE will not infringe any patent,
+copyright or trademark. WESTERN and its ASSOCIATED
+COMPANIES shall not be held to any liability with respect to any
+claim by the CUSTOMER, its SUBSIDIARIES, or a third party on
+account of, or arising from, the use of such OBJECT CODE
+SOFTWARE.
+
+  5.04  The CUSTOMER agrees that neither the CUSTOMER nor its
+SUBSIDIARIES will, without WESTERN’S express written permission, (i) use in
+advertising, publicity, or otherwise any trade name, trademark, trade device,
+service mark, symbol or any other identification or any abbreviation, contraction or
+simulation thereof owned or used by WESTERN or any of its ASSOCIATED
+COMPANIES, or (ii) represent, directly of indirectly, that any product or service
+of the CUSTOMER or its SUBSIDIARIES is a product or service of WESTERN
+or any of its ASSOCIATED COMPANIES, or is made in accordance with or
+utilizes any information or documentation of WESTERN or any of its
+ASSOCIATED COMPANIES.
