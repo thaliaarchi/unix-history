@@ -50,8 +50,8 @@ TODO:
 THE REGENTS OF THE UNIVERSITY OF CALIFORNIA Effective as of December 1, 1973"](https://web.archive.org/web/20130904230950/http://www.groklaw.net/pdf2/WElectricRegentsLicenseDec1st1973.pdf)
 
 Source: ["AT&T/Regents Collection 1973-1999 Raises the Question: What Unix
-Copyrights Does Novell Own? ~ by pj"](https://web.archive.org/web/20240701112852/http://www.groklaw.net/article.php?story=20110410231937980) \
-Groklaw, 1 June 2011
+Copyrights Does Novell Own?"](https://web.archive.org/web/20240701112852/http://www.groklaw.net/article.php?story=20110410231937980) \
+Pamela Jones, Groklaw, 1 June 2011
 
 Effective on 1 December 1973, signed by Western on 16 January 1974 and by
 Berkeley on 7 February 1974. No cost.
@@ -166,7 +166,7 @@ TODO: Transcribe other licenses in this item
 
 Source: ["AT&T-Regents of the U. of California -- The 1983 Educational License -
 PDF and text"](https://web.archive.org/web/20240804110857/http://www.groklaw.net/article.php?story=20041107011008363) \
-Groklaw, 7 November 2004
+Pamela Jones, Groklaw, 7 November 2004
 
 TODO: Finish transcribing
 
