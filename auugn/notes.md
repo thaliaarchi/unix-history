@@ -5,6 +5,9 @@
   - 4: AUUGN mailing list
 - 1984-01:
   - 11-27: AUNET site directory with contacts, addresses, and machines
+- 1984-03:
+  - 10-15: Licensing costs
+  - 16-25: "The Future of UNIX" keynote by John Lions
 - 1986-12:
   - 40-43: UNIX trademark registered, including grammatical usage and official names of systems
   - 44: Explanation for the 2-3 and 4-5 dual issues

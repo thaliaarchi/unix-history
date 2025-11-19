@@ -29,6 +29,7 @@ TODO: Replace ASCII quotes with typographic quotes, where appropriate.
 TODO:
 - [Various 1979–1999: University of California, Berkeley](https://web.archive.org/web/20240701112852/http://www.groklaw.net/article.php?story=20110410231937980)
 - [1983: License specimens](https://archive.org/details/att_unix_licenses_1982)
+- AUUGN March 1984 license costs
 - [February 1, 1985: IBM](https://web.archive.org/web/20230325163759/http://www.groklaw.net/article.php?story=20040731064724850)
 - [January 24, 1986: Silicon Graphics](https://web.archive.org/web/20230325100602/http://www.groklaw.net/article.php?story=20040730014202633)
   [[HTML](https://web.archive.org/web/20230325163759/http://www.groklaw.net/article.php?story=20040731064724850)]

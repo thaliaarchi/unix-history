@@ -33,9 +33,15 @@ members, and USENIX conference registrants.
   John Alfred Hawley, III and Walter de Brito Meyer \
   Naval Postgraduate School \
   Master's thesis, June 1975
-[^news7507]: UNIX News July 30, 1975
+[^childrens]: "Boston Children's Museum" \
+  Bill Mayhew \
+  UNIX News July 30, 1975, page 8
 [^leuven]: "SOFTWARE AGREEMENT between WESTERN ELECTRIC COMPANY, INCORPORATED
   and KATHOLIEKE UNIVERSITEIT LEUVEN Effective as of September 1, 1977"
+[^future]: "The Future of UNIX" \
+  John Lions \
+  Australian UNIX Users' Group, February 20, 1984 \
+  AUUGN Volume 5, Number 2, March 1984, pages 16–5
 [^pirzada]: *A Statistical Examination of The Evolution of the UNIX System* \
   Shamim Sharifuddin Pirzada \
   Imperial College of Science, Technology and Medicine, University of London \
@@ -74,12 +80,13 @@ TODO: What versions are Network UNIX and MUNIX derived from?
 |     | late 1972 or early 1973     | Cosnix (V3)       | Bell System 8th-Street site in LA       | Installed                                                              | [^spencer]             |
 |     | after 8th-Street            | Cosnix (V3)       | Bell Labs Whippany                      | A newer installation than the 8th-Street Cosnix installation           | [^spencer]             |
 | \-  | February 1973               | **V3**            | -                                       | -                                                                      | [^releases]            |
+| \-  | October 16, 1973            | SOSP '73          | -                                       | -                                                                      | [^future] |
 | 1   | October 1973[1]             | ?                 | Columbia University                     | License granted[1], first educational license[1] [2]                   | 1[^pirzada] 2[^libes]  |
 | 2   | October 1973[1]             | V4[1] [2]         | University of Alberta                   | V4 shipped[1], PDP-11/45 #315[2]                                       | 1[^smillie] 2[^spencer]|
 | 3   | October 1973                | ?                 | The Children's Museum                   | First non-educational licensee                                         | [^pirzada]             |
 | 8   | late 1973                   | V4                | Johns Hopkins University                | PDP-11/45 #493 later given to Chemistry Department                     | [^spencer]             |
 | \-  | November 1973               | **V4**            | -                                       | -                                                                      | [^releases]            |
-| 9   | at latest winter 1973/1974  | ?                 | Harvard University                      | Start of joint work with the Children's Museum                         | [^news7507]            |
+| 9   | at latest winter 1973/1974  | ?                 | Harvard University                      | Start of joint work with the Children's Museum                         | [^childrens]           |
 | 14  | February 1974               | ?                 | Hebrew University of Jerusalem          | License granted, first licensee outside the US                         | [^pirzada]             |
 | 23  | January 1974                | V4                | University of California, Berkeley      | V4 delivered (attended SOSP'73)                                        | [^mckusick]            |
 | 24  | May 1974                    | ?                 | Queen Mary University of London         | License granted                                                        | [^pirzada]             |
@@ -148,7 +155,7 @@ List sources:
 | 6         |                           | California Institute of Technology                    | Pasadena, CA                 |                                  | Mr. A. J. Lindstrom            | 1       |
 | 7         |                           | Case Western Reserve University                       | Cleveland, OH                | Biometry                         | Mr. Gary M. Goins              | 1 2 3 4 |
 | 8         | late 1973 [^spencer]      | Johns Hopkins University                              | Baltimore, MD                | Electrical Engineering           | Prof. W. H. Huggins            | 1 2 3 4 |
-| 9         | ≤winter 1973/1974 [^news7507] | Harvard University                                | Cambridge, MA                | Computation                      | Mr. Brent Byer                 | 1       |
+| 9         | ≤winter 1973/1974 [^childrens] | Harvard University                                | Cambridge, MA                | Computation                      | Mr. Brent Byer                 | 1       |
 | 9         |                           | Harvard University                                    | Cambridge, MA                | Science Center                   | Mr. Lewis A. Law               |   2 3 4 |
 |           |                           | Harvard University                                    | Boston, MA                   | Public Health                    | Shao-Sun Chien                 |       4 |
 | 10        |                           | Georgia Institute of Technology                       | Atlanta, GA                  | Information and Computer Science | Dr. Vladimir Slamecka          | 1       |
