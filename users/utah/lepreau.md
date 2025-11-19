@@ -24,6 +24,35 @@
   > research. In 1995, Jay renamed his group as the Flux Operating Systems
   > Project. The Flux Group was born!
 
+- [RFC 990: "Assigned Numbers"](https://archive.org/details/rfc990?q=utah) \
+  J. Reynolds and J. Postel \
+  Network Working Group, November 1986
+
+  ```
+  Class B Networks
+
+     * Internet Address  Name          Network                References
+     - ----------------  ----          -------                ----------
+     […]
+     R 128.110.rrr.rrr   UTAH-NET      UTAH-CAMPUS-NET            [JL15]
+
+  Class C Networks
+
+     * Internet Address  Name          Network                References
+     - ----------------  ----          -------                ----------
+     […]
+     R 192.005.012.rrr   UTAH-NET-C    UTAH-COMPUTER-SCIENCE-NET  [GW22]
+     […]
+     R 192.012.056.rrr   UTAH-AP-NET   Utah-Appolo-Ring-Net       [JL15]
+     […]
+
+                                   PEOPLE
+     […]
+     [GW22]    Grant Weiler        UTAH      Weiler@UTAH-20.ARPA
+     […]
+     [JL15]    Jay Lepreau         UTAH      Lepreau@UTAH-CS.ARPA
+  ```
+
 ## Students
 
 - Anton Burtsev
