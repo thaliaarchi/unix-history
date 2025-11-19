@@ -226,6 +226,19 @@ Folder 36: Jay Lepreau
   > as Research Assistant Professor of Computer Science, effective October 1,
   > 1977 and ending June 30, 1998.
 
+## Line printer papers
+
+Documents of Jay Lepreau's circa 1980 from a box of line printer printouts.
+
+TODO: Scan and date line printer papers and describe provenance.
+
+- resume: Resume \
+  Jay Lepreau, 1980
+- resume.part: "Brief Resume - Jay Lepreau" \
+  Jay Lepreau, 1980
+- utah.crs: "Courses at University of Utah" \
+  Jay Lepreau, 1980
+
 ## Students I know
 
 - Anton Burtsev (Ph.D.)

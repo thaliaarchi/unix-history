@@ -1,0 +1,41 @@
+Name:           Jay Lepreau
+Birthdate:      3/27/52
+Education:      Haverford College, 70-71,73-74. Molecular biology.
+                Temple Univ.,      75-76.       Math & Comp Sci.
+                Univ. of Utah,     79-present.  BS in CS expected 12/80.
+
+CS-type Employment:
+                Psych. Dept, Haverford College, Haverford, Pa.
+                1974-76. Programmer & Research ass't.
+
+                Biological Abstracts, Phila, Pa.
+                1976-77. Programmer/analyst, project leader.
+
+                Datacomp Corp, Phila, Pa.
+                1977-79. Systems software specialist.
+
+EXPERIENCE
+Projects include:
+           Screen editor, real-time experiment control system
+           (included modifications to IBM OS/360), complex text processing,
+           support pgms for pre-photocomposition textual database,
+           relocating loader, "structured programming" macros
+           (if-then-else, while, etc) for RCA Spectra 70 assembler,
+           complete responsibility for the design, implementation, &
+           test of a disk file system. This last included linked blocks,
+           parameterized block splitting strategy, system catalog,
+           insert/update/delete/point operations, and semi-automatic recovery
+           via roll back/forward. Implemented in "structured" Spectra 70
+           assembler (all we had) in approx. 7000 lines. This system
+           currently is handling million-record files successfully
+           (telephone books) on extremely flaky Univac disk drives.
+
+Languages:
+           Fluent - PL/1, Pascal, Fortran, Ratfor, Dynamo, 360/Spectra 70
+                    assembler.
+           Fair -   Rlisp, PDP-9 assembler, CSMP
+           Reading - PDP-11 assembler, C, Cobol, APL, Basic
+
+Machines & Systems:
+           360/370 under OS/VS, PDP-8, PDP-9, DEC-20, Spectra/70
+           under DOS, IBM's CICS package, ADR's Roscoe.
