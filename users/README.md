@@ -36,13 +36,24 @@ members, and USENIX conference registrants.
 [^childrens]: "Boston Children's Museum" \
   Bill Mayhew \
   UNIX News July 30, 1975, page 8
+[^cmu]: "Glide: A Language for Design Information Systems" \
+  Charles Eastman and Max Henrion \
+  Institute of Physical Planning,
+  School of Urban and Public Affairs and Department of Architecture,
+  Carnegie-Mellon University \
+  SIGGRAPH '76, pages 24–33
+[^brown77]: "GPGS: A Device-independent General Purpose Graphic System for Stand-alone
+  and Satellite Graphics" \
+  L.C. Caruthers, Jan van den Bos (University of Nijmegen), and
+  A. van Dam (Brown University) \
+  SIGGRAPH '77, 20 July 1977, pages 107–111
 [^leuven]: "SOFTWARE AGREEMENT between WESTERN ELECTRIC COMPANY, INCORPORATED
   and KATHOLIEKE UNIVERSITEIT LEUVEN Effective as of September 1, 1977"
 [^minnesota]: "Parallel Processing Image Synthesis and Anti-Aliasing" \
     Richard Weinberg \
     Computer Science Department, University of Minnesota \
     SIGGRAPH '81, pages 55–62
-[^brown]: "An Integrated System for Creating and Presenting Complex
+[^brown81]: "An Integrated System for Creating and Presenting Complex
     Computer-Based Documents" \
     Steven Feiner, Sandor Nagy, and Andries van Dam \
     Computer Graphics Group, Department of Computer Science, Brown University
@@ -113,14 +124,15 @@ TODO: What versions are Network UNIX and MUNIX derived from?
 |     | fall 1975                   | V6                | University of California, Berkeley      | Thompson brought up V6 over one-year sabbatical                        | [^mckusick]            |
 | \-  | around May 1977             | **Mini-UNIX**     | -                                       | -                                                                      | [^releases]            |
 | \-  | June 1977 (in use)          | **PWB/UNIX**      | -                                       | -                                                                      | [^releases]            |
+| \-  | mentioned July 1977         | ?                 | Brown University                        | Graphics papers [1] [2] mentioned UNIX on VAX-11/780 with Ramtek 9400 and frame buffer [2] | 1[^brown77] 2[^brown81] |
+| \-  | planned July 1977           | ?                 | Carnegie Mellon University              | Graphics paper planned UNIX implementation on PDP-11/34                | [^cmu]                 |
 |     | September 1, 1977           | V6                | Katholieke Universiteit Leuven          | License effective                                                      | [^leuven]              |
 | \-  | March 9, 1978               | **1BSD**          | -                                       | -                                                                      | [^releases]            |
 | \-  | mid 1978                    | **2BSD**          | -                                       | -                                                                      | [^releases]            |
 | \-  | January 1979                | **V7**            | -                                       | -                                                                      | [^releases]            |
 | \-  | early 1979                  | **32V**           | -                                       | -                                                                      | [^releases]            |
 |     | after early 1978            | 32V               | University of California, Berkeley      | Obtained a copy of 32V after arrival of VAX-11/780                     | [^mckusick]            |
-| \-  | well before August 1981     | ?                 | University of Minnesota                 | Graphics paper mentioned UNIX on PDP-11/45 with Discomed film recorder | [^minnesota]           |
-| \-  | well before August 1981     | ?                 | Brown University                        | Graphics paper mentioned UNIX on VAX-11/780 with Ramtek 9400 and frame buffer | [^brown]        |
+| \-  | mentioned August 1981       | ?                 | University of Minnesota                 | Graphics paper mentioned UNIX on PDP-11/45 with Discomed film recorder | [^minnesota]           |
 | \-  | late 1979                   | **3BSD**          | -                                       | -                                                                      | [^releases]            |
 | \-  | July 1981                   | **2.8BSD**        | -                                       | -                                                                      | [^releases]            |
 | \-  | January 1982                | **2.8.1BSD**      | -                                       | -                                                                      | [^releases]            |
@@ -300,7 +312,7 @@ List sources:
 |           |                           | MIT Lincoln Laboratory                                | Lexington, MA                |                                  | Alan G. Nemeth                 |       4 |
 |           |                           | Department of Defense                                 | Ft. Meade, MD                |                                  | J. Gary Donnelly               |       4 |
 |           |                           | University of Minnesota                               | Minneapolis, MN              | Interactive Computation Lab.     | Prof. W.R. Franta              |       4 |
-|           | well before August 1981 [^minnesota] | University of Minnesota                    | Minneapolis, MN              | Computer Science                 | Prof. G. Michael Schneider     |       4 |
+|           | mentioned August 1981 [^minnesota] | University of Minnesota                      | Minneapolis, MN              | Computer Science                 | Prof. G. Michael Schneider     |       4 |
 |           |                           | Washington University                                 | St. Louis, MI                | Biomedical Computer Laboratory   | Kenneth L. Ripley              |       4 |
 |           |                           | Stevens Institute of Technology                       | Hoboken, NJ                  | Electrical Engineering           | Prof. Emil C. Neu              |       4 |
 |           |                           | Sandia Laboratories                                   | Albuquerque, NM              |                                  | C. J. Fisk                     |       4 |
@@ -331,6 +343,8 @@ List sources:
 |           |                           | Technion - Israel Institute of Technology             | Haifa, Israel                |                                  |                                |       4 |
 |           |                           | Vrije Universiteit                                    | Amsterdam, Netherlands       | Mathematics                      | Dr. Andrew Tanenbaum           |       4 |
 |           | Sep 1 1977 (V6) [^leuven] | Katholieke Universiteit Leuven                        | Leuven, Belgium              | Computer Science                 |                                |         |
+|           | mentioned July 1977 [^brown77] | Brown University                                 | Providence, RI               | Computer Graphics                |                                |         |
+|           | planned July 1977 [^cmu]  | Carnegie Mellon University                            | Pittsburgh, PA               |                                  |                                |         |
 |           |                           | Royal Military College                                | Campbell, ACT, Australia     |                                  |                                |       5 |
 |           |                           | University of Melbourne                               | Melbourne, VIC, Australia    |                                  |                                |       5 |
 |           |                           | University of Queensland                              | Brisbane, QLD, Australia     |                                  |                                |       5 |
@@ -340,4 +354,3 @@ List sources:
 |           |                           | University of Wollongong                              | Wollongong, NSW, Australia   |                                  |                                |       5 |
 |           |                           | NSW Institute of Technology                           | Sydney, NSW, Australia       |                                  |                                |       5 |
 |           |                           | University of Adelaide                                | Adelaide, SA, Australia      |                                  |                                |       5 |
-|           | well before August 1981 [^brown] | Brown University                               | Providence, RI               | Computer Graphics                |                                |         |

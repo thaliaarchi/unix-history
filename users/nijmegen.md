@@ -6,7 +6,7 @@ https://nl.wikisage.org/wiki/AT_Computing).
 
 - ["COMLNK — a File Transport and Job Entry Utility for a Communication Link"](https://sci-hub.st/10.1002/spe.4380070205) \
   Jan van den Bos and Hendrik-Jan Thomassen \
-  Software: Practice and Experience, Volume 7, 1977
+  Software: Practice and Experience, Volume 7, March/April 1977
 
   COMLNK implements communication between IBM 360/370 and PDP-11 running DEC DOS
   and translates between EBCDIC and ASCII as appropriate.
@@ -31,6 +31,26 @@ https://nl.wikisage.org/wiki/AT_Computing).
 
   TODO: This is Hendrik-Jan's only paper on dblp, but [Jan](https://dblp.org/pid/95/2736.html)
   has several others.
+
+- ["GPGS: A Device-independent General Purpose Graphic System for Stand-alone
+  and Satellite Graphics"](https://dl.acm.org/doi/10.1145/563858.563878) \
+  L.C. Caruthers, Jan van den Bos (University of Nijmegen), and
+  A. van Dam (Brown University) \
+  SIGGRAPH '77, 20 July 1977, pages 107–111
+
+  > Full assembly language implementations exist for PDP 11 (under DOS, RSX,
+  > RT-11, and Unix operating systems) and for IBM 360/370 - PDP 11 (RT-11 and
+  > Unix) satellite systems. The GPGS-F ANSI FORTRAN subset implementation
+  > supports Tektronix 4010-4015 and Kingmatic plotters [9]. Currently the
+  > following graphics devices are supported by the assembly language versions:
+  >
+  > stand-alone:
+  > - IBM: Tektronix 4C10/4012/4014/4015 (batch and TSO), Calcomp plotter
+  > - PDP: Vector General, Tektronix 4010/4012/4014/4015, Tektronix plotter, DEC
+  >   line printer, Versatec plotter printer
+  >
+  > satellite system:
+  > - Vector General on PDP 11 [page 118]
 
 - "UNIX: het standaard operating system" \
   G.J.M. Austen and H.J. Thomassen, 1983
