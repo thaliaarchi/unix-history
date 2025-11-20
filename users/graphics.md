@@ -20,6 +20,19 @@ separately for graphics.
 
   [Bell Labs, Holmdel](holmdel.md) was using UNIX for graphics.
 
+- [*Proceedings of SIGGRAPH '76*](https://dl.acm.org/doi/book/10.1145/563274),
+  14–16 July 1976
+
+  - ["The HRD-1 Laser Display System"](https://dl.acm.org/doi/10.1145/563274.563289) \
+    P. A. Woodsford \
+    Laser-Scan Laboratories Ltd., Cambridge, England \
+    SIGGRAPH '76, pages 68–73.
+
+    Shows a woman operating the RD1-console with a comically large screen. It is
+    controlled by a PDP-11/45.
+
+  - See [Bell Labs, Holmdel](holmdel.md)
+
 - [*Proceedings of SIGGRAPH '81*](https://archive.org/details/siggraph81confer15sigg),
   3–7 August 1981
 

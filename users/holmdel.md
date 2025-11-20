@@ -1,7 +1,7 @@
 # Sources for Bell Labs, Holmdel and UNIX
 
 - ["A Graphical Display System Utilizing Plasma Panels"](https://sci-hub.st/10.1016/0097-8493(75)90004-7) \
-  J. F. Jarvis \
+  John F. Jarvis \
   Bell Laboratories, Holmdel, NJ \
   SIGGRAPH '74, July 1974, pages 175–180
 
@@ -30,7 +30,7 @@
   > a powerful display instruction set. [page 175]
 
 - ["An Area Organized Data Structure for Interactive Graphics"](https://dl.acm.org/doi/10.1145/563732.1138366) \
-  J. F. Jarvis \
+  John F. Jarvis \
   Bell Laboratories, Holmdel, NJ \
   SIGGRAPH '75, June 1975, pages 184–190
 
@@ -55,6 +55,25 @@
   > 5\. J. F. Jarvis, "A Graphical Display System Utilizing Plasma Panels,"
   > presented at First Annual Conference on Computer Graphics, Boulder,
   > Colorado, July 15, 1974.
+
+- ["The Line Drawing Editor, an Experiment in Computer Vision"](https://dl.acm.org/doi/10.1145/563274.563328) \
+  John F. Jarvis \
+  Bell Laboratories, Holmdel, NJ \
+  SIGGRAPH '76, July 1976, pages 288–292
+
+  > The host computer system for this project is a large DEC PDP-11/45 which
+  > includes a cache memory, demountable disks, industry compatible 9-track
+  > magnetic tape and a floating point processor. The system operates under
+  > control of the BTL developed UNIX timesharing system[3]. The most important
+  > restriction imposed on the LDE [Line Drawing Editor] by this system is the
+  > limitation of core resident program and data to 64K (1K=1024) bytes. A
+  > PDP-11/20 is attached as a peripheral to the 11/45 and serves as a
+  > controller for graphical displays and a camera. A description of the display
+  > system which incorporates Owens-Illinois 512-60 plasma panels is given in
+  > [4]. The camera is a EMR 659D Optical Data Digitizer[5]. The LDE requires
+  > hardcopy produced from drawings described in a data base in the 11/45 file
+  > system. These are produced on a FR80 microfilm recorder which is driven from
+  > a magnetic tape.
 
 - ["A Software Test-Bed for the Development of 3-D Raster Graphics Systems"](https://dl.acm.org/doi/10.1145/965161.806815) \
   Turner Whitted and David M. Weimer \
