@@ -1,13 +1,24 @@
 # Graphics uses of UNIX
 
+See [University of Utah](utah/graphics.md) and [Bell Labs, Holmdel](holmdel.md)
+separately for graphics.
+
 - [*Proceedings of SIGGRAPH '74*](https://dblp.org/db/conf/siggraph/siggraph1974.html) \
   15–17 July 1974
+
+  [Bell Labs, Holmdel](holmdel.md) was presumably not yet using UNIX for
+  graphics.
 
   No papers mention UNIX, but several mention PDP-11s.
 
   Note that the papers from this conference were published in Computers &
   Graphics, available via ScienceDirect, and are not linked from the
   proceedings, so need to be individually searched.
+
+- [*Proceedings of SIGGRAPH '75*](https://dl.acm.org/doi/proceedings/10.1145/563732) \
+  25–27 June 1975
+
+  [Bell Labs, Holmdel](holmdel.md) was using UNIX for graphics.
 
 - [*Proceedings of SIGGRAPH '81*](https://archive.org/details/siggraph81confer15sigg),
   3–7 August 1981
@@ -79,24 +90,7 @@
     > analysis system can run in real-time without severely impacting other
     > timesharing users of UNIX. [page 193]
 
-  - ["A Software Test-Bed for the Development of 3-D Raster Graphics Systems"](https://dl.acm.org/doi/10.1145/965161.806815) \
-    Turner Whitted and David M. Weimer \
-    Bell Laboratories, Holmdel, NJ \
-    SIGGRAPH '81, pages 271–277
-
-    > The entire test-bed is coded in the C language and has been tested on two
-    > machines (a PDP-11/45 and a VAX-11/780) running the UNIX operating system.
-    > Because C allows the programmer to declare variables as either 16 or 32
-    > bit integers independently of machine word length, identical code will run
-    > on either machine. We do find, however, that the larger addressing space
-    > of the 32 bit machine is necessary for conducting any really useful work.
-    >
-    > This system incorporates features that were suggested to us in
-    > conversations with a number of helpful people including Frank Crow of Ohio
-    > State University, Jim Blinn of JPL, Ed Catmull and Loren Carpenter of
-    > LucasFilm Ltd., Jeff Lane of Boeing, and Lance Williams of NYIT. We also
-    > wish to thank Steve Rubin for acting as our first user and main guinea
-    > pig. [page 275]
+  - See [Bell Labs, Holmdel](holmdel.md)
 
   > **Bulkhead Part With Intersection Cut**
   > by Richard F. Riesenfeld, et al

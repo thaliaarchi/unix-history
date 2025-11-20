@@ -21,6 +21,12 @@
 
 ## Misc
 
+- [*An Experimental Display Programming Language for the PDP-10 Computer*](https://archive.org/details/DTIC_AD0762010) \
+  William M. Newman \
+  University of Utah, July 1970
+
+  Reminds me of LOGO, from a skim.
+
 - ["Computer Generated Animation of Faces"](https://dl.acm.org/doi/10.1145/800193.569955) \
   Frederick I. Parke, University of Utah \
   ACM '72
