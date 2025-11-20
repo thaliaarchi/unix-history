@@ -19,6 +19,20 @@
   Covers the people involved in graphics work at Utah in the '60s and '70s,
   shows many clips of their work, and gives a brief chronology.
 
+## Misc
+
+- ["Computer Generated Animation of Faces"](https://dl.acm.org/doi/10.1145/800193.569955) \
+  Frederick I. Parke, University of Utah \
+  ACM '72
+
+  Has the famous computer-generated face animation.
+
+- [*A Parametric Model for Human Faces*](https://collections.lib.utah.edu/details?id=703807) \
+  Frederic I. Parke \
+  Doctor of Philosophy, University of Utah, December 1974
+
+  Computer-generated face renderings and wire frames.
+
 ## Archives
 
 - Collection A1088: [University of Utah School of Computing audio-visual collection (1970-1979)](https://archiveswest.orbiscascade.org/ark:80444/xv503861) \

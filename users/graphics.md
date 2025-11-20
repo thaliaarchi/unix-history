@@ -1,5 +1,14 @@
 # Graphics uses of UNIX
 
+- [*Proceedings of SIGGRAPH '74*](https://dblp.org/db/conf/siggraph/siggraph1974.html) \
+  15–17 July 1974
+
+  No papers mention UNIX, but several mention PDP-11s.
+
+  Note that the papers from this conference were published in Computers &
+  Graphics, available via ScienceDirect, and are not linked from the
+  proceedings, so need to be individually searched.
+
 - [*Proceedings of SIGGRAPH '81*](https://archive.org/details/siggraph81confer15sigg),
   3–7 August 1981
 
