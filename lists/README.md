@@ -3,25 +3,25 @@
 Numbers of UNIX licensees, installations, UNIX News / ;login: mailing list
 members, and USENIX conference registrants.
 
-| Date             | Count                                       | Source                   |
-| ---------------- | ------------------------------------------- | ------------------------ |
-|                  | 4 UNIX-7 installs                           | Losh FOSDEM '20          |
-| June 12, 1972    | 10 installs                                 | Second Edition manual    |
-| February 1973    | 16 installs                                 | Third Edition manual     |
-| November 1973    | >20 installs                                | Fourth Edition manual    |
-| June 1974        | >50 installs                                | Fifth Edition manual     |
-| June 27, 1975    | [51 licensees, 55 installs](1975-06-27.txt) | Ken's Dennis_Tapes list  |
-| July 16, 1975    | ≥49 licensees                               | UNIX News July 16, 1975  |
-| July 30, 1975    | [37 USENIX, ≥51 licensees](1975-07-30.txt)  | UNIX News July 30, 1975  |
-| March 19, 1976   | [80 USENIX](1976-03-19.txt)                 | UNIX News March 19, 1976 |
-| July 1976        | >125 USENIX                                 | UNIX News July 1976      |
-| September 1976   | [138 USENIX](1976-09.txt)                   | UNIX News September 1976 |
-| July 1977        | 168 USENIX [TODO]                           | ;login: July 1977        |
-| October 1977     | >250 USENIX                                 | ;login: October 1977     |
-| January 6, 1978  | 300 Bell installs, ≫300 non-Bell installs   | BSTJ 57.6 page 1947      |
-| October 1978     | [38 AUUGN](../auugn/1978-10/4.txt)          | AUUGN October 1978       |
-| end of 1978      | >600 installs                               | Life with UNIX page 12   |
-| January 28, 1980 | 447 Boulder USENIX [TODO]                   | ;login: February 1980    |
+| Date             | Count                                           | Source                   |
+| ---------------- | ----------------------------------------------- | ------------------------ |
+|                  | 4 UNIX-7 installs                               | Losh FOSDEM '20          |
+| June 12, 1972    | 10 installs                                     | Second Edition manual    |
+| February 1973    | 16 installs                                     | Third Edition manual     |
+| November 1973    | >20 installs                                    | Fourth Edition manual    |
+| June 1974        | >50 installs                                    | Fifth Edition manual     |
+| June 27, 1975    | [51 licensees, 55 installs](1975-06-27_ken.txt) | Ken's Dennis_Tapes list  |
+| July 16, 1975    | ≥49 licensees                                   | UNIX News July 16, 1975  |
+| July 30, 1975    | [37 USENIX, ≥51 licensees](1975-07-30_news.txt) | UNIX News July 30, 1975  |
+| March 19, 1976   | [80 USENIX](1976-03-19_news.txt)                | UNIX News March 19, 1976 |
+| July 1976        | >125 USENIX                                     | UNIX News July 1976      |
+| September 1976   | [138 USENIX](1976-09_news.txt)                  | UNIX News September 1976 |
+| July 1977        | 168 USENIX [TODO]                               | ;login: July 1977        |
+| October 1977     | >250 USENIX                                     | ;login: October 1977     |
+| January 6, 1978  | 300 Bell installs, ≫300 non-Bell installs       | BSTJ 57.6 page 1947      |
+| October 1978     | [38 AUUGN](1978-10_auugn.txt)                   | AUUGN October 1978       |
+| end of 1978      | >600 installs                                   | Life with UNIX page 12   |
+| January 28, 1980 | 447 Boulder USENIX [TODO]                       | ;login: February 1980    |
 
 [^nijmegen]: "SOFTWARE AGREEMENT between WESTERN ELECTRIC COMPANY, INCORPORATED
   and KATHOLIEKE UNIVERSITEIT Effective as of December 1, 1974"
