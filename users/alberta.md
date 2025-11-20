@@ -10,6 +10,15 @@
 
   ICCA is the International Computer Chess Association
 
+  Mentions UNIX:
+  - UAA-2004-058-061-005
+  - UAA-2004-058-061-007
+  - UAA-2004-058-061-008
+  - UAA-2004-058-061-009
+  - UAA-2004-058-061-014: Received UNIX
+  - UAA-2004-058-061-015: Sent license agreement
+  - UAA-2004-058-061-016: Convincing to release UNIX
+
 - [*The Department of Computing Science: The First Twenty-Five Years*](https://archive.org/details/P009056) \
   Keith Smillie \
   Department of Computing Science Technical Report TR-91-01, February 1991 \
