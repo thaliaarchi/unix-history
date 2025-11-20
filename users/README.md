@@ -38,6 +38,15 @@ members, and USENIX conference registrants.
   UNIX News July 30, 1975, page 8
 [^leuven]: "SOFTWARE AGREEMENT between WESTERN ELECTRIC COMPANY, INCORPORATED
   and KATHOLIEKE UNIVERSITEIT LEUVEN Effective as of September 1, 1977"
+[^minnesota]: "Parallel Processing Image Synthesis and Anti-Aliasing" \
+    Richard Weinberg \
+    Computer Science Department, University of Minnesota \
+    SIGGRAPH '81, pages 55–62
+[^brown]: "An Integrated System for Creating and Presenting Complex
+    Computer-Based Documents" \
+    Steven Feiner, Sandor Nagy, and Andries van Dam \
+    Computer Graphics Group, Department of Computer Science, Brown University
+    SIGGRAPH '81, pages 181–189
 [^future]: "The Future of UNIX" \
   John Lions \
   Australian UNIX Users' Group, February 20, 1984 \
@@ -110,6 +119,8 @@ TODO: What versions are Network UNIX and MUNIX derived from?
 | \-  | January 1979                | **V7**            | -                                       | -                                                                      | [^releases]            |
 | \-  | early 1979                  | **32V**           | -                                       | -                                                                      | [^releases]            |
 |     | after early 1978            | 32V               | University of California, Berkeley      | Obtained a copy of 32V after arrival of VAX-11/780                     | [^mckusick]            |
+| \-  | well before August 1981     | ?                 | University of Minnesota                 | Graphics paper mentioned UNIX on PDP-11/45 with Discomed film recorder | [^minnesota]           |
+| \-  | well before August 1981     | ?                 | Brown University                        | Graphics paper mentioned UNIX on VAX-11/780 with Ramtek 9400 and frame buffer | [^brown]        |
 | \-  | late 1979                   | **3BSD**          | -                                       | -                                                                      | [^releases]            |
 | \-  | July 1981                   | **2.8BSD**        | -                                       | -                                                                      | [^releases]            |
 | \-  | January 1982                | **2.8.1BSD**      | -                                       | -                                                                      | [^releases]            |
@@ -289,7 +300,7 @@ List sources:
 |           |                           | MIT Lincoln Laboratory                                | Lexington, MA                |                                  | Alan G. Nemeth                 |       4 |
 |           |                           | Department of Defense                                 | Ft. Meade, MD                |                                  | J. Gary Donnelly               |       4 |
 |           |                           | University of Minnesota                               | Minneapolis, MN              | Interactive Computation Lab.     | Prof. W.R. Franta              |       4 |
-|           |                           | University of Minnesota                               | Minneapolis, MN              | Computer Science                 | Prof. G. Michael Schneider     |       4 |
+|           | well before August 1981 [^minnesota] | University of Minnesota                    | Minneapolis, MN              | Computer Science                 | Prof. G. Michael Schneider     |       4 |
 |           |                           | Washington University                                 | St. Louis, MI                | Biomedical Computer Laboratory   | Kenneth L. Ripley              |       4 |
 |           |                           | Stevens Institute of Technology                       | Hoboken, NJ                  | Electrical Engineering           | Prof. Emil C. Neu              |       4 |
 |           |                           | Sandia Laboratories                                   | Albuquerque, NM              |                                  | C. J. Fisk                     |       4 |
@@ -329,3 +340,4 @@ List sources:
 |           |                           | University of Wollongong                              | Wollongong, NSW, Australia   |                                  |                                |       5 |
 |           |                           | NSW Institute of Technology                           | Sydney, NSW, Australia       |                                  |                                |       5 |
 |           |                           | University of Adelaide                                | Adelaide, SA, Australia      |                                  |                                |       5 |
+|           | well before August 1981 [^brown] | Brown University                               | Providence, RI               | Computer Graphics                |                                |         |
