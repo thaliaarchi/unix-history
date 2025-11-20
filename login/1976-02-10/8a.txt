@@ -23,34 +23,32 @@
 Many of the attendees described work in progress at their installations.
 A few of the more important developments:
 
+     1.  At Rand:
 
+         a.  Rand has a two-dimensional text editor which runs on 9600
+             baud CRT terminals.  It will run at slower speeds without
+             modification, but 1200 baud is probably too slow.
 
+             The philosophy of the editor is to display a "window" of
+             the two-dimensional text.  By means of cursor control
+             buttons (arrow keys), the cursor can be moved to a desired
+             location and text entered merely by typing it in.  Various
+             function buttons are used to:
 
+                 open or close space (lines or blocks)
+                 move the window forward, backward, and horizontally
+                  over the text
+                 delete characters
+                 search
+                 insert characters
+                 create new windows on the same or other files.
 
-        ���������������������������������������������������������
-        baud CHI terminals.  It will run at slower speeds without
-        modification, but 1200 baud is probably too slow.
+             The editor is coded so that terminal handling is done by
+             a module which can be changed to comply with the specifi-
+             cations of terminals other than the Ann Arbors used at
+             Rand.  (This was done at Yale.)  Such terminals must have
+             cursor control capability.
 
-        The philosophy of the editor is to display a "window" of
-        the two-dimensional text.  By means of cursor control
-        buttons (arrow keys), the cursor can be moved to a desired
-        location and text entered merely by typing it in.  Various
-        function buttons are used to:
-
-            open or close space (lines or blocks)
-            move the window forward, backward, and horizontally
-             over the text
-            delete characters
-            search
-            insert characters
-            create new windows on the same or other files.
-
-        The editor is coded so that terminal handling is done by
-        a module which can be changed to comply with the specifi-
-        cations of terminals other than the Ann Arbors used at
-        Rand.  (This was done at Yale.)  Such terminals must have
-        cursor control capability.
-
-        The editor operates on single keystroke commands, and
-        therefore runs in raw mode; thus it imposes a somewhat
-        heavier load on the system than ed.
+             The editor operates on single keystroke commands, and
+             therefore runs in raw mode; thus it imposes a somewhat
+             heavier load on the system than ed.

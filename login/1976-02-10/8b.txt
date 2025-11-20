@@ -1,48 +1,51 @@
+                                  -3-
 
-    b.  An ARPAnet interface has been written which uses hardware
-        designed at Systems Development Corporation and construc-
-        ted at Rand.  This hardware is supposed to be equivalent
-        to a device that DEC sells for $8,000 as an IMP-11.  The
-        interface (actually a UNIX driver) uses approximately
-        10,000 bytes of kernel space--thus, you probably need an
-        11/45 or 70 to run it.  Both user and server telnets and
-        ftps are implemented in user space.
 
-2.  At the Naval Postgraduate School:
+         b.  An ARPAnet interface has been written which uses hardware
+             designed at Systems Development Corporation and construc-
+             ted at Rand.  This hardware is supposed to be equivalent
+             to a device that DEC sells for $8,000 as an IMP-11.  The
+             interface (actually a UNIX driver) uses approximately
+             10,000 bytes of kernel space--thus, you probably need an
+             11/45 or 70 to run it.  Both user and server telnets and
+             ftps are implemented in user space.
 
-    a.  Ed has been modified to prompt and give line numbers, and
-        not to quit (q) until after a write (w) unless the user
-        insists.
+     2.  At the Naval Postgraduate School:
 
-    b.  A Versatec plotter driver has been written.
+         a.  Ed has been modified to prompt and give line numbers, and
+             not to quit (q) until after a write (w) unless the user
+             insists.
 
-    c.  A remote reboot has been implemented.
+         b.  A Versatec plotter driver has been written.
 
-    d.  A virtual machine monitor has been written (for use as a
-        teaching aid).
+         c.  A remote reboot has been implemented.
 
-    e.  The scheduler ������������������������������������������
-        �����������������������������������������������������    �
-        ����������������������������������������������������
-        �����������������������������������������������������������
-        ����������������������������������������. The savings were
-        much less (down to 6 percent) when more memory was available.
+         d.  A virtual machine monitor has been written (for use as a
+             teaching aid).
 
-    f.  They know something about a compilable Fortran developed at
-        Princeton.
+         e.  The scheduler has been modified to swap a process out only
+             if it is as large as the process it has been selected to run (on
+             the first pass through the scheduling loop).  On a 48K
+             system, this patch saved 25 percent of real time on a bench-
+             mark including C compiles (a heavy load).  The savings were
+             much less (down to 6 percent) when more memory was available.
 
-3.  At UC Berkeley
+         f.  They know something about a compilable Fortran developed at
+             Princeton.
 
-    a.  A file system fixer has been written that recovers about as
-        well as possible from crashes.
+     3.  At UC Berkeley
 
-    b.  A DL compatible 8 port multiplexer that can be built for
-        about $750 has been developed.
+         a.  A file system fixer has been written that recovers about as
+             well as possible from crashes.
 
-    c.  A very distant host interface for the Illinois NCP has been
-        developed.  It runs on an 11/40, but there are only about
-        40 words left in the kernel space.
 
-    d.  They have linked UNIX to an 11/05 for hands on use (for
-        teaching interrupt programming, etc.).  Programs are com-
-        piled on an 11/45 and shipped over to the 11/05.
+         b.  A DL compatible 8 port multiplexer that can be built for
+             about $750 has been developed.
+
+         c.  A very distant host interface for the Illinois NCP has been
+             developed.  It runs on an 11/40, but there are only about
+             40 words left in the kernel space.
+
+         d.  They have linked UNIX to an 11/05 for hands on use (for
+             teaching interrupt programming, etc.).  Programs are com-
+             piled on an 11/45 and shipped over to the 11/05.

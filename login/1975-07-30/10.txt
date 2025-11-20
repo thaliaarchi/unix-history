@@ -8,7 +8,7 @@ UNIVERSITY OF WATERLOO                  UNIVERSITE CATHOLIQUE DE LOUVAIN
 WATERLOO, ONTARIO,                      CHEMIN DU CYCLOTRON 2
 CANADA          N2L 3G1                 1348 LOUVAIN-LA-NEUVE, BELGIUM
 
-519-885-1211X3400\!X3293              18.2      415-497-7228                    30
+519-885-1211X3400\|X3293              18.2      415-497-7228                    30
 ERNEST CHANG                            PROF. C. J. KARZMARK
 COMPUTER SCIENCE DEPT.                  DEPT. OF RADIOLOGY
 UNIVERSITY OF WATERLOO                  STANFORD UNIV. SCHOOL OF MEDICINE
@@ -27,7 +27,7 @@ PROF. RALPH H. BJORK                    MR. J. TANSLEY
 SCIENCE BUILDING                        MEDICAL COMPUTING GROUP
 ST. OLAF COLLEGE                        UNIV. OF EDINBOURGH MEDICAL SCHOOL
 NORTHFIELD, MINN. 55057                 TEVIOT PLACE
-                                        EDINBURGH EH8 9AG, SCOTLAND
+                                        EDINBURGH EH8 9A6, SCOTLAND
 
 919-684-6804                    22      408-646-2449                    34
 PROF. C. FRANK STARMER                  MR. BELTON E. ALLEN

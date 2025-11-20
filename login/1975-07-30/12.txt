@@ -1,0 +1,57 @@
+                                                                   Data Acquisition Facility
+                                                                   School of Science
+                                                                   Brooklyn College
+                                                                   of The City University
+                                                                   of New York
+                                                                   Brooklyn, New York 11210
+                                                                   Telephone (212) 780-5569
+                                            July 31, 1975
+
+     The users of UNIX in New York City have been meeting regularly to discuss
+technical problems and ideas of mutual interest.  We have initiated a UNIX
+Newsletter which will, we hope, serve as an information exchange medium for all
+users.
+
+     To avoid the possibility of running afoul of the non-disclosure portion of
+the license agreement, and still allow a free exchange of information, the News-
+letter will be mailed to only one designated person at each licensed installation.
+She/he will, of course, be free to duplicate and distribute at her/his installation
+in accordance with the license agreement.
+
+     We have been given your name by the people at Bell Labs as a contact.  We ask
+that you fill out and return the form below so that the first Newsletter is mailed
+to the appropriate person at your facility.
+
+                                          Sincerely,
+
+                                          Melvin Ferentz
+___________________________________________________________________________________
+
+                                          _______________________________
+                                          Date
+Professor Melvin Ferentz
+Data Acquisition Facility
+3438 Ingersoll Hall
+Brooklyn College of CUNY
+Brooklyn, N. Y. 11210
+
+The person whose mailing address and telephone number is listed below is designated
+to receive the UNIX Newsletter for our installation.  (Where there is more that one
+UNIX installation under a single license, a person may be designated for each such
+installation.)
+
+You may include this name and telephone number in a list of installation published
+in the UNIX Newsletter.  (Strike this line if you object.)
+
+        Name   ________________________________________________
+Mailing Address________________________________________________
+               ________________________________________________
+               ________________________________________________
+               ________________________________________________
+
+Telephone      _________           ________________
+                Area                 Number
+
+
+                                            _________________________________
+                                            Signed

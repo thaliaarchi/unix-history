@@ -65,7 +65,7 @@ be sent to:
                     Michael T. O'Brien
                     Dept of Information Engineering
                     University of Illinois at Chicago Circle
-                    Box 43488
+                    Box 4348
                     Chicago, Illinois 60630
 
      At least initially, the plan is to collect everything sent in and  to  send

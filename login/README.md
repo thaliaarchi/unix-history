@@ -33,6 +33,8 @@ special issues were mailed, the third of which is sourced from
 [Hendrik-Jan Thomassen's copy](https://www.tuhs.org/pipermail/tuhs/2023-October/029087.html)
 sent to KU Nijmegen. The July 1976 issue is sourced from [John Gilmore's scans](http://www.toad.com/early-usenix-newsletters/)
 of issues July 16, 1975 to September 1978 [[TUHS mirror](https://www.tuhs.org/Archive/Documentation/Usenix/Early_Newsletters/)].
+The July 30, 1975 and February 10, 1976 issues are supplemented with better
+scans from the University of Waterloo Archives (not yet public).
 
 ## License
 
@@ -46,9 +48,9 @@ in the USENIX Archives on the Internet Archive are released under
 
 - Volume 1:
   - Special. UNIX News [July 16, 1975](https://www.tuhs.org/pipermail/tuhs/2023-October/029087.html) (1/1 page)
-  - 1\. UNIX News [July 30, 1975](https://archive.org/details/unix_news_july-30-1975) (11/11 pages)
+  - 1\. UNIX News [July 30, 1975](https://archive.org/details/unix_news_july-30-1975) (12/12 pages) [alt: Waterloo]
   - 2\. UNIX News [October 8, 1975](https://archive.org/details/unix_news_oct-8-1975) (2/2 pages)
-  - 3\. UNIX News [February 10, 1976](https://archive.org/details/unix_news_feb-10-1976) (8/8 pages)
+  - 3\. UNIX News [February 10, 1976](https://archive.org/details/unix_news_feb-10-1976) (9/9 pages) [alt: Waterloo]
   - 4\. UNIX News [March 19, 1976](https://archive.org/details/unix_news_march-19-1976) (10.5/15 pages)
   - 5\. UNIX News [April 30, 1976](https://archive.org/details/unix_news_april-30-1976) (4/13 pages)
   - 6\. UNIX News [May–June 1976](https://archive.org/details/unix_news_may-june-1976) (4/11 pages)

@@ -13,6 +13,7 @@ members, and USENIX conference registrants.
 | June 27, 1975    | [51 licensees, 55 installs](1975-06-27_ken.txt) | Ken's Dennis_Tapes list  |
 | July 16, 1975    | ≥49 licensees                                   | UNIX News July 16, 1975  |
 | July 30, 1975    | [37 USENIX, ≥51 licensees](1975-07-30_news.txt) | UNIX News July 30, 1975  |
+| October 31, 1975 | 20 Monterey USENIX                              | UNIX News February 10, 1976 |
 | March 19, 1976   | [80 USENIX](1976-03-19_news.txt)                | UNIX News March 19, 1976 |
 | July 1976        | >125 USENIX                                     | UNIX News July 1976      |
 | September 1976   | [138 USENIX](1976-09_news.txt)                  | UNIX News September 1976 |

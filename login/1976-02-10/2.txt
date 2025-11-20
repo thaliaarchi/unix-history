@@ -4,9 +4,8 @@
      *   *   *  **     *      * *            *  **   *       ** **       *
       ***    *   *   *****   *   *           *   *   *****   *   *   ****
 ________________________________________________________________________________
-Number 3                       February 10, 1976                          Page 1
+Number 3                       February 10, 1976                          Page 2
 ________________________________________________________________________________
-
 
 
 
@@ -25,7 +24,7 @@ dual-density drives.
                                    UNIX NEWS
 
      No, it wasn't the mails, it was us.  There was no November 1975 issue.  Our
-Mailing  list was messed up and we didn't get a new list of licensees until mid-
+mailing  list was messed up and we didn't get a new list of licensees until mid-
 January.  We promise to try to do better this year.
 
      This issue was prepared in mid-February.  We expect the next  issue  to  go

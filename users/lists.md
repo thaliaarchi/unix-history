@@ -83,6 +83,16 @@
   > Development work jointly with Harvard University began the previous winter,
   > making us one of the first non-Bell users. [page 8]
 
+- UNIX News [February 10, 1976](https://archive.org/details/unix_news_feb-10-1976),
+  page 7b: about 20 West Coast UNIX Users attendees
+
+  > A meeting of the West Coast UNIX Users was held at the Naval Postgraduate
+  > School, Monterey, California on October 31.  About 20 people attended the
+  > meeting.  The University of California accounted for about half the
+  > participants, including representatives from the Berkeley, UCLA, and San
+  > Diego campuses.  There were also people from the Stanford Medical School,
+  > Data Disk, Inc. (Sunnyvale, Ca.), the Naval Postgraduate School, and Rand.
+
 - UNIX News [March 19, 1976](https://archive.org/details/unix_news_march-19-1976),
   pages 11–14a: 80 members listed
 

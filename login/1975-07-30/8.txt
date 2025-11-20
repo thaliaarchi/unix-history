@@ -20,7 +20,7 @@ Our hardware configuration includes :
      *1 LA30 DECwriter at 300 baud on DL11-A
      *1 ASR33 teletype on DL11-A
      *1 ComData modem on dialup line, 110 baud on DL11-E
-     *1 LP11-HA upper/lower case 60-column line printer
+     *1 LP11-HA upper/lower case 80-column line printer
      *1 VOTRAX VS-5 voice synthesizer on DK11-E
      *1 QUME Q30 high-quality 30-cps printer
         (a.k.a. Diablo HyType, or the guts of the QSI etc. terminal) on DR11-C
