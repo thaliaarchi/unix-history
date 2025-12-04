@@ -109,7 +109,8 @@ Boxes:
   - Fd 14: Purchase Documents (1975)
 
 - TODO Box 90: United States Government
-  - Fd 3-5: Department of Defense, Dept. of the Navy, Naval Training Equipment Center, Purchase Contract (1974)
+  - Fd 3-5: Department of Defense, Dept. of the Navy, Naval Training Equipment
+    Center, Purchase Contract (1974)
 
 - Box 98: Affiliated Companies and Customers (searched Fd 2—3, 7, 19, 23–24, 34)
   - Fd 2–3: Bell Northern, Correspondence and affiliation analysis (1974-1978)
@@ -134,7 +135,8 @@ Boxes:
   - Fd 3: Digital Equipment Corp., Service agreement (1980)
   - Fd 4: Digital Equipment Corp., Test Specifications (1964)
   - Fd 5: Digital Equipment Corp., Technical Diagrams
-  - Fd 6: Digital Equipment Corp., GT48 Field Service Configuration & DPU Specifications (1974)
+  - Fd 6: Digital Equipment Corp., GT48 Field Service Configuration & DPU
+    Specifications (1974)
   - Fd 7: Digital Equipment Corp., VS60 Brochure & Announcement (1975)
   - Fd 8-10: Digital Equipment Corp., Brochures
   - Fd 11: Digital Equipment Corp., Annual Report (1974)
@@ -156,13 +158,15 @@ Boxes:
       Scan requested.
     - Letter from David C. Evans to Alexander Schure, NYIT, 18 November 1975
 
-      Recalls Ed Catmull's visit a week prior to E&S on the NYIT experience using the
-      Video Frame Buffer to make pictures.
+      Recalls Ed Catmull's visit a week prior to E&S on the NYIT experience
+      using the Video Frame Buffer to make pictures.
 
       Scan requested.
-    - "Purchase Agreement" between New York Institute of Technology and Evans & Sutherland, 6 November 1974
+    - "Purchase Agreement" between New York Institute of Technology and Evans &
+      Sutherland, 6 November 1974
 
-      E&S selling PDP-11/45, peripherals, Picture System, Frame Buffer, Film Recording Unit, and training
+      E&S selling PDP-11/45, peripherals, Picture System, Frame Buffer, Film
+      Recording Unit, and training
 
       Scan requested.
   - Fd 10: New York Institute of Technology, Request for proposal (1977)
@@ -337,7 +341,8 @@ Boxes:
 - Box 135: Papers, Evans & Sutherland Employees
   (searched Fd 1, 3, 8, 11–12, 15, 18, 30)
   - Fd 8: "Computer Science at the University of Utah" (1967)
-    - Copy of draft of "Computer Science at the University of Utah", [Utechnic](https://utah-primoprod.hosted.exlibrisgroup.com/permalink/f/dtufc4/UUU_ALMA21216524450002001)
+    - Copy of draft of "Computer Science at the University of Utah",
+      [Utechnic](https://utah-primoprod.hosted.exlibrisgroup.com/permalink/f/dtufc4/UUU_ALMA21216524450002001)
       article, 1966–67
   - Fd 18–23: "Syntax Directed On-Line Recognition of Cursive Writing" (1968)
     - "Syntax Directed On-Line Recognition of Cursive Writing" \
@@ -360,7 +365,7 @@ Boxes:
     - Memorandum from Rich Riesenfeld to Tony Hearn, "Animation Seminar in
       spring 1975", 1975
 
-      Martin (Newell?) offered a seminar before spring 2025.
+      Martin (Newell?) offered a seminar before spring 1975.
 
       > Attached hereto is a proposal written by Garland Stern and Lance
       > Williams to teach an animation seminar this spring.  In view of Steve's
@@ -774,9 +779,9 @@ Boxes:
 
       Scan requested.
   - Fd 25: BYU, Correspondence (1981-1986)
-    - "Tentative Program: National Conference on University Programs in
-      Computer Aided Engineering, Design, and Manufacturing", Brigham Young
-      University, 5 August 1982
+    - "Tentative Program: National Conference on University Programs in Computer
+      Aided Engineering, Design, and Manufacturing", Brigham Young University, 5
+      August 1982
 
       Computer conference hosted at BYU.
 
