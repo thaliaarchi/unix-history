@@ -905,9 +905,9 @@ Misc documents:
 - Memorandum from L. Dale Harris to Professor A. C. Emery, Vice President, 8
   April 1966, discussing the titles and responsibilities of Paul Tran, Louis
   Schmittroth, and David Evans at the University of Utah.
-- Paper clipping, "David C. Evans", probably from the September 1966 Scientific
-  American.
-- Appreciation for writing article in the September 1966 Scientific American.
+- Paper clipping, "David C. Evans", biography, circa October 1965
+- Appreciation from James C. Fletcher, University of Utah President, to David C.
+  Evans for writing article in the September 1966 Scientific American.
 - Faculty summary clipping (undated, but probably circa 1966–1969): "He was
   formerly Professor of Electrical Engineering at the University of California
   at Berkeley and Director of Engineering of the Computer Division of the Bendix
@@ -924,6 +924,17 @@ Misc documents:
 David Evans' publications as of July 1969
 
 TODO: Add authors
+
+- "Computer Logic And Memory". David C. Evans. Scientific American, Vol. 215,
+  No. 3, September 1966, pages 74–85 [[JSTOR](https://www.jstor.org/stable/24931047)]
+  [[Scientific American](https://www.scientificamerican.com/issue/sa/1966/09-01/)]
+  [[Sci-Hub](https://sci-hub.st/https://www.jstor.org/stable/24931047)]
+
+  TODO: Read
+
+  TODO: Issue contains other interesting sounding articles, including
+  ["Time-Sharing on Computers"](https://archive.org/details/time-sharing-on-computers-scientific-american-september-1966).
+  F. J. Corbat, R. M. Fano
 
 - "Real-Time Display of Computer Generated Half-Tone Perspective Images".
   co-authors, G.W. Romney, G. Watkins. IFIP Congress 68. North Holland

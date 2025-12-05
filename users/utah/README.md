@@ -3,6 +3,7 @@
 ## People
 
 - [David Evans](evans.md)
+- [Ivan Sutherland](sutherland.md)
 - [Martin Newell](newell.md)
 - [Jim Blinn](blinn.md)
 - Ed Catmull
