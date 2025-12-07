@@ -43,49 +43,6 @@
   - DOUBLE PRECISION INTEGER TO ASCII CONVERSION ROUTINE, BY: P. C. ABEGGLEN, 31
     AUG. 1973
 
-- Letter from Dennis Ritchie to Paul C. Abegglen, Department of Chemistry,
-  University of Utah \
-  modified 4 December 1973, in reply to 21 November 1973 letter \
-  [Dennis_Tapes](https://www.tuhs.org/Archive/Applications/Dennis_Tapes/)
-  `dmr_tapes.tar/dmr2/dmr2.tar/let/lett8`,
-  The Unix Heritage Society
-
-  Although he was in the Department of Chemistry, his obituary notes that he
-  "received advanced degrees in Electrical Engineering and Computer Science from
-  the University of Utah", so he may have been shifting in his career at this
-  point.
-
-  > Dr. Paul C. Abegglen \
-  > Department of Chemistry \
-  > University of Utah \
-  > Salt Lake City, Utah 84112
-
-  > Thank you for your kind letter of November 21 regarding the UNIX
-  > time-sharing system. UNIX is a proprietary system which is available, on a
-  > cost-free basis, to educational institutions under license from the Western
-  > Electric Company. To obtain a copy of the license agreement you may write to
-  > Mr R. G. Shahpazian […]. You should also send a copy of your letter to Mr.
-  > S. P. Morgan
-
-  > The PDP 11/45 you describe is sufficient to run UNIX. I'm afraid I can't
-  > offer you any encouragement as far as the 11/20 is concerned.  The version
-  > of the system for machines without segmentation is so different internally,
-  > and requires so much handcrafting to adapt it to its hardware configuration,
-  > that we are unable to support it.
-  >
-  > The UNIX system manual has not been released for general distribution. If
-  > the information I have given leaves you uncertain as to the suitability of
-  > the system for your applications, you should obtain a license as described
-  > above, and we will be glad to send you whatever documentation we have.
-
-  The metadata from `dir`:
-
-  ```
-  Mode       UID GID  Size Date                Name
-  ---------- --- --- ----- ------------------- -------------
-  -rw-rw-rw-   7   1  2826 1973-12-04 06:14:09 ./let/lett8
-  ```
-
 - ["DEATH: PAUL C ABEGGLEN"](https://www.deseret.com/1995/11/19/19205716/death-paul-c-abegglen/) \
   19 Nov 1995
 
