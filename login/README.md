@@ -65,7 +65,7 @@ in the USENIX Archives on the Internet Archive are released under
   - 3\. UNIX News [March 1977](https://archive.org/details/unix_news_march-1977) (4/4 pages)
   - 4\. UNIX News [April 1977](https://archive.org/details/unix_news_april-1977) (2/2 pages)
   - 5\. UNIX News [May–June 1977](https://archive.org/details/unix_news_may-june-1977) (1/6 pages)
-  - 6\. ;login: [July 1977](https://archive.org/details/login_july-1977) (12 pages)
+  - 6\. ;login: [July 1977](https://archive.org/details/login_july-1977) (5/12 pages)
   - 7\. ;login: [August 1977](https://archive.org/details/login_august-1977) (23 pages)
   - 8\. ;login: [September 1977](https://archive.org/details/login_september-1977) (6 pages)
   - 9\. ;login: [October 1977](https://archive.org/details/login_october-1977) (14 pages)

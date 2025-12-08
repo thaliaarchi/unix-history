@@ -2,7 +2,8 @@
 Mr. Travis Wood
 B40, Spain, UAB
 University Station
-Birmingham, Alabama 35294
+Birmingham, Alabama  35294
+
 
 
 Bob Marsh
@@ -11,10 +12,12 @@ Amcomp
 Sunnyvale, Ca. 94086
 
 
+
 Dr. Michael Shantz
 California Inst. of Technology
 Information Science 286-80
 Pasadena, Ca. 91125
+
 
 
 E.M. Gould
@@ -23,22 +26,26 @@ University of California
 Berkeley, Ca. 94720
 
 
+
 Glen M. Brechlin
 NELC Code 5200
 271 Catalina Blvd.
 San Diego, Ca. 92152
 
 
+
 John Cornelius
 Chem. Dept. Comp. Facility B-014
 Univ. Of Calif, At San Diego
-La Jolla, Cal, 92093
+La Jolla, Cal.  92093
+
 
 
 Lawrence McDaniel
 Dept. of Physics - B-019
 University of California
 La Jolla, Ca. 92093
+
 
 
 Marc Lewis
@@ -51,7 +58,7 @@ San Luis Obispo, Ca. 93407
 Lauren Weinstein
 The Rand Corporation
 1700 Main Street
-Santa Monica, Calif, 90406
+Santa Monica, Calif.  90406
 
 
 213-822-1511
@@ -62,13 +69,11 @@ Marina del Rey, Ca. 90291
 
 
 213-825-2971
-
 Prof. Gerald J. Popek
 3532 Boelter Hall
 Computer Science Dept.
 UCLA
 Los Angeles CA 90024
-
 
 408-646-2744/2449
 Prof. Gerald L. Barksdale, Jr.
@@ -76,7 +81,6 @@ Code 52BA
 Computer Science Department
 Naval Postgraduate School
 Monterey, California 93940
-
 
 415-326-6200
 Joseph L. Ehardt
@@ -87,7 +91,7 @@ Menlo Park, Ca. 94025
 
 415-326-6200
 Mr. John Bass
-Room J1070 Bldg 30
+Room J1070  Bldg 30
 Stanford Research Institute
 Menlo Park, Ca. 94025
 
@@ -99,22 +103,19 @@ Mail Code L-380
 P.O. Box 808
 Livermore, Ca. 94550
 
-
 415-497-1703
-don. F. Claerbout
+Jon. F. Claerbout
 Stanford University
 Dept. of Geophysics
 School of Earth Science
 Stanford, Ca. 94305
-
 
 415-497-7228
 Prof. C. J. Karzmark
 Dept. Of Radiology
 Stanford Univ. School Of Medicine
 300 Pasteur Drive
-Stanford, California 94305
-
+Stanford, California  94305
 
 415-642-2714
 Prof. R. S. Fabry
@@ -123,14 +124,12 @@ Computer Science
 University Of California
 Berkeley, Cal. 94720
 
-
 415-666-1208
 Vernon Smith
 Dept. of Radiology
 Physics Sect. U 368 (Q)
 Univ. of California
 San Francisco, CA 94143
-
 
 415-666-1235
 Thomas E. Ferrin
@@ -160,12 +159,12 @@ University of California
 Santa Barbara, Ca. 93106
 
 
+
 Prof. Kenneth Wiberg
 Chemistry Dept.
 Yale University
 225 Prospect Street
 New Haven, CT 06520
-
 
 203-432-4080
 Greydon C. Freeman
@@ -179,32 +178,28 @@ Dr. Michael Kubovy
 Psychology Dept.
 Yale University
 Box 11A, Yale Station
-New Haven. Ct 06520
-
+New Haven, Ct   06520
 
 203-436-1387
 Roger Deshaies
 Yale Lung Research Center
 105 LCI
 Yale University
-New Haven, CT. 06520.
-
+New Haven, CT. 06520
 
 203-436-2182
 PDP-11 Computer Room
 Registrar's Office
-SSS Hall/ 1604A Yale' Station
+SSS Hall/ 1604A Yale Station
 Yale University
 New Haven. CT. 06520
-
 
 203-436-8160
 Robert W. Tuttle
 Dept. Of Computer Science
 Yale Univ. 520 Dunham Lab.
 10 Hillhouse Avenue
-New Haven, Ct 06520
-
+New Haven, Ct  06520
 
 201-767-2197
 James Lucas
@@ -215,17 +210,16 @@ Washington, DC 20375
 
 202-697-3577
 Major Allan R. Wylie
-AF DSC/SFA rN
+AF DSC/SFA
 Room 1D 144
 The Pentagon
-Washington, D. C. 20330
-
+Washington, D. C.  20330
 
 301-921-3491
 Brian Lucas
 National Bureau Of Standards
 Building 225 Room A265
-Washington, DC 20234
+Washington, DC  20234
 
 
 703-437-2320
@@ -235,7 +229,6 @@ Room BE685
 The Pentagon
 Washington DC 20301
 
-
 302-738-2406
 Edward Szurkowski
 Dept. of Electrical Engineering
@@ -243,18 +236,19 @@ University of Delaware
 Newark, Del. 19711
 
 
-* 302-738-283
+302-738-283
 Computer Science Laboratory
-University Of Delaware :
+University Of Delaware
 Dept. of Stat and Comp Sci.
 Newark, Delaware 19711
 
 
 404-894-3152
 Henry N. Camp
-School Of Infe. And Comp. Sci.
+School Of Info. And Comp. Sci.
 Georgia Institute Of Technology
 Atlanta, Ga 30332
+
 
 
 Alfred Whaley
@@ -264,7 +258,7 @@ Computer Science Dept
 Urbana, Ill. 61801
 
 
-Dr. A.M, Mark
+Dr. A.M. Mark
 Dept. of Computer Science
 Southern Illinois Univ.
 Faner 2126
@@ -274,24 +268,21 @@ Carbondale, IL 62901
 Mateo M. Perez
 Research Resources Center
 Univ. of Illinois Medical Center
-194() West Taylor Street
+1940 West Taylor Street
 Chicago, Ill. 60612
-
 
 217-333-8469
 Steve Holmgren
 210 ACB
 University Of Illinois
-Urbana. Illinois 61801
-
--2-
+Urbana. Illinois  61801
 
 
 309-343-0112x414
 Mr. Wm. C. Ripperger
 Computer Center Director
 Knox College
-Galesburg, Illinois 61401
+Galesburg, Illinois  61401
 
 
 312-564-2000
@@ -301,33 +292,30 @@ X-Ray Systems
 3605 Woodhead Dr.
 Northbrook, Ill. 60062
 
-
 312-942-5276
 Laurens V. Ackerman, M.D.
 Department Of Medicine
 Rush Medical Center
 1753 Congress Parkway
-Chicago, Illinois 60612
-
+Chicago, Illinois  60612
 
 312-996-8579
 Michael O'Brien
 Dept. Of Information Engineering
 University Of Illinois
 P.O, Box 4348
-Chicago, Ill, 60680
-
+Chicago, Ill.  60680
 
 317-493-8826
 James J. Besemer
 School Of Electrical Engineering
 Purdue University
-West Lafayette, Ind. 47907
+West Lafayette, Ind.  47907
 
 
 317-493-9385
 David Anderson
-fechanical Engineering Dept.
+Mechanical Engineering Dept.
 Purdue University
 West Lafayette, Ind. 47907
 
@@ -336,19 +324,22 @@ West Lafayette, Ind. 47907
 Stephen J. Mahler
 Dept. Of Agricultural Engineering
 Purdue University
-West Lafayette, Indiana 47907
+West Lafayette, Indiana  47907
+
 
 
 H. Bellmar
 Minuteman Regional Vocational
 High School District
 758 Merrett Road
-Lexington. Mass. 02173
+Lexington. Mass.  02173
 
 
 HQ ESD/MCIT (Stop 36)
-Strention: Capt Paul Karger
-LG, Hanscom AFB, Mass 01731
+Attention: Capt Paul Karger
+L.G. Hanscom AFB, Mass 01731
+
+
 
 
 Shao-Sun Chien
@@ -372,7 +363,6 @@ Applied Seismology Group
 42 Carleton Street
 Cambridge, Mass. 02142
 
-
 617-271-2384
 Barbara N. Wagner
 MITRE Corporation
@@ -380,14 +370,12 @@ P.O. Box 208
 Mail Stop B295
 Bedford, Mass. 01730
 
-
 617-495-2627
 Mr. Lewis A. Law
 Director Of Technical Services
 Science Center - Harvard Univ.
 1 Oxford Street
 Cambridge, Mass. 02138
-
 
 617-522-4800
 Mr. Bill Mayhew
@@ -403,7 +391,6 @@ Lab for Pattern Analysis
 Dept. of Computer Science
 College Park, Md. 20742
 
-
 301-338-7024
 Prof. W. H. Huggins
 Dept. Of Electrical Engineering
@@ -413,24 +400,25 @@ Baltimore, Md. 21218
 
 301-688-6781/7483
 Dept. of Defense
-9800 Savage Road
+9800 Savage  Road
 Ft. G. G. Meade
 Maryland 20755
 ATTN: Dennis L. Mumaugh, R253
-
 
 301-688-8147
 J. Gary Donnelly
 Department of Defense, R53
 9800 Savage Road
-Ft. Meade. Md, 20755
+Ft. Meade. Md. 20755
+
 
 
 Prof. W.R. Franta
-Interactive Computation Lab
+Interactive Computation Lab.
 University of Minnesota
 143 Space Science Center
 Minneapolis, Minn. 55455
+
 
 
 Timothy W. Hoel, Director
@@ -443,7 +431,7 @@ Northfield, MN 55057
 Carl Henry
 Computer Center
 Carleton College
-Northfield, Minn. 55057
+Northfield, Minn.  55057
 
 
 612-373-0132
@@ -451,8 +439,7 @@ Prof. G. Michael Schneider
 University of Minnesota
 Dept. of Computer Science
 114 Lind Hall
-Minneapolis, Minn. 55455,
-
+Minneapolis, Minn. 55455
 
 314-454-3364
 Kenneth L. Ripley
@@ -461,12 +448,11 @@ Washington University
 700 South Euclid Ave
 St. Louis, Missouri 63110
 
-
 919-684-3048
 Eric H. Corwin
 Computer Science Dept.
 Duke University
-Durham, N.C. 27706
+Durham, N.C.  27706
 
 
 919-697-2861
@@ -480,14 +466,15 @@ Greensboro, N.C. 27420
 Dr. Gottfried Luderer
 Bell Labs 2F-225
 600 Mountain Ave.
-Murray Hill, Nd. 07974
+Murray Hill, N.J. 07974
+
 
 
 Irma B. Biren
 Bell Laboratories
 MH 2F-128
 600 Mountain Ave
-Murray Hill, NJ. 07974
+Murray Hill, N.J. 07974
 
 
 John Koch
@@ -500,7 +487,8 @@ New Brunswick, N.J. 08903
 Mr. Joseph F. Maranzano
 2C118
 Bell Telephone Laboratories
-Murray Hill, NJ 07974
+Murray Hill, NJ  07974
+
 
 
 Prof. Emil C. Neu
@@ -509,51 +497,49 @@ Stevens Institute of Technology
 Castle Point Station
 Hoboken, N.J. 07030
 
-
 201-246-9992
 Gary Seubert
 New Jersey Bell
-18 Paterson Street 8th Floor
+18 Paterson Street  8th Floor
 Switching Control Center
 New Brunswick, N.J. 08901
-
 
 201-257-8300x250
 Mr. Seymour Grodstein
 East Brunswick High School
 Cranbury Road
-East Brunswick, N. J. 08816
+East Brunswick, N. J.  08816
 
 
 201-582-2394
 Mr. Ken Thompson
-20-523
+2C-523
 Bell Telephone Labs.
 Murray Hill, NJ. 07974
 
 
 201-582-3770
-Mr. Dennis M, Ritchie
+Mr. Dennis M. Ritchie
 Room 2C514
 Bell Telephone Laboratories
-Murray Hill, NJ. 07974
+Murray Hill, NJ  07974
 
 
 201-582-4373
 R.C. Haight
 Bell Laboratories
-6 Corporate Place PY 1A-105.
+6 Corporate Place  PY  1A-105.
 Piscataway, N.J. 08854
 
 
 201-949-3490
 Mr. J.J. Molinelli
-1E-402A,
+1E-402A
 Bell Telephone Labs
 Holmdel, N.J. 07733
 
 
-201-949.6948
+201-949-6948
 Mr. Clyde P. Imagna
 Bell Telephone Laboratories
 Crawford Corners Rd.
@@ -571,9 +557,7 @@ Piscataway, N.J. 08854
 Prof Peter Bloomfield
 Department Of Statistics
 Princeton University
-Princeton, NJ 08540,
-
--3-
+Princeton, NJ  08540
 
 
 609-452-4640
@@ -583,12 +567,12 @@ Princeton University
 Princeton, N.J. 08540
 
 
+
 Forest Baskett
 University Of California
 Los Alamos Scientific Laboratory
 P.O. Box 1663
 Los Alamos, New Mexico 87545
-
 
 505-264-3142
 C. J. Fisk
@@ -602,8 +586,7 @@ Robert P. Hopkins
 Manager Computer Center
 The Cooper Union
 Cooper Square
-New York, N.Y. 10003
-
+New York, N.Y.  10003
 
 212-280-5517
 Mr. Reidar Bornholdt
@@ -611,7 +594,6 @@ Dept. Of Biological Sciences
 653 Schermerhorn Hall
 Columbia University
 New York, N.Y. 10027
-
 
 212-289-5940
 Mr. Dustin H. Heuston
@@ -621,10 +603,10 @@ New York, N. Y. 10028
 
 
 212-644-0920
-Forrest Howard 2
+Forrest Howard
 Commercial Union Leasing
 645 Madison Avenue
-New York, NY 10022
+New York, NY  10022
 
 
 212-687-0686
@@ -641,17 +623,16 @@ College Of Physicians & Surgeons
 630 West 168 Street
 New York, NY 10032
 
-
 212-730-2670
 P.J. Plauger
-Yourdon, Inc
+Yourdon, Inc.
 1133 Avenue of The Americas
 New York, N.Y. 10036
 
 
 212-780-5569
 Prof. Melvin Ferentz
-Physics Dept
+Physics Dept.
 Brooklyn College Of CUNY
 Brooklyn, New York 11210
 
@@ -663,7 +644,6 @@ Computer Center
 33 West 42nd Street
 New York, N.Y. 10036
 
-
 212-794-3000
 George M. Beshers
 New York Blood Center
@@ -672,12 +652,11 @@ New York, N.Y. 10021
 
 
 212-860-8040,8044
-Mare J. Teller
+Marc J. Teller
 New York Medical College
 Flower & Fifth Ave Hospital
-Sth Avenue at 106th Street
+5th Avenue at 106th Street
 New York, N.Y. 10029
-
 
 212-977-8008
 Mr. Ira Fuchs, Director
@@ -693,7 +672,6 @@ Computer Graphics Lab
 P.O. Box 170
 Old Westbury, N.Y. 11568
 
-
 516-694-5500
 Harry Linzer
 Polytechnic Institute Of New York
@@ -701,21 +679,19 @@ Long Island Center
 Route 110
 Farmingdale, N.Y. 11735
 
-
 516-924-5533
 Stuart Kern
 Physical Review
 Building 510E
 Brookhaven National Laboratory
-Upton, N.Y, 11973
-
+Upton, N.Y. 11973
 
 607-256-4880
 David H. Bessel, Manager
 Program Of Computer Graphics
 Cornell University
 120 Rand Hall
-Ithaca, N.Y. 14853
+Ithaca, N.Y.  14853
 
 
 J. Jalbert
@@ -737,14 +713,13 @@ Mr. Gary M. Goins
 University Hospitals
 Wearn Research Building
 CWRU / Biometry
-Cleveland, Ohio 44106
-
+Cleveland, Ohio  44106
 
 419-537-2511
 Computer Services
 The University Of Toledo
 2801 W. Bancroft St.
-Toledo, Ohio 43606
+Toledo, Ohio  43606
 
 
 513-745-3407
@@ -754,14 +729,12 @@ Xavier University
 Victory Parkway
 Cincinnati, Ohio 45207
 
-
 405-325-3866
 Michael O'Dell
 University of Oklahoma
 Info. and Computer Science
-601 Elm Ave Rm 921
+601 Elm Ave  Rm 921
 Norman, Ok. 73069
-
 
 503-248-5923
 Oregon Mus. Of Science & Industry
@@ -777,20 +750,19 @@ Carnegie-Mellon University
 Pittsburgh, Pa. 15213
 
 
+
 Mr. Scott M. Eleff
 Univ. Of Penn
 School Of Medicine
 Dept. of Bio Phys & Phys Biochem
 Phila, Pa 19104
 
-
 215-865-0741x253
 Rance De Long
 Moravian College
 Colonial Hall
-Main & Elizabeth Sts,
+Main & Elizabeth Sts.
 Bethlehem, PA 18018
-
 
 215-865-5351x322
 Prof. John P. Stoneback
@@ -801,7 +773,7 @@ Bethlehem, Pa. 18017
 
 412-327-3200
 John B. Allison
-American Businessman's Computer as
+American Businessman's Computer
 P.O. Box D
 Export, Pa. 15632
 
@@ -816,7 +788,8 @@ University Park, Pa. 16802
 
 H. K. Eisenstein
 University Of South Carolina
-Columbia, S.C. 29208
+Columbia, S.C.  29208
+
 
 
 615-974-5067
@@ -826,9 +799,10 @@ University of Tennessee
 Knoxville, Tenn. 37916
 
 
+
 University of Texas El Paso
 E. E. Dept.
-El Paso, Texas 79968
+El Paso, Texas  79968
 Attn: Glenn Gibson
 
 
@@ -846,9 +820,8 @@ Clinical Laboratory Division
 330 West 5th South
 Salt Lake City, Utah 84101
 
-
 801-581-8224
-Mr. Martin E. Newell
+Mr. Martin E, Newell
 Computer Science Dept.
 Univ. of Utah
 Salt Lake City, Utah 84112
@@ -866,11 +839,7 @@ Harold A. Solow
 RLG Assoc. Inc.
 Suite 16
 11250 Roger Bacon Drive
-Reston, VA 22090
-
-
--4-
-
+Reston, VA  22090
 
 703-527-7571
 Joseph S.D. Yao
@@ -879,20 +848,18 @@ Science Applications, inc.
 Suite 1200
 Arlington, Va. 22209
 
-
 703-821-2828
-Dr. L.S, Randall
+Dr. L.S. Randall
 Decisions and Designs, Inc.
 Suite 600
 8400 Westpark Drive
 McLean, Va. 22101
 
-
 802-864-6559
 Mr. Richard Becker
 Vermont Lung Center
 Univ. of Vermont
-Burlington, VT 05401
+Burlington, VT  05401
 
 
 608-262-1204
@@ -906,8 +873,8 @@ Madison, Wis. 53706
 Dr. J.M. Wells
 Compuier Science Dept.
 University of Manitoba
-Winnipeg. Manitoba
-CANADA R3T 2N2
+Winnipeg, Manitoba
+CANADA  R3T 2N2
 
 
 Prof. R. Brien Maguire
@@ -917,28 +884,25 @@ Regina, CANADA S45 OA2
 
 
 204-474-8165
-Dr. R. Callens
-Computer Science Dept
+Dr. R. Collens
+Computer Science Dept.
 University Of Manitoba
 Winnipeg, Manitoba
-Canada R3T 2NZ
-
+Canada        R3T 2NZ
 
 306-244-3606
 G.J. Skulmoski
 Analytics
-552 Saskatchewan Cresent East
+852 Saskatchewan Cresent East
 Saskatoon, Saskatchewan CANADA
 SN7 OL4
-
 
 396-343-5801
 Peter Hardie
 Dept. Of Computational Science
 University Of Saskatchewan
-Saskatoon. Saskatchewan
-Canada S7N OWO
-
+Saskatoon, Saskatchewan
+Canada         S7N 0W0
 
 403-284-6601
 Prof. Lawrence O. Sinkey
@@ -947,14 +911,12 @@ Faculty of Environmental Design
 2920 24 Ave. N.W.
 Calgary, CANADA T2N 1N4
 
-
 403-432-3971
 Prof. T. A. Marsland
 Dept. Of Computing Science
 Univ. Of Alberta
 Edmonton, Alberta
-Canada T6G 2E1
-
+Canada        T6G 2E1
 
 403-452-9990
 C. Christie
@@ -963,14 +925,12 @@ Athabasca University
 14515-122 Avenue
 Edmonton, Alberta CANADA TS5L 2W4
 
-
 416-928-4800
 Mr. K. C. Patnaik
 Univ. of Toronto
 Computer Research Facility
-10 King's College Road. SF214
-Toronto, Canada MSS 1Al
-
+10 King's College Road.  SF214
+Toronto, Canada  M5S 1A1
 
 416-967-4570
 Mr. Rick Macfarlane
@@ -979,30 +939,26 @@ Floor 32
 Toronto, Ontario
 Canada M4W 3E2
 
-
 519-885-121 1x2810
 Prof. R. W. Peebles
 Dept. Of Computer Science
 University Of Waterloo
 Waterloo, Ontario,
-Canada N21 3G1
-
+Canada        N2l 3G1
 
 519-885-121 1x3400!x3293
 Dr. Ernest Chang
 Computer Science Dept.
 University Of Waterloo
 Waterloo, Ontario
-Canada N21 3G1
-
+Canada N2l 3G1
 
 604-228-2731
 Stephen W. Borden
 Inst. of Animal Resource Ecology
 University of British Columbia
 2075 Westbrook Place
-Vancouver, B.C., CANADA V6T 1W5S
-
+Vancouver, B.C., CANADA V6T 1W5
 
 613-547-2844
 Prof. D. A. Jardine
@@ -1011,14 +967,12 @@ Queen's University
 Kingston, Ontario CANADA
 K7L 3N6
 
-
 613-547-6148/2711
 Prof. Jeffrey Kulick
 Dept. Of Comp. And Info. Sci.
 Queen's University
 Kingston, CANADA
 K7L 3N6
-
 
 613-596-3081
 W. D. Richardson
@@ -1027,9 +981,8 @@ P.O. Box 8508
 Ottawa, Ontario, Canada
 K1G 3M9
 
-
 (049) 68-5305
-J.A, Lambert, Director
+J.A. Lambert, Director
 Computing Centre
 The University Of Newcastle
 New South Wales, 2308
@@ -1046,7 +999,7 @@ Kensington 2033 AUSTRALIA
 Jim Curry
 Computing Services
 Int. Inst. Of App. Systems Anal.
-2361 Laxenburg, AUSTRIA.
+2361 Laxenburg, AUSTRIA
 
 
 662-3239
@@ -1054,8 +1007,7 @@ The Manager
 Computing Services Unit
 University of New South Wales
 P.O. Box 1
-Kensington. 2033. AUSTRALIA
-
+Kensington, 2033,  AUSTRALIA
 
 663-0351
 John Lions
@@ -1064,30 +1016,26 @@ University Of New South Wales
 Kensington 2033
 AUSTRALIA
 
-
 692-1122
 Ian Jackson
 Dept. of Computer Science
 School of Physics (BLDG A28)
 University of Sydney, N.S.W.
-2006 AUSTRALIA
-
+2006  AUSTRALIA
 
 010-417231
 Prof. E. Milgrom
-Unite D'informatique
+Unite D'Informatique
 Universite Catholique De Louvain
 Chemin Du Cyclotron 2
-1348 Louvain-La-Neuve. BELGIUM
-
+1348 Louvain-La-Neuve, BELGIUM
 
 63171 x 456
-DW. Taylor
+D.W. Taylor
 Dept. Of Computer Studies
 University Of Technology
-Loughborough LE1] 3TU
+Loughborough LE11 3TU
 Leicestershire GREAT BRITAIN
-
 
 7107-23-79
 Thomas V. Willoughby
@@ -1101,7 +1049,7 @@ D.B. Anderson
 Electrical Engineering Dept.
 University of Essex
 Wivenhoe Park
-Colchester CO4 35Q ENGLAND
+Colchester CO4 3SQ ENGLAND
 
 
 Dr. Peter Grey
@@ -1117,6 +1065,7 @@ Ernst Reuter Platz 7
 GERMANY
 
 
+
 University Of Newcastle Upon Tyne
 6 Kensington Terrace
 Newcastle Upon Tyne
@@ -1130,22 +1079,19 @@ Westfield College (London Univ.)
 312 Finchley Road
 London NW3 7ST ENGLAND
 
-
 021-980-4811
 Jon Rowson
 Queen Mary College
 Dept. Of Computer Science
 Mile End Road
-LONDON £1 4NS
-
+LONDON E1 4NS
 
 0206-44144x2189
 Brian O'Mahoney
 Computer Science Dept.
 University of Essex
 Wivenhoe Park
-Colchester CO4 38Q ENGLAND
-
+Colchester CO4 3SQ ENGLAND
 
 031-225-8432x102
 Prof. F. G. Heath
@@ -1154,33 +1100,26 @@ Heriot-Watt University
 31/35 Grassmarket
 Edinburgh EH1 2HT SCOTLAND
 
-
 031-667-1081x2778
 Mr. Jeffrey Tansley
 Dept. Of Computer Science
 Univ. Of Edinbourgh
 King's Buildings, Mayfield Road
-Edinburgh EH9 3J2, SCOTLAND
-
+Edinburgh EH9 3JZ, SCOTLAND
 
 339-8855x7391
 William Findlay
 Computing Science Dept.
-Univ, of Glasgow
+Univ. of Glasgow
 Glasgow G12 8QQ
 SCOTLAND
-
 
 66822
 Dr. R.P.A. Collinsen
 Computing Laboratory
 University Of Kent
 Canterbury CT2 7NF
-Kent ENGLAND
-
-
--5-
-
+Kent  ENGLAND
 
 Brighton-66755
 Dr. Steven Hardy
@@ -1196,12 +1135,12 @@ PO Box 653
 Beer-Sheva 84 120, ISRAEL
 
 
+
 Technion
 Israel Inst. Of Technology
 12. Haaliys Street
 Bat-Galim P.O. Box 9649
 Haifa, ISRAEL
-
 
 02-3021 1x605
 Amnon Barak
@@ -1218,12 +1157,11 @@ Box 7161
 Amsterdam, THE NETHERLANDS
 
 
-D.W. De Bakker
+D. W. De Bakker
 Dept. Of Computer Science
-Foundation Mathematisch Centrum,
+Foundation Mathematisch Centrum
 2E Boerhaavestraar 49
 Amsterdam 1005, THE NETHERLANDS
-
 
 080-558833 Ext 2224
 Hendrik-Jan Thomassen
@@ -1232,9 +1170,8 @@ Toernooiveld
 Nijmegen
 THE NETHERLANDS
 
-
 962.11.19
-Hernan Suarez-Fiamerich
+Hernan Suarez-Flamerich
 Cen. De Informacion Y Computacion
 Universidad Simon Bolivar
 Apartado Postal No. 80659
