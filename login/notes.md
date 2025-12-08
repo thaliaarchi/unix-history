@@ -90,8 +90,9 @@
   - 19a-22b: Boulder Usenix conference registrants
     - 19a: "Bruce L. Carneal / Brigham Young University"
     - 19b: "Bob Ellrig / Oregon State University"
+    - 19b: "Thomas Ferrin /University of California, S. F."
     - 19b: "Randy Frank / University of Utah"
-    - 19b: "Michael J. Frelling / Oregon State University"
+    - 19b: "Michael J. Freiling / Oregon State University"
     - 20b: "Dan Kogan / Oregon State University"
     - 21b: "Dave Regen / Oregon State University"
     - 22a: "Spencer W. Thomas / University of Utah"

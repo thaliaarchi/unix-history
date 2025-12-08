@@ -1,0 +1,59 @@
+                     Boulder Usenix Conference Registrants Page 2
+
+
+Coleman               Ted. F. Coleman                 Drug Enforcement Administration
+Conger                Donald B. Conger                Department of Defense
+Connors               Jack Connors                    FBI
+Cooley                Ralph Cooley                    Western Electric
+Corbin                Calvin F. Corbin                USA CPAL
+Corry                 P. A. Corry                     Bell Laboratories
+Cox                   Brad Cox                        Hendrix Electronics
+Cox                   Dr. Brad J. Cox                 Hendrix Electronics
+Cubbage               Paul Cubbage                    PFA, Inc.
+Currie                Richard Currie                  Microtel Pacific Research
+D'Ilertoghe           J. D'Ilertoghe                  Bell Telephone Manufacturing Co.
+Daon                  Tale Daon                       University of Illinois, Med. Ctr.
+Davy                  Donn F. Davy                    Lawrence Berkeley Lab
+Dawson                Philip D. Dawson                ITSCO
+De Jong               Kenneth De Jong                 University of Pittsburgh
+DeJager               Dale DeJager                    Bell Labs
+Delmonte              David Delmonte                  World Bank
+Dempsey               Steve Dempsey                   University of California, San Diego
+Detrie                Robert Detrie                   Computer Consoles, Inc.
+Dickson               T. D. Dickson                   PP
+Domenico              Ben Domenico                    NCAR
+Donnelly              Gary Donnelly                   Interactive Systems
+Donnelly              John L. Donnelly                NCAR
+Downey                Elwood Downey                   Kitt Peak National Observatory
+Downey                Elwood Downey                   Kitt Peak Observatory
+Droms                 Ralph Droms                     Pennsylvania State University
+Dunaway               Donna Dunaway                   Advanced Business Communications
+Dunn                  Dick Dunn                       Storage Technology
+Dwiggins              Don L. Dwiggins                 Operating Systems, Inc.
+Dyer                  Stephen P. Dyer                 Harvard University
+Edelstein             Herbert A. Edelstein            International Data Base Systems, Inc.
+Edsall                Edith Edsall                    Lamont-Doherty Geological Observatory
+Egdarf                Skip Egdarf                     E. S. G. S.
+Ellrig                Bob Ellrig                      Oregon State University
+Elsen                 Steven B. Elsen                 Bell Laboratories
+Ellis                 James T. Ellis                  Duke University
+Emigh                 Dave Emigh                      University of Saskatchewan
+Erlinger              Mike Erlinger                   Hughes Aircraft
+Farkas                Stephen P. Farkas               Athabasca University
+Feige                 Don Feige                       Martin Marietta
+Felton                Gregory P. Felton               American Health Sys.
+Ferentz               Melvin Ferentz                  Rockefeller University
+Ferrin                Thomas Ferrin                   University of California, S. F.
+Fone                  Donovan J. Fone                 INFORMATICS
+Forsberg              Chuck Forsberg                  Eidereal, Inc.
+Foster                Laurie C. Foster                Advanced Business Communications
+Fourt                 Ed Fourt                        Laurence Berkeley Lab
+Fowler                Robert C. Fowler                DARCOM-LSSA
+Fram                  David M. Fram                   Bolt, Beranek and Newman, Inc.
+Frank                 Randy Frank                     University of Utah
+Franklin              Dan Franklin                    Bolt, Beranek and Newman, Inc.
+Freiling              Michael J. Freiling             Oregon State University
+Friedman              Karen Friedman                  NCAR
+Fuchs                 John Fuchs                      City University of New York
+FundingsLand          Leroy Fundingsland              Computer Corporation of America
+Funk                  Susan Funk                      Chemical Abstracts Service
