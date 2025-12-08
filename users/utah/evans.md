@@ -749,7 +749,39 @@ Boxes:
         Computer sciences/systems analysis increased as an intended area of
         study in college by 555.5% between 1975 and 1984.
 
-        TODO: Transcribe
+        > TABLE 2
+        >
+        > National Changes in Intended Areas of Study in College \
+        > 1975-1984
+        >
+        > |                                    | 1975 Number | % of Total | 1984 Number | % of Total | % Change |
+        > | ---------------------------------- | ----------- | ---------- | ----------- | ---------- | -------- |
+        > | Art                                | 30,890      | 3.8        | 29,883      | 3.4        | -3.3     |
+        > | English/literature                 | 16,258      | 2.4        | 11,426      | 1.3        | -29.7    |
+        > | Foreign language                   | 11,380      | 1.4        | 7,031       | 0.8        | -38.2    |
+        > | Philosophy & religion              | 5,690       | 0.7        | 2,637       | 0.3        | -53.7    |
+        > | Biological sciences                | 65,031      | 8.0        | 27,246      | 3.1        | -58.1    |
+        > | Health & medical                   | 121,120     | 14.9       | 132,715     | 5.1        | +9.6     |
+        > | Physical sciences                  | 22,761      | 2.8        | 14,941      | 1.7        | -34.4    |
+        > | Engineering                        | 54,463      | 6.7        | 105,468     | 12.0       | +93.7    |
+        > | Undecided                          | 52,837      | 6.5        | 38,672      | 4.4        | -26.8    |
+        > | Mathematics                        | 19,509      | 2.4        | 9,668       | 1.1        | -50.4    |
+        > | Computer sciences/systems analysis | 13,006      | 1.6        | 85,254      | 9.7        | +555.5   |
+        > | Business & commerce                | 93,482      | 11.5       | 167,871     | 19.1       | +79.6    |
+        > | Communications                     | 21,948      | 2.7        | 32,519      | 3.7        | +48.2    |
+        > | Education                          | 73,972      | 9.1        | 40,430      | 4.6        | -45.3    |
+        > | History                            | 11,380      | 1.4        | 4,395       | 0.5        | -61.2    |
+        > | Psychology                         | 29,264      | 3.6        | 30,761      | 3.5        | +5.1     |
+        > | Social science                     | 62,592      | 5.1        | 64,160      | 7.3        | +2.5     |
+        >
+        > Table includes 17 of 29 categories measured by the College Board.
+        > "Total" refers to the total number of respondents cited in this
+        > report. It should be noted that, while the number of SAT takers fell
+        > by 2.1 percent between 1974 and 1984, the number of students
+        > responding to this question increased from 812,813 to 878,904 — about
+        > 8 percent.
+        >
+        > Source: College-Bound Seniors, 1984, College Entrance Examination Board.
 
         Scan requested.
   - Fd 21: University of Utah Research Proposals (1974, 1975)
