@@ -228,16 +228,8 @@ Folder 36: Jay Lepreau
 
 ## Line printer papers
 
-Documents of Jay Lepreau's circa 1980 from a box of line printer printouts.
-
-TODO: Scan and date line printer papers and describe provenance.
-
-- resume: Resume \
-  Jay Lepreau, 1980
-- resume.part: "Brief Resume - Jay Lepreau" \
-  Jay Lepreau, 1980
-- utah.crs: "Courses at University of Utah" \
-  Jay Lepreau, 1980
+See [1980_lepreau/](1980_lepreau/) for documents of Jay Lepreau's from a box of
+line printer printouts that were printed in 1980.
 
 ## Students I know
 
