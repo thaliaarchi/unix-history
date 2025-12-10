@@ -461,7 +461,7 @@ Boxes:
       >    documents.  These must be stamped, labeled and stored in the security
       >    contained or removed by the courier.
       > 5. FASTRAND SCRATCH AREAS <u>CANNOT</u> BE USED FOR <u>PROCESSING</u> OF
-      >    <u>CLASSIFIED</u> <u>DATA</>.
+      >    <u>CLASSIFIED</u> <u>DATA</u>.
       > 6. <u>ALL</u> <u>REMOTE</u> <u>ACTIVITY</u> must be <u>STOPPED</u>
       >    before classified material enters the system.
       > 7. FH 432 drums may be used for scratch as the erase procedures will
