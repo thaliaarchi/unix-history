@@ -70,7 +70,8 @@
   - CLI switches did not exist yet and files passed to the B interpreter must be
     preceded with a hyphen. [page 28] [^cowan]
   - Files had only one execute bit. [page 29] [^cowan]
-  - Page A7 of the scan is missing.[^horsfall] [^toomey2]
+  - Page A7 is missing in the hard copy and scan.[^horsfall] [^toomey2]
+    [^mcilroy5]
 
   [^readme]: https://www.tuhs.org/Archive/Distributions/Research/McIlroy_v0/Readme
   [^mcilroy1]: Doug McIlroy https://www.tuhs.org/Archive/Distributions/Research/McIlroy_v0/Readme
@@ -89,3 +90,5 @@
   [^losh]: Warner Losh. ["Hidden Early History of Unix"](https://papers.freebsd.org/2020/fosdem/losh-hidden_early_history_of_unix/).
     FOSDEM '20
   [^archibald]: Thalia Archibald from this project
+  [^mcilroy5]: Doug McIlroy at 10 Dec 2025 20:34:49 UTC, private correspondence,
+    "I found my hard copy. Alas, page A7 is truly missing."
