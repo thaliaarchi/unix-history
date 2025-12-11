@@ -45,8 +45,6 @@ pcc, porting it to TOPS-20.
 
   Page header dated "4 April 1978"
 
-  TODO: Transcribe.
-
 - Grad admission and course substitution
 
   - Emails "Graduate admission" between Jay Lepreau and Davis, 21 Jul 1980
