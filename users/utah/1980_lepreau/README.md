@@ -1,10 +1,10 @@
 # Jay Lepreau's 1980 fan-fold papers
 
 Documents of Jay Lepreau's from a box of line printer and dot matrix printouts
-from 1980. This include resumes from summer 1980, pcc documentation and working
-discussions, several mailing lists, a bibliography, 2-SAT in Pascal, and a UNIX
-`adb` source listing. It appears he was using TOPS-20. He worked on project with
-pcc, porting it to TOPS-20.
+from 1980. This include resumes from summer 1980, documentation and
+correspondence on Alan Snyder's and Steve Johnson's portable C compilers,
+several mailing lists, a bibliography, 2-SAT in Pascal, and a UNIX `adb` source
+listing. It appears he was using TOPS-20. He worked on project with pcc.
 
 - Mail, resumes, and schedules \
   after 22 June 1980
