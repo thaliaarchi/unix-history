@@ -226,10 +226,10 @@ Folder 36: Jay Lepreau
   > as Research Assistant Professor of Computer Science, effective October 1,
   > 1977 and ending June 30, 1998.
 
-## Line printer papers
+## 1980 fan-fold papers
 
 See [1980_lepreau/](1980_lepreau/) for documents of Jay Lepreau's from a box of
-line printer printouts that were printed in 1980.
+line printer and dot matrix printouts from 1980.
 
 ## Students I know
 
