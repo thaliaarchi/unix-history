@@ -1,5 +1,30 @@
 # Jay Lepreau sources
 
+- ["A Portable C Compiler for the DEC-20"](https://archive.org/details/pcc_for_dec-20_1981-04-24) \
+  Jay Lepreau \
+  Computer Science Department, University of Utah \
+  24 April 1981
+
+  A port of Steve Johnson's Portable C Compiler to the DECSYSTEM-20.
+
+  Mentions computers used by the Computer Science Department at the University
+  of Utah, including PDP-11s running UNIX, one of which is the primary machine
+  used by the CAGD/graphics group, a DECSYSTEM-2060, used by the LISP group and
+  the Applicative Multiprocessing (AMPS) group, and a VAX-11/750 to arrive in
+  June 1981.
+
+  > The primary research facility of the Computer Science Department is the
+  > Decsystem-2060, but many smaller machines are also heavily used, including
+  > several PDP-11's running Unix.  One of the 11's is the primary machine used
+  > by the Department's well-known CAGD/graphics group.  A VAX-11/750 is
+  > expected in June of this year, and promises to be of great importance to the
+  > various experimental research programs.  Its large address space makes it
+  > particularly attractive to several groups who have exhausted their
+  > single-section address space on the 20, such as the LISP group and the
+  > Applicative Multiprocessing (AMPS) group.
+
+  Transcription in 1981-04-24_pcc_for_dec-20.txt.
+
 - ["2007 and 2008 Report"](https://www-old.cs.utah.edu/docs/misc/0708-report.pdf) \
   School of Computing, University of Utah
 
