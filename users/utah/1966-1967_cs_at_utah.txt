@@ -1,0 +1,270 @@
+                        COMPUTER SCIENCE
+                             at the
+                       UNIVERSITY OF UTAH
+
+
+     Information processing systems are the subject matter of
+
+computer science.  It's remarkable that although information
+
+processing systems are new to our society, their growth has
+
+been so rapid and their influence has become so great that many
+
+universities have established computer science programs.  Some
+
+of these programs are based on numerical analysis and have grown
+
+out of mathematics departments.  Others find their roots in the
+
+theory of finite-state systems or one of several fields of
+
+computer application.  At the University of Utah the program has
+
+developed in the College of Engineering and might be characterized
+
+as an information processing system, engineering program.
+
+     A bachelor's degree in Computer Science is awarded by the
+
+undergraduate program.  The curriculum is a broad engineering
+
+sccience program, having the first two years common with other
+
+engineering fields.  The upper division program includes
+
+study in switching circuits, logical design, computer organization,
+
+programming, and programming languages.  Students are required
+
+to study the fundamental tools of computer science, such as
+
+discrete mathematics, algorithms, and data structures.
+
+     Many students who are not computer science majors take
+
+elective courses in order to learn to use computers as tools
+
+for the solution of proggrblems in other areas of activity or as
+
+a matter of general interest.  During the present year more
+
+than 800 students have studied programming in the introductory
+
+courses.
+
+     The graduate program includes study for the M.S. and Ph.D.
+
+degrees.  This program includes studensts from widely diverse
+
+
+                               -2-
+
+backgrounds.  Programs of study are tailored to the educational
+
+background and research interests of the individual students.
+
+Basically, the graduate program is a research-centered program.
+
+The University has excellent computing facilities and research
+
+support, as required by this program.  The faculty have diverse
+
+interests, but are characterized by extensive non-academic
+
+experience in computer system design and application.
+
+     There are two primary areas of computer research at
+
+present.  The primary research in information processing
+
+systems is in the areas of programming languages, computer
+
+system organization, techniques for man-machine interaction
+
+with emphasis on graphical techniques, and other techniques for
+
+computer use, such as pattern recognition.  The second major
+
+computer area is the application of state-of-the-art technology
+
+to the solution of a number of significant problems, which have
+
+proved to be difficult in the past.
+
+     The research activities, several of which are described in
+
+articles elsewhere in this uissue, can be seen to be inter-
+
+disciplinary.  Graduate students and faculty members from
+
+departments including Electrical Engineering, Mechanical
+
+Engineering, Chemical Engineering, Biophysics, Architecture,
+
+Surgery, and the Computer Center are participating with the
+
+faculty and students of Computer Science in this research.
+
+     Much of the research is sponsored by the Advanced Research
+
+Projects Agency of the Office of the Secretary of Defense under
+
+a contract with the Rome Air Development Center.  The contract
+
+value is presently about five million dollars and supports
+
+
+                               -3-
+
+research activity at the level of about one and a third million
+
+dollars per year.  The research is conducted by several groups,
+
+each headed by a co-principal investigator.  Examples of these
+
+projects are:
+
+     Computer-Aided Architectural Design System__________________________________________.  Stephen L.
+
+Macdonald, Professor of Architecture, co-principal investigator.
+
+The design goal is to produce a practical, working design
+
+system, based on three-dimensional geometric shapes which can
+
+be manipulated to almost any space form.  An information sotorage
+
+and retrieval system is the core of a computer-aided design
+
+system.  All design and analysis operations are performed on
+
+the common data base in the information storage system to assure
+
+good communication among all participants in the design.  The
+
+information in the information sottorage system represents a
+
+computer model of the object being designed.  When the computer
+
+model is complete, a design system can be used to produce drawings
+
+or other information needed for the construction of the real
+
+object.
+
+     Left-Ventricular Dynamics Project_________________________________.  Dr. Homer K. Warner,
+
+Professor of Biophysics, co-principal investigator.  The object
+
+of this research is to develop means to extract data from
+
+stereoscopic fluoroscope images of the human heart to permit
+
+analysis of its dynamic behavior.  By the use of radiopaque dye
+
+in the blood, stereoscope images of the left ventricle are
+
+obtained.  General strategy is for the human operator to aid a
+
+computer in the extraction of data from the fluroscope images
+
+
+                               -4-
+
+so that direct measurements of the dynamic behavior of the
+
+heart can be made.
+
+     The Use of Graphics in the Solution of Partial-Differential___________________________________________________________
+
+Equations_________.  Louis A. Schmittroth, Professor, Director of Computer
+
+Center, co-principal investigator.  Thus far, the activities have
+
+been mainly concerned with creating programming tools to aid
+
+in interacting with large FORTRAN programs.  These otools have
+
+been demonstrated to be of great practical value nin the solutions
+
+of several large-scale problems of practical significance in
+
+engineering and physics.  A more detailed report on this research
+
+is to be found in a separate article in this issue.
+
+     Computer Graphic Techniques___________________________.  David C. Evans, Professor,
+
+principal investigator.  The urgent need for realistic pictures
+
+of three-dimensional objects and constructs is evident in many
+
+fields.  The object of this research has been to develop a
+
+means to produce photograph-like pictures of complex illuminated
+
+object at a reasonable cost.  In order to do this, three important
+
+problems must be solved:  1) A good means must be found so that
+
+only visible surfaces are displayed in the picture.  2) Half-
+
+tone shading determined by instant light must be provided.  More
+
+information beyond that provided by line drawings is given by
+
+thkis means.  3) A good model must be found for representing
+
+arbitrarily-shaped surfaces.  Reasonable solutions to these three
+
+problems have been found, and good quality pictures are being
+
+made at the present time.  Further research and engineering
+
+development is necessary to produce realistic pictures of
+
+complicated moving objects.
+
+
+                               -5-
+
+     A number of other research activities, including work in
+
+programming languages, computer-aided teaching, pattern recognition,
+
+and computer system organization are in process, but will not
+
+be described in any detail.
+
+     Closely associated with the Computer Science research
+
+program is the Computer Center at the University, which is
+
+designed to serve all the needs on the campus for large-scale
+
+computing.  Computer Science research represents the largest
+
+single use of the Computer Center.  This close affiliation of
+
+hthe Computer Center and its personnel with Compjuter Science
+
+research representsxxxxxxxxxxxxxxxxxxx research is expected to have a continuing
+
+influence on the Computer Center service, such that recent
+
+significant developments in com puter systems and programming
+
+languages will be made available to the campus users.  An
+
+important example of this kind of interaction is that the
+
+Computer Center is scheduled to install interactive graphical
+
+capability for general use.  This capability is based directly
+
+on the equipment, systems, and applications developed by
+
+Computer Science research and is made economical by the sharing
+
+of equipment with the research activity.

@@ -344,6 +344,8 @@ Boxes:
     - Copy of draft of "Computer Science at the University of Utah",
       [Utechnic](https://utah-primoprod.hosted.exlibrisgroup.com/permalink/f/dtufc4/UUU_ALMA21216524450002001)
       article, 1966–67
+
+      Transcribed as 1966-1967_cs_at_utah.txt.
   - Fd 18–23: "Syntax Directed On-Line Recognition of Cursive Writing" (1968)
     - "Syntax Directed On-Line Recognition of Cursive Writing" \
       Yung Taek Kim and David C. Evans \
