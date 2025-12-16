@@ -11,6 +11,7 @@
 - Gary Lindstrom
 - [Mike Hibler](hibler.md)
 - [Jay Lepreau](lepreau.md)
+- Elliott Organick: [obituary by Gary Lindstrom](https://dl.acm.org/doi/pdf/10.1145/5666.6325)
 
 First listed in June 1975:
 
