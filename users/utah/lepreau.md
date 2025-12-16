@@ -1,5 +1,9 @@
 # Jay Lepreau sources
 
+TODO: Jay Lepreau's [Flux profile](https://www.flux.utah.edu/profile/lepreau),
+[CS site](https://web.archive.org/web/19970605053419/http://www.cs.utah.edu/~lepreau/),
+[OSDI '94](https://web.archive.org/web/19970614003821/http://www.cs.utah.edu/~lepreau/osdi94/index.html).
+
 - ["A Portable C Compiler for the DEC-20"](https://archive.org/details/pcc_for_dec-20_1981-04-24) \
   Jay Lepreau \
   Computer Science Department, University of Utah \
