@@ -22,14 +22,13 @@ listing. It appears he was using TOPS-20. He worked on project with pcc.
   year.
 
 - [LEPREAU `TWOSAT.PAS.1`](https://archive.org/details/lepreau_twosat_1980-06-05) \
-  recorded 5 Jun 1980 17:06, printed 1980-06-11 16:46:03
+  recorded 5 Jun 1980 17:06 by Robert Keller,
+  printed 1980-06-11 16:46:03 by Jay Lepreau
 
   ```pascal
   PROGRAM twosat;
   (* check for satisfiability of a Boolean expression with two literals per clause *)
   ```
-
-  Possibly recorded by Keller ("LINK FROM KELLER")?
 
 - [`<DOCUMENTATION>C-DIFFERENCES.MEM.1`](https://archive.org/details/snyder_c_differences_1978-04-04) \
   created 8 Dec 1970 16:02:34, printed 13 Jun 1980 20:01:27 \
