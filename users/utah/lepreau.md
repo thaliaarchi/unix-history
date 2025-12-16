@@ -134,7 +134,7 @@ Folder 36: Jay Lepreau
   > ending June 30, 2005.  This supersedes your appointment as Research
   > Associate Professor in the School of Computing.
 
-  - "Curriculum Vitae" \
+  - ["Curriculum Vita"](https://archive.org/details/lepreau_cv_2004-03-16) \
     Jay Lepreau, 16 March 2004
 
     > **Advisor to Masters Students**
