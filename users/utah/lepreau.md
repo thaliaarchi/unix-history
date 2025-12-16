@@ -25,6 +25,38 @@
 
   Transcription in 1981-04-24_pcc_for_dec-20.txt.
 
+- ["A 'Virtual Unix' for TOPS-20"](https://archive.org/details/vunix_talk_1982-01) \
+  Jay Lepreau \
+  Computer Science Department, University of Utah \
+  USENIX, January 1982
+
+  Abstract from [;login: January 1982](https://archive.org/details/login_january-1982/page/15/mode/1up):
+
+  > They are building a virtual UNIX to run under TOPS-20 so they can access the
+  > system languages and extended addressing of the DEC-20.  Their goals are to
+  > provide the same file format for both TOPS-20 and "VUNIX", to be able to
+  > access both environments from C, to keep kernel changes invisible to user
+  > programs, and to not hack TOPS-20.  The order of projects has been to make
+  > PCC work, then provide a V7 environment, then transport user programs. Major
+  > problems encountered include the 20’s 36 bit word (standard byte size is 7
+  > bits!), line terminators (CR/LF-LF), long file names, and no links.
+  >
+  > They have found that the "portable" C compiler is not particularly portable
+  > to word-addressable machines.  They also found problems with the C language
+  > specifications when the target machine is dissimilar to the canonical PDP-11
+  > architecture.
+
+  From the presentation notes:
+
+  > Bootstrapping Hosts
+  >
+  > 1. 11/34 V6
+  >    - PCC + YACC V7 split I/D
+  > 2. 11/45 V6
+  > 3. 11/45 V7
+  >
+  > [page 5]
+
 - ["2007 and 2008 Report"](https://www-old.cs.utah.edu/docs/misc/0708-report.pdf) \
   School of Computing, University of Utah
 
