@@ -154,33 +154,11 @@ listing. It appears he was using TOPS-20. He worked on project with pcc.
 
   - Various messages, none from Jay
 
-- SAIL help listing \
+- [SAIL TOPS-20 help listing](https://archive.org/details/sail_help_1980-11-06) \
   recording initiated 6 Nov 1980 23:37
 
-  ```
-  [PHOTO:  Recording initiated  Thu 6-Nov-80 11:37PM]
-
-  LINK FROM LEPREAU, TTY 17
-
-   TOPS-20 Command processor 4(663)-2
-  @tnet sail
-   Trying... Open
-  SU-AI WAITS 9.11/F  Assembled 10/30/80
-
-  .type elmail.hum[t,don]
-  .help helper
-  Job 11    SU-AI WAITS 9.11/F  Assembled 10/30/80
-  370                     How to transfer files to/from SCIP's IBM 370.
-  6500    LNK     ROB     Info on 6500 cross assembler program (same as HELP MICROS)
-  6800    LNK     ROB     Info on 6800 cross assembler program (same as HELP MICROS)
-  8080    LNK     ROB     Info on 8080 cross assembler program (same as HELP MICROS)
-  ACCESS          MRC     Command to gain owner access to another area (need password)
-  .
-  AL                      ALGOL-like language for programming the robot arms.
-  ALIAS                   Command to change default directory used for disk files.
-  ARM                     Pointers to programs for manipulating the arms(s).
-  […]
-  ```
+  A listing of the `help helper` command on the TOPS-20 machine at the Stanford
+  Artificial Intelligence Laboratory (SAIL, aka SU-AI).
 
 - LEPREAU `AMPS_MAIL.TXT.1` \
   printed 10 Nov 1980 15:12:03 \
