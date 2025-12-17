@@ -28,13 +28,12 @@ Internet Archive scans for October 1997 to July 2000.) Starting in February
 2012, issues are available in PDF, EPUB, and MOBI formats. When both scanned and
 digital versions are available, the scan is the primary link below.
 
-Two issues are sourced from elsewhere: Before the first normal issue, three
-special issues were mailed, the third of which is sourced from
-[Hendrik-Jan Thomassen's copy](https://www.tuhs.org/pipermail/tuhs/2023-October/029087.html)
+Before the first normal issue, three special issues were mailed, the third of
+which is sourced from [Hendrik-Jan Thomassen's copy](https://www.tuhs.org/pipermail/tuhs/2023-October/029087.html)
 sent to KU Nijmegen. The July 1976 issue is sourced from [John Gilmore's scans](http://www.toad.com/early-usenix-newsletters/)
 of issues July 16, 1975 to September 1978 [[TUHS mirror](https://www.tuhs.org/Archive/Documentation/Usenix/Early_Newsletters/)].
 The July 30, 1975 and February 10, 1976 issues are supplemented with better
-scans from the University of Waterloo Archives (not yet public).
+scans from the [University of Waterloo Archives](https://archive.org/details/@archibits?query=subject%3A%22University+of+Waterloo%22).
 
 ## License
 
@@ -47,38 +46,44 @@ in the USENIX Archives on the Internet Archive are released under
 ## Issues
 
 - Volume 1:
-  - Special. UNIX News [July 16, 1975](https://www.tuhs.org/pipermail/tuhs/2023-October/029087.html) (1/1 page)
-  - 1\. UNIX News [July 30, 1975](https://archive.org/details/unix_news_july-30-1975) (12/12 pages) [alt: Waterloo]
-  - 2\. UNIX News [October 8, 1975](https://archive.org/details/unix_news_oct-8-1975) (2/2 pages)
-  - 3\. UNIX News [February 10, 1976](https://archive.org/details/unix_news_feb-10-1976) (9/9 pages) [alt: Waterloo]
-  - 4\. UNIX News [March 19, 1976](https://archive.org/details/unix_news_march-19-1976) (10.5/15 pages)
-  - 5\. UNIX News [April 30, 1976](https://archive.org/details/unix_news_april-30-1976) (4/13 pages)
-  - 6\. UNIX News [May–June 1976](https://archive.org/details/unix_news_may-june-1976) (4/11 pages)
-  - 7\. UNIX News [July 1976](http://www.toad.com/early-usenix-newsletters/197607-unix-news-n7.pdf) (1/1 page)
-  - 8\. UNIX News [August 1976](https://archive.org/details/unix_news_august-1976) (4/4 pages)
-  - 9\. UNIX News [September 1976](https://archive.org/details/unix_news_september-1976) (6/6 pages)
-  - 10\. UNIX News [October 1976](https://archive.org/details/unix_news_october-1976) (0/7 pages)
-  - 11\. UNIX News [November 1976](https://archive.org/details/unix_news_november-1976) (1/5 pages)
+  - Special. UNIX News July 16, 1975 (1/1 page)
+    [[Nijmegen](https://www.tuhs.org/pipermail/tuhs/2023-October/029087.html)]
+    [[Gilmore](http://www.toad.com/early-usenix-newsletters/19750716-unix-news-special-issue.pdf), [darker](http://www.toad.com/early-usenix-newsletters/19750716-unix-news-special-issue-darker.pdf)]
+  - 1\. UNIX News [July 30, 1975](https://archive.org/details/unix_news_july-30-1975) (12/12 pages)
+    [[Waterloo](https://archive.org/details/unix_news_july-30-1975_waterloo)]
+    [[Gilmore](http://www.toad.com/early-usenix-newsletters/19750730-unix-news-n1.pdf)]
+  - 2\. UNIX News [October 8, 1975](https://archive.org/details/unix_news_oct-8-1975) (2/2 pages) [[Gilmore](http://www.toad.com/early-usenix-newsletters/19751008-unix-news-n2.pdf)]
+  - 3\. UNIX News [February 10, 1976](https://archive.org/details/unix_news_feb-10-1976) (9/9 pages)
+    [[Waterloo](https://archive.org/details/unix_news_feb-10-1976_waterloo)]
+    [[Gilmore](http://www.toad.com/early-usenix-newsletters/19760210-unix-news-n3.pdf)]
+  - 4\. UNIX News [March 19, 1976](https://archive.org/details/unix_news_march-19-1976) (10.5/15 pages) [[Gilmore](http://www.toad.com/early-usenix-newsletters/19760319-unix-news-n4.pdf)]
+  - 5\. UNIX News [April 30, 1976](https://archive.org/details/unix_news_april-30-1976) (4/13 pages) [[Gilmore](http://www.toad.com/early-usenix-newsletters/19760430-unix-news-n5.pdf)]
+  - 6\. UNIX News [May–June 1976](https://archive.org/details/unix_news_may-june-1976) (4/11 pages) [[Gilmore](http://www.toad.com/early-usenix-newsletters/197605-unix-news-n6.pdf)]
+  - 7\. UNIX News July 1976 (1/1 page) [[Gilmore](http://www.toad.com/early-usenix-newsletters/197607-unix-news-n7.pdf)]
+  - 8\. UNIX News [August 1976](https://archive.org/details/unix_news_august-1976) (4/4 pages) [[Gilmore](http://www.toad.com/early-usenix-newsletters/197608-unix-news-n8.pdf)]
+  - 9\. UNIX News [September 1976](https://archive.org/details/unix_news_september-1976) (6/6 pages) [[Gilmore](http://www.toad.com/early-usenix-newsletters/197609-unix-news-n9.pdf)]
+  - 10\. UNIX News [October 1976](https://archive.org/details/unix_news_october-1976) (0/7 pages) [[Gilmore](http://www.toad.com/early-usenix-newsletters/197610-unix-news-n10.pdf)]
+  - 11\. UNIX News [November 1976](https://archive.org/details/unix_news_november-1976) (1/5 pages) [[Gilmore](http://www.toad.com/early-usenix-newsletters/197611-unix-news-n11.pdf)]
 - Volume 2:
-  - 1\. UNIX News [December 1976–January 1977](https://archive.org/details/unix_news_december-1976-january-1977) (2.5/6 pages)
-  - 2\. UNIX News [February 1977](https://archive.org/details/unix_news-february-1977) (2/2 pages)
-  - 3\. UNIX News [March 1977](https://archive.org/details/unix_news_march-1977) (4/4 pages)
-  - 4\. UNIX News [April 1977](https://archive.org/details/unix_news_april-1977) (2/2 pages)
-  - 5\. UNIX News [May–June 1977](https://archive.org/details/unix_news_may-june-1977) (1/6 pages)
-  - 6\. ;login: [July 1977](https://archive.org/details/login_july-1977) (5/12 pages)
-  - 7\. ;login: [August 1977](https://archive.org/details/login_august-1977) (23 pages)
-  - 8\. ;login: [September 1977](https://archive.org/details/login_september-1977) (6 pages)
-  - 9\. ;login: [October 1977](https://archive.org/details/login_october-1977) (14 pages)
-  - 10\. ;login: [November 1977](https://archive.org/details/login_november-1977) (3 pages)
+  - 1\. UNIX News [December 1976–January 1977](https://archive.org/details/unix_news_december-1976-january-1977) (2.5/6 pages) [[Gilmore](http://www.toad.com/early-usenix-newsletters/197612-unix-news-v2n1.pdf)]
+  - 2\. UNIX News [February 1977](https://archive.org/details/unix_news-february-1977) (2/2 pages) [[Gilmore](http://www.toad.com/early-usenix-newsletters/197702-unix-news-v2n2.pdf)]
+  - 3\. UNIX News [March 1977](https://archive.org/details/unix_news_march-1977) (4/4 pages) [[Gilmore](http://www.toad.com/early-usenix-newsletters/197703-unix-news-v2n3.pdf)]
+  - 4\. UNIX News [April 1977](https://archive.org/details/unix_news_april-1977) (2/2 pages) [[Gilmore](http://www.toad.com/early-usenix-newsletters/197704-unix-news-v2n4.pdf)]
+  - 5\. UNIX News [May–June 1977](https://archive.org/details/unix_news_may-june-1977) (1/6 pages) [[Gilmore](http://www.toad.com/early-usenix-newsletters/197705-unix-news-v2n5.pdf)]
+  - 6\. ;login: [July 1977](https://archive.org/details/login_july-1977) (5/12 pages) [[Gilmore](http://www.toad.com/early-usenix-newsletters/197707-;login:-the-unix-newsletter-v2n6.pdf)]
+  - 7\. ;login: [August 1977](https://archive.org/details/login_august-1977) (23 pages) [[Gilmore](http://www.toad.com/early-usenix-newsletters/197707-;login:-the-unix-newsletter-v2n7.pdf)]
+  - 8\. ;login: [September 1977](https://archive.org/details/login_september-1977) (6 pages) [[Gilmore](http://www.toad.com/early-usenix-newsletters/197709-;login:-the-unix-newsletter-v2n8.pdf)]
+  - 9\. ;login: [October 1977](https://archive.org/details/login_october-1977) (14 pages) [[Gilmore](http://www.toad.com/early-usenix-newsletters/197710-;login:-the-unix-newsletter-v2n9.pdf)]
+  - 10\. ;login: [November 1977](https://archive.org/details/login_november-1977) (3 pages) [[Gilmore](http://www.toad.com/early-usenix-newsletters/197711-;login:-the-unix-newsletter-v2n10.pdf)]
 - Volume 3:
-  - 1\. ;login: [December 1977–January 1978](https://archive.org/details/login_december-1977-january-1978) (16 pages)
-  - 2\. ;login: [February 1978](https://archive.org/details/login_february-1978) (2 pages)
-  - 3\. ;login: [March 1978](https://archive.org/details/login_march-1978) (8 pages)
-  - 4\. ;login: [April 1978](https://archive.org/details/login_april-1978) (4 pages)
-  - 5\. ;login: [May 1978](https://archive.org/details/login_may-1978) (4 pages)
-  - 6\. ;login: [June/July 1978](https://archive.org/details/login_june-july-1978) (2 pages)
-  - 7\. ;login: [August 1978](https://archive.org/details/login_august-1978) (5 pages)
-  - 8\. ;login: [September 1978](https://archive.org/details/login_september-1978) (3 pages)
+  - 1\. ;login: [December 1977–January 1978](https://archive.org/details/login_december-1977-january-1978) (16 pages) [[Gilmore](http://www.toad.com/early-usenix-newsletters/197801-;login:-the-unix-newsletter-v3n1.pdf)]
+  - 2\. ;login: [February 1978](https://archive.org/details/login_february-1978) (2 pages) [[Gilmore](http://www.toad.com/early-usenix-newsletters/197802-;login:-the-unix-newsletter-v3n2.pdf)]
+  - 3\. ;login: [March 1978](https://archive.org/details/login_march-1978) (8 pages) [[Gilmore](http://www.toad.com/early-usenix-newsletters/197803-;login:-the-unix-newsletter-v3n3.pdf)]
+  - 4\. ;login: [April 1978](https://archive.org/details/login_april-1978) (4 pages) [[Gilmore](http://www.toad.com/early-usenix-newsletters/197804-;login:-the-unix-newsletter-v3n4.pdf)]
+  - 5\. ;login: [May 1978](https://archive.org/details/login_may-1978) (4 pages) [[Gilmore](http://www.toad.com/early-usenix-newsletters/197805-;login:-the-unix-newsletter-v3n5.pdf)]
+  - 6\. ;login: [June/July 1978](https://archive.org/details/login_june-july-1978) (2 pages) [[Gilmore](http://www.toad.com/early-usenix-newsletters/197806-;login:-the-unix-newsletter-v3n6.pdf)]
+  - 7\. ;login: [August 1978](https://archive.org/details/login_august-1978) (5 pages) [[Gilmore](http://www.toad.com/early-usenix-newsletters/197808-;login:-the-unix-newsletter-v3n7.pdf)]
+  - 8\. ;login: [September 1978](https://archive.org/details/login_september-1978) (3 pages) [[Gilmore](http://www.toad.com/early-usenix-newsletters/197809-;login:-the-unix-newsletter-v3n8.pdf)]
 - Volume 4?
 - Volume 5:
   - 1\. ;login: [January 1980](https://archive.org/details/login_january-1980) (19 pages)
