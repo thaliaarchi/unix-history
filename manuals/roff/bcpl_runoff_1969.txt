@@ -1,0 +1,60 @@
+https://manpages.bsd.lv/history/runoff69.low.pdf
+
+Runoff Manual                            Formatting Requests
+
+Requests: In  all  requests missing n fields are taken to be
+          1,  missing  s fields to be ''''. Signs + or - may
+          be  attached  to  numeric quantities showed as +n.
+          Signed  quantities  are  increments  to,  unsigned
+          quantities  are  replacements for, current values.
+          For examples, see Appendix 4.
+
+request_______ break_____ default_______ meaning_______
+
+.ad     yes   yes     adjust (justify) right margin of
+                      filled lines
+.ar     no    yes     arabic page numbers
+.bm +n  no    n=4     bottom margin is n lines below foot
+.bp     yes           begin page
+.br     yes           break, begin new output line
+.cc c   no    c=.     control character becomes c
+.ce n   yes           center next n lines, break on each
+.cn     no    yes     case normal on input
+.cr     no    no      case reversed, exchange upper and
+                      lower case letters_______ only____ on input
+.ds     yes   no      double space
+.ef s   no    s=''''  even page foot
+.eh s   no    s=''''  even page head
+.eo +n  yes   n=0     even page offset is n (see .po)
+.fi     yes   yes     fill output lines
+.fo s   no    s=''''  even and odd page foot
+.he s   no    s=''''  even and odd page head
+.in +n  no    n=0     indent margin n spaces
+.li n   no            literal, treat next n lines as text
+.ll +n  no    n=60    line length including indent is n
+.na     yes   no      no right margin adjustment
+.ne n   no            need n lines, 2n if double spaced,
+                      begin new page if not enough remain
+.nf     yes   no      nofill, break on each input text line
+.of s   no    s=''''  odd page foot
+.oh s   no    s=''''  odd page head
+.oo +n  yes   n=0     odd page offset is n (see .po)
+.op     yes           begin an odd page
+.pa +n  yes           begin page n
+.pl +n  no    n=66    paper length is n including margins
+.po n   yes    n=0    even and odd page offsets are n, i.e.
+                      move all output n spaces right
+.ro     no    no      roman page numbers
+.sc c   no    c=#     shift character (see below) becomes c
+.sk +n  no            skip at next new page to page n
+.sp n   yes           space n lines, n+1 if double spaced
+.ss     yes   yes     single space
+.ta     no    all     tabs set by next line (see below)
+.ti +n  yes           temporary indent, for one line only
+.tm +n  no    n=4     top margin is n lines above head
+.tr cd  no            translate character c into d on
+                      output, .tr cdcd... handles many c's
+.ul n   no            underline next n input text lines
+.un n   yes           unindent, same as .ti -n
+
+2                                             September 1969

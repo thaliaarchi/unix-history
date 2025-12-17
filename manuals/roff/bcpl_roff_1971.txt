@@ -1,0 +1,60 @@
+https://manpages.bsd.lv/history/roff71.low.pdf
+
+Formatting Requests                              Roff Manual
+
+Requests: Signs + or  -  may  precede  numbers  denoted  +n;
+          signed  numbers augment, and unsigned replace cur-
+          rent values.   n=1  and  t=''''  are  assumed  for
+          missing   fields.   Certain  requests  cause  line
+          breaks______.  Default_______ settings are in effect initially.
+
+request_______ break_____ default_______ meaning_______
+.ar       no    yes   arabic page numbers
+.bm +n    no    n=4   bottom margin is n lines below foot
+.bp      yes          begin page
+.cc c     no    c=.   control character becomes c
+.ce n    yes          center next n lines, break on each
+.cn       no    yes   case normal on input
+.cr       no    no    case reversed, exchange upper and
+                      lower case letters_______ only____ on input
+.ef t     no  t=''''  even page foot title is t
+.eh t     no  t=''''  even page head title is t
+.en      yes          end of footnote                         *
+.fi      yes    yes   fill output lines
+.fn       no          beginning of footnote                   *
+.fo t     no  t=''''  all foot titles are t
+.fs t     no  t=''''  footnote separator is t (see p4)        *
+.hc c     no          hyphenation character is c (see p4)     *
+.he t     no  t=''''  all head titles are t
+.hy n     no    n=3   hyphenation mode is n, 0<_n<_3            *
+.in +n    no    n=0   indent margin n spaces
+.ju      yes    yes   justify right margin                    *
+.li n     no          literal, treat next n lines as text
+.ll +n    no   n=60   line length including indent is n
+.ls n    yes    n=1   line spacing is n
+.mg n     no   empty  next line sets merge pattern n, 1<_n<_4
+.ne n     no          need room for n output lines with
+                      present spacing, do .bp if necessary.
+.nf      yes    no    nofill, break on each input text line
+.nj      yes    no    no justification of right margin        *
+.of t     no  t=''''  odd page foot titles are t
+.oh t     no  t=''''  odd page head titles are t
+.op      yes          begin an odd page
+.pa +n   yes    n=1   begin page n
+.pl +n    no   n=66   paper length is n including margins
+.po +n    no    n=0   page offset is n, i.e. move all output
+                      n spaces right
+.ro       no    no    roman page numbers
+.sc c     no    c=#   shift character is c (see p5)
+.sk +n    no          skip at next new page to page n
+.sp n    yes          insert n extra spacing lines
+.ta       no    all   tabs set by next line (see p5)
+.ti +n   yes          temporary indent, for one line only
+.tm +n    no    n=4   top margin is n lines above head
+.tr cd... no          translate c into d (see p4)
+.ul n     no          underline alphanumerics, next n lines
+
+Synonyms: .br=.sp 0 break, .ds=.ls 2 double space, .ss=.ls 1
+single space, .un n=.ti-n undent
+
+January, 1971                                              3

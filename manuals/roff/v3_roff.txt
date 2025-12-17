@@ -1,0 +1,83 @@
+http://squoze.net/UNIX/v3man/man1/roff
+
+                         REQUEST SUMMARY
+
+
+Request_______ Break_____   Initial_______ Meaning_______
+
+.ad     yes     yes     Begin adjusting right margins.
+.ar     no      arabic  Arabic page numbers.
+.br     yes     -       Causes a line break -- the filling of the
+                        current line is stopped.
+.bl n   yes     -       Insert contiguous block of n blank lines.
+                        If necessary, a new page will be started
+                        to accomodate the entire block.
+.bp +n  yes     n=1     Begin new page and number it n.  If n is
+                        not given, normal sequencing occurs.
+.cc c   no      c=.     Control character becomes `c'.
+.ce n   yes     -       Center the next n input lines, without
+                        filling.
+.de xx  no      -       Define macro named "xx" (definition ends
+                        with a line beginning with "..").
+.ds     yes     no      Double space; same as ".ls 2".
+.ef t   no      t=''''  Even foot title becomes t.
+.eh t   no      t=''''  Even head title becomes t.
+.fi     yes     yes     Begin filling output lines.
+.fo     no      t=''''  All foot titles are t.
+.hc c   no      none    Hyphenation character set to `c'.
+.he t   no      t=''''  All head titles are t.
+.hx     no      -       Title lines are suppressed.
+.hy n   no      n=1     Hyphenation is done, if n=1; and is not
+                        done, if n=0.
+.ig     no      -       Ignore input lines until and including a
+                        line beginning with "..".
+.in +n  yes     -       Indent n spaces from left margin.
+.ix +n  no      -       Same as ".in" but without break.
+.li n   no      -       Literal, treat next n lines as text.
+.ll +n  no      n=65    Line length including indent is n charac-
+                        ters.
+.ls +n  yes     n=1     Line spacing set to n lines per output
+                        line.
+.m1 n   no      n=2     n blank lines are put between the top of
+                        a new page and the head title.
+.m2 n   no      n=2     n blanks lines put between head title and
+                        beginning of text on page.
+.m3 n   no      n=1     n blank lines put between the end of text
+                        and the foot title.
+.m4 n   no      n=3     n blank lines put between the foot title
+                        and the bottom of page.
+.na     yes     no      Stop adjusting the right margin.
+.ne n   no      -       Begin new page, if n output lines cannot
+                        fit on present page.
+.nn +n  no      -       The next n output lines are not numbered.
+.n1     no      no      Output lines are numbered sequentially
+                        beginning with 1 on each new page.  Head
+                        and foot titles are not numbered.
+.n2     no      no      Output lines are numbered sequentially
+                        beginning with 1 on the next output line.
+.ni +n  no      n=0     Line numbers are indented n.
+.nf     yes     no      Stop filling output lines.
+.nx filename    -       Change to input file "filename".
+.of t   no      t=''''  Odd foot title becomes t.
+.oh t   no      t=''''  Odd head title becomes t.
+.pa +n  yes     n=1     Same as ".bp".
+.pl +n  no      n=66    Total paper length taken to be n lines.
+.po +n  no      n=0     Page offset.  All lines are preceded by N
+                        spaces.
+.ro     no      arabic  Roman page numbers.
+.sk n   no      -       n pages with head and foot titles but
+                        otherwise blank will be output beginning
+                        with the next page containing text.
+.sp n   yes     -       Insert block of n blank lines.  If the
+                        bottom of a page is reached, remaining
+                        lines are not put on next page.
+.ss     yes     yes     Single space output lines, equivalent to
+                        ".ls 1".
+.ta N M ...     -       Pseudotab settings.  Initial tab settings
+                        are columns 9,17,25,...
+.tc c   no      c=" "   Tab replacement character becomes "c".
+.ti +n  yes     -       Temporarily indent next output line n
+                        spaces.
+.tr abcd.. no   -       Translate a into b, c into d, etc.
+.ul n   no      -       Underline the letters and numbers on the
+                        next n input lines.
