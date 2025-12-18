@@ -266,6 +266,8 @@ Boxes:
       Contract for hardware from E&S and development work from the U.
 
       Transcribed as 1975-10-30_fb_ps_contract.txt.
+
+      TODO: Request scan.
     - Letter from David C. Evans to Richard F. Reisenfeld, Computer Science
       Department, University of Utah, 16 June 1980
 
