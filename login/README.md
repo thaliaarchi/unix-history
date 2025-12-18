@@ -7,8 +7,8 @@ early community outside of Bell Labs. It announced news, showcased modifications
 sites made to their installations, coordinated meetups, listed the first
 licensees and mailing list subscribers, and distributed patches. In July 1977,
 UNIX News was renamed to ;login: and in June/July 1978, USENIX was
-officially formed. For a good history of this period, see ["Unix at 25"](https://landley.net/history/mirror/unix/art3.htm)
-by Peter H. Salus.
+officially formed. For a good history of this period, see ["Unix at 25"](https://web.archive.org/web/19961220135639/http://www.byte.com/art/9410/sec8/art3.htm),
+written by Peter H. Salus for BYTE.
 
 I aim to transcribe all of UNIX News and early issues of ;login: through at
 least February 1980. When it renamed to ;login:, the cover page became typeset
