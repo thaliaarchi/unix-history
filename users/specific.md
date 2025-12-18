@@ -6,15 +6,10 @@ University of California, Berkeley.
 
 Licensees with more than one source are in separate files:
 [Katholieke Universiteit Nijmegen](nijmegen.md), [University of Alberta](alberta.md),
- and [University of Utah](utah/README.md).
+[University of Manitoba](manitoba/README.md), [University of Utah](utah/README.md),
+and [University of Waterloo](waterloo/README.md).
 
 License agreements are in licenses/.
-
-- University of Waterloo Archives \
-  [Fonds SCA160 - J. Wesley Graham fonds](https://archives.uwaterloo.ca/j-wesley-graham-fonds)
-  - Accession GA133 - J. Wesley Graham fonds, 1946-1999
-    - File 1529 UNIX - 1974-1977 \
-      Contents: correspondence, memoranda, background information.
 
 - ["The Network UNIX System"](https://archive.org/details/networkunixsyste155holm) \
   Steve Holmgren \

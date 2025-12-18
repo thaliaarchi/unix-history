@@ -7,7 +7,7 @@
 | Software-Univ.—020173-122073        | Western  | [*partial copy (pages 2–4)*](univ-020173-121374-manitoba/)       | -          | -          |
 | Software-Univ.—020173-060574        | Western  | [Katholieke Universiteit Nijmegen](univ-020173-060574-nijmegen/) | 1974-12-01 | 1975-02-26 |
 | Software-Univ.—020173-060574        | Western  | [*partial copy (page 1)*](univ-020173-121374-manitoba/)          | -          | -          |
-| Software-Univ.—020173-121374        | Western  | [University of Manitoba](univ-020173-121374-manitoba/)           | 1972-02-01 | -          |
+| Software-Univ.—020173-121374        | Western  | [University of Manitoba](univ-020173-121374-manitoba/)           | 1975-02-01 | -          |
 | Software-Univ.—020173-070176        | Western  | [*partial copy (page 5)*](univ-020173-120176-leuven/)            | -          | -          |
 | Software-Univ.—020173-120176        | Western  | [Katholieke Universiteit Leuven](univ-020173-120176-leuven/)     | 1977-09-01 | 1977-09-15 |
 | Software-Customer CPU—020176-010180 | Western  | [*partial copy (pages 1,3,5,6)*](cpu-052776-090180-specimen/)    | -          | -          |
@@ -134,10 +134,12 @@ Described by Dennis Ritchie:
 
 ## Manitoba 1975
 
-"SOFTWARE AGREEMENT between WESTERN ELECTRIC COMPANY, INCORPORATED and
-THE UNIVERSITY OF MANITOBA Effective as of February 1, 1975"
+["SOFTWARE AGREEMENT between WESTERN ELECTRIC COMPANY, INCORPORATED and
+THE UNIVERSITY OF MANITOBA Effective as of February 1, 1975"](https://archive.org/details/manitoba_unix_license_1975)
 
-Source: University of Waterloo Archives
+Source: University of Waterloo Archives,
+[accession GA133 - J. Wesley Graham fonds, 1946-1999](https://archives.uwaterloo.ca/j-wesley-graham-fonds),
+file 1529 UNIX, 1974-1977.
 
 ## Leuven 1977
 
