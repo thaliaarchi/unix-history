@@ -91,6 +91,8 @@ TODO: Search acquisition number [X7413.2015](https://www.computerhistory.org/col
   Document, Circa 1975 (Made) \
   Acquisition number X5598.2010
 
+  Scans available on the [Internet Archive](https://archive.org/details/newell_teapot_drawing).
+
   > Five hand-drawn pages containing a rendering of the Utah Teapot on graph
   > paper, as well as accompanying datasets.
 - 102710358: ["University of Utah Teapot"](https://www.computerhistory.org/collections/catalog/102710358/) \
