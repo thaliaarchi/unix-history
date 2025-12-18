@@ -97,6 +97,8 @@ KATHOLIEKE UNIVERSITEIT Effective as of December 1, 1974"](https://www.nokia.com
 Source: ["Old licenses and prices"](https://www.nokia.com/bell-labs/about/dennis-m-ritchie/licenses.html) \
 Dennis Ritchie, 2003
 
+Mirrored on the [Internet Archive](https://archive.org/details/nijmegen_unix_license_1974).
+
 Effective on 1 December 1974, signed by Western on 26 February 1975 and by
 Nijmegen on 6 February 1975. The cost was $150.
 
