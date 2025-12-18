@@ -29,6 +29,9 @@ TODO: Jay Lepreau's [Flux profile](https://www.flux.utah.edu/profile/lepreau),
 
   Transcription in 1981-04-24_pcc_for_dec-20.txt.
 
+  The source for pcc-20 is made available by [Nelson Beebe](https://ftp.math.utah.edu/pub/dec/tops-20/pcc-20.tar.gz)
+  and mirrored by [Lars Brinkhoff](https://github.com/PDP-10/utah-pcc20).
+
 - ["A 'Virtual Unix' for TOPS-20"](https://archive.org/details/vunix_talk_1982-01) \
   Jay Lepreau \
   Computer Science Department, University of Utah \

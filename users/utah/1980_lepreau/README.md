@@ -48,7 +48,10 @@ listing. It appears he was using TOPS-20. He worked on project with pcc.
   > version, hereafter known as UC).  Obvious machine dependencies, such as
   > precision, are not listed.
 
-  Page header dated "4 April 1978"
+  Page header dated 4 April 1978.
+
+  The source for Snyder's portable C compiler is made available by
+  [Lars Brinkhoff](https://github.com/PDP-10/Snyder-C-Compiler).
 
 - [Grad admission and course substitution](https://archive.org/details/lepreau_summer_1980/3_grad_admission/)
 
