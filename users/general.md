@@ -413,6 +413,17 @@
 
   TODO: Continue reading from page 15
 
+- [*A Quarter Century of UNIX*](https://archive.org/details/aquartercenturyofunixpeterh.salus_201910) \
+  Peter H. Salus, 1994
+
+  TODO: Read this.
+
+- ["Unix at 25"](https://web.archive.org/web/19961220135639/http://www.byte.com/art/9410/sec8/art3.htm) \
+  Peter H. Salus \
+  BYTE, October 1996
+
+  TODO: Cite relevant sections.
+
 - ["History of Computing at Bell Labs"](https://research.swtch.com/bell-labs) \
   Doug McIlroy \
   Bell Labs retirement talk, 1997
@@ -498,6 +509,56 @@
     sms@moe.2bsd.com
   - KKK=
   - KSJ=
+
+- Ohio LinuxFest 2009, "40 years of UNIX" \
+  Columbus, Ohio, 25 and 26 September 2009 \
+  [[audio](https://archive.org/details/OhioLinuxfest2009)]
+  [[registration](https://www.developerfusion.com/event/50984/ohio-linuxfest-2009-sept-25-27/)]
+
+  TODO: All three talks have noisy audio, which captured the background noise of
+  the ballroom. Clean up the audio and upload to the Internet Archive.
+
+  TODO: Listen to these talks.
+
+  - "Shared Destiny: 40 Years of UNIX, 40 Years of VM, and How They Came Together" \
+    David Boyes and Scott Courtney, 26 September 2009
+    [[video](https://www.youtube.com/watch?v=_Fgsam53mM8)]
+    [[noisy audio](https://archive.org/details/OhioLinuxfest2009/32-David_Boyes_and_Scott_Courtney-Shared_Destiny_40_Years_of_UNIX_and_VM.flac)]
+
+    Abstract:
+    > As UNIX was being born at Bell Labs, the VM operating system was being
+    > born at IBM. Though mainframe Linux is a comparatively recent phenomenon,
+    > VM and UNIX share common roots that are subtle but deep, with a rich
+    > heritage of open source code, community involvement, and developer
+    > passion. We explore the history of VM that led it to be such a fine
+    > platform for Linux, and how UNIX and UNIX tools evolved in the mainframe
+    > hardware environment in the decades before Linux.
+
+  - "The Importance of 1969" \
+    Peter Salus, 26 September 2009
+    [[noisy audio](https://archive.org/details/OhioLinuxfest2009/42-Peter_Salus-The_Importance_of_1969.flac)]
+
+    Abstract:
+    > In January 1969 the planning that resulted in the Internet and the Web was
+    > begun. At the end of that year, on December 28, Linus Torvalds was born.
+    > Join Peter as he tracks that year and the influences that have brought us
+    > to Columbus.
+
+  - "A Surfeit of Sophistication" \
+    M. Douglas McIlroy, 26 September 2009
+    [[noisy audio](https://archive.org/details/OhioLinuxfest2009/92-M_Douglas_McIlroy-A_Surfeit_of_Sophistication.flac)]
+
+    Abstract:
+    > Hidden complexity in the service of simplicity is no vice. But one's heart
+    > sags in the face of complexity that bubbles to the surface in hundred-page
+    > "man pages" and thousand-line makefiles. Sophistication, unfortunately, is
+    > the easy way to get noticed, while simplification is often subliminal. As
+    > an unabashed cheerleader for the underdog, I will try to redress the
+    > imbalance by looking at some incidents large and small of the tug-of-war
+    > between these two poles.
+
+    Doug was [interviewed](https://vimeo.com/7203377#t=1691.453) by Aaron
+    Newcomb of the_source about his talk.
 
 - [[TUHS] ed.c on Unix v5](https://www.tuhs.org/pipermail/tuhs/2015-December/007908.html) \
   Marc Rochkind, TUHS, 19 December 2015
