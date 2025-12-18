@@ -5,8 +5,8 @@ Utah-related items in the [Computer History Museum Collections](https://computer
 Searched acquisition numbers [X5598.2010](https://www.computerhistory.org/collections/catalog/search-catalog/search/acquisition-number:X5598.2010/)
 and [2023.0188](https://www.computerhistory.org/collections/catalog/search-catalog/search/acquisition-number:2023.0188/).
 
-TODO: Finish search for ["martin newell"+"utah"](https://www.computerhistory.org/collections/catalog/search-catalog/search/keyword:martin%20newell-utah/)
-and "utah".
+TODO: Finish search for [martin newell + utah](https://www.computerhistory.org/collections/catalog/search-catalog/search/keyword:martin%20newell-utah/)
+and utah.
 
 TODO: Search acquisition number [X7413.2015](https://www.computerhistory.org/collections/catalog/search-catalog/search/acquisition-number:X7413.2015/).
 
@@ -45,10 +45,10 @@ TODO: Search acquisition number [X7413.2015](https://www.computerhistory.org/col
 ## Utah Teapot
 
 - X398.84: ["The Utah Teapot"](https://www.computerhistory.org/collections/catalog/X398.84/) \
-  Gift of Martin Newell \
   Melitta (Manufacturer), Germany \
   Circa 1974 (Made) \
   Physical Object \
+  Gift of Martin Newell \
   Acquisition number X398.84
 
   > Original white porcelain teapot on which the widely distributed teapot data
@@ -61,8 +61,8 @@ TODO: Search acquisition number [X7413.2015](https://www.computerhistory.org/col
   > Data for the teapot created and input by Martin Newell- 1974- University of
   > Utah- Salt Lake City.
 - 102672452: ["University of Utah Teapot - Original"](https://www.computerhistory.org/collections/catalog/102672452/) \
-  Courtesy of Gwen Bell \
   Photograph \
+  Courtesy of Gwen Bell \
   Acquisition number X7413.2015
 
   > Black and White image of the white porcelain teapot on which the widely
@@ -76,8 +76,8 @@ TODO: Search acquisition number [X7413.2015](https://www.computerhistory.org/col
   > 1974- University of Utah- Salt Lake City. \
   > Verso: "Milochik:" in pencil.
 - 102672453: ["Wire-frame model of the Utah Teapot"](https://www.computerhistory.org/collections/catalog/102672453/) \
-  Courtesy of the School of Computing at the University of Utah \
   Photographs, Circa 1975 (Made) \
+  Courtesy of the School of Computing at the University of Utah \
   Acquisition number X7413.2015
 
   > Black and White image of the white porcelain teapot rendered as a wire frame
@@ -86,9 +86,8 @@ TODO: Search acquisition number [X7413.2015](https://www.computerhistory.org/col
   > bottom left corner in margin.
 - 102695462: ["Martin Newell’s drawing of the Utah Teapot"](https://www.computerhistory.org/collections/catalog/102695462/) \
   Martin Newell \
-  Courtesy of Martin Newell and the School of Computing at the University of
-  Utah \
   Document, Circa 1975 (Made) \
+  Courtesy of Martin Newell and the School of Computing at the University of Utah \
   Acquisition number X5598.2010
 
   Scans available on the [Internet Archive](https://archive.org/details/newell_teapot_drawing).
@@ -96,51 +95,51 @@ TODO: Search acquisition number [X7413.2015](https://www.computerhistory.org/col
   > Five hand-drawn pages containing a rendering of the Utah Teapot on graph
   > paper, as well as accompanying datasets.
 - 102710358: ["University of Utah Teapot"](https://www.computerhistory.org/collections/catalog/102710358/) \
-  Courtesy of the School of Computing at the University of Utah \
   Photograph, Circa 1975 (Made) \
+  Courtesy of the School of Computing at the University of Utah \
   Acquisition number X7413.2015 \
   Other identifying number P4050
 
   > B&W graphic image of a teapot with flower motif.
 - 102710359: ["University of Utah Teapot"](https://www.computerhistory.org/collections/catalog/102710359/) \
-  Courtesy of Gwen Bell \
   Photograph \
+  Courtesy of Gwen Bell \
   Acquisition number X7413.2015 \
   Other identifying number P4051
 
   > B&W graphic image of a teapot.
 - 102713445: ["University of Utah Tea Set"](https://www.computerhistory.org/collections/catalog/102713445/) \
-  Courtesy of Gwen Bell \
   Photograph \
+  Courtesy of Gwen Bell \
   Acquisition number X7413.2015
 
   > B&W graphic image of a tea set consisting of a tea pot, milk server, 4
   > spoons, 4 saucers and 4 teacups. \
   > Verso: " Newell"
 - 102713446: ["University of Utah Teapot"](https://www.computerhistory.org/collections/catalog/102713446/) \
-  Courtesy of Gwen Bell \
   Photograph \
+  Courtesy of Gwen Bell \
   Acquisition number X7413.2015
 
   > B&W graphic image of a teapot with flower motif. \
   > Recto bottom right margin: "University of Utah Computer Science" \
   > Verso: " Milechik"
 - 102713448: ["University of Utah Teapot"](https://www.computerhistory.org/collections/catalog/102713448/) \
-  Courtesy of Gwen Bell \
   Photograph \
+  Courtesy of Gwen Bell \
   Acquisition number X7413.2015
 
   > B&W graphic image of a teapot. \
   > Recto bottom right margin: "University of Utah Computer Science" \
   > Verso: " Milechik"
 - 102722167: ["Utah Teapot, computer-generated images"](https://www.computerhistory.org/collections/catalog/102722167/) \
-  Courtesy of the School of Computing at the University of Utah \
   Photographic Print \
+  Courtesy of the School of Computing at the University of Utah \
   Acquisition number X5598.2010
 - 102757124: ["3D Printed Ceramic Teapot"](https://www.computerhistory.org/collections/catalog/102757124/) \
-  Gift of Dries Verbruggen \
   Unfold (Manufacturer), Belgium/Antwerp \
   Physical Object \
+  Gift of Dries Verbruggen \
   Acquisition number X7402.2015
 
   > This a piece of functional dish-ware based on the Utah 3D computer model
@@ -151,9 +150,9 @@ TODO: Search acquisition number [X7413.2015](https://www.computerhistory.org/col
 ## Head model
 
 - 102710362: ["University of Utah model Head with three Graphic Views"](https://www.computerhistory.org/collections/catalog/102710362/) \
-  Courtesy of Gwen Bell \
   University of Utah \
   Photograph \
+  Courtesy of Gwen Bell \
   Acquisition number X7413.2015 \
   Other identifying number P4055
 
@@ -162,32 +161,32 @@ TODO: Search acquisition number [X7413.2015](https://www.computerhistory.org/col
   > obtained from the pastic model shown in (a). The plastic model was used as a
   > storage device for the facial topology.
 - 102710364: ["University of Utah Head model with contour lines"](https://www.computerhistory.org/collections/catalog/102710364/) \
-  Courtesy of Gwen Bell \
   Photograph \
+  Courtesy of Gwen Bell \
   Acquisition number X7413.2015 \
   Other identifying number P4049
 
   > B&W image of a model head with numbered contour lines used to make graphic
   > images.
 - 102710365: ["University of Utah Graphic Half Head with Planes"](https://www.computerhistory.org/collections/catalog/102710365/) \
-  Courtesy of Gwen Bell \
   University of Utah \
   Photograph \
+  Courtesy of Gwen Bell \
   Acquisition number X7413.2015 \
   Other identifying number P4052
 
   > B&W graphic image of a half head with planes.
 - 102710366: ["University of Utah Graphic Head with Planes"](https://www.computerhistory.org/collections/catalog/102710366/) \
-  Courtesy of Gwen Bell \
   Photograph \
+  Courtesy of Gwen Bell \
   Acquisition number X7413.2015 \
   Other identifying number P4053
 
   > B&W graphic image of a head with planes.
 - 102710367: ["University of Utah Graphic Head with Smoothing"](https://www.computerhistory.org/collections/catalog/102710367/) \
-  Courtesy of Gwen Bell \
   University of Utah \
   Photograph \
+  Courtesy of Gwen Bell \
   Acquisition number X7413.2015 \
   Other identifying number P4054
 
@@ -196,9 +195,9 @@ TODO: Search acquisition number [X7413.2015](https://www.computerhistory.org/col
 ## Sutherland's Volkswagen
 
 - 102710360: ["Wireframe model of Sutherland’s Volkswagen"](https://www.computerhistory.org/collections/catalog/102710360/) \
-  Courtesy of the School of Computing at the University of Utah \
   University of Utah \
   Photograph, Circa 1977 (Made) \
+  Courtesy of the School of Computing at the University of Utah \
   Acquisition number X7413.2015 \
   Other identifying number P4057
 
@@ -214,9 +213,9 @@ TODO: Search acquisition number [X7413.2015](https://www.computerhistory.org/col
 
   > B&W graphic image of a Volkswagen car showing planes.
 - 102710363: ["University of Utah Volkswagen Graphic Smooth View"](https://www.computerhistory.org/collections/catalog/102710363/) \
-  Courtesy of Gwen Bell \
   University of Utah \
   Photograph \
+  Courtesy of Gwen Bell \
   Acquisition number X7413.2015 \
   Other identifying number P4057
 
@@ -230,15 +229,15 @@ TODO: Search acquisition number [X7413.2015](https://www.computerhistory.org/col
 ## Dextrous Hand
 
 - 102693567: ["Robots - Utah/M.I.T. Dexterous Hand closeup"](https://www.computerhistory.org/collections/catalog/102693567/) \
-  Courtesy of Gwen Bell \
   Photograph \
+  Courtesy of Gwen Bell \
   Acquisition number X7413.2015
 
   > Color image of the Utah/M.I.T. Dextrous Hand. Shows three articulated
   > fingers and a thumb.
 - 102693568: ["Robots - Utah/M.I.T. Dextrous Hand"](https://www.computerhistory.org/collections/catalog/102693568/) \
-  Courtesy of Gwen Bell \
   Photograph \
+  Courtesy of Gwen Bell \
   Acquisition number X7413.2015
 
   > Color image of the Utah/M.I.T. Dextrous Hand. Shows the complete arm
@@ -249,10 +248,68 @@ TODO: Search acquisition number [X7413.2015](https://www.computerhistory.org/col
 ## Other models
 
 - 102642931: ["Digital image by Martin Newell"](https://www.computerhistory.org/collections/catalog/102642931/) \
-  Gift of Pixar \
   Martin Newell (Author) \
   Digital Image \
+  Gift of Pixar \
   Acquisition number 2023.0188
 
   > This is an image of a cocktail glass superimposed on a purple and orange
   > checker board
+
+## Non-Utah
+
+Searched [unix + agreement](https://www.computerhistory.org/collections/catalog/search-catalog/search/keyword:unix-agreement/)
+and [unix + license](https://www.computerhistory.org/collections/catalog/search-catalog/search/keyword:unix-license/).
+
+- 102785108: ["Unix Book II"](https://www.computerhistory.org/collections/catalog/102785108/) \
+  Dennis M. Ritchie (Author) \
+  Program Listing, undated \
+  Gift of Dennis Ritchie \
+  Acquisition number X8690.2018 \
+  [Dennis M. Ritchie papers](https://www.computerhistory.org/collections/catalog/102788942/)
+
+  > The binder contains nearly 190 pages of printed program listings, written in
+  > PDP-7 assembly code, and dating to approximately 1970, and represent some of
+  > the earliest Unix code. These programs were written by the first
+  > participants in the Unix effort at the Bell Telephone Laboratories, starting
+  > in 1969. Ken Thompson and Dennis Ritchie were the two central, and initial,
+  > participants. Other early participants include Rudd Canaday, Doug McIlroy,
+  > Brian Kernighan, Bob Morris, and Joe Ossanna. It is likely that much of the
+  > work represented in this binder is due to the work of Thompson and Ritchie.
+
+  TODO: Request scans of the Bon documentation from the Dennis M. Ritchie
+  papers. Almost none of the papers have individual catalog entries.
+
+- 102721331: ["UNIX Operating System Source Code Level Six"](https://www.computerhistory.org/collections/catalog/102721331/) \
+  Bell Laboratories (Publisher) \
+  Program Listing, 1977-06 (Made) \
+  Gift of Technologies, BBN \
+  Acquisition number X5546.2010
+
+  > Produced under license from Western Electric Company for students at the
+  > University of New South Wales taking courses 6.602B and 6.657G.
+
+  TODO: Is this the UNSW-internal first version of the commentary?
+
+- 102722878: ["Interactive Unix operating system"](https://www.computerhistory.org/collections/catalog/102722878/) \
+  Sun Microsystems, Inc. (Publisher) \
+  Software, 1993 (Made) \
+  Gift of Robert Woodworth \
+  5.25-inch Packaged Software, 3.5-inch Packaged Software, 0.25-inch Tape Cartridge
+
+  Includes Sun object code license.
+
+  > (1) 3.5 in. floppy disk - Boot/install disk \
+  > (1) 5.25 in. floppy disk - Boot/install disk \
+  > (1) Tape Cartridge: 1/4 inch - Base solution \
+  > User's manual \
+  > installation and maintenance guide \
+  > Conformance guide \
+  > Hardware compatibility guide \
+  > Release notes \
+  > Serial number card \
+  > End user object code license \
+  > (2) 3.5 in. floppy inside enclosed cardboard envelope (Fastback plus) \
+  > Fastback plus Unix user's guide \
+  > Fastback plus Unix quick installation card \
+  > Fastback plus Unix customer registration card
