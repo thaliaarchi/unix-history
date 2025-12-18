@@ -56,11 +56,13 @@ TODO:
 ## Berkeley 1973
 
 ["SOFTWARE AGREEMENT between WESTERN ELECTRIC COMPANY, INCORPORATED and
-THE REGENTS OF THE UNIVERSITY OF CALIFORNIA Effective as of December 1, 1973"](https://web.archive.org/web/20130904230950/http://www.groklaw.net/pdf2/WElectricRegentsLicenseDec1st1973.pdf)
+THE REGENTS OF THE UNIVERSITY OF CALIFORNIA Effective as of December 1, 1973"](https://web.archive.org/web/20110607190647/http://www.groklaw.net/pdf2/WElectricRegentsLicenseDec1st1973.pdf)
 
 Source: ["AT&T/Regents Collection 1973-1999 Raises the Question: What Unix
 Copyrights Does Novell Own?"](https://web.archive.org/web/20240701112852/http://www.groklaw.net/article.php?story=20110410231937980) \
 Pamela Jones, Groklaw, 1 June 2011
+
+Mirrored on the [Internet Archive](https://archive.org/details/uc_regents_unix_license_1973).
 
 Effective on 1 December 1973, signed by Western on 16 January 1974 and by
 Berkeley on 7 February 1974. No cost.
@@ -149,6 +151,8 @@ KATHOLIEKE UNIVERSITEIT LEUVEN Effective as of September 1, 1977"
 Source: ["Computer museum: ATT Unix licence"](https://museum.cs.kuleuven.be/pdp/licentie-E.html) \
 Katholieke Universiteit Leuven, Departement Computerwetenschappen \
 Revised 23 May 2015
+
+Mirrored on the [Internet Archive](https://archive.org/details/leuven_unix_license_1977).
 
 Effective from 1 September 1977, signed by Western on 1 September 1977 and by
 Leuven on 15 September 1977. The cost was $190.
