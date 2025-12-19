@@ -11,7 +11,8 @@ members, and USENIX conference registrants.
 | November 1973    | >20 installs                                    | Fourth Edition manual    |
 | June 1974        | >50 installs                                    | Fifth Edition manual     |
 | July 1974        | ~40 installs, 72 user                           | CACM July 1974 [^cacm74] |
-| June 27, 1975    | [51 licensees, 55 installs](1975-06-27_ken.txt) | Ken's Dennis_Tapes list  |
+| June 27, 1975    | [51 licensees, 55 installs](1975-06-27_ken.txt) | Ken's `distr/form.m`     |
+| July 3, 1975     | 11 BTL users?                                   | Ken's `let/unix.r`       |
 | July 16, 1975    | ≥49 licensees                                   | UNIX News July 16, 1975  |
 | July 30, 1975    | [37 USENIX, ≥51 licensees](1975-07-30_news.txt) | UNIX News July 30, 1975  |
 | October 31, 1975 | 20 Monterey USENIX                              | UNIX News February 10, 1976 |

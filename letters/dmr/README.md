@@ -1,4 +1,4 @@
-# Letters from Dennis_Tapes
+# Letters from Dennis Ritchie
 
 Letters from Dennis Ritchie in December 1973, responding to requests for UNIX
 distributions. They are from the `dmr2` tape of [`Dennis_Tapes`].

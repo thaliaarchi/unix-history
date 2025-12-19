@@ -1,0 +1,70 @@
+.ll 30
+To: SP Morgan
+.br
+Subject: Summer Hire
+.sp
+I would like to hire Jonathan Sieber for the
+summer.
+He is currently in his Junior year in high school.
+In high school, he has taken two
+formal programming courses; one in Fortran and one in 1620 SPS.
+He has also taken a course entitled
+'Advanced Computing' at Columbia through the
+Columbia University Science Honors Program.
+In the Columbia course, he
+had compiler optimization techniques and some
+practical 360 programming.
+
+He is a member of the Explorer Scout Troop that meets
+monday nights at the Labs.
+After troop meetings, the scouts 'work' on various
+computers around the Labs.
+Last year Sieber worked on the Honeywell 516 using FOCAL,
+a Basic-like language.
+During the summer and this year,
+he has worked on the UNIX PDP-11/45.
+He knows PDP-11 machine language and he
+knows how to use the UNIX subsystem software.
+(Editor, Debugger, Assembler and various languages)
+
+I have worked closely with him and believe that
+the summer job will help him and also benefit the Labs.
+He is capable of STA work with the added advantage that
+he is already fleuent in the use of the PDP-11 and the UNIX
+time sharing system.
+If he is hired, he would work with Dennis Ritchie and
+myself on UNIX
+and its associated software.
+The following is a list of pending projects that
+he is capable of doing:
+
+.ti 5
+Subsystem conversion to C
+.ti 5
+UNIX Manual updating
+.ti 5
+Driver for photo typesetter
+.ti 5
+APL runtime
+.ti 5
+Finish new chess program
+
+His previous work
+includes a program to determine student
+rank for Dayton's Guidance office;
+modifications to IBM's 1620 DOS to allow
+the addition of non disk oriented compilers;
+a combinatorial program to find a
+maximal solution to a cross word puzzle;
+an FSNAP to Fortran sieve;
+and an FSNAP compiler.
+The latter three programs were written on
+the PDP 11/45.
+
+
+
+
+
+
+
+					Ken Thompson

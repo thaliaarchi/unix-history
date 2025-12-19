@@ -1,0 +1,56 @@
+.ta 4 30 40 50
+.nf
+1.	McIlroy, MD	KB 44K (2)
+	Dept 1271	RF 4RK
+	MH 2C526	MH 2C644
+	MH 6050
+
+2.	Schepis, AJ	KB 124K (1)
+	Dept 4555	2RF 3RP
+	WH 3E227	WH ??
+
+3.	Norton, JA	KA 24K	KA 24K	KA
+	Dept 3412	RF RK	RF RK
+	WH 1L202	WH ??	San Fran	NYC
+	WH 3883		CORA
+
+4.	Almquist, ML	KA 16K
+	Dept 2416	2RF
+	HO 3C521	San Fran
+	HO 5911	CARTA
+
+5.	Averill, RM	KA 16K
+	Dept 5222	RF
+	HO 2G322	HO ??
+	HO 3874
+
+6.	Roberts, CS	KB 48K (1)
+	Dept 1353	2RP
+	MH 2C419	MH 2B402
+	MH 6895
+
+7.	Schramm, CR	KA 12K
+	Dept 1481	RF RK
+	MH 3C303	MH 3A320
+	MH 4114
+
+8.	Denes, PB	KA 28K
+	Dept 1228	3RK
+	MH 2D537	MH 2D510
+	MH 2812
+.bp
+1.	DeFelice, J	KA 16K
+	AT&T	RK
+	RR ??	RR ??
+	RR ??	COMPUDOC
+
+2.	King, RL	KA 20K (2)
+	AT&T Long Lines	3RP
+	208 N Caldwell	Charl
+	Charlotte, NC	SCAMIS
+	704-373-3233
+
+3.	Breen, H	KA 24K
+	WERC	RK
+	Princeton, NJ
+	8-239-2580

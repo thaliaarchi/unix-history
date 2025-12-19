@@ -122,7 +122,7 @@
 
 - List of UNIX licensees, Ken Thompson, 27 June 1975 \
   [Dennis_Tapes](https://www.tuhs.org/Archive/Applications/Dennis_Tapes/)
-  `dmr_tapes.tar/ken/ken.tar/distr/{form.m,nmrc}`
+  `dmr_tapes.tgz/ken/distr/{form.m,nmrc}`,
   The Unix Heritage Society: \
   51 UNIX licensees listed and 55 installations listed
 
@@ -140,6 +140,20 @@
   -rw-rw-rw-   6   1 20992 1975-06-27 20:30:20 ./distr/form.m
   -rw-rw-rw-   6   1   114 1975-06-27 20:31:44 ./distr/nmrc
   ...
+  ```
+
+- List of UNIX users in BTL, Ken Thompson, 3 July 1975 \
+  [Dennis_Tapes](https://www.tuhs.org/Archive/Applications/Dennis_Tapes/)
+  `dmr_tapes.tgz/ken/let/unix.r`,
+  The Unix Heritage Society:
+  11 people listed
+
+  The metadata from `dir`:
+
+  ```
+  Mode       UID GID  Size Date                Name
+  ---------- --- --- ----- ------------------- ---------------
+  -rw-rw-rw-   0   1   813 1975-07-03 16:58:38 ./let/unix.r
   ```
 
 - UNIX News [July 16, 1975](https://www.tuhs.org/pipermail/tuhs/2023-October/029087.html):
