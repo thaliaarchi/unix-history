@@ -169,6 +169,8 @@ Folder 39: Martin E. Newell
   Acknowledgements: David Evans, Ivan Sutherland, Steven Coons, Rich
   Riesenfeld, Tom Stockham, Mike Milochik, Sandy Newell
 
+  The first appearance of the Utah teapot <ref: Blinn email>
+
 - ["Modeling by Computer"](https://archive.org/details/cadsystemsprocee0000ifip/page/290/mode/2up) \
   Martin E. Newell and David C. Evans \
   IFIP W.G. 5.2 Conference on CAD Systems, Austin, Texas, February 1976

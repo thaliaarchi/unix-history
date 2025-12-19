@@ -15,7 +15,7 @@ TODO: Sources after September 1988 not reviewed. https://utah-primoprod.hosted.e
   Communications of the ACM, 1 October 1976 \
   Volume 19, Issue 10, p.542-547
 
-  Has renderings of the Utah Teapot.
+  Has renderings of the Utah Teapot. It spread mostly from here <ref: Blinn email>
 
   > **Resource Requirements**
   >
