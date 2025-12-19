@@ -293,9 +293,9 @@ Boxes:
     - (non-exhaustive list)
   - Fd 23: University of Utah, Proposal (1973)
     - Proposal from David C. Evans to Thomas G. Stockham, Computer Science
-      Department, University of Utah, "Proposal to the University of Utah: To
-      build and operate a real time shaded picture operating system", Proposal
-      No. 73-08-01, 9 August 1973
+      Department, University of Utah, ["Proposal to the University of Utah to
+      Build and Operate a Real Time Shaded Picture Operating System"](https://archive.org/details/shaded_picture_system_proposal_1973-08-09),
+      Proposal No. 73-08-01, 9 August 1973
 
       Unsolicited proposal by E&S for E&S and the University to build a
       real-time shaded picture operating system. The University would obtain a
