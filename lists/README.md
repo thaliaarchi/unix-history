@@ -35,6 +35,8 @@ members, and USENIX conference registrants.
   Communications of the ACM, Volume 17, Number 7, July 1974
 [^nijmegen]: "SOFTWARE AGREEMENT between WESTERN ELECTRIC COMPANY, INCORPORATED
   and KATHOLIEKE UNIVERSITEIT Effective as of December 1, 1974"
+[^manitoba]: "SOFTWARE AGREEMENT between WESTERN ELECTRIC COMPANY, INCORPORATED
+  and THE UNIVERSITY OF MANITOBA Effective as of February 1, 1975"
 [^holmgren]: "The Network UNIX System" \
   Steve Holmgren \
   Center for Advanced Computation, University of Illinois Urbana-Champaign \
@@ -143,6 +145,7 @@ TODO: What versions are Network UNIX and MUNIX derived from?
 | 37  | late 1974                   | ?                 | University of Toronto                   | PDP-11/45                                                              | [^spencer]             |
 | 46  | late 1973                   | V4                | The Cooper Union                        | PDP-11/45 which later ran V6                                           | [^spencer]             |
 | 49  | December 1, 1974            | ?                 | Katholieke Universiteit Nijmegen        | License effective                                                      | [^nijmegen]            |
+| 51  | February 1, 1975            | ?                 | University of Manitoba                  | License effective                                                      | [^manitoba]            |
 |     | late winter or spring 1975  | early V6          | University of Vermont                   | PDP-11/40                                                              | [^spencer]             |
 | \-  | May 1975                    | **V6**            | -                                       | -                                                                      | [^releases]            |
 |     | fall 1975                   | V6                | University of California, Berkeley      | Thompson brought up V6 over one-year sabbatical                        | [^mckusick]            |
@@ -292,7 +295,7 @@ List sources:
 |           |                           | Katholieke Universiteit Nijmegen                      | Nijmegen, Netherlands        | Science                          | Hendrik-Jan Thomassen          |     3 4 |
 | 50        |                           | Heriot-Watt University                                | Edinburgh, Scotland          | Electrical Engineering           | P. L. De Souza                 | 1       |
 | 50        |                           | Heriot-Watt University                                | Edinburgh, Scotland          | Electrical Engineering           | Prof. F. G. Heath              |   2 3 4 |
-| 51        |                           | University of Manitoba                                | Winnipeg, MB, Canada         | Computer Science                 | Dr. R. J. Collens              | 1 2 3 4 |
+| 51        | Feb 1 1975 [^manitoba]    | University of Manitoba                                | Winnipeg, MB, Canada         | Computer Science                 | Dr. R. J. Collens              | 1 2 3 4 |
 |           |                           | University of Manitoba                                | Winnipeg, MB, Canada         | Computer Science                 | Dr. J.M. Wells                 |       4 |
 |           |                           | University of California, San Diego                   | La Jolla, CA                 | Chemistry                        | John Cornelius                 |     3 4 |
 |           |                           | University of California, San Diego                   | La Jolla, CA                 | Physics                          | Lawrence McDaniel              |       4 |
