@@ -1,0 +1,60 @@
+John Lions              26 Morris Place,Maddison  New Jersey  07940,USA
+Alistair Kilgour        Computing Science Department,University of Glasgow
+                        GLASGOW G12 8QQ,United Kingdom
+D B Anderson            Department of Electrical Engineering,University of Essex
+                        Wivenhoe Park,COLCHESTER C04 3SQ,United Kingdom
+C R Boswell             Computing Services Centre, University of Wellington,NZ
+John Hine               Dept of Information Science, University of Wellington,NZ
+Hugh McKenzie           Computing Research,CSIRO,Box 1800,Canberra City
+Doug Ryan               Computing Research,CSIRO,Box 1800,Canberra City
+J D Shortridge          CSIRO Central Information Library,and Editoral Service
+John Smith              Computing Research,CSIRO,Box 1800,Canberra City
+R E M Cooper            University of Canterbury,Christchurch 1,NEW ZEALAND
+Glyn Peady              Australian Atomic Energy Commission,Lucas Heights
+Don Richardson          Australian Atomic Energy Commission,Lucas Heights
+Jeff Tobias             Australian Atomic Energy Commission,Lucas Heights
+Don McNeil              Economic and Financial Studies,Macquarie University
+Eddie Oliver            Economic and Financial Studies,Macquarie University
+Geoff Bullen            Computer Science,NSW Institute of Technology
+John Cady               Computer Science,NSW Institute of Technology
+Wilma Stibbards         Computer Centre,Royal Military College,Duntroon
+George Gerrity          Dept of Mathematics,Royal Military College,Duntroon
+C J Barter              Department of Computer Science,University of Adelaide
+Kelvin Nicolle          Department of Computer Science,University of Adelaide
+Robert Elz              Computer Science,University of Melbourne
+Ken McDonnel            Computer Science,University of Melbourne
+Andrew Hume             AGSM,University of New South Wales
+Ian Johnstone           AGSM,University of New South Wales
+Craig McGregor          Architecture,University of New South Wales
+Roger Miller            Architecture,University of New South Wales
+Chris Doney             CSU,University of New South Wales
+John Gergen             CSU,University of New South Wales
+Dave Horsfall           CSU,University of New South Wales
+Colin Webb              CSU,University of New South Wales
+Ian Hayes               Computer Science,University of New South Wales
+Peter Ivanov            Computer Science,University of New South Wales
+Chris Maltby            Computer Science,University of New South Wales
+Greg Rose               Computer Science,University of New South Wales
+Ken Schofield           Faculty of Commerce,University of New South Wales
+John Lambert            Computing Centre,University of Newcastle
+David Blatt             Dept of Computer Science,University of Newcastle
+Bruce Cheek             Dept of Mathematics,University of Newcastle
+Ross Gaylor             Department of Psychology,University of Queensland
+Robert Buckley          Dept of Computer Science,University of Queensland
+Dick Kelly              Dept of Computer Science,University of Queensland
+John Noad               Prentice Computer Centre,University of Queensland
+Roy Giles               Basser Dept of Computer Science,University of Sydney
+Wayne Harris            Basser Dept of Computer Science,University of Sydney
+Ian Jackson             Basser Dept of Computer Science,University of Sydney
+Bob Kummerfeld          Basser Dept of Computer Science,University of Sydney
+Piers Lauder            Basser Dept of Computer Science,University of Sydney
+Chris Rowles            Chemical Engineering,University of Sydney
+Geoff Cole              Computing Centre,University of Sydney
+Brian Rowswell          Computing Centre,University of Sydney
+Arthur Watson           Computing Centre,University of Sydney
+Kevin Rosolen           Electrical Engineering,University of Sydney
+Terry Bead              Sample Survey Center,University of Sydney
+Rob Freeth              Computer Science,University of Western Australia
+Dr Tsang                Computer Science,University of Western Australia
+Richard Miller          Computer Science,University of Wollongong
+Juris Reinfelds         Computer Science,University of Wollongong

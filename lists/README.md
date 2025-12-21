@@ -25,7 +25,11 @@ members, and USENIX conference registrants.
 | April 3, 1978    | >600 installs, 125 users                        | BSTJ 56.6 page 1905 [^bstj1905] |
 | October 1978     | [38 AUUGN](1978-10_auugn.txt)                   | AUUGN October 1978       |
 | end of 1978      | >600 installs                                   | Life with UNIX page 12   |
+| March 16, 1979   | 29 AUUG meeting [TODO]                          | AUUGN February–March 1979|
+| May 1979         | [58 AUUGN](1979-05_auugn.txt)                   | AUUGN April–May 1979     |
 | January 28, 1980 | 447 Boulder USENIX [TODO]                       | ;login: February 1980    |
+
+TODO: Jonathan Gray's sources from <https://www.tuhs.org/pipermail/tuhs/2023-July/028620.html>
 
 [^utah]: Letter from Ken Thompson to Martin E. Newell \
   31 May 1974
@@ -183,6 +187,7 @@ List sources:
 3. UNIX News March 19, 1976
 4. UNIX News September 1976
 5. AUUGN October 1978, trimmed to only new institutions
+6. AUUGN April–May 1979, trimmed to only new institutions
 
 | Ken #     | First installation        | Institution                                           | City                         | Department                       | Contact                        | Lists   |
 | --------- | ------------------------- | ----------------------------------------------------- | ---------------------------- | -------------------------------- | ------------------------------ | ------- |
@@ -373,13 +378,16 @@ List sources:
 |           | Sep 1 1977 (V6) [^leuven] | Katholieke Universiteit Leuven                        | Leuven, Belgium              | Computer Science                 |                                |         |
 |           | mentioned July 1977 [^brown77] | Brown University                                 | Providence, RI               | Computer Graphics                |                                |         |
 |           | planned July 1977 [^cmu]  | Carnegie Mellon University                            | Pittsburgh, PA               |                                  |                                |         |
-|           |                           | Royal Military College                                | Campbell, ACT, Australia     |                                  |                                |       5 |
+|           |                           | Royal Military College                                | Duntroon, ACT, Australia     |                                  |                                |       5 |
 |           |                           | University of Melbourne                               | Melbourne, VIC, Australia    |                                  |                                |       5 |
 |           |                           | University of Queensland                              | Brisbane, QLD, Australia     |                                  |                                |       5 |
 |           |                           | Macquarie University                                  | Sydney, NSW, Australia       |                                  |                                |       5 |
-|           |                           | Australian Atomic Energy Commission                   | Sydney, NSW, Australia       |                                  |                                |       5 |
+|           |                           | Australian Atomic Energy Commission                   | Lucas Heights, NSW, Australia |                                 |                                |       5 |
 |           |                           | CSIRO                                                 | Canberra, ACT, Australia     |                                  |                                |       5 |
 |           |                           | University of Wollongong                              | Wollongong, NSW, Australia   |                                  |                                |       5 |
 |           |                           | NSW Institute of Technology                           | Sydney, NSW, Australia       |                                  |                                |       5 |
 |           |                           | University of Adelaide                                | Adelaide, SA, Australia      |                                  |                                |       5 |
 |           | December 1977 (V6) [^lions] | University of New South Wales                       | Kensington, NSW, Australia   |                                  |                                |         |
+|           |                           | University of Western Australia                       | Crawley, WA, Australia       | Computer Science                 |                                |       6 |
+|           |                           | University of Wellington                              | New Zealand                  | Wellington, New Zealand          |                                |       6 |
+|           |                           | University of Canterbury                              | Christchurch, New Zealand    |                                  | R E M Cooper                   |       6 |

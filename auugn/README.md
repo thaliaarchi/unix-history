@@ -7,10 +7,10 @@ These issues are sourced from [scans](https://archive.org/details/auugnewsletter
 uploaded the Internet Archive by Warren Toomey.
 
 - Volume 1:
-  - 1\. AUUGN [October 1978](https://archive.org/details/auugnv01.1)
+  - 1\. AUUGN [October 1978](https://archive.org/details/auugnv01.1) (2/32)
   - 2\. AUUGN [December 1978–January 1979](https://archive.org/details/AUUGN_V01_2)
   - 3\. AUUGN [February–March 1979](https://archive.org/details/AUUGN_V01_3)
-  - 4\. AUUGN [April–May 1979](https://archive.org/details/AUUGN_V01_4)
+  - 4\. AUUGN [April–May 1979](https://archive.org/details/AUUGN_V01_4) (1/30)
   - 5\. AUUGN [June–July 1979](https://archive.org/details/AUUGN_V01_5)
   - 6\. AUUGN [August–September 1979](https://archive.org/details/AUUGN_V01_6)
 - Volume 2:
