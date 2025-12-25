@@ -99,6 +99,7 @@
 - V0 manual:
   - roff list formatting example: `Dennis_Tapes/dmr_tapes/ken/let/cv`
   - Follow approach of <https://github.com/TheBrokenPipe/kbman-reset>
+  - The suffix table from the s2 tape is the earliest
   - Continue reading tutorial: <https://manpages.bsd.lv/part1-1-1.html>
   - List manuals:
     - <https://people.freebsd.org/~bapt/pdfdocs/usd/NROFFTROFF_User%E2%80%99s_Manual.pdf>
@@ -114,7 +115,6 @@
   - Oral histories
   - Doug McIlroy retirement: <https://research.swtch.com/bell-labs>
   - Ohio LinuxFest 2009 audio recovery
-  - Perhaps Minutes in Seconds would be suited? <https://github.com/TheBrokenPipe/Minutes_In_Seconds>
 - List museums:
   - Computer History Museum
   - Interim Computer Museum: <https://icm.museum/>
