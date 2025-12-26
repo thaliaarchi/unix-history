@@ -10,7 +10,7 @@ members, and USENIX conference registrants.
 | February 1973    | 16 installs                                     | Third Edition manual     |
 | November 1973    | >20 installs                                    | Fourth Edition manual    |
 | June 1974        | >50 installs                                    | Fifth Edition manual     |
-| July 1974        | ~40 installs, 72 user                           | CACM July 1974 [^cacm74] |
+| July 1974        | ~40 installs, 72 users                          | CACM July 1974 [^cacm74] |
 | June 27, 1975    | [51 licensees, 55 installs](1975-06-27_ken.txt) | Ken's `distr/form.m`     |
 | July 3, 1975     | 11 BTL users?                                   | Ken's `let/unix.r`       |
 | July 16, 1975    | ≥49 licensees                                   | UNIX News July 16, 1975  |
