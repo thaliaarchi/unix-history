@@ -12,6 +12,8 @@ Sources:
   - ["Roff"](https://manpages.bsd.lv/history/roff71.low.pdf) \
     Douglas McIlroy, AT&T Bell Labs Technical Memorandum, 12 January 1971 \
     [[high quality scan](https://manpages.bsd.lv/history/roff71.high.pdf.gz)]
+- TODO: ["Roff Manual"](https://archive.org/details/roff_manual) \
+  archived by segaloco, dated 1970
 - [UNIX roff](https://manpages.bsd.lv/history.html#x1971):
   - "V2" roff binary from June 1972 in [s2-bits](https://www.tuhs.org/Archive/Distributions/Research/1972_stuff/s2-bits.tar.gz)
     tape (lookup table)

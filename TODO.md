@@ -101,6 +101,7 @@
   - Follow approach of <https://github.com/TheBrokenPipe/kbman-reset>
   - The suffix table from the s2 tape is the earliest
   - Continue reading tutorial: <https://manpages.bsd.lv/part1-1-1.html>
+  - Incorporate documentation: <https://archive.org/details/roff_manual>
   - List manuals:
     - <https://people.freebsd.org/~bapt/pdfdocs/usd/NROFFTROFF_User%E2%80%99s_Manual.pdf>
     - <https://telecomarchive.s3.us-east-2.amazonaws.com/docs/bsp-archive/Letters%20and%20Memos/CSTR/CSTR%2054.pdf>
