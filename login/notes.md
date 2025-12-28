@@ -64,7 +64,7 @@
 - 1978-02:
   - 1: Graphics is on the agenda for the NY meeting
 - 1978-03:
-  - 3: Western Electric takes over distribution of Lions' Commentary
+  - 2: Western Electric takes over distribution of Lions' Commentary
 - 1978-07:
   - 1: "The name of the committee shall be the USENIX** committee."
   - 2: "* UNIX is a trademark of Bell Laboratories, Ine. ** USENIX is not a
