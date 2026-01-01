@@ -200,6 +200,42 @@
   System Administrator, Public Health Research Institute
   ```
 
+- *The Times Index*
+
+  TODO: Finish searching "unix" in ["Times (London, England : 1931) -- Indexes -- Periodicals"](https://archive.org/search?query=subject%3A%22Times+%28London%2C+England+%3A+1931%29+--+Indexes+--+Periodicals%22)
+
+  - [*The Times Index*](https://archive.org/details/timesindex0000unse_l1f1?q=unix) \
+    January–December 1983
+
+    - "'Unix aims for UK micro market'" in *The Times*, 5 November 1983, pages 8
+      and 20f [page 237 "Computers, Software, Articles"]
+
+  - [*The Times Index*](https://archive.org/details/timesindex0000unse_m9o8?q=unix) \
+    January–December 1986
+
+    - Unix discussed in *The Sunday Times*, 24 August 1986, Special Report
+      article, page 53a [pages 21 "American Telephone and Telegraph" and 208
+      "Operating Systems"]
+    - "former ICL chief claims new set of conversion tools will take systems
+      written under IBM's mainframe operating environment and convert them for
+      Unix in a tenth of time take with ordinary manual methods" in *The Times*,
+      20 May 1986, page 32d [page 208 "Operating Systems"]
+
+  - [*The Times Index*](https://archive.org/details/timesindex0000unse_p3k4?q=unix) \
+    January–December 1999
+
+    - "IBM set to sell Linux operating system developed by Finnish student with
+      its corporate computer networks in threat to Microsoft Windows product" in
+      *The Times*, 20 February 1999, page 23a [page 299 "Operating systems"]
+    - "Microsoft criticised over plans to incorporate Windows Game Manager into
+      operating system software to restrict children's access to unsuitable
+      games" in *The Sunday Times*, 4 July 1999, pages 2 and 18a [page 299
+      "Operating systems"]
+    - "Govt Information Service which manages Queen's Website switches from
+      using Unix operating system to Linux" in *The Times*, 18 October 1999,
+      page 3c [page 299 "Operating systems", 434 "Internet and World Wide Web",
+      and 707 "Internet and World Wide Web, Access"]
+
 - [*A Statistical Examination of The Evolution of the UNIX System*](http://jsg.id.au/misc/Shamim_Sharfuddin_Pirzada-1988-PhD-Thesis.pdf) \
   Shamim Sharifuddin Pirzada \
   Imperial College of Science, Technology and Medicine, University of London \
