@@ -42,6 +42,55 @@ TODO: Search acquisition number [X7413.2015](https://www.computerhistory.org/col
   > 15 minutes of student work from University of Utah in the late 1970s. There
   > are some minor audio problems throughout the video.
 
+## Evans & Sutherland machines
+
+From [Organization: Evans & Sutherland Computer Corporation Organization](https://www.computerhistory.org/collections/catalog/search-catalog/search/organization:evans-sutherland-computer-corporation-organization/).
+
+- 102691276: ["Evans & Sutherland 330 graphics computer"](https://www.computerhistory.org/collections/catalog/102691276/) \
+  Evans & Sutherland Computer Corporation (Manufacturer) \
+  ca. 1982 (Made) \
+  Physical Object (Workstation)
+
+- 102691213: ["Line Drawing System 2 cabinet"](https://www.computerhistory.org/collections/catalog/102776515/) \
+  Evans & Sutherland Computer Corporation (Manufacturer) \
+  Physical Object (Workstation) \
+  Gift of Case Western University \
+  Acquisition number X540.84
+
+  > Printed on the bottom panel behind the front door is "LDS-2 PDP11
+  > INTERFACE".
+
+- 102716776: ["The PICTURE SYSTEM display"](https://www.computerhistory.org/collections/catalog/102716776/) \
+  Evans & Sutherland Computer Corporation (Manufacturer) \
+  Kratos (Original Equipment Manufacturer) \
+  Physical Object (CRT)
+
+  > This 19 in diagonal video monitor is viewed in portrait mode. The power
+  > switch and eight (8) adjusting control knobs are located on the front panel.
+  > There are two mounting hardware on each side. The missing panel in the back
+  > is replaced by a temporary wooded panel. There are four (4) B NC connectors
+  > for x, y & z axis, and unblank at back.
+
+- 102728491: ["Memory card"](https://www.computerhistory.org/collections/catalog/102728491/) \
+  Evans & Sutherland Computer Corporation (Manufacturer) \
+  Circa 1972 (Made) \
+  Physical Object
+
+  > Mounted on the board is an extraction panel, made of the same material as
+  > the board. "SHDR Slot 20" is handwritten on a white sticker on the front of
+  > the board. "Slot 20" is also handwritten on the solder side of the board.
+
+- X1044.90: ["Sutherland Head-Mounted Three-Dimensional Display"](https://www.computerhistory.org/collections/catalog/X1044.90/) \
+  Ivan Sutherland (Manufacturer) \
+  1968 (Made) \
+  Gift of Evans & Sutherland Computer Corporation \
+  Acquisition number X1044.90
+
+  > This device is the earliest head-mounted stereoscopic display and the
+  > earliest precursor to virtual reality goggles. Watch this CHM lecture by
+  > Sutherland and Sproul for the full story:
+  > https://www.computerhistory.org/collections/catalog/102639877
+
 ## Utah Teapot
 
 - X398.84: ["The Utah Teapot"](https://www.computerhistory.org/collections/catalog/X398.84/) \
