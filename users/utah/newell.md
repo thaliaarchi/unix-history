@@ -171,6 +171,18 @@ Folder 39: Martin E. Newell
 
   The first appearance of the Utah teapot <ref: Blinn email>
 
+  Renderings:
+  - Sutherland's Volkswagen: body, wheel, half body with wheels, whole body with
+    wheels (p.77), and with wheels turned (p.80)
+  - row of buildings (p.80)
+  - mesh for Bezier patch (p.82)
+  - Melitta jug with meshes and parametric lines (p.82)
+  - Melitta jug, cup and plate, spoon, and teapot defined using Bezier patches
+    (p.84)
+  - Melitta table setting (p.86)
+  - 361 chess pawns (p.87)
+  - carousel with Snoopy planes (p.88)
+
 - ["Modeling by Computer"](https://archive.org/details/cadsystemsprocee0000ifip/page/290/mode/2up) \
   Martin E. Newell and David C. Evans \
   IFIP W.G. 5.2 Conference on CAD Systems, Austin, Texas, February 1976

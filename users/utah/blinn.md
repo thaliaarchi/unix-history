@@ -72,7 +72,32 @@ TODO: Sources after September 1988 not reviewed. https://utah-primoprod.hosted.e
 
   Advisor: Martin Newell (p.8)
 
-  Has a teapot rendering, but no hardware specifics.
+  Renderings:
+  - orange peel and its texture (p.v)
+  - stationary points: saddle point, parabolic cylinder, local maximum, and
+    local minimum (p.23–24)
+  - Gourard and Phong shading (p.108)
+  - intersection errors due to linear Z interpolation (p.109) and linear
+    parametric interpolation (p.111)
+  - comparison of Phong and Torrance-Sparrow reflection distributions for
+    incident light at 30° (p.125) and 70° from normal (p.126)
+  - metallic (p.128) and non-metallic (p.129) surfaces for various light source
+    directions (p.128)
+  - sphere with specular texture and grid pattern (p.132)
+  - Melitta jug with specular texture and random pattern (p.132)
+  - objects made with normal vector perturbation: strawberry, Celtic knots on
+    spheres, log, moon, ring, Melitta teapot, raised letters on spheres
+    (p.137–138)
+  - objects with environment reflections: windows reflecting off of Melitta
+    teapot, earth and sun reflections on satellite (p.147)
+  - ideal low pass filter weighting function (p.151)
+  - Fourier window function (p.153)
+  - Bartlett window function (p.154)
+  - texture filtering with/without filtering and with/without interpolation
+    (p.158–159)
+  - normal vector perturbation filtering
+
+  No hardware specifics.
 
 - ["Scan Line Methods for Displaying Parametrically Defined Surfaces"](https://dl.acm.org/doi/10.1145/358808.358815) \
   Jeffrey M. Lane (Boeing Commercial Airplane Company),
