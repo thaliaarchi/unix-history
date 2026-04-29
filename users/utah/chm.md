@@ -277,6 +277,42 @@ From [Organization: Evans & Sutherland Computer Corporation Organization](https:
 
 ## Dextrous Hand
 
+- 102651866: ["UTAH, MIT DEXTROUS ROBOT HAND PROJECT"](https://www.computerhistory.org/collections/catalog/102651866/) \
+  Ken Salisbury (Author) \
+  Massachusetts Institute of Technology (MIT) (Publisher) \
+  Moving Image, DVCAM \
+  Circa 1986
+
+  > According to label, includes four sections: "1) Version 1 (finger), 2)
+  > Version 2 (hand), 3) Version 2 w/ PUMA 500 Remotizer, 4) Version 3 (Gold
+  > Hand)"
+- 102651867: ["UTAH, MIT DEXTROUS ROBOT HAND PROJECT"](https://www.computerhistory.org/collections/catalog/102651867/) \
+  Ken Salisbury (Author) \
+  Massachusetts Institute of Technology (MIT) (Publisher) \
+  Moving Image, Betacam SP \
+  Circa 1986
+
+  > According to label, includes four sections: "1) Version 1 (finger), 2)
+  > Version 2 (hand), 3) Version 2 w/ PUMA 500 Remotizer, 4) Version 3 (Gold
+  > Hand)"
+- 102651868: ["UTAH, MIT DEXTROUS ROBOT HAND PROJECT"](https://www.computerhistory.org/collections/catalog/102651868/) \
+  Ken Salisbury (Author) \
+  Massachusetts Institute of Technology (MIT) (Publisher) \
+  Moving Image, U-Matic \
+  Circa 1986
+
+  > According to label, includes four sections: "1) Version 1 (finger), 2)
+  > Version 2 (hand), 3) Version 2 w/ PUMA 500 Remotizer, 4) Version 3 (Gold
+  > Hand)"
+- 102703130: ["UTAH, MIT DEXTROUS ROBOT HAND PROJECT"](https://www.computerhistory.org/collections/catalog/102703130/) \
+  Ken Salisbury (Author) \
+  Massachusetts Institute of Technology (MIT) (Publisher) \
+  Moving Image, DVD \
+  Circa 1986
+
+  > According to label, includes four sections: "1) Version 1 (finger), 2)
+  > Version 2 (hand), 3) Version 2 w/ PUMA 500 Remotizer, 4) Version 3 (Gold
+  > Hand)"
 - 102693567: ["Robots - Utah/M.I.T. Dexterous Hand closeup"](https://www.computerhistory.org/collections/catalog/102693567/) \
   Photograph \
   Courtesy of Gwen Bell \
@@ -305,11 +341,45 @@ From [Organization: Evans & Sutherland Computer Corporation Organization](https:
   > This is an image of a cocktail glass superimposed on a purple and orange
   > checker board
 
+## ARPANET
+
+- 102639876: ["ARPANET HISTORY: ORIGINS OF THE INTERNET"](https://www.computerhistory.org/collections/catalog/102639876/) \
+  Lawrence G. Roberts \
+  Moving Image, VHS \
+  Sun Microsystems \
+  1994-02-22
+
+  > This video contains a lecture by Lawrence G. Roberts.
+
+## Fairchild Utah memory project
+
+Fairchild had a fab in Utah as of [1997](https://www.deseret.com/1997/1/28/19291969/national-semiconductor-sells-utah-plant/).
+
+- 102704112: ["DESIGN DRAWINGS FOR UTAH MEMORY PROJECT"](https://www.computerhistory.org/collections/catalog/102704112/) \
+  Fairchild Semiconductor \
+  Document \
+  1970
+
+  > Diazo blueline and brown prints of design drawings for the Utah memory project. \
+  > Includes: Utah control board - Assy (brownprint only) (AA42006A); \
+  > Utah memory board - Assy. (blueline and brownprint) (AA42005A); \
+  > Utah memory proj. - fixture -routing, P.C. brd. (blueline and brownprint) (TL42004); \
+  > Utah memory proj. - P.C. brd. specification (blueline and brownprint) (SC42003)
+
 ## Non-Utah
 
 Searched [unix + agreement](https://www.computerhistory.org/collections/catalog/search-catalog/search/keyword:unix-agreement/)
 and [unix + license](https://www.computerhistory.org/collections/catalog/search-catalog/search/keyword:unix-license/).
 
+- 102740424: ["DEC COMPUTER MUSEUM 1971 TO 1979 OPENING"](https://www.computerhistory.org/collections/catalog/102740424/) \
+  Guide to the Gordon Bell Collection of DEC Documents \
+  Memorandum, Correspondence \
+  1971-1979 (Made)
+
+  > Memos and emails on the formation of the DEC Computer Museum, which opened
+  > in Marlborough, MA in 1979.
+
+  And also later of the Boston Computer Museum and CHM.
 - 102785108: ["Unix Book II"](https://www.computerhistory.org/collections/catalog/102785108/) \
   Dennis M. Ritchie (Author) \
   Program Listing, undated \
