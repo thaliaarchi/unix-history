@@ -183,6 +183,26 @@ Folder 39: Martin E. Newell
   - 361 chess pawns (p.87)
   - carousel with Snoopy planes (p.88)
 
+  > The frame buffer used in the implementation of the priority algorithm
+  > assembles the image in terms of individual picture elements. Two versions
+  > were used, one giving 512 x 512 picture elements and the other giving 1024 x
+  > 1024 picture elements. Even with only 8 bits per picture element to store
+  > intensity the amount of memory this represents is larger than can be
+  > accommodated in the main memory of the computer being used, a 64K PDP-lO.
+  > Consequently, the frame buffer was implemented on disk and is paged into
+  > main memory for use. [p.71]
+
+  > The hardware Watkins processor and display devices used are connected to a
+  > single-user PDP-lO computer and therefore actual image generation is carried
+  > out on that machine, using private disk packs for the frame buffer. However,
+  > the generation of the priority ordered list of objects does not use any
+  > special hardware and so is normally carried out on a time-shared PDP-lO,
+  > although it can also run on the single user machine. This has meant
+  > segmenting the system into two phases, the first one to generate the
+  > priority ordered list, and the second to generate the image. This
+  > subdivision has proved fairly convenient, although it necessitates saving
+  > the priority list between phases. [p.75]
+
 - ["Modeling by Computer"](https://archive.org/details/cadsystemsprocee0000ifip/page/290/mode/2up) \
   Martin E. Newell and David C. Evans \
   IFIP W.G. 5.2 Conference on CAD Systems, Austin, Texas, February 1976
