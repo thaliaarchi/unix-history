@@ -19,6 +19,14 @@
   University of Utah, John and Marcia Price College of Engineering,
   24 March 2023
 
+  - "The Teapot Again? Why??", Martin Newell [41:50]
+
+    - The standard before then was to represent your scene as a huge pile of
+      triangles. He replaced that with algorithmic representations of objects
+      where objects are converted into triangles when needed. [46:40]
+    - Joined Lynn Conway's group in VLSI design at Xerox PARC after 1977. [50:03]
+    - Only a few signed Utah teapots exist. [58:26]
+
   TODO: Watch
 
 - ["Kahlert School of Computing History"](https://www.youtube.com/watch?v=123GxSEt7bg)
