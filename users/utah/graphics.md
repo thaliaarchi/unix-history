@@ -27,6 +27,12 @@
     - Joined Lynn Conway's group in VLSI design at Xerox PARC after 1977. [50:03]
     - Only a few signed Utah teapots exist. [58:26]
 
+  - "The Bumpy Road to Blinn Shading", Jim Blinn [1:00:23]
+
+    - Space shuttle and teapot rendering with Warnock's algorithm on framebuffer
+      [1:02:04]
+    - The teapot with windows reflects the windows from the room.
+
   TODO: Watch
 
 - ["Kahlert School of Computing History"](https://www.youtube.com/watch?v=123GxSEt7bg)
