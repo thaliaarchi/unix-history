@@ -1,5 +1,79 @@
 # General sources for early UNIX licensees
 
+- Notes for a talk on UNIX \
+  [Dennis_Tapes](https://www.tuhs.org/Archive/Applications/Dennis_Tapes/)/dmr/notes{1,2} \
+  Dennis Ritchie \
+  modified 15 March 1972
+
+  [Dennis' description](https://www.tuhs.org/Archive/Applications/Dennis_Tapes/README):
+
+  > notes1 and notes2 are evidently notes I made for myself for a talk on unix.
+  > They are quite interesting.
+
+  The system requirements and drivers:
+
+  > UNIX is running on at least five PDP-11, no two with the same complement of
+  > hardware. The slide shows the minimal complement possible.
+  >
+  > The basic requirements above a PDP11 processor are
+  > - 12 K core
+  > - some kind of disk
+  > - a clock
+  > - an EAE (extended arithmetic element, for multiply/divide
+  > - Some sort of tape, to provide for loading the system software and saving
+  >   the disk
+  >
+  > Above the minimum, it is of course desirable to have more core, lots of
+  > disk, communications interfaces, paper tape reader, and a ROM containing a
+  > bootload program.
+  >
+  > A summary of the devices which have been attached to actual UNIX systems
+  > includes:
+  > - DC-11 communications interfaces attached by DATAPHONE to 10, 15, or 30 cps
+  >   ASCII terminals (not DM-11 as yet)
+  > - RF fixed head disk (256K words)
+  > - RK moving head disk (1.2M words)
+  > - RP moving head disk (2314-style, 10 M words)
+  > - paper tape reader/punch
+  > - 201 DATAPHONE interface
+  > - ACU on DATAPHONE
+  > - DECtape
+  > - Magtape (9-track)
+  > - card reader
+  > - line printer
+
+  The root is on an RF disk and /usr is on an RK or RP disk:
+
+  > In particular, in our own version of the system, there is a directory "/usr"
+  > which contains all user’s directories, and which is stored on a relatively
+  > large, but slow moving head disk, while the othe files are on the fast but
+  > small fixedhead disk. One of the most interesting notions in the file system
+  > is the special file.
+
+  They were using a PDP-11/20, not yet a PDP-11/45:
+
+  > Moreover, the 11-20 has no hardware protection features: any user can at any
+  > time crash the system by executing a program with any of an infinite variety
+  > of bugs. This fact is probably most important during program development.
+  >
+  > The PDP11/45 essentially solves both of these problems, in a very
+  > cost-effective way-- it is hardly more expensive than an 11/20 when the
+  > total system cost is considered. It has hardware segmentation and 256K of
+  > core can be attached. Since we will be one of the first to get and 11/45,
+  > there will definitely be a UNIX on it very soon after it arrives. (however
+  > the date is still uncertain.)
+
+  By the mod time, this would be after the V1 manual, though they apparently
+  didn't consider it completely documented:
+
+  > Perhaps more important is the fact that UNIX is essentially a two-man
+  > operation at present. […] Documentation exists, but never seems to be
+  > complete.
+  >
+  > There have been rumblings from certain departments about taking over the
+  > maintenance of UNIX for the public (i.e., other Labs users) but I cannot
+  > promise anything.
+
 - "oldest surviving Unix machine?"
   [[Google Groups](https://groups.google.com/g/net.unix-wizards/c/XX9wwC2PMFk/m/ngH-OcxV1SoJ),
   [Usenet Archives](https://www.usenetarchives.com/view.php?id=net.unix-wizards&mid=PDUyOTlAdXR6b28uVVVDUD4)] \
