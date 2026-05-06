@@ -236,7 +236,7 @@
       page 3c [page 299 "Operating systems", 434 "Internet and World Wide Web",
       and 707 "Internet and World Wide Web, Access"]
 
-- [*A Statistical Examination of The Evolution of the UNIX System*](http://jsg.id.au/misc/Shamim_Sharfuddin_Pirzada-1988-PhD-Thesis.pdf) \
+- [*A Statistical Examination of The Evolution of the UNIX System*](https://www.tuhs.org/Archive/Documentation/Theses/Shamim_Sharfuddin_Pirzada-1988-PhD-Thesis.pdf) \
   Shamim Sharifuddin Pirzada \
   Imperial College of Science, Technology and Medicine, University of London \
   Doctor of Philosophy thesis, September 1988
