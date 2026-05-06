@@ -7,7 +7,9 @@
   - 9: OMSI
   - 10: Martin Newell
 - 1976-02-10:
+  - 1: `tp` rewritten to C and `stp` enhanced `tp`
   - 7b: `foo` example by Ken
+  - 9a: `Qdump` by UCLA for dumping multiple disk images onto tape
 - 1976-03-19:
   - 1: Mini-UNIX and LSI-UNIX
   - 2: a UNIXed version of MACRO (PDP-11 assembler) from JHU Electrical
