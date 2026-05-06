@@ -454,6 +454,9 @@
 
   TODO: Read this.
 
+  > The 11/40 had a GT-40 display: the driver for it was one of the first
+  > “custom hacks” at U of T [Toronto]. [page 123]
+
 - ["Unix at 25"](https://web.archive.org/web/19961220135639/http://www.byte.com/art/9410/sec8/art3.htm) \
   Peter H. Salus \
   BYTE, October 1996
