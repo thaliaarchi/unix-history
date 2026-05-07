@@ -623,6 +623,37 @@
   - KKK=
   - KSJ=
 
+- ["UNIX Methods and Concepts: Putting the Genie Back in the Bottle"](https://web.archive.org/web/20060925222039/http://www.groklaw.net/articlebasic.php?story=20060616172103795) \
+  Peter H. Salus and Warren K. Toomey \
+  Groklaw, 16 June 2006
+
+  > What the requesters received, from Ken Thompson and (later) from Irma Biren,
+  > was a 10" tape or a disk pack with the bits of 3rd Edition UNIX, or 4th, or
+  > 5th, or 6th. All the bits, not what we'd call a binary version, but the
+  > source. And many recipients just printed it out. The disk pack frequently
+  > came with a handwritten note: "Here's your RK05 , Love Ken"; on the tape
+  > that Lou Katz received, the note read: "Here's the tape, if it craps out,
+  > I'll cut another."
+
+  > It is important to note that UNIX was never a static system, and the
+  > userbase found it immensely useful to have the source code, so that the
+  > system could be fixed, and enhanced to suit the users at each individual
+  > site. Examples include the AUSAM system, developed at UNSW in Australia, and
+  > the early BSDs. The changes made by the users often found their way back
+  > into the main UNIX development tree. Significant portions of AUSAM code were
+  > still visible in System V in the late 1980s.
+
+  > Then there is the case of the "50 bugs" tape. By the late 1970s, AT&T had
+  > started to impose more restrictive conditions in its UNIX licenses, stifling
+  > the exchange of UNIX code between licensees. The licenses also did not
+  > include the ability to obtain bug fixes from AT&T. The researchers at Bell
+  > Labs had found and fixed a significant number of bugs in UNIX, and Ken
+  > Thompson had tried to get the patches out, but the lawyers kept stalling
+  > him. Eventually, a tape with the patches was "found" by Lou Katz and Reidar
+  > Bornholdt on Mountain Avenue (the road leading to the Labs). Ken also
+  > "inadvertently" left an image of the tape at the University of Illinois,
+  > when visiting on his way to Berkeley, and another at Berkeley.
+
 - Ohio LinuxFest 2009, "40 years of UNIX" \
   Columbus, Ohio, 25 and 26 September 2009 \
   [[audio](https://archive.org/details/OhioLinuxfest2009)]
