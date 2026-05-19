@@ -50,12 +50,13 @@ record of Paul associated with UNIX, it is unlikely he acquired a distribution,
 probably because it would not work with his software.
 
 Was he connected to Martin Newell? Probably not. The mass spectrometry
-computer(s) were in the Department of Chemistry's Mass Spectrometry Center. This
-wasn't a general facility like the University of Utah Computer Center, so
-crossover seems unlikely. Martin was setting up a new graphics facility based on
-a PDP-11/45 from 1973 to 1975 [Newell vita 1975]. The PDP-11/45 Paul mentioned
-to Dennis is not identified as part of the mass spectroscopy project, but it
-seems unlikely he was describing this new machine.
+computer(s) were in the Department of Chemistry's Mass Spectrometry Center
+[Futrell 1975], which was evidently in the main chemistry building [Futrell
+2012]. This wasn't a general facility like the University of Utah Computer
+Center, so crossover seems unlikely. Martin was setting up a new graphics
+facility based on a PDP-11/45 from 1973 to 1975 [Newell vita 1975]. The
+PDP-11/45 Paul mentioned to Dennis is not identified as part of the mass
+spectroscopy project, but it seems unlikely he was describing this new machine.
 
 ## Sources
 
@@ -263,3 +264,148 @@ seems unlikely he was describing this new machine.
   > parents, Ivan and Paulleen Abegglen, St. Anthony, Idaho; brother, Donn
   > Abegglen, Tempe, Arizona; two sisters, Julie Ann Hill, Idaho Falls, Idaho;
   > and Diane Abegglen, Salt Lake City.
+
+- [Oral history interview with Jean H. Futrell](https://digital.sciencehistory.org/works/vm40xs61n) \
+  28 and 29 October 2012 \
+  Interviewed by Michael A. Grayson
+
+  While at the University of Utah, Futrell led research in mass spectroscopy,
+  among many other things. He started out on the main campus. His work with the
+  CH7 and MS30 mass spectrometers that Abegglen was involved with seems to have
+  been during this period. He then moved his labs to to Research Park, being the
+  only chemistry labs at Research Park, and did various research for chemistry,
+  medicine, and engineering. Then he moved back to the main chemistry building
+  in the wing with physical chemists, doing more fundamental experiments.
+
+  The university was rapidly hiring and expanding Research Park, in order to
+  improve its research reputation. He does not mention computer graphics or
+  Evans & Sutherland.
+
+  Relationship with Bendix:
+
+  > By the way, the time-of-flight mass spectrometer that I bought [at ARL] had
+  > an ion source designed by Joe Franklin for them to do a chemical ionization,
+  > and I had bought it, and the extra pumps and so on, and it didn’t work,
+  > either. So, I had to learn more than I wanted to know about time-of-flight
+  > mass spectrometers, and I learned how to make it work, and this got me into
+  > a very close relationship with Bendix Corporation for time-of-flight mass
+  > spectrometers. [This becomes significant after I move to Utah. My first
+  > consulting job as an academic was with Bendix.]
+
+  On University of Utah hiring culture:
+
+  > And so anyhow, I was leaving a lot of things behind, [and there were] a lot
+  > of unknowns, uncertainties. But intuitively I knew it was what I wanted to
+  > do. I wanted to move back to the West. It was not California, but it was
+  > getting back in the West, that had some appeal to me. And having met Henry
+  > Eyring and some of his people, being keenly interested in that theoretical
+  > framework, and doing experiments that relate directly to those theoretical
+  > predictions, all seemed to suggest that it made sense to do that.
+  >
+  > And so I decided to make the jump, and become an experimentalist working on
+  > some of the central themes [that] Eyring, Wahrhaftig, and other folks, [J.]
+  > Calvin Giddings, gas chromatography, some really good people [cared about].
+  > I was the start of the new expansion of the University of Utah, where they
+  > had resolved, for whatever reason, to stop hiring Mormons [to fill their
+  > vacancies].
+  >
+  > So, their new president, [James C. Fletcher], had been the head of the Jet
+  > Propulsion Laboratory—a physicist—and so he was the new president of the
+  > University. He had completely new ideas, okay? [Fletcher] wanted
+  > [well-meaning faculty search committees to stop using the appeal of residing
+  > near the Mother Church as a recruiting tool]. He wanted to hire the very
+  > best people you could find, and he [knew how CalTech and its associated Jet
+  > Propulsion Laboratory operated in Pasadena]. And he wanted Utah to [proceed]
+  > in that philosophical framework. And so he said, “You hire the best people.
+  > I don’t care what they cost. Hire the best people, and I want them to be
+  > doing something that’s of current scientific interest, and I can do the
+  > math, and I can explain it to the legislature, and everyone else, that
+  > someone who comes in and is funded to do research will bring in the
+  > students, that he will build the reputation of the University, and every
+  > dollar brought in from federal sources will be spent [in our state] at least
+  > five times over and they will be providing revenues to the state of Utah,
+  > and I can persuade them to put funds into the state university.” Well, that
+  > was the hang-up. That’s the hard part, is convincing them to do the final
+  > step of investing in the state university. That was his mantra, and so I was
+  > kind of swept in in that timeframe. And as I said, I had three funded
+  > research grants by the time I showed up [in between]. I went from
+  > Wright-Patterson to Berkeley [for the summer] to have a crash course in
+  > learning to be a [professor and my initial grant writing effort proved
+  > superbly successful].
+
+  About the CH-7 and MS30 mass spectrometers, presumably the same ones used in
+  the project Abegglen was involved in:
+
+  > We had acquired by this time a [MAT] CH-7 mass spectrometer, okay? So,
+  > Marvin and I decided to make CH7+. Why not? It would be really neat. […] And
+  > I used the CH-7 to publish the […] first paper and one of the very few
+  > papers that I published on sequencing of peptides, and I was the first
+  > person to do it by chemical ionization mass spectrometry18.
+
+  > So, we did the MS30, which was a parallel beam oddity mass spectrometer, and
+  > so we built a chemical ionization source for one beam, and the electron
+  > impact source for the other, and so we had our calibration spectrum on one
+  > side, and the chemical ionization spectrum, whatever it was, on the other
+  > side. We could leak samples into both sources and get those results.
+  > Simultaneously. That was kind of interesting. It was obvious that putting a
+  > computer on the mass spectrometer was an interesting and important thing to
+  > do. I made a mistake of deploying too many resources to do something that
+  > was [so] obvious, that other people would work [very hard on the problem].
+  > But we were among the first, maybe the first, to actually—I think the
+  > first—to actually put a computer on a quadrupole mass filter mass
+  > spectrometer. I got involved with Bob [Robert E.] Finnigan, when he was at
+  > SRI [Stanford Research Institute], before he branched off to form his own
+  > company.19 And I actually had acquired two quadrupoles, one at
+  > Wright-Patterson and one at Utah, from Finnigan, when they were still made
+  > at Stanford Research Institute. And I did a number of experiments with this.
+  > […] IBM [introduced] a laboratory computer, and I’ve forgotten what they
+  > called it.
+
+  Moved to Research Park:
+
+  > Anyhow, there were several other things that we did. I got sort of
+  > involved/intrigued by some let’s say practical side experiments, and got
+  > involved in the NSF-funded center at Utah called the Flammability Research
+  > Center. With this drop-off in funding, drop-off in support for students,
+  > [and since] I had a dual appointment in engineering as well as chemistry, I
+  > moved to [University of Utah] Research Park to be head of the analytical
+  > part of this NSF-funded center to do fire toxicology.
+
+  Chemistry, medicine, and engineering appointments at Utah:
+
+  > And I got involved in artificial heart projects, and other things…[Utah’s]
+  > artificial eye [project]. So, all kinds of experiments where a little bit of
+  > knowledge of physics, and chemistry, and mass spectrometry can significantly
+  > affect biomedical […] experiments. And so, you know, [with] a dual
+  > appointment, license to wear a gown and walk through some of those rooms.
+  > […] I had then chemistry, medicine, and engineering appointments.
+
+  Move back to the main campus:
+
+  > And my lab was no longer on campus. And I decided to sort of go back to my
+  > roots and go back to doing more fundamental experiments, collision-induced
+  > dissociation, this time to understand from a very fundamental viewpoint how
+  > it works, and to do it for larger molecules. […] [And] reestablish my
+  > research on the main campus back in the Department of Chemistry.
+
+  He was the only example in chemistry at Research Park:
+
+  > And when I went there, they were hiring so many people, they were planning
+  > to expand into Research Park, where my research labs were located, but they
+  > never did, at least in terms of chemistry, and so I was an isolated example
+  > there. And so, I insisted in coming back into the main chemistry building
+  > and back into the wing physical chemists were located, and so on. I was sort
+  > of getting back into that and getting research grants to build a new mass
+  > spectrometer, having a double focusing first-stage instrument to then
+  > collide in a molecular beam sense with larger molecules, and anything that
+  > we chose, actually, to look at the collision-induced dynamics, what are the
+  > scattering angles, what are the products, what are their translational
+  > energies, and so on. So, a very fundamental study of collision-induced
+  > dynamics of the MSMS tandem mass spectrometry experiment. We were going to
+  > use everything we had learned.
+
+  Move to Delaware:
+
+  > And so, moved across the country [to the University of Delaware]. […] And
+  > one of the moving trucks turned over on the Pennsylvania Turnpike and
+  > destroyed the tandem mass spectrometer that we had built.
