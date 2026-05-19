@@ -1,0 +1,319 @@
+Thread: Thalia Archibald
+Subject: UNIX V4 at the University of Utah
+Dates: 18-19 Dec 2025
+
+---
+From: Thalia Archibald
+Date: Thu, 18 Dec 2025 06:35:03 -0800
+Subject: UNIX V4 at the University of Utah
+To: Martin Newell, Jim Blinn
+
+Hello Martin and Jim,
+
+I’m a PhD student at the U, researching in compiler verification, and I’m very
+interested in retrocomputing and admire your foundational work. Since the UNIX
+V4 tape was announced, I’ve been digging through digital and physical archives,
+trying to find any context for the tape. I’ll be among the small group
+delivering the tape to the Computer History Museum tomorrow and am writing an
+article about my research.
+
+Rob Ricci forwarded me your thread about the UNIX V4 tape and, if you don’t
+mind, I have many follow-up questions. Apologies for the barrage of questions :)
+
+
+1. Did you attend the October 1973 Symposium on Operating System Principles in
+New York? The first paper on UNIX outside of Bell Labs was published there and
+the initial wave of license requests followed shortly thereafter.
+
+2. Martin, according to your faculty file (attached, p.2), you attended the June
+1973 National Computer Conference in New York and the July 1973 Computer
+Simulation Conference in Montréal. Could there have possibly been talk of UNIX
+there?
+
+3. Did you know Paul C. Abegglen from the University of Utah Chemistry
+Department? He wrote a letter to Dennis Ritchie on 21 November 1973 requesting a
+copy of UNIX to be used on a PDP-11/45 or /20.
+   https://github.com/thaliaarchi/unix-history/blob/main/dmr/lett8
+
+4. Did Chemistry and Computer Science share those PDP-11s?
+
+On 10 November 2025, Martin Newell wrote:
+> When I went to the U at the end of 1972 I came as a Research Associate and
+> didn't enroll in the PhD program until later in 1973.  In that role I was
+> responsible for the development and maintenance of various pieces of equipment
+> in the graphics lab.  I don't recall when we took possesion of the PDP-11, but I
+> do recall working with Evans and Sutherland on designing and building the first
+> random access video frame store for the PDP-11.  I believe the PDP-11 ran an
+> early version of Unix, so it would make sense if I was involved with acquiring
+> versions of Unix.  When Jim Blinn came to Utah, in 1974 I think, one of his
+> first tasks was to develop software that made use of the PDP-11 and E&S frame
+> store to create synthetic images.
+
+
+5. Was this “random access video frame store” the E&S Picture System 1? You’re
+saying that you remember using UNIX on the PDP-11 that drove a PS-1?
+
+6. In your faculty file (p.9), you write that you were setting up the new
+graphics facility during 1973-1975, based on a PDP-11/45 with “a dynamic line
+drawing system and a solid state picture memory”. So UNIX was a part of this?
+
+7. According to your faculty file (p.9), you had a staff of 2 programmers and 1
+maintenance engineer for the graphics facility. Who were they?
+
+8. A contract between the U and E&S, proposed on 9 August 1973 (attached) and
+completed on 30 October 1975 (attached), describes the U (Martin) creating basic
+user software for the Frame Buffer and Picture System, running under a PDP-11/45
+which interfaces with the timeshared PDP-10 that’s on the ARPANET. Is this the
+same project?
+
+9. Was this graphics lab the room in the MEB adjacent to the machine room, with
+the rear-projection wall for previewing renders?
+
+10. We found this letter from Ken Thompson to you dated 31 May 1974, apologizing
+for delay in delivering UNIX due to running out of copies of documentation. Does
+this ring a bell?
+   https://archive.org/details/thompson_to_newell_1974-05-31
+
+11. Was "Texture and Reflection in Computer Generated Images” in July 1976 the
+first use of the Utah Teapot?
+   https://dl.acm.org/doi/pdf/10.1145/360349.360353
+
+12. Do you know a more precise date of when you modeled the teapot? The Computer
+History Museum records that your original drawings are circa 1975.
+   https://www.computerhistory.org/collections/catalog/102695462/
+
+13. Was there a room in the MEB with a magnetic tape rack? Where? I’m guessing
+that the tape would have been stored somewhere like this and later found by an
+OS researcher while disposing of the obsolete tapes.
+
+14. The first use I’ve found of UNIX by E&S was a (first-party?) UNIX driver for
+the E&S Picture System 2 by Jim Clark before October 1978 and a UNIX driver for
+the PS-2 by Tom Ferrin at Berkeley circa 1976-1980. Do you know anything about
+this?
+
+15. Jim, do you know how NYIT came to be using UNIX? You said they were using
+UNIX in summer 1976 when you visited. That seems rather early, as the first
+SIGGRAPH papers mentioning UNIX were from Bell Labs Holmdel in 1975 and 1976,
+then from CMU, Nijmegen, and Berkeley in 1977.
+   https://github.com/thaliaarchi/unix-history/blob/main/users/graphics.md
+
+
+Thank you so much for any insight you can give! And I wish you a happy holidays!
+
+Thanks,
+Thalia Archibald
+
+[martin_newell.pdf] [contract_proposal_1973-08-09.pdf] [contract_completion_1975-10-30.txt]
+
+---
+From: Jim Blinn
+Subject: RE: UNIX V4 at the University of Utah
+Date: Thu, 18 Dec 2025 21:03:15 -0800
+
+Hi Thalia
+I will be happy to answer any questions, that is, those that i actually have answers to ☺
+
+I don’t know if you got my response email to an earlier question. Here’s a copy below if not.
+The punchline is that I never encountered Unix at Utah. The frame buffer and PDP11 used DECs operating system.
+Just as an addition to this email was my impression that the Unix file system (as used in 1976 at NYIT) was very fragile. I recall our colleague Christie Barton spending much time “repairing I-nodes”
+
+Also about some  questions below:
+The PDP11 with the frame buffer had no electronic connection to the PDP10 as i remember. I did use the PDP10 for email and got some data from Nelson Max at Bowling Green through this email. I believe i transferred that data to the PDP11 using a magnetic tape, also known as “sneaker net”.
+
+You can probably get more info on the usage of Unix at NYIT from either Ed Catmull or Alvy Ray Smith. I can probably put you in touch with them. Unix was definitely in use there the summer of 1976 when i visited. I wrote up my memories of that summer in an IEEE article which i can dig up.
+
+The PDP11 had an E&S Picture System 2, not a PS-1. The “random access picture store” was the frame buffer. The PS-2 was a separate device that only did line drawings with a different calligraphic display. It had hardware to do matrix multiplication to do real time 3D line drawings. Unix was, as i mentioned, not involved with this particular hardware at Utah.
+
+The first use of the Newell teapot was in Martin’s thesis. The Texture and Reflection paper was after that, but was more widely distributed so helped introduce the teapot to a larger audience.
+
+I don’t recall any rear-projection wall in the machine room. Just the monitors to see the images.
+
+One of the staff of maintance/programmers was Duane Palyka.
+
+
+Here's what i remember.
+>
+> When i got to Utah in September 1974 the frame buffer was still being
+> debugged on the PDP11 by Jim Kajiya. The operating system was whatever
+> DEC distributed with the hardware, i believe it was just called DOS
+> (nothing to do with the PC DOS system) for "Disk Operating System".
+> The main programming language was Fortran. The operating system was
+> fairly simple and did not even use protected mode. That made it easy
+> to access the new hardware though. Sometime over the next year the
+> system was upgraded to RSX-11M, DECs protected mode system that
+> required special drivers to be installed to access the frame buffer. I
+> never saw Unix used on the machine. The first time i saw Unix was the
+> summer of 1976 when i visited New York Institute of Technology and
+> used Unix and C there. But I never used Unix or C at Utah. I was
+> somewhat unimpressed with Unix at the time because it was so flakey.
+> It couldn't handle magnetic tapes properly without crashing the
+> machine, and the C compiler had a bug that caused it to generate bad
+> binaries in some cases. It had to do with the PDP11 short jump
+> instruction being used when it shouldn't have been. But i found out later that that was really the early days of Unix so it was still pretty raw.
+
+
+
+Web site:   JimBlinn.com
+
+---
+From: Thalia Archibald
+Subject: Re: RE: UNIX V4 at the University of Utah
+Date: Fri, 18 Dec 2025 21:12:27 -0800
+
+Thank you! I’m traveling, so I’ll be brief, but this is great. I was wondering about the connection between the PDP-10 and the 11 just after I wrote that.
+
+When I first read your emails to Rob, I thought you both said you didn’t remember UNIX at Utah, but when I re-read them yesterday, I saw Martin said he thought he remembered using UNIX at the U. So my research had been assuming the tape was never used.
+
+Thalia
+
+---
+From: Jim Blinn
+Subject: RE: RE: UNIX V4 at the University of Utah
+Date: Fri, 19 Dec 2025 04:22:22 -0800
+
+Ha. I just ran across this on YouTube. It’s becoming a media event
+
+University of Utah team discovers rare computer relic - YouTube
+
+
+
+Web site:   JimBlinn.com
+
+---
+From: Thalia Archibald
+Subject: Re: UNIX V4 at the University of Utah
+Date: Fri, 19 Dec 2025 08:13:11 -0800
+
+Yeah! I’ve been keeping track and count 52 news articles and social media posts!
+    https://github.com/thaliaarchi/unix-history/blob/main/users/utah/v4.md#News
+
+I’m on the left in the group photo at 1:49 of that video. Jonathon Duerig, his
+wife, and I are delivering the tape to the Computer History Museum in three
+hours. A news station will be here and we’re coordinating again with one in
+Utah.
+
+Al Kossow will be recovering the tape by digitizing the full analog waveform and
+analyzing it offline.
+    https://oldbytes.space/@bitsavers/115505135441862982
+
+I’ll be interviewed about my research, so I’ve printed out my best sources to
+show (attached photo). You’re, of course, familiar with the teapot, but I’ve
+also got UNIX software agreements from four early universities that show what
+ours would have been, the first issue of UNIX News from July 30 1975 with Martin
+listed among the licensees, a letter from Ken Thompson to Martin, and early UNIX
+work at Utah. It’s been a very fun month, finding these. I’ve searched the David
+C. Evans papers in Special Collections, the historical faculty files in the
+University Archives, hundreds of digitized sources, and requested documents from
+a couple of other universities that were early licensees. All of the items I’ve
+scanned myself and several I’ve received from archives are uploaded here:
+    https://archive.org/details/@archibits
+
+Thalia
+
+[IMG_3403.jpeg]
+
+---
+From: Martin Newell
+Subject: Re: UNIX V4 at the University of Utah
+Date: Fri, 19 Dec 2025 17:47:35 +0000
+
+This is all quite intriguing.  Sorry to be slow responding, I have been travelling the past several weeks, and am off again tomorrow, so I haven't had a chance to think hard about your questions.  It is not easy recalling events from 50 years ago, but I have responded to your questions below to the best of my recollections. After Christmas I will dig through the files I have from Utah to see if there is any relevant information there.
+Thank you for sending some of the documents and information you have uncovered.  Interesting reading.
+I wish you the best in retrieving Unix from the tape.  I would love to be kept informed about your progress.
+Martin
+
+----
+
+1. Did you attend the October 1973 Symposium on Operating System Principles in
+New York? The first paper on UNIX outside of Bell Labs was published there and
+the initial wave of license requests followed shortly thereafter.
+--I do not think so.
+
+2. Martin, according to your faculty file (attached, p.2), you attended the June
+1973 National Computer Conference in New York and the July 1973 Computer
+Simulation Conference in Montréal. Could there have possibly been talk of UNIX
+there?
+--I have been unable to recall any details about those meetings.
+
+3. Did you know Paul C. Abegglen from the University of Utah Chemistry
+Department? He wrote a letter to Dennis Ritchie on 21 November 1973 requesting a
+copy of UNIX to be used on a PDP-11/45 or /20.
+https://github.com/thaliaarchi/unix-history/blob/main/dmr/lett8
+-- I recognize the name, but nothing else.
+
+4. Did Chemistry and Computer Science share those PDP-11s?
+-- I do not recall working with the Chemistry department
+
+On 10 November 2025, Martin Newell wrote:
+> When I went to the U at the end of 1972 I came as a Research Associate and
+> didn't enroll in the PhD program until later in 1973. In that role I was
+> responsible for the development and maintenance of various pieces of equipment
+> in the graphics lab. I don't recall when we took possesion of the PDP-11, but I
+> do recall working with Evans and Sutherland on designing and building the first
+> random access video frame store for the PDP-11. I believe the PDP-11 ran an
+> early version of Unix, so it would make sense if I was involved with acquiring
+> versions of Unix. When Jim Blinn came to Utah, in 1974 I think, one of his
+> first tasks was to develop software that made use of the PDP-11 and E&S frame
+> store to create synthetic images.
+-- Since reading Jim's response, in which he said the PDP-11 he used did not run Unix, I defer to his knowledge of the situation.
+
+
+5. Was this “random access video frame store” the E&S Picture System 1? You’re
+saying that you remember using UNIX on the PDP-11 that drove a PS-1?
+-- Again, I could easily be mistaken in my comment about using Unix on the PDP-11
+
+6. In your faculty file (p.9), you write that you were setting up the new
+graphics facility during 1973-1975, based on a PDP-11/45 with “a dynamic line
+drawing system and a solid state picture memory”. So UNIX was a part of this?
+-- ditto.  Part of my confusion results from the fact that I worked closely with Unix in a company I was at a few years after leaving Utah, and it is easy to mix up memories from that far back.
+
+7. According to your faculty file (p.9), you had a staff of 2 programmers and 1
+maintenance engineer for the graphics facility. Who were they?
+-- Jim's response reminds me of Duane Palyka.  I can recall one other person, but his name has not yet emerged from the mist.
+
+8. A contract between the U and E&S, proposed on 9 August 1973 (attached) and
+completed on 30 October 1975 (attached), describes the U (Martin) creating basic
+user software for the Frame Buffer and Picture System, running under a PDP-11/45
+which interfaces with the timeshared PDP-10 that’s on the ARPANET. Is this the
+same project?
+-- That would certainly make sense, but I can't definitively recall that.
+
+9. Was this graphics lab the room in the MEB adjacent to the machine room, with
+the rear-projection wall for previewing renders?
+-- I agree with Jim, I do not recall any rear-projection facilities.
+
+10. We found this letter from Ken Thompson to you dated 31 May 1974, apologizing
+for delay in delivering UNIX due to running out of copies of documentation. Does
+this ring a bell?
+https://archive.org/details/thompson_to_newell_1974-05-31
+-- I'm afraid not
+
+11. Was "Texture and Reflection in Computer Generated Images” in July 1976 the
+first use of the Utah Teapot?
+https://dl.acm.org/doi/pdf/10.1145/360349.360353
+-- I agree with Jim's response - first use was my thesis, but it's popularity was due to the Texture ... paper
+
+12. Do you know a more precise date of when you modeled the teapot? The Computer
+History Museum records that your original drawings are circa 1975.
+https://www.computerhistory.org/collections/catalog/102695462/
+-- Definitely before 1975 since I finished my thesis in early '75.  Best guess would be mid-1974, but I may be able to pin it down after I dig through my archives.
+
+13. Was there a room in the MEB with a magnetic tape rack? Where? I’m guessing
+that the tape would have been stored somewhere like this and later found by an
+OS researcher while disposing of the obsolete tapes.
+-- Can't help you there
+
+14. The first use I’ve found of UNIX by E&S was a (first-party?) UNIX driver for
+the E&S Picture System 2 by Jim Clark before October 1978 and a UNIX driver for
+the PS-2 by Tom Ferrin at Berkeley circa 1976-1980. Do you know anything about
+this?
+-- Sorry, no.  I left Utah in 1977.
+
+15. Jim, do you know how NYIT came to be using UNIX? You said they were using
+UNIX in summer 1976 when you visited. That seems rather early, as the first
+SIGGRAPH papers mentioning UNIX were from Bell Labs Holmdel in 1975 and 1976,
+then from CMU, Nijmegen, and Berkeley in 1977.
+https://github.com/thaliaarchi/unix-history/blob/main/users/graphics.md
+
+
+----------------------------------------
