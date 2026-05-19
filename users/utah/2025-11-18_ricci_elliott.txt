@@ -1,6 +1,8 @@
-Chip Elliott emails
+Thread: Robert Ricci, Chip Elliott
+Subject: Question about some Utah CS history
+Dates: 18 Nov 2025
 
-
+---
 From: Robert Ricci
 Subject: Question about some Utah CS history
 Date: Tue, 18 Nov 2025 15:09 -0700
@@ -12,7 +14,7 @@ department here, and I remember you saying you spent quite a bit of time
 in the department when your wife was here. Out of curiosity, what
 timeframe was that?
 
-
+---
 From: Chip Elliott
 Subject: Re: Question about some Utah CS history
 Date: Tue, 18 Nov 2025 17:34:22 -0500

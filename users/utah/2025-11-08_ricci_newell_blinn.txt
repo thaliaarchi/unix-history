@@ -1,6 +1,8 @@
-Martin Newell and Jim Blinn emails
+Thread: Robert Ricci, Martin Newell, Jim Blinn
+Subject: UNIX 4 tape that may have belonged to you
+Dates: 8-12 Nov 2025
 
-
+---
 From: Robert Ricci
 Subject: UNIX 4 tape that may have belonged to you
 Date: Sat, 8 Nov 2025 09:36:53 -0700
@@ -18,7 +20,7 @@ complete copies that are known to exist. We arranging to take it to the
 Computer History Museum, where archivists will attempt to read its
 contents.
 
-
+---
 From: Martin Newell
 Subject: Re: UNIX 4 tape that may have belonged to you
 Date: Mon, 10 Nov 2025 18:39:46 -0800
@@ -28,7 +30,7 @@ Thank you for contacting me about the tape you have found.  I'm afraid I can cla
 I wish you the best of luck in retreiving Unix v4 from the tape.
 Regards,Martin----------------------------------------
 
-
+---
 From: Robert Ricci
 Subject: Re: UNIX 4 tape that may have belonged to you
 Date: Tue, 11 Nov 2025 07:22:03 -0700
@@ -48,7 +50,7 @@ copies seem to be traced to.
 Thanks again, and we are getting the very best people available to
 attempt to read it.
 
-
+---
 From: Jim Blinn
 Subject: RE: UNIX 4 tape that may have belonged to you
 Date: Wed, 12 Nov 2025 08:36:42 -0800
@@ -78,7 +80,7 @@ days of Unix so it was still pretty raw.
 
 Web site:   JimBlinn.com
 
-
+---
 From: Robert Ricci
 Subject: Re: UNIX 4 tape that may have belonged to you
 Date: Wed, 12 Nov 2025 15:18:10 -0700
