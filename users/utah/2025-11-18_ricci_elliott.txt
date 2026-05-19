@@ -1,68 +1,70 @@
-# Chip Elliott emails
+Chip Elliott emails
 
-**From**: Robert Ricci \
-**Subject**: Question about some Utah CS history \
-**Date**: Tue, 18 Nov 2025 15:09 -0700
 
-> Hey Chip - I hope you're doing well.
->
-> We're doing a bit of historical sleuthing about some events in the CS \
-> department here, and I remember you saying you spent quite a bit of time \
-> in the department when your wife was here. Out of curiosity, what \
-> timeframe was that?
+From: Robert Ricci
+Subject: Question about some Utah CS history
+Date: Tue, 18 Nov 2025 15:09 -0700
 
-**From**: Chip Elliott \
-**Subject**: Re: Question about some Utah CS history \
-**Date**: Tue, 18 Nov 2025 17:34:22 -0500
+Hey Chip - I hope you're doing well.
 
-> hi Rob,
->
-> It's great to hear from you - hope all is going well. (It is here.)
->
-> My wife Wu was there instarting 1978 or so in graphics, into the early 80s \
-> when I was in India. Her advisor, Tom Henderson, seems to have been a \
-> really good person. She particularly recalls a long rafting trip in \
-> southern Utah, and visits to national parks there. I think he went to NSF \
-> quite a bit later, so he was pretty interested in advancing the community.
->
-> Here's what I recall. The teapot was well established, but fairly recent \
-> results were Phong illumination. Both were points of pride. There was a \
-> "frame buffer" which was extremely interesting, basically an extremely \
-> early digital camera. It was some kind of camera with A/D attached to a \
-> computer memory; as I recall it took a second or two to grab a complete \
-> frame. Then one could manipulate it with software. I don't know who made it \
-> - but it was a great idea.
->
-> The early greats in graphics were recently departed: Jim Blinn, etc. There \
-> was a wonderful shelf of PhD theses; I remember being entranced by one that \
-> could remove blurring (within some pretty serious constraints).
->
-> I'm not sure of this but think I much later discussed Utah with Bob Kahn. \
-> In his ARPA years he was keen on funding strong centers for various kinds \
-> of CS, and so Utah would have been a very obvious choice. Probably he \
-> funded the graphics and Arpanet connection.
->
-> Outside of graphics, I sat in on a class on Ada. I'm blocking on the \
-> professor's name but he was well known. Personally I was disappointed in \
-> the class contents and student preparation; no one seemed to know if Ada \
-> supported objects, one of its main claims to fame. (I was a language guy at \
-> the time.)
->
-> Another professor had started SoundStream, which was perhaps the first \
-> digital recording company. Wu and I visited the house near campus where the \
-> company was located; its basement was full of disk drives, some kind of \
-> computer, probably Digital, and big speakers. They played the 1812 Overture \
-> for us; I remember my pants legs being blown around when the cannons \
-> played. SoundStream was a big thing then, traveling around to record \
-> orchestras. I guess London was the most common, as it was the cheapest big \
-> name.
->
-> Wu's friend Everlyne was there from France, working on a mathematical \
-> system in Lisp. Again I don't recall its name - not Macsyma, but a strong \
-> rival. Sorry not remembering! She wound up in Grenoble; we visited later.
->
-> I knew the U was on the Arpanet but didn't particularly care.
->
-> cheers & I'd love to see the finished product! All best wishes -
->
-> ch.
+We're doing a bit of historical sleuthing about some events in the CS
+department here, and I remember you saying you spent quite a bit of time
+in the department when your wife was here. Out of curiosity, what
+timeframe was that?
+
+
+From: Chip Elliott
+Subject: Re: Question about some Utah CS history
+Date: Tue, 18 Nov 2025 17:34:22 -0500
+
+hi Rob,
+
+It's great to hear from you - hope all is going well. (It is here.)
+
+My wife Wu was there instarting 1978 or so in graphics, into the early 80s
+when I was in India. Her advisor, Tom Henderson, seems to have been a
+really good person. She particularly recalls a long rafting trip in
+southern Utah, and visits to national parks there. I think he went to NSF
+quite a bit later, so he was pretty interested in advancing the community.
+
+Here's what I recall. The teapot was well established, but fairly recent
+results were Phong illumination. Both were points of pride. There was a
+"frame buffer" which was extremely interesting, basically an extremely
+early digital camera. It was some kind of camera with A/D attached to a
+computer memory; as I recall it took a second or two to grab a complete
+frame. Then one could manipulate it with software. I don't know who made it
+- but it was a great idea.
+
+The early greats in graphics were recently departed: Jim Blinn, etc. There
+was a wonderful shelf of PhD theses; I remember being entranced by one that
+could remove blurring (within some pretty serious constraints).
+
+I'm not sure of this but think I much later discussed Utah with Bob Kahn.
+In his ARPA years he was keen on funding strong centers for various kinds
+of CS, and so Utah would have been a very obvious choice. Probably he
+funded the graphics and Arpanet connection.
+
+Outside of graphics, I sat in on a class on Ada. I'm blocking on the
+professor's name but he was well known. Personally I was disappointed in
+the class contents and student preparation; no one seemed to know if Ada
+supported objects, one of its main claims to fame. (I was a language guy at
+the time.)
+
+Another professor had started SoundStream, which was perhaps the first
+digital recording company. Wu and I visited the house near campus where the
+company was located; its basement was full of disk drives, some kind of
+computer, probably Digital, and big speakers. They played the 1812 Overture
+for us; I remember my pants legs being blown around when the cannons
+played. SoundStream was a big thing then, traveling around to record
+orchestras. I guess London was the most common, as it was the cheapest big
+name.
+
+Wu's friend Everlyne was there from France, working on a mathematical
+system in Lisp. Again I don't recall its name - not Macsyma, but a strong
+rival. Sorry not remembering! She wound up in Grenoble; we visited later.
+
+I knew the U was on the Arpanet but didn't particularly care.
+
+cheers & I'd love to see the finished product! All best wishes -
+
+ch.
