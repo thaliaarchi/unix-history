@@ -16,6 +16,10 @@ it was submitted to IEEE on 8 August 1969 as [Abegglen, Faris, and Hankley
 1970], which states that the thesis had been submitted to the Department of
 Electrical Engineering. I need to get a scan of his thesis to refine this.
 
+For his M.S. thesis through Hill Air Force Base, he designed the Central Data
+Acquisition and Analysis System for the SEL 840-MP computer installed at Newark
+Air Force Station, Ohio.
+
 Paul evidently received a doctorate, but I have not found his dissertation. In
 [Ritchie 1973] and [Futrell 1975], Paul is addressed with the title Dr., so he
 completed a doctorate at the latest by November 1973. His obituary states he
@@ -47,7 +51,9 @@ run under UNIX. At the time, he was writing software for the the data gathering
 and analysis system of the mass spectroscopy project. The software was in
 DEC-style assembly and ran with DEC DOS on the PDP-11/20. Due to a lack of other
 record of Paul associated with UNIX, it is unlikely he acquired a distribution,
-probably because it would not work with his software.
+probably because it would not work with his software. But, due to his expertise
+in writing systems software, he would have had an interest in emerging operating
+systems.
 
 Was he connected to Martin Newell? Probably not. The mass spectrometry
 computer(s) were in the Department of Chemistry's Mass Spectrometry Center
@@ -75,9 +81,18 @@ spectroscopy project, but it seems unlikely he was describing this new machine.
   Proceedings of the IEEE, Volume 58, Number 1, January 1970 \
   Manuscript received 8 August 1969
 
-  Paul probably did OS design? This appears to be the commonality here too
+  For his M.S. thesis through Hill Air Force Base, he designed the Central Data
+  Acquisition and Analysis System for the SEL 840-MP computer installed at
+  Newark Air Force Station, Ohio.
 
-  Central Data Acquisition and Analysis System
+  > This paper discusses the design and operation of a Central Data Acquisition
+  > and Analysis System (CDAAS) which has been installed at Newark Air Force
+  > Station, Ohio. The primary emphasis of this paper is on the data
+  > acquisition, storage, and retrieval, as opposed to data analysis. […] The
+  > computer used is the SEL 840-MP, manufactured by Systems Engineering
+  > Laboratories of Fort Lauderdale, Fla. The entire acquisition and analysis
+  > scheme selected revolves about the priority interrupt and multiprogramming
+  > capabilities of the 840-MP, which is discussed in some detail.
 
   > This paper is based on a thesis by P. C. Abegglen and W. R. Faris submitted
   > to the Department of Electrical Engineering, University of Utah, Salt Lake
