@@ -338,6 +338,10 @@ Boxes:
       > This equipment must not interfere with the usual operation of the
       > Chemistry PDP 11/45 to which it will be attached.
 
+      TODO: Was this purchase done for computer graphics? This post-dates
+      Abegglen's UNIX inquiry, but establishes a link between his department and
+      Martin's.
+
       Scan requested.
 
 - Box 135: Papers, Evans & Sutherland Employees

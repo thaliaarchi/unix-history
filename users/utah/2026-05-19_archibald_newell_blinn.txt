@@ -1,0 +1,82 @@
+Thread: Thalia Archibald, Martin Newell, Jim Blinn
+Subject: UNIX V4 and SIGGRAPH
+Dates: 19 May 2026
+
+---
+From: Thalia Archibald
+Subject: UNIX V4 and SIGGRAPH
+Date: Tue, 19 May 2026 04:20:26 -0600
+
+Hi Martin and Jim,
+
+Hope you're doing well. That UNIX V4 tape has continued to drive interest and I
+was invited to give a talk at SIGGRAPH about the tape and its small connection
+to your research. Erik Brunvand says you'll be at SIGGRAPH? I'd love to see you
+at my talk, tentatively scheduled for first thing Thursday morning.
+
+Ironically, this is my first publication, not something related to my "actual"
+research in compiler verification. Since I'm not a graphics person, I have
+imposter syndrome for SIGGRAPH. And essentially whatever I say becomes "fact",
+since I'm the only one who's dug into this, so I want to get it as close as I
+can. I'd appreciate your feedback and corrections. Your comments from last time
+have been very helpful.
+
+
+In preparing, I'm going through my narrative to make sure it's solid. Here's
+what I have:
+
+Around 1974, two systems were in use for computer graphics at the U. Your
+(Martin) thesis in procedural modeling was done on a PDP-10. And from 1973 to
+1975, you were responsible for setting up a new graphics facility based on a
+PDP-11/45 with Jim and Duane Palyka.
+
+This version of UNIX only ran the PDP-11/45 and /40, so the June 1974 UNIX tape
+would have been for the new lab. But UNIX was probably only briefly tried, not
+used for any work, and abandoned in favor of DEC DOS, then RSX-11M.
+
+If the work for your thesis was only on the PDP-10, then there was no technical
+overlap between the teapot and UNIX. Though the Blinn-ratio teapot in Texture
+and Reflection (1976) was on the 11/45, it was slightly later. But, Man Machine
+Communication (March 1974) was on the 11/45, the right time and computer. I need
+to learn more about that paper.
+
+I have less understanding of E&S hardware and graphics in general. Jim said the
+PDP-11 had a PS-2. I don't know what E&S hardware the PDP-10 had.
+
+As a twist, you weren't the only one from the U to have early interest in UNIX.
+Dr. Paul Abegglen considered UNIX in November 1973 for the mass spectroscopy
+data gathering system he was building for the Chemistry Department, seven months
+before you. His doctorate was in Computer Science, completed around 1972. He was
+30 years old, possibly teaching as a professor. I had thought a connection to
+you was remote, but an E&S interactive graphics system was installed on a
+Chemistry PDP-11/45 in 1977. Perhaps they collaborated with you before then.
+
+
+I think the picture is becoming more clear to me. I didn't understand which
+projects were using which machines until writing this.
+
+I have some follow-up questions:
+
+- In our last conversation, you said that you modeled the teapot definitely
+  before 1975, best guess being mid-1974. You said you might have something in
+  your archives that could pin it down. Did you have a chance to take a look?
+
+- Do you have Duane Palyka's contact information? I'm curious to hear his
+  recollections.
+
+- Do you have photos of the graphics facilities or your projects at the time? Of
+  the PDP-11/45, PDP-10, or PS-2? It would be fun to show those in my talk.
+
+- Were the models in Procedure Models (1975) not real-time? Was this a
+  distinguishing feature of the PDP-11/45 system compared to the PDP-10? An
+  August 1973 E&S proposal describes a project led by Martin to build a
+  real-time shaded picture generating system on a PDP-11/45.
+
+- We take it for granted today, but wasn't Procedure Models (1975) the
+  first time models were described with rules instead of data sets? Also the
+  first time Bezíer curves were applied to graphics?
+
+
+Thank you so much!
+
+Thalia Archibald

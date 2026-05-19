@@ -92,9 +92,12 @@ Folder 39: Martin E. Newell
   C.V. for appointment as Assistant Professor of Computer Science \
   University of Utah, April 1975
 
+  Transcribed in 1975-04_newell_vita/.
+
   TODO: Who were the three staff members?
 
-  Transcribed in 1975-04_newell_vita/.
+  Jim said that one of the staff of maintenance/programmers was Duane Palyka
+  [[2025 email](2025-12-18_archibald_newell_blinn.txt)].
 
 - Resignation letter to A.C. Hearn \
   Martin E. Newell \
@@ -169,7 +172,8 @@ Folder 39: Martin E. Newell
   Acknowledgements: David Evans, Ivan Sutherland, Steven Coons, Rich
   Riesenfeld, Tom Stockham, Mike Milochik, Sandy Newell
 
-  The first appearance of the Utah teapot <ref: Blinn email>
+  The first appearance of the Utah teapot. Its popularity spread from Blinn's
+  Texture and Reflection paper [[2025 email](2025-12-18_archibald_newell_blinn.txt)].
 
   Renderings:
   - Sutherland's Volkswagen: body, wheel, half body with wheels, whole body with
@@ -188,15 +192,15 @@ Folder 39: Martin E. Newell
   > were used, one giving 512 x 512 picture elements and the other giving 1024 x
   > 1024 picture elements. Even with only 8 bits per picture element to store
   > intensity the amount of memory this represents is larger than can be
-  > accommodated in the main memory of the computer being used, a 64K PDP-lO.
+  > accommodated in the main memory of the computer being used, a 64K PDP-10.
   > Consequently, the frame buffer was implemented on disk and is paged into
   > main memory for use. [p.71]
 
   > The hardware Watkins processor and display devices used are connected to a
-  > single-user PDP-lO computer and therefore actual image generation is carried
+  > single-user PDP-10 computer and therefore actual image generation is carried
   > out on that machine, using private disk packs for the frame buffer. However,
   > the generation of the priority ordered list of objects does not use any
-  > special hardware and so is normally carried out on a time-shared PDP-lO,
+  > special hardware and so is normally carried out on a time-shared PDP-10,
   > although it can also run on the single user machine. This has meant
   > segmenting the system into two phases, the first one to generate the
   > priority ordered list, and the second to generate the image. This

@@ -29,7 +29,7 @@ TODO: Sources after September 1988 not reviewed. https://utah-primoprod.hosted.e
   > visible objects. Images of nontextured objects of
   > the type used in this paper take about 25 minutes. The
   > addition of texture or reflection increases this time by
-  > about l0 percent. All images have a resolution of
+  > about 10 percent. All images have a resolution of
   > 512×512 picture elements.
 
 - ["Models of Light Reflection for Computer Synthesized Pictures"](https://dl.acm.org/doi/10.1145/563858.563893) \
