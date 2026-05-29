@@ -6,6 +6,7 @@ Dates: 19 May 2026
 From: Thalia Archibald
 Subject: UNIX V4 and SIGGRAPH
 Date: Tue, 19 May 2026 04:20:26 -0600
+To: Martin Newell, Jim Blinn
 
 Hi Martin and Jim,
 
@@ -80,3 +81,303 @@ I have some follow-up questions:
 Thank you so much!
 
 Thalia Archibald
+
+---
+From: Martin Newell
+Subject: Re: UNIX V4 and SIGGRAPH
+Date: Wed, 27 May 2026 16:40:35 -0700
+To: Jim Blinn, Thalia Archibald
+X-Attached: IMG_5727.jpeg
+X-Attached: IMG_5729.jpeg
+
+Hi Thalia,
+
+Thank you for the long message and opportunity to respond.
+
+I fully acknowledge that my ability to recall events of 50 years ago is less than perfect, though I have found some old artefacts that have  jogged a few memories.
+
+Thank you for the invitation to attend your talk at SIGGRAPH.  I'm currently planning to be there.
+
+I have responded to your questions below in red.
+
+I hope this helps,
+Martin
+----------------------------------------
+
+
+On Tuesday, May 19, 2026 at 03:20:46 AM PDT, Thalia Archibald wrote:
+>
+>
+> Hi Martin and Jim,
+>
+> Hope you're doing well. That UNIX V4 tape has continued to drive interest and I
+> was invited to give a talk at SIGGRAPH about the tape and its small connection
+> to your research. Erik Brunvand says you'll be at SIGGRAPH? I'd love to see you
+> at my talk, tentatively scheduled for first thing Thursday morning.
+>
+> Ironically, this is my first publication, not something related to my "actual"
+> research in compiler verification. Since I'm not a graphics person, I have
+> imposter syndrome for SIGGRAPH. And essentially whatever I say becomes "fact",
+> since I'm the only one who's dug into this, so I want to get it as close as I
+> can. I'd appreciate your feedback and corrections. Your comments from last time
+> have been very helpful.
+>
+>
+> In preparing, I'm going through my narrative to make sure it's solid. Here's
+> what I have:
+>
+> Around 1974, two systems were in use for computer graphics at the U. Your
+> (Martin) thesis in procedural modeling was done on a PDP-10. And from 1973 to
+> 1975, you were responsible for setting up a new graphics facility based on a
+> PDP-11/45 with Jim and Duane Palyka.
+
+I think that's right
+
+> This version of UNIX only ran the PDP-11/45 and /40, so the June 1974 UNIX tape
+> would have been for the new lab. But UNIX was probably only briefly tried, not
+> used for any work, and abandoned in favor of DEC DOS, then RSX-11M.
+
+I have no recollection of whether the Unix tape was ever used.
+
+> If the work for your thesis was only on the PDP-10, then there was no technical
+> overlap between the teapot and UNIX. Though the Blinn-ratio teapot in Texture
+> and Reflection (1976) was on the 11/45, it was slightly later. But, Man Machine
+> Communication (March 1974) was on the 11/45, the right time and computer. I need
+> to learn more about that paper.
+
+Sounds right
+
+> I have less understanding of E&S hardware and graphics in general. Jim said the
+> PDP-11 had a PS-2. I don't know what E&S hardware the PDP-10 had.
+
+The PDP-10 had a slow scan output device for shaded images on photographic film, which I used.
+It also had a prototype realtime line drawing system that displayed images in stereo on a head-mounted display.
+Part of my responsibility was to build a new matrix multiplier for that system.
+Another device on the PDP-10 was the Watkins Box built before my time by Gary Watkins.
+It was a prototype device for generating realtime shaded images.
+None of this was E&S hardware.
+
+> As a twist, you weren't the only one from the U to have early interest in UNIX.
+> Dr. Paul Abegglen considered UNIX in November 1973 for the mass spectroscopy
+> data gathering system he was building for the Chemistry Department, seven months
+> before you. His doctorate was in Computer Science, completed around 1972. He was
+> 30 years old, possibly teaching as a professor. I had thought a connection to
+> you was remote, but an E&S interactive graphics system was installed on a
+> Chemistry PDP-11/45 in 1977. Perhaps they collaborated with you before then.
+
+The name rings a bell, but I had no connection to Dr Abegglen
+
+
+> I think the picture is becoming more clear to me. I didn't understand which
+> projects were using which machines until writing this.
+>
+> I have some follow-up questions:
+>
+> - In our last conversation, you said that you modeled the teapot definitely
+>   before 1975, best guess being mid-1974. You said you might have something in
+>   your archives that could pin it down. Did you have a chance to take a look?
+
+I am now pretty sure it was early to mid 1974.
+
+> - Do you have Duane Palyka's contact information? I'm curious to hear his
+>   recollections.
+
+Sorry, I have no contact information for Duane.
+
+> - Do you have photos of the graphics facilities or your projects at the time? Of
+>   the PDP-11/45, PDP-10, or PS-2? It would be fun to show those in my talk.
+
+I have attached a couple of pictures.
+One shows Duane painting a self portrait on the frame store using an early paint program on the PDP-11.
+The other shows Jim's work using the PS-2 and frame store on the PDP-11.
+
+> - Were the models in Procedure Models (1975) not real-time? Was this a
+>   distinguishing feature of the PDP-11/45 system compared to the PDP-10? An
+>   August 1973 E&S proposal describes a project led by Martin to build a
+>   real-time shaded picture generating system on a PDP-11/45.
+
+None of my thesis work was in realtime.
+As mentioned above, both the PDP-10 and PDP-11 had realtime and static display capabilities.
+
+
+> - We take it for granted today, but wasn't Procedure Models (1975) the
+>   first time models were described with rules instead of data sets? Also the
+>   first time Bezíer curves were applied to graphics?
+
+I don't know if this was the first use of procedural models for graphics.
+It was an example of object-oriented programming, being pioneered around that time by Alan Kay,
+though I didn't know anything about his work at the time.
+
+
+> Thank you so much!
+>
+> Thalia Archibald
+
+---
+From: Jim Blinn
+Subject: RE: UNIX V4 and SIGGRAPH
+Date: Thu, 28 May 2026 01:11:58 -0700
+To: Martin Newell, Thalia Archibald
+X-Attached: image001.jpg
+X-Attached: image002.jpg
+
+Hi also Thalia,
+
+I will insert a few minor corrections/additions to Martin’s comments in blue below.
+I will also try to make it to your talk.
+
+I have an email for Duane
+I last communicated with him in 2018, but the web site pal-katoonz.com still seems alive and looks like he is doing some sort of music notation now.
+
+
+Web site:   JimBlinn.com
+
+> From: Martin Newell
+> Sent: Wednesday, May 27, 2026 4:41 PM
+> To: Jim Blinn; Thalia Archibald
+> Subject: Re: UNIX V4 and SIGGRAPH
+>
+> Hi Thalia,
+>
+> Thank you for the long message and opportunity to respond.
+>
+> I fully acknowledge that my ability to recall events of 50 years ago is less than perfect, though I have found some old artefacts that have  jogged a few > memories.
+>
+> Thank you for the invitation to attend your talk at SIGGRAPH.  I'm currently planning to be there.
+>
+> I have responded to your questions below in red.
+>
+> I hope this helps,
+> Martin
+> ----------------------------------------
+>
+>
+> On Tuesday, May 19, 2026 at 03:20:46 AM PDT, Thalia Archibald wrote:
+>
+>
+> > Hi Martin and Jim,
+> >
+> > Hope you're doing well. That UNIX V4 tape has continued to drive interest and I
+> > was invited to give a talk at SIGGRAPH about the tape and its small connection
+> > to your research. Erik Brunvand says you'll be at SIGGRAPH? I'd love to see you
+> > at my talk, tentatively scheduled for first thing Thursday morning.
+> >
+> > Ironically, this is my first publication, not something related to my "actual"
+> > research in compiler verification. Since I'm not a graphics person, I have
+> > imposter syndrome for SIGGRAPH. And essentially whatever I say becomes "fact",
+> > since I'm the only one who's dug into this, so I want to get it as close as I
+> > can. I'd appreciate your feedback and corrections. Your comments from last time
+> > have been very helpful.
+> >
+> >
+> > In preparing, I'm going through my narrative to make sure it's solid. Here's
+> > what I have:
+> >
+> > Around 1974, two systems were in use for computer graphics at the U. Your
+> > (Martin) thesis in procedural modeling was done on a PDP-10. And from 1973 to
+> > 1975, you were responsible for setting up a new graphics facility based on a
+> > PDP-11/45 with Jim and Duane Palyka.
+>
+> I think that's right
+>
+> > This version of UNIX only ran the PDP-11/45 and /40, so the June 1974 UNIX tape
+> > would have been for the new lab. But UNIX was probably only briefly tried, not
+> > used for any work, and abandoned in favor of DEC DOS, then RSX-11M.
+>
+> I have no recollection of whether the Unix tape was ever used.
+I arrived at Utah in September 1974. Unix was not on the PDP11/45 at that time.
+
+> > If the work for your thesis was only on the PDP-10, then there was no technical
+> > overlap between the teapot and UNIX. Though the Blinn-ratio teapot in Texture
+> > and Reflection (1976) was on the 11/45, it was slightly later. But, Man Machine
+> > Communication (March 1974) was on the 11/45, the right time and computer. I need
+> > to learn more about that paper.
+>
+> Sounds right
+I’m not familiar with the paper Man Machine Communication. Who wrote it, where can I see a copy?
+
+
+> > I have less understanding of E&S hardware and graphics in general. Jim said the
+> > PDP-11 had a PS-2. I don't know what E&S hardware the PDP-10 had.
+>
+> The PDP-10 had a slow scan output device for shaded images on photographic film, which I used.
+> It also had a prototype realtime line drawing system that displayed images in stereo on a head-mounted display.
+> Part of my responsibility was to build a new matrix multiplier for that system.
+> Another device on the PDP-10 was the Watkins Box built before my time by Gary Watkins.
+> It was a prototype device for generating realtime shaded images.
+> None of this was E&S hardware.
+>
+> > As a twist, you weren't the only one from the U to have early interest in UNIX.
+> > Dr. Paul Abegglen considered UNIX in November 1973 for the mass spectroscopy
+> > data gathering system he was building for the Chemistry Department, seven months
+> > before you. His doctorate was in Computer Science, completed around 1972. He was
+> > 30 years old, possibly teaching as a professor. I had thought a connection to
+> > you was remote, but an E&S interactive graphics system was installed on a
+> > Chemistry PDP-11/45 in 1977. Perhaps they collaborated with you before then.
+>
+> The name rings a bell, but I had no connection to Dr Abegglen
+>
+>
+> > I think the picture is becoming more clear to me. I didn't understand which
+> > projects were using which machines until writing this.
+> >
+> > I have some follow-up questions:
+> >
+> > - In our last conversation, you said that you modeled the teapot definitely
+> >   before 1975, best guess being mid-1974. You said you might have something in
+> >   your archives that could pin it down. Did you have a chance to take a look?
+>
+> I am now pretty sure it was early to mid 1974.
+>
+> > - Do you have Duane Palyka's contact information? I'm curious to hear his
+> >   recollections.
+>
+> Sorry, I have no contact information for Duane.
+See above.
+
+> > - Do you have photos of the graphics facilities or your projects at the time? Of
+> >   the PDP-11/45, PDP-10, or PS-2? It would be fun to show those in my talk.
+>
+> I have attached a couple of pictures.
+> One shows Duane painting a self portrait on the frame store using an early paint program on the PDP-11.
+> The other shows Jim's work using the PS-2 and frame store on the PDP-11.
+Actually the second picture was Frank Crow’s work. I did similar looking stuff a bit later than Frank.
+
+> > - Were the models in Procedure Models (1975) not real-time? Was this a
+> >   distinguishing feature of the PDP-11/45 system compared to the PDP-10? An
+> >   August 1973 E&S proposal describes a project led by Martin to build a
+> >   real-time shaded picture generating system on a PDP-11/45.
+>
+> None of my thesis work was in realtime.
+> As mentioned above, both the PDP-10 and PDP-11 had realtime and static display capabilities.
+>
+>
+> > - We take it for granted today, but wasn't Procedure Models (1975) the
+> >   first time models were described with rules instead of data sets? Also the
+> >   first time Bezíer curves were applied to graphics?
+>
+> I don't know if this was the first use of procedural models for graphics.
+> It was an example of object-oriented programming, being pioneered around that time by Alan Kay,
+> though I didn't know anything about his work at the time.
+Bezier curves were used in graphics before 1975. I did some line drawings of them in 1973, but I know they weren’t the first. I learned about them from a lecture series by Steve Coons that I attended at the University of Michigan in about 1972. It’s always tricky finding the ‘first’ time anything is done.
+
+
+> > Thank you so much!
+> >
+> > Thalia Archibald
+
+---
+From: Martin Newell
+Subject: Re: UNIX V4 and SIGGRAPH
+Date: Thu, 28 May 2026 08:39:06 -0700
+To: Thalia Archibald, Jim Blinn
+X-Attached: image001.jpg
+X-Attached: image002.jpg
+
+Here's what Google says about Bezier curves:
+
+"Bézier curves are parametric curves used in computer graphics and design, named after French engineer Pierre Bézier, who popularized them in the 1960s while working at Renault to design car bodies.  However, the mathematical foundation lies in the Bernstein polynomials established by Sergei Natanovich Bernstein in 1912.
+The curves were first developed for computer-aided design in 1959 by mathematician Paul de Casteljau at Citroën, who created the de Casteljau’s algorithm for evaluating them.  De Casteljau’s work remained confidential until the 1980s, whereas Bézier independently discovered similar methods and publicly published his findings in 1962, leading to the curves being named after him."
+
+Martin
+----------------------------------------

@@ -7,6 +7,9 @@ From: Thalia Archibald
 Date: Thu, 18 Dec 2025 06:35:03 -0800
 Subject: UNIX V4 at the University of Utah
 To: Martin Newell, Jim Blinn
+X-Attached: martin_newell.pdf
+X-Attached: contract_proposal_1973-08-09.pdf
+X-Attached: contract_completion_1975-10-30.txt
 
 Hello Martin and Jim,
 
@@ -103,12 +106,11 @@ Thank you so much for any insight you can give! And I wish you a happy holidays!
 Thanks,
 Thalia Archibald
 
-[martin_newell.pdf] [contract_proposal_1973-08-09.pdf] [contract_completion_1975-10-30.txt]
-
 ---
 From: Jim Blinn
 Subject: RE: UNIX V4 at the University of Utah
 Date: Thu, 18 Dec 2025 21:03:15 -0800
+To: Thalia Archibald, Martin Newell
 
 Hi Thalia
 I will be happy to answer any questions, that is, those that i actually have answers to ☺
@@ -159,6 +161,8 @@ Web site:   JimBlinn.com
 From: Thalia Archibald
 Subject: Re: RE: UNIX V4 at the University of Utah
 Date: Fri, 18 Dec 2025 21:12:27 -0800
+To: Jim Blinn
+Cc: Martin Newell
 
 Thank you! I’m traveling, so I’ll be brief, but this is great. I was wondering about the connection between the PDP-10 and the 11 just after I wrote that.
 
@@ -170,6 +174,8 @@ Thalia
 From: Jim Blinn
 Subject: RE: RE: UNIX V4 at the University of Utah
 Date: Fri, 19 Dec 2025 04:22:22 -0800
+To: Thalia Archibald
+Cc: Martin Newell
 
 Ha. I just ran across this on YouTube. It’s becoming a media event
 
@@ -183,6 +189,9 @@ Web site:   JimBlinn.com
 From: Thalia Archibald
 Subject: Re: UNIX V4 at the University of Utah
 Date: Fri, 19 Dec 2025 08:13:11 -0800
+To: Jim Blinn
+Cc: Martin Newell
+X-Attached: IMG_3403.jpeg
 
 Yeah! I’ve been keeping track and count 52 news articles and social media posts!
     https://github.com/thaliaarchi/unix-history/blob/main/users/utah/v4.md#News
@@ -210,12 +219,12 @@ scanned myself and several I’ve received from archives are uploaded here:
 
 Thalia
 
-[IMG_3403.jpeg]
-
 ---
 From: Martin Newell
 Subject: Re: UNIX V4 at the University of Utah
 Date: Fri, 19 Dec 2025 17:47:35 +0000
+To: Thalia Archibald
+Cc: Jim Blinn
 
 This is all quite intriguing.  Sorry to be slow responding, I have been travelling the past several weeks, and am off again tomorrow, so I haven't had a chance to think hard about your questions.  It is not easy recalling events from 50 years ago, but I have responded to your questions below to the best of my recollections. After Christmas I will dig through the files I have from Utah to see if there is any relevant information there.
 Thank you for sending some of the documents and information you have uncovered.  Interesting reading.
