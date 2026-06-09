@@ -142,6 +142,23 @@ Folder 39: Martin E. Newell
   [Computer Aided Geometric Design, March 1974](https://www.sciencedirect.com/book/9780120790500/computer-aided-geometric-design),
   p.303-315
 
+  Survey of techniques to manipulate 3D models interactively.
+
+  Teletypes were used at the U for graphics?
+
+  > There is now in existence an extensive family of devices to facilitate input
+  > of information to a computer.  These range from the humble teletype to
+  > machines such as the Twinklebox [3].  The relevance of devices considered
+  > suitable for 3-D work will be discussed.
+  >
+  > The teletype and like devices, workhorses of man-machine communication, are
+  > almost too ubiquitous to warrant mentioning. However, it is worth noting
+  > that some sophisticated and versatile 3-D design systems have been developed
+  > in which the teletype was the principal input device, for example, Armit's
+  > Multipatch and Multiobject systems [1].  However, the success of such
+  > systems is more a tribute to the careful design of structured command
+  > languages than to the suitability of the teletype for such functions.
+
   > Another rather more conventional system is also under development at Utah.
   > This is based on a PDP-11/45 system.  As proposed, the PDP-11 will have
   > attached to it a real-time line drawing system and a frame buffer.  The line
