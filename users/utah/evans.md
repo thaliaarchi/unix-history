@@ -54,7 +54,8 @@ Boxes:
     - "Pen and paper are old-fashioned" for circuit design
     - Marketing booklets for LDS-1, explaining the system
   - Fd 25: PDP-9 and PDP-10, Correspondence (1969-1971)
-    - "PDP-9 Scheduling Rules": funny money system with "yen" currency
+    - ["PDP-9 Scheduling Rules"](https://archive.org/details/es_pdp9_scheduling_1970-06-17):
+      funny money system with "yen" currency
   - Fd 26: PDP-11, Correspondence and Miscellaneous (1971-1978):
     - PDP-11 item want list
     - Picture System development status

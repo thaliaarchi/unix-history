@@ -21,7 +21,7 @@ sense.
 
 ## PDP-9 Scheduling Rules
 
-"PDP-9 Scheduling Rules" \
+["PDP-9 Scheduling Rules"](https://archive.org/details/es_pdp9_scheduling_1970-06-17) \
 Ivan Sutherland \
 Evans & Sutherland Memo, 17 June 1970 \
 Collection MS 0625: [David C. Evans papers (1958-1987)](https://archiveswest.orbiscascade.org/ark:80444/xv18380) \
