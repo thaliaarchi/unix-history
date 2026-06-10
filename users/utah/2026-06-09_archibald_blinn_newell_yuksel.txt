@@ -1,0 +1,62 @@
+From: Thalia Archibald
+Date: Wed, 9 Jun 2026 23:00:43 -0600
+Subject: PDP-9, models, and more
+To: Jim Blinn, Martin Newell, Cem Yuksel
+
+Hello Jim and Martin,
+
+I met with Cem today to chat about our SIGGRAPH talks and he says you have
+interesting details about a PDP-9 and models.
+
+
+Incidentally, I just ported 1000 lines of PDP-7 assembly from UNIX V0 to C, so I
+understand the architecture well. The PDP-7 and -9 were in the same 18-bit
+family and almost all programs are binary compatible.
+
+Jim, Cem says you have PDP-9 assembly source code for your interactive rendering
+application? I'd love to make this run. And if it E&S/Utah-custom peripherals, I
+know just the people who have made PDP-9 emulators and we could probably figure
+that out too.
+
+When I was poring through Dave Evans' papers in Special Collections, I found
+this fun document detailing their new scheduling rules for allocating time on
+the PDP-9. They'd bid "yen", their fictional currency, on time slots. This looks
+to be the E&S PDP-9, not one of the U's, since it's written rather corporate.
+    https://archive.org/details/es_pdp9_scheduling_1970-06-17
+
+In the DEC 18-bit service list, we can see the 18-bit machines that were
+purchased in Utah:
+
+- PDP-9 #132: UTAH NUMBER 2, shipped 1128 (sic), 0769, 0669, 0170
+- PDP-9 #275: EVANS & SUTHERLAND, shipped 1268, 0969, 1168, 1269, 0569
+- PDP-9 #303: UTAH UNIVERSITY, shipped 0868, 0368, 0769, 1168
+- PDP-9 #308: UNIVERSITY OF UTAH, shipped 0868, 1269, 0273
+- PDP-9 #326: UTAH UNIVERSITY, shipped 1068
+- PDP-9 #362: SALT LAKE CITY, shipped 0470, 0170
+- PDP-15 #175: BRIGHAM YOUNG, shipped 0770, 0371, 0771, 0271, 1270, 0571
+    https://bitsavers.org/pdf/dec/internal/18bitServiceList1972.pdf
+
+There's apparently no UTAH NUMBER 1, but the U still had several PDP-9s. I
+assume these were spread around campus. How many did you have access to?
+
+
+Jim, Cem also mentioned that you still have the original digital renderings from
+Texture and Reflections, including the teapots?
+
+I have been looking for printed listings of graphics demos, assuming that would
+have been the only way they'd have survived. I found none in Special
+Collections, but the Computer History Museum appears to have 1972 data files for
+several E&S demos on a PDP-10, e.g., hand, face, SR-71, aircraft carrier.
+They're hopefully digitizing them later this month.
+    https://www.computerhistory.org/collections/catalog/102806142/
+    https://www.computerhistory.org/collections/albums/MTUy
+
+Resurrecting those might require emulating the hardware like Picture System and
+thus finding schematics in Special Collections.
+
+
+Thank you and looking forward to SIGGRAPH!
+
+
+Thanks,
+Thalia Archibald
