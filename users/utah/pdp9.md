@@ -1,5 +1,7 @@
 # PDP-9s in Utah
 
+## 18-bit service list
+
 The [DEC 18-bit service list](https://bitsavers.org/pdf/dec/internal/18bitServiceList1972.pdf)
 lists several Utah machines:
 
@@ -16,3 +18,29 @@ system of bidding for computer time with "yen".
 
 There appears to be no UTAH NUMBER 1 in the list and the 1128 MMYY makes no
 sense.
+
+## PDP-9 Scheduling Rules
+
+"PDP-9 Scheduling Rules" \
+Ivan Sutherland \
+Evans & Sutherland Memo, 17 June 1970 \
+Collection MS 0625: [David C. Evans papers (1958-1987)](https://archiveswest.orbiscascade.org/ark:80444/xv18380) \
+Box 54: Line Drawing System, Version 1 \
+Fd 25: PDP-9 and PDP-10, Correspondence (1969-1971) \
+University of Utah Libraries, Special Collections, J. Willard Marriott Library
+
+People listed:
+
+| Listed name     | Inferred full name         | Allocation |
+| --------------- | -------------------------- | ---------- |
+| Gary (GWH)      | Gary W. Hodgman            | 5 yen      |
+| Chuck (CLS)     | Charles L. Seitz           | 5 yen      |
+| Ed (ECC)        | Edward Clement Cheadle Sr. | 10 yen     |
+| Manuel (MCL)    |                            | 5 yen      |
+| Alan (ACE)      | Alan C. Erdahl             | 5 yen      |
+| Steve (SNM)     |                            | 5 yen      |
+| Greg (GPF)      |                            | 2 yen      |
+| Quint (HQF)     |                            | 5 yen      |
+| Ivan (IES)      | Ivan Edward Sutherland     | no yen     |
+| Marketing (MKT) | Marketing department       | 5 yen      |
+| Hess (HM)       |                            | 2 yen      |
