@@ -1,3 +1,8 @@
+Thread: Thalia Archibald, Jim Blinn, Martin Newell, Cem Yuksel
+Subject: UNIX V4 and SIGGRAPH
+Dates: 9-10 June 2026
+
+---
 From: Thalia Archibald
 Date: Wed, 9 Jun 2026 23:00:43 -0600
 Subject: PDP-9, models, and more
@@ -60,3 +65,23 @@ Thank you and looking forward to SIGGRAPH!
 
 Thanks,
 Thalia Archibald
+
+---
+From: Thalia Archibald
+Date: Wed, 10 Jun 2026 00:44:23 -0600
+Subject: Re: PDP-9, models, and more
+To: Jim Blinn, Martin Newell, Cem Yuksel
+
+Hi Martin and Jim,
+
+Martin, was the CAD Centre at the University of Cambridge or just in Cambridge,
+the city? If at the University, it looks like there's only one possibility for
+the PDP-9 you used:
+
+- PDP-7A #126: CAMBRIDGE UNIVERSITY, shipped 0566, 1070
+- PDP-9 #220: CAMBRIDGE UNIV, shipped 1068, 0568, 0569, 1269
+- PDP-15 #76: UNIV OF CAMBRIDGE, shipped 0570, 0471
+- PDP-15 #257: CAMBRIDGE UNIVERSITY, shipped 0970
+- PDP-15 #355: CAMBRIDGE UNIV, shipped 1270
+
+Thalia
