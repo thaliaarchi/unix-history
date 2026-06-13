@@ -44,9 +44,9 @@ TODO: Jay Lepreau's [Flux profile](https://www.flux.utah.edu/profile/lepreau),
   > provide the same file format for both TOPS-20 and "VUNIX", to be able to
   > access both environments from C, to keep kernel changes invisible to user
   > programs, and to not hack TOPS-20.  The order of projects has been to make
-  > PCC work, then provide a V7 environment, then transport user programs. Major
-  > problems encountered include the 20’s 36 bit word (standard byte size is 7
-  > bits!), line terminators (CR/LF-LF), long file names, and no links.
+  > PCC work, then provide a V7 environment, then transport user programs.
+  > Major problems encountered include the 20’s 36 bit word (standard byte size
+  > is 7 bits!), line terminators (CR/LF-LF), long file names, and no links.
   >
   > They have found that the "portable" C compiler is not particularly portable
   > to word-addressable machines.  They also found problems with the C language
