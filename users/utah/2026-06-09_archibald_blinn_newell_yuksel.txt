@@ -1,6 +1,6 @@
 Thread: Thalia Archibald, Jim Blinn, Martin Newell, Cem Yuksel
 Subject: UNIX V4 and SIGGRAPH
-Dates: 9-10 June 2026
+Dates: 9-13 June 2026
 
 ---
 From: Thalia Archibald
@@ -101,3 +101,28 @@ Martin
 
 Sent from my iPhone
 ---------------------
+
+---
+From: Jim Blinn
+Date: Sat, 13 Jun 2026 23:45:19 -0700
+Subject: RE: PDP-9, models, and more
+To: Thalia Archibald, Martin Newell, Cem Yuksel
+X-Attached: PDP9 code 1.jpg
+X-Attached: PDP9 code 2.jpg
+X-Attached: PDP9 code 3.jpg
+X-Attached: PDP-9 REMOTE GRAPHICS TERMINAL Introduction.pdf
+X-Attached: SEL EXECUTIVE SYSTEM MANUAL.PDF
+
+Hi Thalia
+
+I have lots of ancient PDP9 source code from various projects. You can get the flavor of my PDP9 adventures from
+Jim Blinn Keynote Speech - ACM SIGGRAPH Pioneers Reception 2018 - YouTube
+https://www.youtube.com/watch?v=AiwR1PKxMsY
+
+Take a look at the abstract on the page for some context.
+
+About resurrecting the programs. First note that none of these were stand-alone programs. They relied on an operating system written for the machine by Jim Jackson and modified a bit by me. I have the source for that too. Also note that the PDP9/339 was a dual processor machine. One processor was the PDP9 ant the other was the 339 display controller. Emulation would require simulating both of them with interleaved memory access. Emulating light pen tracking will be an “interesting” exercise. But it would be neat to see some of the programs running. Especially the logic simulator i wrote. Anyway, attached is a listing of the files i have carefully preserved for the past 60 years, and some write-ups of the operation of the system. Maybe, at least, someone at the Computer History Museum might be interested.
+
+Also i remember the Yen system. We used it on the PDP11 at Utah, but there actually wasn’t that much competition for time. You could usually go in and just use it.
+
+Web site:   JimBlinn.com
