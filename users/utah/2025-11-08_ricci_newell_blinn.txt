@@ -26,9 +26,13 @@ Subject: Re: UNIX 4 tape that may have belonged to you
 Date: Mon, 10 Nov 2025 18:39:46 -0800
 
 Hi Robert,
+
 Thank you for contacting me about the tape you have found.  I'm afraid I can claim no explicit recollections regarding any Unix tape.  That said, it is not out of the question that I was involved.  When I went to the U at the end of 1972 I came as a Research Associate and didn't enroll in the PhD program until later in 1973.  In that role I was responsible for the development and maintenance of various pieces of equipment in the graphics lab.  I don't recall when we took possesion of the PDP-11, but I do recall working with Evans and Sutherland on designing and building the first random access video frame store for the PDP-11.  I believe the PDP-11 ran an early version of Unix, so it would make sense if I was involved with acquiring versions of Unix.  When Jim Blinn came to Utah, in 1974 I think, one of his first tasks was to develop software that made use of the PDP-11 and E&S frame store to create synthetic images.  He may be able to recall, better than I can, some of the timeline of the operating system versions we used.  I have copied him on this reply.
 I wish you the best of luck in retreiving Unix v4 from the tape.
-Regards,Martin----------------------------------------
+
+Regards,
+Martin
+----------------------------------------
 
 ---
 From: Robert Ricci
