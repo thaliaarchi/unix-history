@@ -1,6 +1,6 @@
 Thread: Thalia Archibald, Jim Blinn, Martin Newell, Cem Yuksel
 Subject: UNIX V4 and SIGGRAPH
-Dates: 9-13 June 2026
+Dates: 9-14 June 2026
 
 ---
 From: Thalia Archibald
@@ -126,3 +126,51 @@ About resurrecting the programs. First note that none of these were stand-alone 
 Also i remember the Yen system. We used it on the PDP11 at Utah, but there actually wasn’t that much competition for time. You could usually go in and just use it.
 
 Web site:   JimBlinn.com
+
+---
+From: Thalia Archibald
+Date: Sun, 14 Jun 2026 02:41:10 -0600
+Subject: RE: PDP-9, models, and more
+To: Jim Blinn
+Cc: Martin Newell, Cem Yuksel
+
+Hi Jim,
+
+Wow! That's fantastic! You've been diligent in your archival.
+
+These programs plus SEL would be very interesting. There is scant software
+preserved for DEC's 18-bit machines besides the PDP-7 UNIX and DECsys operating
+systems, certainly no programs as interesting as graphics demos.
+
+From reading your remote graphics terminal introduction, it sounds like this
+should be fairly straightforward to emulate. Your keynote will be fun to watch
+during some downtime at PLDI next week.
+
+SIMH already supports the Type 34 and 340 displays; I figure the 339 is rather
+similar. Even if not, the custom GRAPHICS-2 vector graphics display used by
+PDP-7 UNIX was reverse engineered from its usage.
+
+Light pens should already be emulated by SIMH. The PDP-9, paper tape, and the
+Teletype Model 33 are already emulated. The 201 dataphone is probably like a
+teletype. I don't think emulating the connection to the IBM 360 would be
+necessary.
+
+I've already been chatting with the maintainers of these emulators and I'll ask
+them about 339 emulation.
+    https://github.com/open-simh/simh/tree/master/PDP18B
+    https://github.com/larsbrinkhoff/pdp9-microcode
+    https://github.com/tergav17/RDP-9
+
+I'd love to study and run your programs and SEL. And if you'd let me, I'd be
+honored to add it to my archive of Utah computer science history. Would sending
+a .zip of them work? That would keep the metadata from when you converted them
+to their current form.
+    https://archive.org/details/@archibits
+
+
+And on the yen system, you're saying it was also used for the PDP-11/45 of the
+interactive graphics lab that you did your squished teapot renderings with and
+the UNIX tape was presumably acquired and unused for?
+
+
+Thalia
