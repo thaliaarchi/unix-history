@@ -137,7 +137,7 @@ TODO: Sources after September 1988 not reviewed. https://utah-primoprod.hosted.e
 
   > The teapot was originally designed by my thesis advisor, Martin Newell, who
   > is a computer scientist from England. When Martin Newell wanted some objects
-  > with which to sho off his computer programs, he picked a tea service: a
+  > with which to show off his computer programs, he picked a tea service: a
   > teapot, a teacup, and a teaspoon. (I think he had an actual tea set at home
   > that he used for inspiration and for the general shape, but the images were
   > not reproductions.) The original teapot shape which was made was taller than
