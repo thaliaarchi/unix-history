@@ -1,6 +1,6 @@
 Thread: Thalia Archibald, Jim Blinn, Martin Newell, Cem Yuksel
 Subject: UNIX V4 and SIGGRAPH
-Dates: 9-14 June 2026
+Dates: 9-24 June 2026
 
 ---
 From: Thalia Archibald
@@ -174,3 +174,15 @@ the UNIX tape was presumably acquired and unused for?
 
 
 Thalia
+
+---
+From: Jim Blinn
+Date: Wed, 24 Jun 2026 01:26:52 -0700
+Subject: RE: PDP-9, models, and more
+To: Thalia Archibald
+Cc: Martin Newell, Cem Yuksel
+X-Attached: PDP9 Code.zip
+
+Here is an archive of my PDP9 source code from my tenure at the University of Michigan, with a bit of miscellaneous junk. It used a cross assembler that was home grown there, not using exactly DEC syntax. But it should be decipherable.  I’m sending this to you in case i get hit by a truck before properly documenting it, so that anything of historical value has been saved by more than just me. Feel free to share it with anyone who might be interested.
+
+Web site:   JimBlinn.com
