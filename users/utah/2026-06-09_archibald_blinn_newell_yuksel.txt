@@ -186,3 +186,31 @@ X-Attached: PDP9 Code.zip
 Here is an archive of my PDP9 source code from my tenure at the University of Michigan, with a bit of miscellaneous junk. It used a cross assembler that was home grown there, not using exactly DEC syntax. But it should be decipherable.  I’m sending this to you in case i get hit by a truck before properly documenting it, so that anything of historical value has been saved by more than just me. Feel free to share it with anyone who might be interested.
 
 Web site:   JimBlinn.com
+
+---
+From: Thalia Archibald
+Date: Wed, 24 Jun 2026 12:27:28 -0600
+Subject: Re: PDP-9, models, and more
+To: Jim Blinn
+Cc: Martin Newell, Cem Yuksel
+
+Hi Jim,
+
+Thank you!
+
+I see PDP-9 and IBM 360 assembly, WATFOR, SNOBOL, LISP, and data files.
+
+The PLANETS.PD9 planetary motion demo was modified seven or so years before you
+did the astronomical simulations for COSMOS. That should be fun to run.
+
+I found the source to SEL and documentation on the assembler. Once I finish my
+UNIX PDP-7 assembler, it should be fairly easy to rework it for this dialect.
+But a complication is that it produced both a binary and a listing, whereas UNIX
+only produces binaries. The cross-assembler isn’t among the 360 sources and the
+listing format isn’t documented or shown by example. The listing page control
+directives are interesting: TITLE (sets the page title), EJECT (inserts a form
+feed), and SPACE (inserts a blank line). The MTS $ commands indicate the
+assembler was at W339:ASR, and PAL29ASR.SNO looks to convert from the DEC PAL
+assembly syntax to Michigan's 9ASR syntax.
+
+Thalia
