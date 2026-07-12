@@ -1,0 +1,63 @@
+Thread: Thalia Archibald, Martin Newell, Jim Blinn
+Subject: UNIX V4 and SIGGRAPH
+Dates: 10-12 July 2026
+
+---
+From: Thalia Archibald
+Subject: Rest of the Melitta tea set
+Date: Fri, 10 Jul 2026 06:08:06 -0600
+To: Martin Newell
+X-Attached: page86.jpg
+X-Attached: page84.jpg
+X-Attached: il_1588xN.2713128553_iae1.jpg
+X-Attached: il_1588xN.2665444392_86np.jpg
+X-Attached: il_1588xN.8235950581_qwbm.jpg
+
+Hi Martin,
+
+Was the rest of the tea set in your dissertation from of the same Melitta set as the teapot? Was it the Minden line?
+
+The closest I’ve found is the jug, but it doesn’t look exactly the same. In this 3-jug lineup, the smallest looks close. Did you take more artistic liberties with the jug than the teapot?
+
+I haven’t found cups that look similar.
+
+Also, was Sutherland's Volkswagen modeled just for your project or was it a model the whole group used?
+
+Thanks,
+Thalia Archibald
+
+---
+From: Martin Newell
+Subject: Re: Rest of the Melitta tea set
+Date: Sun, 12 Jul 2026 10:58:55 -0700
+To: Thalia Archibald
+
+Hi Thalia,
+
+The milk jug had a chipped spout and we don't have it any more.  My wife thinks it was from Cost Plus.
+The cups, saucers and teaspoons were probably based on items from the same source.  Sorry not to be more definite.
+
+Attached is a photo of the table on which I sketched the teapot model.  The original teapot is there, being used to make tea.  Also I believe there is the milk jug, in front of my right hand, and teacups and saucers that look suspiciously like the models in my dissertation.  I don't see any spoons.  The person on the right is my brother, Dick, who was visiting at the time.
+
+The Volkswagen was modeled before I got to the U, definitely not just for my project.  It is polygonal, not Bezier patches.
+
+Thank you for your interest.
+Martin
+----------------------------------------
+
+---
+From: Thalia Archibald
+Subject: Re: Rest of the Melitta tea set
+Date: Sun, 12 Jul 2026 14:02:02 -0600
+To: Martin Newell
+
+Hi Martin,
+
+Thanks for the details!
+
+I wasn’t familiar with Cost Plus, so I did some digging to find their catalogs, but it seems they didn’t have a Utah location. Apparently, by the mid-80s, they had expanded to 24 stores in California and one in Arizona, but none in Utah. Perhaps she was thinking of the store from after moving to California?
+    https://archive.org/details/internationaldir0027unse/page/109/mode/1up
+
+Also, did you forget to attach the image? I didn’t receive it.
+
+Thalia
