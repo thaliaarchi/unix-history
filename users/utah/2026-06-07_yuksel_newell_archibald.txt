@@ -1,3 +1,8 @@
+Thread: Cem Yuksel, Martin Newell, Thalia Archibald
+Subject: Teapot figures
+Dates: 7-9 June 2026
+
+---
 From: Martin Newell
 Date: Sun, 7 Jun 2026 13:28 -0700
 Subject: Re: Teapot figures
@@ -17,3 +22,105 @@ Ramble over.
 
 Martin
 ----------------------------------------
+
+---
+From: Cem Yuksel
+Date: Tue, 9 Jun 2026 12:21:41 -0600
+Subject: Re: SIGGRAPH talk and graphics history
+To: Thalia Archibald
+X-Attached: Texture and Reflections Figures.zip
+
+Figures from Blinn and Newell's Texture and Reflection paper.
+Cem
+
+---
+From: Martin Newell
+Date: Tue, 9 Jun 2026 16:47 -0700
+Subject: Re: Teapot figures
+To: Cem Yuksel
+X-Attached: JimBlinn.jpg
+X-Attached: PDP9-340-1970.jpg
+
+Here are those pictures of Jim and me using PDP-9 computers with display units.
+
+Inline image
+
+Inline image
+
+
+Martin
+----------------------------------------
+
+---
+From: Cem Yuksel
+Date: Tue, 9 Jun 2026 18:30:18 -0600
+Subject: Re: SIGGRAPH talk and graphics history
+To: Thalia Archibald
+
+Were you looking for photos? Martin just sent these.
+
+Also, Jim shared PDP9 assembly source code for his interactive rendering application. Would that have any use for you?
+
+Cem
+
+---
+From: Thalia Archibald
+Date: Tue, 9 Jun 2026 18:33:15 -0600
+Subject: Re: SIGGRAPH talk and graphics history
+To: Cem Yuksel
+
+Woah! I was just researching the PDP-9s used at the U and E&S on Sunday!!
+
+Who's in the pictures? Would you mind CCing me on the thread? :)
+
+Thanks,
+Thalia Archibald
+
+---
+From: Thalia Archibald
+Date: Tue, 9 Jun 2026 18:39:07 -0600
+Subject: Re: SIGGRAPH talk and graphics history
+To: Cem Yuksel
+
+And I would love that assembly source. The PDP-9 is in the same 18-bit product line as the PDP-7, very closely related. I've been studying the PDP-7 UNIX source and am now quite good at reading its assembly, having translated ~1000 lines of it to C last week. If their PDP-9 graphics system used off-the-shelf Digital Equipment Corporation peripherals, it would already be emulatable. If not, I know just the people to talk to.
+
+Thanks,
+Thalia Archibald
+
+---
+From: Thalia Archibald
+Date: Tue, 9 Jun 2026 18:44:22 -0600
+Subject: Re: SIGGRAPH talk and graphics history
+To: Cem Yuksel
+X-Attached: Ms625_bx54_fd25 selection.pdf
+
+Here are the PDP-9s that were bought by Utah-based universities/companies:
+
+PDP-9 #132: UTAH NUMBER 2, shipped 1128 (sic), 0769, 0669, 0170
+PDP-9 #275: EVANS & SUTHERLAND, shipped 1268, 0969, 1168, 1269, 0569
+PDP-9 #303: UTAH UNIVERSITY, shipped 0868, 0368, 0769, 1168
+PDP-9 #308: UNIVERSITY OF UTAH, shipped 0868, 1269, 0273
+PDP-9 #326: UTAH UNIVERSITY, shipped 1068
+PDP-9 #362: SALT LAKE CITY, shipped 0470, 0170
+PDP-15 #175: BRIGHAM YOUNG, shipped 0770, 0371, 0771, 0271, 1270, 0571
+
+Listed in: https://bitsavers.org/pdf/dec/internal/18bitServiceList1972.pdf
+
+I've attached a document about how they scheduled time to use the E&S PDP-9.
+They bid on time slots using a fictional "yen" currency.
+
+Thanks,
+Thalia Archibald
+
+---
+From: Cem Yuksel
+Date: Tue, 9 Jun 2026 18:58:57 -0600
+Subject: Re: SIGGRAPH talk and graphics history
+To: Thalia Archibald
+
+You are in contact with both Jim Blinn and Martin Newell, right? Why don't you start a thread with them? Feel free to include me in it if you like. You can tell them that I told you what they shared with me.
+
+As for the photos, the one with the sweater is Jim, and the other with the suit is Martin. By the way, Jim explains how that photo was taken here:
+https://youtu.be/AiwR1PKxMsY?t=1257
+
+Cem
