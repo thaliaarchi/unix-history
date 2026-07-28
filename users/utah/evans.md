@@ -538,6 +538,9 @@ Boxes:
       > information processing, photographic processing, and small scale digital
       > system assembly and study. [page 1]
 
+      TODO: I noted separately that one of the department handbooks mentioned
+      that the CS dept had a PDP-11/60; however I do not have a scan or photo.
+
       Scan requested.
   - Fd 7: University of Utah, Department of Computer Science, Department
     Handbook (1978-79)
