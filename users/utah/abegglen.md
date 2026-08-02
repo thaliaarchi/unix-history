@@ -152,8 +152,8 @@ spectroscopy project, but it seems unlikely he was describing this new machine.
 
   This report details research in chemical ionization mass spectroscopy and the
   computer instrumentation to support it, the MS-30/CH-7 Mass Spectral Data
-  Gathering System. It runs on a PDP-11/20 under, apparently, DEC DOS. Data is
-  gathered for the AEI MS-30 mass spectrometer and the MAT CH-7 mass
+  Gathering System. It runs on a PDP-11/20 under, apparently, DEC DOS V8. Data
+  is gathered for the AEI MS-30 mass spectrometer and the MAT CH-7 mass
   spectrometer and stored on an RK-11 disc.
 
   Paul Abegglen wrote the software for the system with comments indicating
@@ -239,6 +239,8 @@ spectroscopy project, but it seems unlikely he was describing this new machine.
   $ DATE   03-Nov-73
   $ TIME   13:51:32
   ```
+
+  This is apparently DOS V8. It resembles a [DOS V9 transcript](https://github.com/pdp11/mit-gt40-spacewar/blob/master/build/transcript.txt).
 
   > UNIVERSITY OF UTAH \
   > DEPARTMENT OF CHEMISTRY \
